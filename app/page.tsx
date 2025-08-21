@@ -707,6 +707,7 @@ export default function BasedSprings() {
                   <h3 className="text-2xl font-bold mb-4">Complete Coverage</h3>
                   <ul className="space-y-2 text-lg">
                     <li>All 50 states</li>
+                    <li>International (coming soon)</li>
                     <li>{hotSpringsData.length}+ hot springs</li>
                   </ul>
                 </div>
