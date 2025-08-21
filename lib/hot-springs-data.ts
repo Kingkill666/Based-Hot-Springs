@@ -4811,6 +4811,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "163 Chico Rd, Pray, MT 59065",
+    website: "chicohotsprings.com",
+    detailedDescription: "Chico Hot Springs is Montana's premier historic hot springs resort, operating since 1900 and located in the stunning Paradise Valley near Yellowstone National Park. This legendary resort combines old-world charm with modern amenities, featuring natural mineral pools, luxury accommodations, fine dining, and spectacular mountain views. The resort has hosted everyone from cowboys to celebrities and continues to be a world-class destination for relaxation and recreation.",
+    location: "Located in Paradise Valley near Pray, Montana, approximately 30 miles north of Yellowstone National Park's north entrance and 30 miles south of Livingston.",
+    directions: "From Bozeman, take I-90 east to Livingston, then take US-89 south through Paradise Valley for about 30 miles to Chico Hot Springs. From Yellowstone's north entrance at Gardiner, take US-89 north for about 30 miles. The resort is well-marked and accessible year-round.",
+    accessibilityDetails: "Chico Hot Springs is fully accessible year-round with paved road access and extensive accessibility features. The resort offers accessible accommodations, pools with lifts and ramps, accessible dining facilities, and ADA-compliant pathways throughout the property.",
+    hotSpringDetails: "The resort features multiple natural mineral pools with temperatures ranging from 96-103°F. The historic main pool is fed by natural hot springs rich in sulfur, calcium, and magnesium minerals. Pool options include the large main soaking pool (3-5 feet deep), a cooler swimming pool, and smaller therapy pools. The pools operate year-round and are especially magical during winter with steam rising against the mountain backdrop.",
+    tips: "Open year-round with reservations highly recommended for both lodging and dining. The resort offers day use passes for non-guests. The Chico Dining Room is renowned for fine dining with spectacular views. The Dog Bar offers casual dining and drinks. Swimming suits required. The resort hosts live music and special events throughout the year. Winter visits offer a magical experience with snow-covered mountains and steaming pools. The Paradise Valley setting provides excellent wildlife viewing, fishing, and access to Yellowstone. Best visited year-round with each season offering unique experiences.",
   },
   {
     id: "19",
@@ -4848,6 +4857,15 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Madison River", "Ennis", "Tobacco Root Mountains"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Rt 84, Norris, MT 59745",
+    website: "norrishotsprings.com",
+    detailedDescription: "Norris Hot Springs is Montana's most unique hot springs experience, featuring a historic wooden soaking pool fed by natural geothermal springs. Known as 'Montana's Water of the Gods,' this one-of-a-kind destination combines therapeutic mineral soaking with live music performances on a floating stage. The rustic, authentic atmosphere and stunning mountain views create an unforgettable experience that captures the true spirit of the American West.",
+    location: "Located near Norris, Montana, in the Madison River valley between Ennis and Harrison, approximately 50 miles southwest of Bozeman.",
+    directions: "From Ennis, take US-287 north for about 15 miles to Norris. From Bozeman, take I-90 west to Harrison, then US-287 south to Norris. The hot springs are well-marked and accessible year-round via paved roads.",
+    accessibilityDetails: "Norris Hot Springs is accessible year-round with paved road access and designated parking. The facility offers accessible pathways and pool access features. The historic wooden pool has steps and handrails for easier entry.",
+    hotSpringDetails: "The signature feature is a large historic wooden soaking pool with temperatures ranging from 100-106°F. The pool is fed by natural hot springs rich in sulfur, calcium, and magnesium minerals. The pool is approximately 3-4 feet deep and 30 feet long, accommodating up to 20 people comfortably. The unique wooden construction and natural mineral flow create an authentic historic experience.",
+    tips: "Open year-round with varying seasonal hours. Famous for live music events with performances on a floating stage in the pool. Swimming suits required. No alcohol permitted. The facility is dog-friendly in designated areas. Cash or check preferred for payment. The Madison River valley setting offers excellent fly fishing opportunities. Winter visits are especially magical with steam rising from the pool against snow-covered mountains. Best visited year-round with live music events scheduled throughout the season. This is truly a unique Montana experience combining hot springs with authentic western culture.",
   },
 
   // NEVADA HOT SPRINGS (30 springs - adding selection)
@@ -12160,6 +12178,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "County Road 291, Nathrop, CO 81236",
+    website: "N/A",
+    detailedDescription: "Alpine Hot Springs is a rustic and undeveloped hot springs destination located high in the Colorado Rockies near Nathrop. These primitive natural pools offer an authentic mountain hot springs experience surrounded by spectacular alpine scenery. The springs provide a peaceful retreat for visitors seeking solitude and connection with nature in a pristine mountain environment.",
+    location: "Located in the mountains near Nathrop, Colorado, in the Arkansas River valley at an elevation of 8,000 feet in the San Isabel National Forest.",
+    directions: "From Nathrop, take County Road 291 west into the mountains. The road becomes rough and may require high-clearance vehicle depending on conditions. Follow the road for several miles to reach the hot springs area. GPS coordinates and local guidance are recommended.",
+    accessibilityDetails: "Alpine Hot Springs requires moderate outdoor skills and preparation. Access may require high-clearance vehicle and short hiking. The area is seasonal and typically accessible from late spring through early fall. No facilities or marked trails. Weather conditions can affect accessibility.",
+    hotSpringDetails: "The hot springs feature small primitive natural pools with temperatures ranging from 98-110°F. The pools are undeveloped and formed naturally by geothermal activity. Pool sizes vary but typically accommodate 2-4 people and are 2-3 feet deep. The mineral-rich water contains sodium and calcium and flows naturally from mountain springs. The alpine setting at 8,000 feet elevation offers stunning mountain views.",
+    tips: "This is a clothing optional location. Bring towels and water as there are no facilities. Access is seasonal (typically late spring through early fall) due to mountain weather and road conditions. High-clearance vehicle may be required depending on road conditions. Practice Leave No Trace principles to preserve this pristine alpine environment. Dispersed camping may be available but requires preparation and appropriate permits. Weather can change rapidly in the mountains. Best visited during summer months when roads are more accessible and weather is stable.",
   },
   {
     id: "antero-hot-springs-co",
