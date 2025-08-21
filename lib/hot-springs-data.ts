@@ -17742,6 +17742,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.9,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Berkley, MA 02779",
+  website: "N/A",
+  detailedDescription: "Berkley Springs are natural mineral springs located in the historic town of Berkley, Massachusetts, known for their therapeutic properties and connection to early American history. The springs have been used by Native Americans and early settlers for their healing properties. The historic town of Berkley, with its rich colonial heritage, provides a beautiful backdrop for experiencing these natural mineral waters in the heart of New England.",
+  location: "Located in Berkley, Massachusetts, approximately 40 miles south of Boston in southeastern Massachusetts. The springs are situated in the historic town center near the Taunton River.",
+  directions: "From Boston, take I-93 south to I-495, then follow MA-24 south to Berkley. From Providence, Rhode Island, take I-195 east to MA-24 north. The historic town is easily accessible and well-marked.",
+  accessibilityDetails: "Berkley Springs are accessible year-round with paved parking available in the historic downtown area. The springs are located in a public area with easy access. The historic town offers accessible facilities and accommodations for visitors.",
+  hotSpringDetails: "The mineral springs feature water with a constant temperature of 65°F and contain therapeutic minerals including calcium, magnesium, and sulfate. The springs flow naturally from underground sources and have been used for therapeutic purposes for generations. The water is suitable for drinking and external therapeutic use.",
+  tips: "Open year-round with no admission fee. The springs are located in the historic downtown area of Berkley. Best visited year-round, with each season offering different experiences in the historic New England town. The area provides excellent opportunities to explore Berkley's rich colonial history and the scenic Taunton River. The town offers numerous dining, shopping, and lodging options for a complete historic experience.",
 },
 // WEST VIRGINIA HOT SPRINGS
 {
@@ -17770,6 +17779,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.4,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Berkeley Springs, WV 25411",
+  website: "berkeleysprings.com",
+  detailedDescription: "Berkeley Springs is America's First Spa, a historic mineral springs resort town that has been attracting visitors seeking therapeutic waters since colonial times. The town features natural mineral springs that maintain a constant 74°F temperature and have been used for healing purposes for centuries. The historic downtown area includes the Berkeley Springs State Park, where visitors can experience the mineral waters in public baths, and numerous modern spa facilities that continue the tradition of therapeutic treatments.",
+  location: "Located in Berkeley Springs, West Virginia, approximately 90 miles northwest of Washington, D.C. in the eastern panhandle of West Virginia. The town is situated in the rolling hills of the Appalachian Mountains.",
+  directions: "From Washington, D.C., take I-270 north to I-70 west, then follow US-522 north to Berkeley Springs. From Baltimore, take I-70 west to US-522 north. The historic town is easily accessible and well-marked with visitor information.",
+  accessibilityDetails: "Berkeley Springs is fully accessible year-round with paved parking, accessible facilities, and accommodations. The historic spa facilities and modern resorts are designed to accommodate visitors of all mobility levels. The town offers a welcoming environment for visitors seeking therapeutic experiences.",
+  hotSpringDetails: "The mineral springs feature water with a constant temperature of 74°F and contain therapeutic minerals including calcium, magnesium, sulfate, and sodium. The springs are used in modern spa treatments and public baths. The water flows from natural sources and has been used for healing purposes for generations. The facility offers both historic public baths and modern spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply for spa services and public baths. The town offers lodging, dining, and spa services. Best visited year-round, with each season offering different experiences. The historic significance and therapeutic properties make this a unique destination. The area provides opportunities to experience America's first spa and enjoy modern spa treatments. The Berkeley Springs State Park offers public bathing facilities and historic tours.",
 },
 {
   id: "white-sulphur-springs-wv",
@@ -17797,6 +17815,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "White Sulphur Springs, WV 24986",
+  website: "greenbrier.com",
+  detailedDescription: "White Sulphur Springs is a historic resort town featuring natural sulphur springs and home to the world-famous Greenbrier Resort. The springs have been used for therapeutic purposes since the 1700s and have attracted visitors from around the world seeking the healing properties of the sulphur waters. The town is nestled in the beautiful Allegheny Mountains and offers a perfect blend of historic charm and modern luxury spa experiences.",
+  location: "Located in White Sulphur Springs, West Virginia, approximately 120 miles southeast of Charleston in the Allegheny Mountains of southeastern West Virginia. The town is situated in a beautiful mountain valley surrounded by the Monongahela National Forest.",
+  directions: "From Charleston, take I-64 east to exit 175, then follow US-60 east to White Sulphur Springs. From Roanoke, Virginia, take I-81 north to I-64 west, then follow US-60 west. The historic town is easily accessible and well-marked.",
+  accessibilityDetails: "White Sulphur Springs is fully accessible year-round with paved parking, accessible facilities, and luxury accommodations. The Greenbrier Resort and modern spa facilities are designed to accommodate visitors of all mobility levels. The town offers a welcoming environment for visitors seeking luxury spa experiences.",
+  hotSpringDetails: "The sulphur springs feature water with a constant temperature of 70°F and contain therapeutic minerals including sulphur, calcium, and magnesium. The springs are used in modern spa treatments and therapeutic pools. The water flows from natural sources and has been used for healing purposes for generations. The Greenbrier Resort offers both historic tours and modern luxury spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply for spa services and resort access. The town offers luxury lodging, fine dining, and world-class spa services. Best visited year-round, with each season offering different experiences. The historic significance and luxury amenities make this a unique destination. The area provides opportunities to experience the grandeur of the Greenbrier Resort and enjoy modern spa treatments. The resort is a National Historic Landmark and offers fascinating tours of its historic facilities.",
 },
 // ENHANCED WYOMING HOT SPRINGS
 {
@@ -17825,6 +17852,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Granite Hot Springs, Jackson, WY 83001",
+  website: "N/A",
+  detailedDescription: "Granite Hot Springs is a spectacular natural hot springs pool located in the heart of the Bridger-Teton National Forest, offering visitors a unique opportunity to soak in therapeutic mineral water while surrounded by the stunning beauty of the Wyoming mountains. The large concrete pool is fed by natural hot springs and provides year-round access, with different access methods depending on the season - snowmobile in winter and car in summer. This remote mountain destination offers a perfect escape into the wilderness with modern amenities.",
+  location: "Located in the Bridger-Teton National Forest near Jackson, Wyoming, approximately 30 miles southeast of Jackson Hole. The hot springs are situated in a remote mountain setting at 7,000 feet elevation.",
+  directions: "From Jackson, take US-191 south to Hoback Junction, then follow Granite Creek Road east for approximately 10 miles. In winter, access is by snowmobile only. In summer, the road is accessible by car but may require high-clearance vehicle depending on conditions.",
+  accessibilityDetails: "Granite Hot Springs requires moderate access with paved parking available. The facility offers restrooms and camping options. The remote location requires visitors to be prepared for mountain conditions. The pool area is accessible but may have some uneven terrain.",
+  hotSpringDetails: "The hot springs feature a large concrete pool with temperatures ranging from 93-112°F. The mineral water is rich in sodium, chloride, and sulfate and flows from natural geothermal sources. The pool is approximately 3-4 feet deep and can accommodate many visitors. The mountain setting provides stunning views of the surrounding peaks and forest. The water flows continuously from the spring source.",
+  tips: "Open year-round with varying seasonal access. Admission fees apply. Swimming suits required. The facility is popular, especially during peak seasons. Winter access requires snowmobile transportation. Summer access may require high-clearance vehicle. The area offers excellent opportunities for wildlife viewing, photography, and experiencing the solitude of the Wyoming mountains. Best visited year-round, with each season offering different experiences in this beautiful mountain setting.",
 },
 {
   id: "hot-springs-state-park-wy",
