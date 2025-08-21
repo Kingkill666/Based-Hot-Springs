@@ -5061,6 +5061,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Forest Service Road 1144, Concrete, WA 98237",
+    website: "N/A",
+    detailedDescription: "Baker Hot Springs is a pristine and undeveloped natural hot springs destination located in the spectacular Mount Baker-Snoqualmie National Forest in Washington's North Cascades. These primitive hot springs offer visitors an authentic Pacific Northwest wilderness experience surrounded by towering old-growth forests, cascading streams, and dramatic mountain views. The springs provide a perfect combination of therapeutic mineral soaking and immersion in one of the region's most beautiful forest environments.",
+    location: "Located in the Mount Baker-Snoqualmie National Forest near Concrete, Washington, in the North Cascades region approximately 2 hours northeast of Seattle.",
+    directions: "From Concrete, take Baker Lake Road (Forest Service Road 11) north for about 12 miles, then turn right on Forest Service Road 1144 and follow for several miles to the trailhead. The hot springs require a moderate hike of approximately 1-2 miles from the parking area through forest terrain.",
+    accessibilityDetails: "Baker Hot Springs requires moderate hiking ability and preparation for wilderness conditions. Access involves forest roads that may require high-clearance vehicle depending on conditions. The hiking trail can be muddy and slippery, especially during wet weather. No facilities or marked trails beyond the parking area. Weather conditions can affect accessibility.",
+    hotSpringDetails: "The hot springs feature multiple natural pools with temperatures ranging from 100-105°F. The pools are formed naturally by geothermal springs and surrounded by lush Pacific Northwest forest vegetation. Pool depths typically range from 2-4 feet and can accommodate 4-6 people comfortably. The mineral-rich water contains sulfur and flows continuously from natural springs. The forest setting provides complete privacy and tranquility with sounds of flowing water and forest wildlife.",
+    tips: "This is a clothing optional location. Bring towels and water as there are no facilities available. Best visited during spring through fall when weather and trail conditions are more favorable. Winter access can be very challenging due to snow and icy conditions. Practice Leave No Trace principles to preserve this pristine forest environment. The area allows dispersed camping but requires wilderness camping experience and appropriate permits. The North Cascades region offers excellent hiking, fishing, and wildlife viewing opportunities. Respect the natural environment and other visitors seeking solitude in this beautiful wilderness setting.",
   },
   {
     id: "bonnerville-hot-springs-wa",
@@ -5089,6 +5098,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1250 Wind River Hwy, Carson, WA 98610",
+    website: "bonnevillehotsprings.com",
+    detailedDescription: "Bonneville Hot Springs Resort is a historic mineral springs destination located in the spectacular Columbia River Gorge National Scenic Area. This full-service resort combines natural hot mineral water with modern spa amenities, offering guests a relaxing retreat with stunning views of the Columbia River and surrounding mountains. The resort has been serving visitors for decades and provides a perfect base for exploring the natural wonders of the Gorge.",
+    location: "Located in Carson, Washington, in the Columbia River Gorge National Scenic Area approximately 45 minutes east of Portland, Oregon, and 30 minutes west of Hood River.",
+    directions: "From Portland, take I-84 east toward Hood River, then take exit 44 for Carson and follow Wind River Highway north. From Hood River, take I-84 west to exit 44. The resort is well-marked and easily accessible year-round via paved highways.",
+    accessibilityDetails: "Bonneville Hot Springs Resort is fully accessible year-round with paved road access and extensive accessibility features. The resort offers accessible accommodations, spa facilities, and dining areas. The indoor pools feature accessible entrances and the resort staff provides assistance to ensure all guests can enjoy the facilities.",
+    hotSpringDetails: "The resort features indoor hot mineral pools with temperatures ranging from 98-104°F. The natural mineral water is rich in sulfur and calcium and flows from artesian springs on the property. Pool options include large soaking pools and smaller therapy pools, all maintained at comfortable temperatures. The indoor setting provides year-round access regardless of weather conditions. Pool depths range from 3-5 feet and are designed for relaxation and therapeutic soaking.",
+    tips: "Open year-round with reservations recommended for lodging and spa services. The resort offers day passes for non-guests. Swimming suits required. The Columbia River Gorge location provides easy access to world-class hiking, windsurfing, and scenic drives. The resort restaurant serves regional cuisine with views of the Columbia River. Best visited year-round with each season offering different experiences in the Gorge. The resort provides a perfect combination of relaxation and outdoor adventure opportunities.",
   },
   {
     id: "carson-hot-mineral-springs-resort-wa",
@@ -5117,6 +5135,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "372 St. Martin's Springs Rd, Carson, WA 98610",
+    website: "carsonhotsprings.com",
+    detailedDescription: "Carson Hot Mineral Springs Resort is a historic mineral springs destination nestled in the scenic Columbia River Gorge near the Gifford Pinchot National Forest. This family-owned resort has been providing therapeutic mineral water experiences for generations, combining natural hot springs with comfortable accommodations and spa services. The resort offers a peaceful retreat surrounded by the natural beauty of the Pacific Northwest.",
+    location: "Located in Carson, Washington, in the Columbia River Gorge region approximately 50 minutes east of Portland, Oregon, and 25 minutes west of Hood River.",
+    directions: "From Portland, take I-84 east toward Hood River, then take exit 44 for Carson and follow St. Martin's Springs Road. From Hood River, take I-84 west to exit 44. The resort is accessible year-round via paved roads and is well-marked.",
+    accessibilityDetails: "Carson Hot Mineral Springs Resort is accessible year-round with paved road access and designated parking areas. The resort offers accessible accommodations and facilities. Some areas may have limited accessibility due to the historic nature of the property, but staff is available to assist guests.",
+    hotSpringDetails: "The resort features natural mineral springs with temperatures ranging from 100-104°F. The mineral water is rich in sulfur and magnesium and flows from natural geothermal sources. Pool options include indoor and outdoor soaking areas with varying temperatures. The mineral water is known for its therapeutic properties and is maintained at optimal soaking temperatures. Pool depths range from 3-4 feet and are designed for comfortable relaxation.",
+    tips: "Open year-round with reservations recommended for lodging and spa services. The resort offers day use passes for non-guests. Swimming suits required. The location provides easy access to hiking in the Gifford Pinchot National Forest and exploring the Columbia River Gorge. The resort restaurant serves local cuisine. Best visited year-round with each season offering different experiences in the Pacific Northwest. The resort provides a perfect base for outdoor activities and relaxation.",
   },
   {
     id: "doe-bay-village-resort-wa",
@@ -5145,6 +5172,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "107 Doe Bay Rd, Olga, WA 98279",
+    website: "doebay.com",
+    detailedDescription: "Doe Bay Village Resort is a unique seaside retreat located on Orcas Island in the San Juan Islands, offering a perfect blend of natural hot springs soaking and stunning Pacific Northwest coastal beauty. This eco-friendly resort features private soaking tubs with panoramic ocean views, comfortable accommodations, and a peaceful atmosphere that captures the essence of island life. The resort has been a favorite destination for those seeking relaxation and connection with nature in the beautiful San Juan Islands.",
+    location: "Located on Orcas Island in the San Juan Islands, Washington, approximately 2 hours from Seattle including ferry travel. The resort is situated on the eastern shore of Orcas Island with direct access to Doe Bay.",
+    directions: "From Seattle, take I-5 north to Anacortes, then board the Washington State Ferry to Orcas Island. From the ferry terminal, follow Orcas Road east to Doe Bay Road. The resort is well-marked and accessible year-round, though ferry schedules should be checked in advance.",
+    accessibilityDetails: "Doe Bay Village Resort is accessible year-round with paved road access on Orcas Island. The resort offers accessible accommodations and facilities. Some areas may have limited accessibility due to the natural terrain and island setting. Ferry access requires planning and may have accessibility considerations.",
+    hotSpringDetails: "The resort features private soaking tubs with temperatures ranging from 102-104°F. The mineral water is rich in sulfur and flows from natural hot springs on the property. The soaking tubs are positioned to provide stunning views of Doe Bay and the surrounding islands. Each private soaking area offers complete privacy and can accommodate 2-4 people. The tubs are approximately 3-4 feet deep and are designed for intimate soaking experiences.",
+    tips: "Reservations required for all visits including day use and overnight stays. Ferry reservations are highly recommended, especially during peak seasons. The resort is clothing optional in designated areas. The location provides excellent opportunities for whale watching, kayaking, and exploring the San Juan Islands. The resort restaurant serves organic, locally-sourced cuisine. Best visited year-round with each season offering unique island experiences. The resort provides a perfect escape from urban life with stunning natural beauty.",
   },
   {
     id: "moffett-hot-springs-wa",
