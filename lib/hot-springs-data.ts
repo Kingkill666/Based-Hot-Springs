@@ -6484,6 +6484,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "312 Marr St, Truth or Consequences, NM 87901",
+    website: "artesianbathhouse.com",
+    detailedDescription: "Artesian Bath House is a historic mineral bath spa located in the heart of Truth or Consequences, New Mexico's famous hot springs town. This charming facility has been serving visitors since the 1940s and offers private soaking tubs filled with natural artesian mineral water. The bath house provides an authentic and intimate hot springs experience in a beautifully restored historic setting that captures the timeless appeal of this renowned hot springs destination.",
+    location: "Located in downtown Truth or Consequences, New Mexico, on Marr Street in the historic hot springs district, approximately 150 miles south of Albuquerque.",
+    directions: "From Albuquerque, take I-25 south for about 140 miles to exit 79 for Truth or Consequences. Follow signs to downtown and the historic hot springs district. The Artesian Bath House is located on Marr Street and is easily accessible year-round.",
+    accessibilityDetails: "Artesian Bath House is accessible year-round with street parking available. The historic building offers accessible entrances and facilities. Some rooms may have limited accessibility due to the historic nature of the building, but staff is available to assist guests.",
+    hotSpringDetails: "The bath house features private soaking tubs filled with natural artesian mineral water with temperatures ranging from 98-108°F. The mineral water is rich in sodium and calcium and flows directly from underground artesian springs. Each private room contains individual tubs that can be adjusted for temperature preferences. The tubs are approximately 3-4 feet deep and designed for 1-2 people. The natural mineral water is renowned for its therapeutic properties.",
+    tips: "Reservations recommended, especially during peak seasons and weekends. The facility offers hourly rentals of private soaking rooms. Towels and basic amenities are provided. Swimming suits are optional in private rooms. The downtown location provides easy walking access to restaurants, shops, and other hot springs. Truth or Consequences offers numerous hot springs options within walking distance. Best visited year-round with the desert climate providing pleasant weather in all seasons. The historic atmosphere and private rooms offer a romantic and peaceful experience. The nearby Elephant Butte Lake provides additional recreational opportunities.",
   },
   {
     id: "alamedas-hot-springs-retreat-mt",
@@ -11577,6 +11586,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "155 Astoria Hot Springs Rd, Jackson, WY 83001",
+    website: "astoriahotsprings.com",
+    detailedDescription: "Astoria Hot Springs is Jackson Hole's premier modern hot springs destination, featuring multiple geothermal pools with stunning views of the Snake River and surrounding mountains. This state-of-the-art facility combines natural mineral water with contemporary amenities, creating a world-class wellness experience in the heart of the greater Yellowstone ecosystem. The springs offer a perfect complement to outdoor adventures in Grand Teton and Yellowstone National Parks.",
+    location: "Located near Jackson, Wyoming, along the scenic Snake River approximately 17 miles south of Jackson in the Snake River Canyon.",
+    directions: "From Jackson, take US-89/191 south toward Alpine for about 17 miles. Look for Astoria Hot Springs Road and follow signs to the facility. The hot springs are well-marked and accessible year-round via paved roads.",
+    accessibilityDetails: "Astoria Hot Springs is fully accessible year-round with paved parking, accessible pathways, and ADA-compliant facilities. The pools feature accessible entrances, and the modern facility is designed to accommodate visitors of all mobility levels.",
+    hotSpringDetails: "The facility features multiple naturally heated pools with temperatures ranging from 95-105°F. The mineral water is rich in sodium and potassium and flows from natural geothermal springs. Pool options include large soaking pools (3-5 feet deep), family pools, and relaxation pools with varying temperatures. The pools are designed with natural stone and offer spectacular views of the Snake River and surrounding mountains. Modern filtration systems ensure clean, fresh mineral water.",
+    tips: "Open year-round with reservations recommended, especially during peak seasons. Day passes available with time limits to ensure all guests can enjoy the experience. Swimming suits required. The facility offers changing rooms, showers, and lockers. No food or drinks allowed, but water is provided. The Snake River Canyon setting provides excellent wildlife viewing opportunities. Winter visits offer a magical experience with snow-covered mountains and steaming pools. Best visited year-round with each season offering unique natural beauty. The facility is designed to complement outdoor activities in the Jackson Hole area.",
   },
   {
     id: "boiling-river-hot-springs-wy",
