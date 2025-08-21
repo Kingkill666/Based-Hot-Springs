@@ -690,6 +690,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.1,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Near Alamo, NV 89001",
+  website: "N/A",
+  detailedDescription: "Ash Springs is a beautiful warm spring oasis located in the desert near Alamo, Nevada, featuring a constant 95°F temperature and lush vegetation that creates a stunning contrast against the surrounding desert landscape. This natural oasis provides visitors with a unique opportunity to experience a warm spring in a verdant setting, making it one of the most picturesque hot springs destinations in southern Nevada. The spring's location near the Pahranagat National Wildlife Refuge adds to its natural appeal.",
+  location: "Located near Alamo, Nevada, approximately 15 miles northwest of Alamo in the southern Nevada desert. The spring is situated in a lush oasis surrounded by desert landscape and is part of the Pahranagat Valley area.",
+  directions: "From Alamo, take US-93 north for approximately 10 miles, then turn west onto a dirt road. Follow the dirt road for about 5 miles to reach Ash Springs. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Ash Springs requires driving on dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The spring is located in a remote area with no services nearby. The warm spring is easily accessible once you reach the site.",
+  hotSpringDetails: "The warm spring features a constant temperature of 95°F and is surrounded by lush vegetation that creates a beautiful oasis setting. The spring contains calcium, magnesium, and sulfate minerals. The water flows continuously from natural sources and maintains consistent warm temperatures. The lush vegetation provides shade and creates a unique desert oasis experience.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The spring is best visited year-round due to its comfortable temperature. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for photography, wildlife viewing, and experiencing the unique desert oasis environment. Practice Leave No Trace principles to preserve this beautiful natural area. The lush vegetation makes this one of Nevada's most unique hot springs destinations.",
 },
 {
   id: "bartine-hot-springs-nv",
@@ -717,6 +726,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Austin, NV 89310",
+  website: "N/A",
+  detailedDescription: "Bartine Hot Springs is a primitive hot spring located near Austin, Nevada, featuring a constant 105°F temperature and a truly remote natural setting. This undeveloped hot spring offers visitors an authentic wilderness experience in the heart of the Nevada high desert. The springs are known for their consistent temperature and natural beauty, making them a favorite destination for those seeking solitude and unspoiled hot springs experiences.",
+  location: "Located near Austin, Nevada, approximately 25 miles southeast of Austin in the remote central Nevada desert. The hot springs are situated at 5,800 feet elevation with views of the Toiyabe Range.",
+  directions: "From Austin, take US-50 east for approximately 20 miles, then turn south onto a dirt road. Follow the dirt road for about 5 miles to reach the hot springs. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Bartine Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The natural pools are easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature natural pools with a constant temperature of 105°F. The pools are formed by natural rock formations and are filled with geothermal water rich in sodium, chloride, and sulfate minerals. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from geothermal sources and maintains consistent hot temperatures.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for stargazing, wildlife viewing, and experiencing the solitude of the high desert. Practice Leave No Trace principles to preserve this remote environment. The consistent temperature makes this a reliable soaking destination.",
 },
 {
   id: "bathtub-spring-nv",
@@ -744,6 +762,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Soldier Meadows, NV 89412",
+  website: "N/A",
+  detailedDescription: "Bathtub Spring is a natural hot spring located in the Soldier Meadows area of northern Nevada, named for its distinctive bathtub-like appearance and comfortable soaking temperature. This unique hot spring offers visitors a perfect soaking experience with its naturally formed pool that resembles a bathtub, making it one of the most comfortable and accessible hot springs in the region. The spring's location in the Soldier Meadows area provides a beautiful desert setting.",
+  location: "Located in Soldier Meadows, Nevada, approximately 30 miles northeast of Gerlach in the remote northern Nevada desert. The hot spring is situated at 5,200 feet elevation in the vast Black Rock Desert region.",
+  directions: "From Gerlach, take a dirt road northeast for approximately 30 miles to reach Soldier Meadows and Bathtub Spring. A high-clearance vehicle or 4WD is recommended due to rough road conditions. The remote location requires careful navigation.",
+  accessibilityDetails: "Bathtub Spring requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot spring is located in a remote area with no services nearby. The bathtub-like pool is easily accessible once you reach the site.",
+  hotSpringDetails: "The hot spring features a natural pool with temperatures ranging from 90-100°F, providing comfortable soaking temperatures. The pool is shaped like a bathtub and is formed by natural rock formations. The water contains calcium and magnesium minerals and flows continuously from geothermal sources. The pool is approximately 2-3 feet deep and can accommodate 1-2 people comfortably.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The spring is best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for experiencing the solitude of the Black Rock Desert. Practice Leave No Trace principles to preserve this remote environment. The bathtub-like shape provides a unique and comfortable soaking experience.",
 },
 {
   id: "fly-geyser-nv",
