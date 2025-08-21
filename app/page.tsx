@@ -114,7 +114,7 @@ export default function BasedSprings() {
       }}
     >
       {/* Background overlay for better readability */}
-      <div className="absolute inset-0 bg-white/80 backdrop-blur-sm"></div>
+      <div className="absolute inset-0 bg-white/5 backdrop-blur-sm"></div>
 
       <div className="relative z-10">
         {/* Header */}
