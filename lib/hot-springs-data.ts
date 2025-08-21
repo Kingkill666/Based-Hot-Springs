@@ -9070,6 +9070,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Hunter's Hot Springs Resort, Lakeview, OR 97630",
+    website: "huntershotsprings.com",
+    detailedDescription: "Hunter's Hot Springs is a historic resort that has been operating since the late 1800s. The resort features a large hot springs pool, comfortable lodging, and is home to the famous Old Perpetual Geyser. The setting offers stunning views of the surrounding high desert landscape and Warner Mountains.",
+    location: "Located approximately 3 miles north of Lakeview, Oregon in the high desert region of southeastern Oregon.",
+    directions: "From Lakeview, take US-395 north for about 3 miles. Turn onto the resort access road and follow signs to Hunter's Hot Springs Resort. The property is well-marked and easily accessible.",
+    accessibilityDetails: "Hunter's Hot Springs is accessible via paved roads. The resort offers ADA-compliant lodging options and accessible pool areas. The geyser viewing area is also accessible to most visitors.",
+    hotSpringDetails: "The resort features a large hot springs pool with temperatures ranging from 100-120°F. The pool is filled with naturally heated geothermal water rich in sodium minerals. The pool is approximately 4-5 feet deep and can accommodate multiple visitors. The water is continuously refreshed from the natural spring source.",
+    tips: "Reservations are recommended, especially during peak seasons. The resort offers both day passes and overnight accommodations. Bring your own towels and swimwear. Don't miss the Old Perpetual Geyser, which erupts every 90 seconds. The restaurant serves excellent meals with local ingredients. Best visited year-round, with each season offering unique high desert experiences.",
   },
   {
     id: "jackson-wellsprings-hot-springs-or",
