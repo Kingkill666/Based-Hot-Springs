@@ -4999,7 +4999,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Mount Baker", "Baker Lake"],
     bestTimeToVisit: "Spring to Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/baker-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
   },
@@ -5027,7 +5027,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Columbia River Gorge", "Bridge of the Gods"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/bonnerville-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
   },
@@ -5055,7 +5055,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Gifford Pinchot National Forest"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/carson-hot-mineral-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
   },
@@ -5083,7 +5083,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Orcas Island", "Moran State Park"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/doe-bay-village-resort.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
   },
@@ -5112,7 +5112,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Alpine Lakes Wilderness"],
     bestTimeToVisit: "Spring to Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/goldmyer-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
   },
@@ -5140,7 +5140,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Lake Chelan National Recreation Area"],
     bestTimeToVisit: "Summer",
     image:
-      "https://www.ultimatehotspringsguide.com/images/moffett-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
   },
@@ -5168,7 +5168,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Mount Rainier National Park"],
     bestTimeToVisit: "Summer",
     image:
-      "https://www.ultimatehotspringsguide.com/images/ohanapecosh-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 3.8,
     clothingOptional: false,
   },
@@ -5200,7 +5200,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Olympic National Park"],
     bestTimeToVisit: "Summer",
     image:
-      "https://www.ultimatehotspringsguide.com/images/olympic-hot-spring.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: true,
   },
@@ -5229,7 +5229,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Stevens Pass"],
     bestTimeToVisit: "Summer",
     image:
-      "https://www.ultimatehotspringsguide.com/images/scenic-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: true,
   },
@@ -5257,7 +5257,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Soap Lake", "Grand Coulee Dam"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/soap-lake-natural-spa.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
   },
@@ -5286,7 +5286,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Olympic National Park", "Sol Duc Falls"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/sol-duc-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
   },
@@ -5315,7 +5315,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Columbia River Gorge"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/tenzen-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
   },
@@ -5343,7 +5343,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Wind River", "Gifford Pinchot National Forest"],
     bestTimeToVisit: "Summer",
     image:
-      "https://www.ultimatehotspringsguide.com/images/wind-river-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
   },
@@ -5403,7 +5403,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Delta", "Sevier Lake"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/baker-hot-springs-utah.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
   },
@@ -5431,7 +5431,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Bear River"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/belmont-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
   },
@@ -5460,7 +5460,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Homestead Resort"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/homestead-crater.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
   },
@@ -5489,7 +5489,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Bear River Migratory Bird Refuge"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/crystal-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
   },
@@ -5518,7 +5518,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Uinta-Wasatch-Cache National Forest"],
     bestTimeToVisit: "Spring to Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/diamond-fork-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
   },
@@ -5547,7 +5547,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Diamond Fork Canyon"],
     bestTimeToVisit: "Spring to Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/fifth-water-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
   },
@@ -5576,7 +5576,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Homestead Resort"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/homestead-crater.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
   },
@@ -5605,7 +5605,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Utah Lake"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/inlet-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
   },
@@ -5633,7 +5633,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Fillmore", "Meadow"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/meadow-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: true,
   },
@@ -5661,7 +5661,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Sevier Valley"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/monroe-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
   },
@@ -5690,7 +5690,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Monroe", "Sevier Valley"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/mystic-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
   },
@@ -5719,7 +5719,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Ogden Canyon"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/ogden-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 3.9,
     clothingOptional: true,
   },
@@ -5748,7 +5748,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Virgin River Gorge"],
     bestTimeToVisit: "N/A",
     image:
-      "https://www.ultimatehotspringsguide.com/images/pah-tempe-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 3.5,
     clothingOptional: true,
   },
@@ -5777,7 +5777,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Utah Lake"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/saratoga-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
   },
@@ -5805,7 +5805,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Fillmore"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/stinky-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 3.7,
     clothingOptional: true,
   },
@@ -5833,7 +5833,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur"],
     nearbyAttractions: ["Crystal Hot Springs"],
     bestTimeToVisit: "N/A",
-    image: "https://www.ultimatehotspringsguide.com/images/udy-hot-springs.jpg",
+    image: "/placeholder.svg?height=300&width=400",
     rating: 3.0,
     clothingOptional: false,
   },
@@ -5862,7 +5862,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Veyo", "Pine Valley Mountains"],
     bestTimeToVisit: "Year-round",
     image:
-      "https://www.ultimatehotspringsguide.com/images/veyo-pool-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
   },
@@ -5890,7 +5890,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Zion National Park"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "https://www.ultimatehotspringsguide.com/images/zion-canyon-hot-springs.jpg",
+      "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: true,
   },
