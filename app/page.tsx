@@ -140,13 +140,15 @@ export default function BasedSprings() {
         <main className="max-w-7xl mx-auto px-4 py-8">
           {/* Hero Section */}
           <div className="text-center mb-12">
-            <h2 className="text-4xl md:text-6xl font-serif font-bold text-[#D0291D] mb-4 drop-shadow-lg border-4 border-white rounded-lg px-8 py-4 inline-block bg-white/20 backdrop-blur-sm">
-              Every Hot Spring in America
-            </h2>
-            <p className="text-xl text-[#D0291D] max-w-4xl mx-auto mb-8 drop-shadow-sm border-2 border-white rounded-lg px-6 py-3 inline-block bg-white/20 backdrop-blur-sm">
-              The most comprehensive database of hot springs across America.
-              detailed descriptions, temperatures, facilities, and everything you need for your next thermal adventure.
-            </p>
+            <div className="bg-[#0052FF] text-white rounded-2xl px-8 py-6 inline-block shadow-2xl border-4 border-white max-w-5xl mx-auto">
+              <h2 className="text-4xl md:text-6xl font-serif font-bold mb-4 drop-shadow-lg">
+                Every Hot Spring in America
+              </h2>
+              <p className="text-xl max-w-4xl mx-auto drop-shadow-sm">
+                The most comprehensive database of hot springs across America.
+                detailed descriptions, temperatures, facilities, and everything you need for your next thermal adventure.
+              </p>
+            </div>
 
             {/* Search and Filter Controls */}
             <div className="bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-8">
