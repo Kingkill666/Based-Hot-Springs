@@ -6004,6 +6004,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Barton Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "2201 Barton Springs Rd, Austin, TX 78746",
+    website: "austintexas.gov/department/barton-springs-pool",
+    detailedDescription: "Barton Springs Pool is Austin's most iconic natural swimming destination, featuring a massive spring-fed pool that maintains a constant 68-70°F temperature year-round. This beloved Austin landmark is fed by natural springs from the Edwards Aquifer and has been a gathering place for locals and visitors for over a century. The pool's crystal-clear water, limestone bottom, and natural setting in Zilker Park make it one of the most unique urban swimming experiences in America.",
+    location: "Located in Zilker Park in downtown Austin, Texas, approximately 3 miles southwest of the Texas State Capitol. The pool is easily accessible from downtown Austin and the University of Texas campus.",
+    directions: "From downtown Austin, take Barton Springs Road west to Zilker Park. The pool is located at the intersection of Barton Springs Road and Robert E. Lee Road. Parking is available in Zilker Park with easy access to the pool entrance.",
+    accessibilityDetails: "Barton Springs Pool is fully accessible with paved parking, accessible restrooms, and pool access features. The pool offers accessible entrances and the facility is designed to accommodate visitors of all mobility levels. The park setting provides accessible pathways throughout the area.",
+    hotSpringDetails: "Barton Springs features a large natural pool with temperatures ranging from 68-70°F year-round. The water is fed by natural springs from the Edwards Aquifer and contains calcium and magnesium minerals. The pool is approximately 3 acres in size with depths ranging from 0 to 18 feet. The natural limestone bottom and crystal-clear water create a unique swimming experience. The constant temperature makes it perfect for year-round swimming, even during Austin's hot summers.",
+    tips: "Open year-round with varying seasonal hours. Admission fees apply for non-residents. Swimming suits required. The pool is very popular, especially during summer months and weekends. Early morning visits offer the most peaceful experience. The pool is closed for cleaning on Thursday mornings. Zilker Park offers additional amenities including hiking trails, botanical gardens, and the famous Austin City Limits festival grounds. Best visited year-round, with each season offering different experiences in this beloved Austin landmark.",
   },
   {
     id: "big-bend-hot-springs-tx",
@@ -6032,6 +6041,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Big Bend Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Big Bend National Park, TX 79834",
+    website: "nps.gov/bibe",
+    detailedDescription: "Big Bend Hot Springs is a pristine natural hot spring located within Big Bend National Park, offering visitors a unique opportunity to soak in therapeutic mineral water while surrounded by the dramatic desert landscape of the Chihuahuan Desert and the Rio Grande. This undeveloped hot spring provides a peaceful retreat in one of Texas's most remote and beautiful national parks, with stunning views of the river and surrounding canyon walls.",
+    location: "Located within Big Bend National Park in far West Texas, approximately 100 miles south of Marathon. The hot springs are situated along the Rio Grande River in the park's eastern section.",
+    directions: "From the park's main entrance, follow the main park road to the Hot Springs Historic District. A short hike of approximately 0.5 miles leads to the hot springs. The trail is well-marked and accessible from the parking area. National park entry fee required.",
+    accessibilityDetails: "Big Bend Hot Springs requires a moderate 0.5-mile hike from the parking area. The trail is well-maintained but may have some uneven terrain. The hot springs area has no facilities or services. The remote location requires visitors to be self-sufficient and prepared for desert conditions.",
+    hotSpringDetails: "The hot springs feature a natural pool with a constant temperature of 105°F. The mineral water is rich in sulfur and flows from natural geothermal sources. The pool is approximately 3-4 feet deep and can accommodate 4-6 people comfortably. The natural setting provides complete privacy and stunning views of the Rio Grande and surrounding desert landscape. The water flows continuously from the spring source.",
+    tips: "This is a clothing optional location. National park entry fee required. Bring water and supplies as there are no facilities at the hot springs. Best visited during fall to spring when desert temperatures are more moderate. Summer visits can be extremely hot. The area offers excellent opportunities for wildlife viewing and photography. Respect the natural environment and practice Leave No Trace principles. The hot springs are part of the historic district and offer a glimpse into the area's past. This is one of Texas's most beautiful and remote hot springs experiences.",
   },
   {
     id: "boquillas-hot-springs-tx",
@@ -6092,6 +6110,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "chinati-hot-springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Chinati Hot Springs, Presidio, TX 79845",
+    website: "chinatihotsprings.com",
+    detailedDescription: "Chinati Hot Springs is a remote and historic hot springs resort located in the heart of the Chihuahuan Desert in far West Texas. This family-owned resort offers visitors a unique desert oasis experience with natural hot springs, comfortable accommodations, and stunning views of the surrounding desert mountains. The resort has been serving guests for decades and provides a perfect escape into the rugged beauty of the Texas desert landscape.",
+    location: "Located in the Chihuahuan Desert near Presidio, Texas, approximately 30 miles northwest of Presidio and 50 miles southwest of Marfa. The resort is situated in a remote desert valley surrounded by the Chinati Mountains.",
+    directions: "From Presidio, take FM 170 west toward Big Bend Ranch State Park, then follow the marked road to Chinati Hot Springs. From Marfa, take US-67 south to Presidio, then follow FM 170 west. The resort is accessible via maintained dirt roads that may require high-clearance vehicle depending on conditions.",
+    accessibilityDetails: "Chinati Hot Springs is accessible year-round but requires driving on remote desert roads. High-clearance vehicle recommended depending on road conditions. The resort offers accessible accommodations and facilities. The remote location requires visitors to be self-sufficient and prepared for desert conditions.",
+    hotSpringDetails: "The resort features natural hot springs with temperatures ranging from 107-109°F. The mineral water is rich in sulfur and flows from natural geothermal sources in the desert mountains. Pool options include outdoor soaking pools and private soaking areas. The pools are approximately 3-4 feet deep and can accommodate multiple guests. The desert setting provides stunning views of the Chinati Mountains and surrounding desert landscape.",
+    tips: "Reservations required for all visits including lodging and camping. The resort is clothing optional in designated areas. The remote location requires advance planning and supplies. Best visited during fall to spring when desert temperatures are more moderate. Summer visits can be extremely hot. The area offers excellent opportunities for stargazing, wildlife viewing, and experiencing the solitude of the desert. The resort provides a perfect base for exploring Big Bend Ranch State Park and the surrounding desert region.",
   },
   {
     id: "kingston-hot-springs-tx",
