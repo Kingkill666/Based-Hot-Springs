@@ -167,6 +167,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.3,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Denio, NV 89404",
+  website: "N/A",
+  detailedDescription: "Bog Hot Spring is a unique hot springs destination featuring a long, warm creek with multiple natural soaking spots in a remote valley near Denio, Nevada. This primitive hot spring offers visitors a truly wild and undeveloped experience in the vast Nevada desert. The spring flows through a beautiful valley, creating numerous natural pools and soaking areas along its course, making it one of the most extensive hot spring systems in the region.",
+  location: "Located in a remote valley near Denio, Nevada, approximately 20 miles northwest of Denio in the northern Nevada desert. The springs are situated in the Sheldon National Wildlife Refuge area.",
+  directions: "From Denio, take NV-140 west for approximately 15 miles, then turn north onto a dirt road. Follow the dirt road for about 5 miles to reach the hot springs area. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Bog Hot Spring requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. Multiple soaking spots are accessible along the creek with some walking required.",
+  hotSpringDetails: "The hot spring features a long, warm creek with temperatures ranging from 102-110°F. The creek flows through a valley creating multiple natural soaking pools and spots along its course. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from the spring source and maintains consistent warm temperatures throughout the creek.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for wildlife viewing and experiencing the solitude of the Nevada desert. Practice Leave No Trace principles to preserve this remote environment.",
 },
 {
   id: "boy-scout-hot-springs-nv",
@@ -187,6 +196,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Lake Mead National Recreation Area, Boulder City, NV 89005",
+  website: "NPS.gov/LakeMead",
+  detailedDescription: "Boy Scout Hot Springs is a primitive riverside hot spring located near Arizona Hot Springs in the Lake Mead National Recreation Area. This undeveloped hot spring offers visitors a secluded soaking experience along the Colorado River, accessible only by hiking. The springs are named for their proximity to a Boy Scout camp and provide a peaceful retreat in the stunning desert landscape.",
+  location: "Located within Lake Mead National Recreation Area, approximately 30 miles southeast of Las Vegas, Nevada, near the Colorado River.",
+  directions: "From Las Vegas, take US-93 south toward Boulder City. Turn onto Northshore Road and follow signs for the Arizona Hot Springs trailhead. Boy Scout Hot Springs is accessed via a hiking trail along the Colorado River, requiring moderate hiking skills.",
+  accessibilityDetails: "Boy Scout Hot Springs requires moderate hiking along the Colorado River. The trail involves some scrambling and can be challenging in hot weather. The hot springs are not wheelchair accessible. Seasonal closures may apply during summer months due to extreme heat.",
+  hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-108°F. The pools are formed by natural rock formations along the riverbank and are filled with geothermal water. The pools can accommodate several people and are approximately 2-3 feet deep. The water flows continuously from the spring source.",
+  tips: "Hike early in the morning to avoid extreme heat. Bring plenty of water and wear appropriate hiking shoes. The springs are clothing optional. Be prepared for the riverside hike - it can be challenging and requires good physical condition. Check for seasonal closures before visiting. No glass containers allowed in the recreation area. The area offers excellent opportunities for wildlife viewing and photography.",
 },
 {
   id: "caliente-hot-springs-nv",
@@ -207,6 +225,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.9,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Caliente, NV 89008",
+  website: "N/A",
+  detailedDescription: "Caliente Hot Springs is a historic hot springs destination located in the charming town of Caliente, Nevada. The springs feature a historic bathhouse and public pool that have been serving visitors for decades. The town of Caliente, which means 'hot' in Spanish, was named for these natural hot springs, and the facility continues to provide therapeutic mineral water experiences in a comfortable, family-friendly setting.",
+  location: "Located in the town of Caliente, Nevada, approximately 150 miles northeast of Las Vegas in eastern Nevada. The hot springs are situated in the historic downtown area of Caliente.",
+  directions: "From Las Vegas, take I-15 north to US-93 north, then follow US-93 to Caliente. From Cedar City, Utah, take I-15 south to US-93 south. The hot springs are easily accessible in the downtown area of Caliente.",
+  accessibilityDetails: "Caliente Hot Springs is easily accessible year-round with paved parking and restroom facilities. The bathhouse and pool area are designed to accommodate visitors of all mobility levels. The facility offers a comfortable and welcoming environment for families and visitors.",
+  hotSpringDetails: "The hot springs feature a public pool with temperatures ranging from 100-104°F. The mineral water flows from natural geothermal sources and is used in the historic bathhouse and public pool. The pool is approximately 3-4 feet deep and can accommodate many visitors. The water flows continuously from the spring source.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply. Swimming suits required. The facility is family-friendly and popular with locals and visitors. Best visited year-round, with each season offering comfortable temperatures for soaking. The area provides opportunities to explore the historic town of Caliente and nearby Kershaw-Ryan State Park.",
 },
 {
   id: "carson-city-hot-springs-resort",
@@ -5431,6 +5458,15 @@ export const hotSpringsData: HotSpring[] = [
       "Omni Homestead.jpg",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "7696 Sam Snead Hwy, Hot Springs, VA 24445",
+    website: "omnihotels.com/hotels/homestead-virginia",
+    detailedDescription: "The Omni Homestead is a historic luxury resort featuring natural hot springs pools and world-class spa facilities in the heart of the Allegheny Mountains. This iconic Virginia resort has been welcoming guests since 1766 and offers a perfect blend of historic charm and modern luxury. The resort's natural hot springs have been used for therapeutic purposes for centuries, and today they provide the foundation for an extensive spa and wellness program in a stunning mountain setting.",
+    location: "Located in Hot Springs, Virginia, approximately 60 miles west of Roanoke in the Allegheny Mountains of western Virginia. The resort is situated in a beautiful mountain valley surrounded by the George Washington and Jefferson National Forests.",
+    directions: "From Roanoke, take I-81 north to exit 220, then follow US-220 north to Hot Springs. From Charlottesville, take I-64 west to US-250 west, then follow US-220 north. The resort is well-marked and easily accessible from major highways.",
+    accessibilityDetails: "The Omni Homestead is fully accessible year-round with paved parking, accessible facilities, and luxury accommodations. The resort and spa facilities are designed to accommodate visitors of all mobility levels. The property offers a welcoming environment for visitors seeking luxury spa experiences.",
+    hotSpringDetails: "The resort features natural hot springs with temperatures ranging from 96-104°F. The mineral water is rich in sulfur and calcium and flows from natural geothermal sources in the mountains. The resort offers multiple pool options including indoor and outdoor soaking areas. The water flows continuously from the spring source and is used in various spa treatments and therapeutic experiences.",
+    tips: "Open year-round with varying seasonal hours. Admission fees apply for spa services and resort access. The resort offers luxury lodging, fine dining, and world-class spa services. Best visited year-round, with each season offering different experiences. The historic significance and luxury amenities make this a unique destination. The area provides opportunities to experience the grandeur of this historic resort and enjoy modern spa treatments. The resort is a National Historic Landmark and offers fascinating tours of its historic facilities.",
   },
   // UTAH HOT SPRINGS (new additions)
   {
