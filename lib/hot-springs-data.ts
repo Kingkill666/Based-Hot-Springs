@@ -5380,6 +5380,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Baker Hot Springs Rd, Delta, UT 84624",
+    website: "N/A",
+    detailedDescription: "Baker Hot Springs is a primitive desert hot springs destination featuring three concrete soaking tubs fed by natural geothermal springs. Located in the remote Utah desert near Delta, these undeveloped hot springs offer a rustic and authentic experience for visitors seeking solitude and therapeutic mineral soaking. The springs are known for their very hot temperatures and sulfur-rich mineral content.",
+    location: "Located in the desert near Delta, Utah, approximately 15 miles northwest of Delta in the Great Basin desert region.",
+    directions: "From Delta, take US-6 west toward Nevada for about 7 miles, then turn north on a gravel road (Baker Hot Springs Road) and follow for about 8 miles to the hot springs. High-clearance vehicle recommended for the gravel road approach.",
+    accessibilityDetails: "Baker Hot Springs is accessible year-round but requires driving on gravel roads that may be rough. High-clearance vehicle recommended. The area has no facilities or services. The springs are easily accessible once you reach the site with minimal walking required.",
+    hotSpringDetails: "The hot springs feature three concrete tubs with temperatures ranging from 107-109°F. The tubs are filled with natural mineral water rich in sulfur and other minerals. The tubs are approximately 3-4 feet deep and can accommodate 4-6 people each. The water flows continuously from natural springs and maintains consistent hot temperatures. The desert setting provides expansive views of the surrounding basin and mountain ranges.",
+    tips: "This is a clothing optional location. Bring water and supplies as there are no facilities or services available. The springs are very hot, so exercise caution and limit soaking time. No shade available, so bring sun protection during hot weather. Best visited during spring and fall when desert temperatures are moderate. Summer visits should be planned for early morning or evening to avoid extreme heat. Dispersed camping is allowed in the area but requires complete self-sufficiency. Practice Leave No Trace principles to preserve this desert environment. The night sky offers excellent stargazing opportunities.",
   },
   {
     id: "belmont-hot-springs-ut",
@@ -5408,6 +5417,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "8813 N 15200 W, Garland, UT 84312",
+    website: "belmontsprings.com",
+    detailedDescription: "Belmont Hot Springs is a unique resort destination offering hot springs pools, camping facilities, and one of Utah's most unusual attractions - scuba diving in warm mineral water. Located near Garland in northern Utah, this family-owned resort provides a distinctive experience combining therapeutic mineral soaking with underwater exploration opportunities. The clear, warm water makes it an ideal location for scuba training and diving year-round.",
+    location: "Located near Garland, Utah, in the Bear River valley in northern Utah, approximately 20 miles northwest of Brigham City.",
+    directions: "From Brigham City, take UT-13 west toward Garland, then follow local roads north to Belmont Hot Springs. From I-15, take exit 362 for UT-13 and follow signs. The resort is accessible year-round via paved roads.",
+    accessibilityDetails: "Belmont Hot Springs is accessible year-round with paved road access and ample parking. The resort offers accessible facilities including restrooms and pathways. Pool access may have some limitations for mobility-impaired visitors due to pool design.",
+    hotSpringDetails: "The resort features multiple hot springs pools with temperatures ranging from 102-104°F. The mineral water is rich in sulfur and maintains excellent clarity for underwater activities. The main attraction is a large, deep pool (up to 30 feet deep) that is perfect for scuba diving and swimming. Additional soaking pools provide more traditional hot springs experiences. The water temperature and clarity make it one of the best freshwater diving destinations in the region.",
+    tips: "Open year-round with day use and overnight camping available. Reservations recommended for camping and lodging. The resort is famous for scuba diving opportunities and offers equipment rentals and training. Swimming suits required. The diving pool is perfect for certification courses and night diving. RV and tent camping sites available with hookups. The resort offers a unique combination of relaxation and adventure activities. Best visited year-round with diving particularly popular during colder months when other dive sites are inaccessible.",
   },
   {
     id: "crater-hot-springs-ut",
@@ -5437,6 +5455,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "700 N Homestead Dr, Midway, UT 84049",
+    website: "homesteadresort.com",
+    detailedDescription: "The Homestead Crater is Utah's most unique geothermal attraction, featuring a natural hot spring contained within a 55-foot tall limestone dome that took over 10,000 years to form. Located at the Homestead Resort in Heber Valley, this geological wonder offers swimming, soaking, and scuba diving experiences in warm mineral water year-round. The crater provides a truly one-of-a-kind environment that feels like stepping into another world.",
+    location: "Located at the Homestead Resort in Midway, Utah, in the scenic Heber Valley approximately 45 minutes from Salt Lake City and 15 minutes from Park City.",
+    directions: "From Salt Lake City, take I-80 east to US-40 south toward Heber City, then follow signs to Midway and the Homestead Resort. From Park City, take US-40 south through Heber City to Midway. The resort is well-marked and easily accessible year-round.",
+    accessibilityDetails: "The Homestead Crater is fully accessible with paved paths, accessible changing rooms, and entry assistance available. The crater features a tunnel entrance and accessibility equipment for entry into the water. Staff is trained to assist visitors with varying mobility levels.",
+    hotSpringDetails: "The crater contains a natural geothermal pool with temperatures ranging from 90-96°F. The mineral water is rich in calcium and magnesium and maintains constant temperatures year-round. The pool is approximately 8-14 feet deep in most areas with a maximum depth of 65 feet. The unique limestone dome creates a cathedral-like atmosphere with natural lighting from an opening at the top. The water clarity is excellent for underwater activities.",
+    tips: "Reservations required for all activities including swimming, soaking, and scuba diving. Open year-round with varying seasonal hours. Swimming suits required. The crater offers scuba diving certification courses and equipment rentals. The experience includes access to changing rooms and showers. Photography inside the crater requires special permission. The Homestead Resort offers dining and lodging packages. Winter visits are particularly magical with steam rising through the dome opening. Best visited year-round as the constant temperature makes it perfect for any season. This is truly a bucket-list destination and one of the most unique hot springs experiences in the world.",
   },
   {
     id: "crystal-hot-springs-ut",
