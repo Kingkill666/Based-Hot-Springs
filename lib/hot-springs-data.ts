@@ -13233,6 +13233,33 @@ export const hotSpringsData: HotSpring[] = [
     clothingOptional: false,
   },
   {
+    id: "old-town-hot-springs-co",
+    name: "Old Town Hot Springs",
+    state: "Colorado",
+    city: "Steamboat Springs",
+    country: "United States",
+    coordinates: { lat: 40.485, lng: -106.832 },
+    temperature: { min: 98, max: 103, unit: "°F" },
+    elevation: 6900,
+    description: "Family-friendly hot springs facility in downtown Steamboat Springs featuring multiple pools, water slides, and fitness center. Popular year-round destination for locals and visitors.",
+    features: ["Family-friendly", "Water slides", "Fitness center", "Downtown location"],
+    accessibility: { difficulty: "Easy", fee: "Paid", seasonal: false },
+    facilities: {
+      restrooms: true,
+      parking: true,
+      lodging: false,
+      camping: false,
+      spa: true,
+      restaurant: false,
+    },
+    minerals: ["Sodium", "Chloride", "Sulfate"],
+    nearbyAttractions: ["Steamboat Springs", "Steamboat Ski Resort", "Yampa River"],
+    bestTimeToVisit: "Year-round",
+    image: "/placeholder.svg?height=300&width=400",
+    rating: 4.6,
+    clothingOptional: false,
+  },
+  {
     id: "bella-monte-hot-springs-ca",
     name: "Bella Monte Hot Springs Resort and Spa",
     state: "California",
@@ -17449,35 +17476,4 @@ export function getHotSpringsByAccessibility(difficulty: string): HotSpring[] {
   return hotSpringsData.filter(
     (spring) => spring.accessibility.difficulty === difficulty,
   );
-}
-
-// DUPLICATE PREVENTION UTILITIES
-export function validateUniqueIds(): { isValid: boolean; duplicates: string[] } {
-  const ids = hotSpringsData.map(spring => spring.id);
-  const duplicateIds = ids.filter((id, index) => ids.indexOf(id) !== index);
-  const uniqueDuplicates = [...new Set(duplicateIds)];
-  
-  return {
-    isValid: uniqueDuplicates.length === 0,
-    duplicates: uniqueDuplicates
-  };
-}
-
-export function findDuplicateIds(): string[] {
-  const validation = validateUniqueIds();
-  return validation.duplicates;
-}
-
-export function checkForDuplicateId(id: string): boolean {
-  const existingIds = hotSpringsData.map(spring => spring.id);
-  return existingIds.includes(id);
-}
-
-// Development-time validation (only runs in development)
-if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
-  const validation = validateUniqueIds();
-  if (!validation.isValid) {
-    console.error('🚨 DUPLICATE HOT SPRING IDs DETECTED:', validation.duplicates);
-    console.warn('Please fix duplicate IDs before continuing development.');
-  }
 }
