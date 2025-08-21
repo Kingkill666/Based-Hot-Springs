@@ -1663,6 +1663,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Arizona Hot Springs Trail, Lake Havasu City, AZ 86403",
+    website: "N/A",
+    detailedDescription: "Arizona Hot Springs, also known as Ringbolt Hot Springs, is a spectacular natural hot springs destination located along the Colorado River in the scenic desert canyon country near Lake Havasu City. These pristine hot springs are accessible only by hiking and offer visitors a truly authentic desert wilderness experience with stunning canyon views and soaking in natural mineral pools alongside the mighty Colorado River. The springs provide a perfect escape into untouched desert beauty.",
+    location: "Located along the Colorado River approximately 35 miles south of Hoover Dam, accessible via hiking trail from Arizona Hot Springs Trailhead near Lake Havasu City.",
+    directions: "From Lake Havasu City, take AZ-95 north toward Bullhead City for about 20 miles to the Arizona Hot Springs Trailhead parking area (well-marked). The hot springs are accessible via a moderate 1-mile hiking trail that descends into the canyon to the river level.",
+    accessibilityDetails: "Arizona Hot Springs requires a moderate 1-mile hike each way on desert trail with some elevation change. The trail can be rocky and steep in sections. Good hiking shoes and physical fitness are recommended. The area has no facilities or services. Trail conditions can vary with weather.",
+    hotSpringDetails: "The hot springs feature multiple natural pools with temperatures ranging from 98-110°F. The pools are naturally formed along the Colorado River bank and filled with mineral-rich water containing sulfur, calcium, and magnesium. Pool depths vary from 2-5 feet and can accommodate several people. The dramatic desert canyon setting provides spectacular views while soaking. Water levels can vary with Colorado River flow.",
+    tips: "This is a clothing optional location. Bring plenty of water, sun protection, and supplies as there are no facilities. Best visited during cooler months (October-April) to avoid extreme desert heat. Summer visits should be avoided due to dangerous temperatures. The hike can be challenging in heat. River access allows for cooling off in the Colorado River. Respect the pristine environment and practice Leave No Trace principles. The area offers excellent photography opportunities and stargazing. Camping is not permitted, but nearby developed campgrounds are available. This is one of Arizona's most beautiful and pristine hot springs experiences.",
   },
   {
     id: "4",
@@ -1700,6 +1709,15 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Phoenix", "Wickenburg", "Sonoran Desert"],
     bestTimeToVisit: "October through April",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "5050 E Castle Hot Springs Rd, Morristown, AZ 85342",
+    website: "castlehotsprings.com",
+    detailedDescription: "Castle Hot Springs is Arizona's premier luxury desert resort, featuring naturally flowing hot mineral springs in the dramatic foothills of the Sonoran Desert. This historic property has been welcoming guests since 1896 and offers an unparalleled combination of natural hot springs, world-class spa services, luxury accommodations, and authentic Southwestern hospitality. The resort provides an exclusive and intimate desert experience just 45 minutes from Phoenix.",
+    location: "Located in the Sonoran Desert foothills near Morristown, Arizona, approximately 45 minutes northwest of Phoenix in the rugged desert mountains.",
+    directions: "From Phoenix, take I-17 north to Carefree Highway (AZ-74) west, then follow Castle Hot Springs Road north for about 20 miles through scenic desert terrain. The resort provides detailed directions and coordinates to guests upon booking.",
+    accessibilityDetails: "Castle Hot Springs is accessible year-round via paved and maintained desert roads. The luxury resort offers accessible accommodations and facilities with golf cart transportation around the property. The resort staff provides assistance to ensure all guests can enjoy the hot springs and amenities.",
+    hotSpringDetails: "The resort features multiple natural hot springs pools with temperatures ranging from 95-104°F. The mineral water is rich in lithium, sodium, and sulfur and flows continuously from natural geothermal sources deep underground. Pool options include intimate natural rock pools, larger soaking pools, and private spa pools. The pools are beautifully integrated into the desert landscape with stunning mountain views. Water depth ranges from 2-6 feet in various pools designed for different experiences.",
+    tips: "Reservations required for all visits as this is an exclusive resort property. Day visits may be available but overnight stays provide the full experience. The resort offers all-inclusive packages including meals, activities, and spa services. Swimming suits required. The desert setting provides incredible stargazing opportunities and wildlife viewing. Best visited during cooler months (October-April) when desert weather is most pleasant. The resort offers guided desert activities, spa treatments, and fine dining. This is one of Arizona's most luxurious and historically significant hot springs destinations, perfect for special occasions and romantic getaways.",
   },
   {
     id: "126",
@@ -1741,6 +1759,15 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Sonoran Desert", "Phoenix", "Desert wildlife"],
     bestTimeToVisit: "October through April",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Tonopah Desert Area, Tonopah, AZ 85354",
+    website: "N/A",
+    detailedDescription: "El Dorado Hot Springs is a primitive and undeveloped natural hot springs destination located in the remote Sonoran Desert near Tonopah, Arizona. These natural mineral pools offer visitors an authentic desert wilderness experience surrounded by rugged desert mountains, diverse desert vegetation, and abundant wildlife. The springs provide a peaceful escape into one of Arizona's most pristine desert environments with excellent opportunities for solitude and nature observation.",
+    location: "Located in the remote Sonoran Desert near Tonopah, Arizona, approximately 50 miles west of Phoenix in the rugged desert mountains.",
+    directions: "From Phoenix, take I-10 west toward Quartzsite, then exit at Tonopah and follow local desert roads. Access requires detailed local knowledge, GPS coordinates, and 4WD vehicle. The exact route varies depending on weather and road conditions. Consultation with local authorities or experienced desert travelers is recommended.",
+    accessibilityDetails: "El Dorado Hot Springs requires significant desert travel experience and 4WD vehicle access. The area has no marked trails, facilities, or services. Desert navigation skills, GPS, and emergency preparedness are essential. Access can be affected by weather conditions and flash flood risks. Only experienced desert travelers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural desert pools with temperatures ranging from 98-108°F. The pools are undeveloped and formed naturally by geothermal activity in the desert terrain. Pool sizes vary but typically accommodate 4-8 people and range from 2-4 feet deep. The mineral-rich water contains sulfur, sodium, and magnesium. The remote desert setting provides complete solitude with expansive views of the Sonoran Desert and surrounding mountain ranges.",
+    tips: "Bring extensive supplies including extra water, food, emergency equipment, and navigation tools. Inform others of travel plans and expected return times. Best visited during cooler months (October-April) to avoid dangerous desert heat. Summer visits can be life-threatening due to extreme temperatures. The area offers excellent wildlife viewing including desert bighorn sheep, javelinas, and various desert birds. Practice strict Leave No Trace principles to preserve this pristine desert environment. Dispersed camping may be possible but requires complete self-sufficiency and awareness of flash flood risks. This is one of Arizona's most remote and challenging hot springs destinations.",
   },
   {
     id: "tonopah-hot-springs",
