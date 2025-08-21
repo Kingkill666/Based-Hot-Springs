@@ -36,6 +36,15 @@ export interface HotSpring {
   image: string;
   rating: number;
   clothingOptional: boolean;
+  // Enhanced detailed information
+  address?: string;
+  website?: string;
+  detailedDescription?: string;
+  location?: string;
+  directions?: string;
+  accessibilityDetails?: string;
+  hotSpringDetails?: string;
+  tips?: string;
 }
 
 export const hotSpringsData: HotSpring[] = [
@@ -60,6 +69,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Goldfield, NV 89013",
+  website: "N/A",
+  detailedDescription: "Alkali Hot Springs is a remote desert hot spring located in the vast Nevada desert near the historic mining town of Goldfield. This primitive hot spring features two concrete soaking tubs that are filled with naturally heated geothermal water. The springs are situated in a stark desert landscape surrounded by sagebrush and distant mountain ranges, offering visitors a true wilderness hot spring experience.",
+  location: "Located approximately 15 miles northwest of Goldfield, Nevada in the remote desert area.",
+  directions: "From Goldfield, take US-95 north for about 10 miles, then turn west onto a dirt road. Follow the dirt road for approximately 5 miles to reach the hot springs. A 4WD vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Alkali Hot Springs is accessible by dirt road, but conditions can be rough. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The soaking tubs are easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature two concrete soaking tubs with water temperatures ranging from 100-110°F. The water is naturally heated and flows continuously into the tubs. The tubs are large enough for multiple people and are approximately 3-4 feet deep.",
+  tips: "Bring plenty of water as there are no services in the area. The springs are clothing optional. Best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. Respect the remote nature of this location and pack out all trash.",
 },
 {
   id: "arizona-hot-springs-nv",
@@ -80,6 +98,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Lake Mead National Recreation Area, Boulder City, NV 89005",
+  website: "NPS.gov/LakeMead",
+  detailedDescription: "Arizona Hot Springs is one of the most popular hot springs in the Lake Mead National Recreation Area, featuring a stunning slot canyon hike and natural hot spring pools along the Colorado River. The springs are accessed via a scenic 3-mile round-trip hike through a narrow slot canyon that leads to multiple soaking pools with varying temperatures.",
+  location: "Located within Lake Mead National Recreation Area, approximately 30 miles southeast of Las Vegas, Nevada.",
+  directions: "From Las Vegas, take US-93 south toward Boulder City. Turn onto Northshore Road and follow signs for the Arizona Hot Springs trailhead. The hike begins at the trailhead and follows a well-marked path through the slot canyon.",
+  accessibilityDetails: "Arizona Hot Springs requires a moderate 3-mile round-trip hike through a slot canyon. The trail involves some scrambling and can be challenging in hot weather. The hot springs are not wheelchair accessible. Seasonal closures may apply during summer months due to extreme heat.",
+  hotSpringDetails: "The hot springs feature multiple natural pools with temperatures ranging from 100-111°F. The pools are formed by natural rock formations and are filled with geothermal water. The largest pool can accommodate several people and is approximately 2-3 feet deep. The water flows continuously from the source.",
+  tips: "Hike early in the morning to avoid extreme heat. Bring plenty of water and wear appropriate hiking shoes. The springs are clothing optional. Be prepared for the slot canyon hike - it can be narrow and challenging. Check for seasonal closures before visiting. No glass containers allowed in the recreation area.",
 },
 {
   id: "baileys-hot-springs",
