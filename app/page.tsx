@@ -686,6 +686,55 @@ export default function BasedSprings() {
               </div>
             </div>
           )}
+
+          {/* Based Springs Feature Section */}
+          <section className="bg-[#0052FF] text-white py-16 mt-16">
+            <div className="max-w-7xl mx-auto px-4">
+              <div className="text-center mb-12">
+                <div className="flex items-center justify-center gap-3 mb-6">
+                  <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center">
+                    <Droplets className="w-8 h-8 text-white" />
+                  </div>
+                  <h2 className="text-4xl font-serif font-bold">Based Springs</h2>
+                </div>
+                <p className="text-xl max-w-3xl mx-auto leading-relaxed">
+                  The most comprehensive database of hot springs in America. From remote wilderness pools to luxury resort spas, discover your perfect thermal escape with detailed GPS coordinates and insider information.
+                </p>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div className="text-center">
+                  <h3 className="text-2xl font-bold mb-4">Complete Coverage</h3>
+                  <ul className="space-y-2 text-lg">
+                    <li>All 50 states</li>
+                    <li>{hotSpringsData.length}+ hot springs</li>
+                  </ul>
+                </div>
+                <div className="text-center">
+                  <h3 className="text-2xl font-bold mb-4">Detailed Information</h3>
+                  <ul className="space-y-2 text-lg">
+                    <li>GPS coordinates</li>
+                    <li>Facilities</li>
+                    <li>Access info</li>
+                  </ul>
+                </div>
+                <div className="text-center">
+                  <h3 className="text-2xl font-bold mb-4">Adventure Ready</h3>
+                  <ul className="space-y-2 text-lg">
+                    <li>Planning guides</li>
+                    <li>What to bring</li>
+                    <li>Best times</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div className="text-center mt-12">
+                <p className="text-lg">
+                  Built for Farcaster • Find your next thermal adventure with ease
+                </p>
+              </div>
+            </div>
+          </section>
         </main>
       </div>
     </div>
