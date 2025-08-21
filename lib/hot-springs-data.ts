@@ -10119,6 +10119,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Green Canyon Hot Springs Resort, Newdale, ID 83436",
+    website: "greencanyonhotsprings.com",
+    detailedDescription: "Green Canyon Hot Springs is a family-friendly resort located in the beautiful Teton Valley near Newdale. The resort features a large hot springs pool, camping facilities, and RV sites with full hookups. The setting offers stunning views of the Teton Mountains and provides a perfect base for exploring the valley's outdoor recreation opportunities.",
+    location: "Located near Newdale, Idaho, approximately 30 miles northwest of Rexburg in the Teton Valley of eastern Idaho.",
+    directions: "From Rexburg, take ID-33 west toward Newdale. Continue through Newdale and look for the Green Canyon Hot Springs Resort turnoff. Follow the access road to the resort. The property is well-marked and easily accessible.",
+    accessibilityDetails: "Green Canyon Hot Springs is accessible via paved roads. The resort offers accessible pool areas and RV sites with full hookups. The facilities are designed to accommodate visitors of all abilities during the summer season.",
+    hotSpringDetails: "The resort features a large hot springs pool with temperatures ranging from 96-105°F. The pool is filled with naturally heated geothermal water rich in sodium minerals. The pool is approximately 4-5 feet deep and can accommodate multiple visitors. The water is continuously refreshed from the natural spring source.",
+    tips: "Reservations are recommended for RV sites and camping. The resort is only open during summer months due to seasonal weather conditions. Bring your own towels and swimwear. The Teton Valley offers excellent hiking, fishing, and outdoor recreation opportunities. The mountain views are spectacular. Best visited during summer when the resort is open and weather is optimal.",
   },
   {
     id: "haven-hot-springs-id",
@@ -10147,6 +10156,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Haven Hot Springs Resort, Lowman, ID 83637",
+    website: "havenhotsprings.com",
+    detailedDescription: "Haven Hot Springs is a small, rustic resort that offers an intimate hot springs experience in the beautiful Boise National Forest. The resort features a cozy hot springs pool, comfortable cabins, and RV sites. The setting provides a peaceful retreat away from crowds, perfect for those seeking a quiet mountain getaway.",
+    location: "Located near Lowman, Idaho, approximately 15 miles west of Lowman in the Boise National Forest of central Idaho.",
+    directions: "From Lowman, take ID-21 west toward Stanley. Look for the Haven Hot Springs Resort turnoff. Follow the access road to the resort. The property is well-marked and easily accessible.",
+    accessibilityDetails: "Haven Hot Springs is accessible via paved and gravel roads. The small resort offers basic accessible facilities and the hot springs pool has gradual entry points. The rustic setting may have some accessibility limitations.",
+    hotSpringDetails: "The resort features a cozy hot springs pool with temperatures ranging from 100-106°F. The pool is filled with naturally heated geothermal water rich in sodium minerals. The pool is intimate in size, accommodating smaller groups comfortably. The water is continuously refreshed from the natural spring source.",
+    tips: "Reservations are recommended for cabins and RV sites. The resort offers both day passes and overnight accommodations. Bring your own towels and swimwear. The rustic setting provides an authentic mountain experience. The Boise National Forest offers excellent hiking and outdoor recreation opportunities. Best visited year-round, with each season offering unique mountain experiences.",
   },
   {
     id: "home-hotel-hot-springs-id",
@@ -10175,6 +10193,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Home Hotel Hot Springs, Lava Hot Springs, ID 83246",
+    website: "homehotelhotsprings.com",
+    detailedDescription: "Home Hotel Hot Springs is a historic hotel that has been providing luxurious accommodations and private hot mineral baths since the early 1900s. The hotel features elegant rooms and private soaking facilities, offering guests an upscale hot springs experience in the charming town of Lava Hot Springs.",
+    location: "Located in Lava Hot Springs, Idaho, approximately 30 miles southeast of Pocatello in southeastern Idaho.",
+    directions: "From Pocatello, take I-15 south to Lava Hot Springs exit. Follow the main road through town to Home Hotel Hot Springs. The hotel is well-marked and easily accessible in the downtown area.",
+    accessibilityDetails: "Home Hotel Hot Springs is accessible via paved roads. The historic hotel offers accessible lodging options and spa facilities. Some areas of the historic building may have limited accessibility due to its age.",
+    hotSpringDetails: "The hotel features private hot mineral baths with temperatures ranging from 102-112°F. The baths are filled with naturally heated geothermal water rich in sodium minerals. The private facilities are designed for intimate use and can accommodate 2-4 people comfortably. The water is continuously refreshed from the natural spring source.",
+    tips: "Reservations are required for all visits. The hotel offers both day spa services and overnight accommodations. Private bath sessions are available by appointment. The historic setting provides a luxurious experience. The town of Lava Hot Springs offers additional hot springs and attractions. Best visited year-round, with each season offering unique experiences in this historic hot springs town.",
   },
   {
     id: "horseshoe-hot-springs-id",
