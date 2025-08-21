@@ -140,10 +140,10 @@ export default function BasedSprings() {
         <main className="max-w-7xl mx-auto px-4 py-8">
           {/* Hero Section */}
           <div className="text-center mb-12">
-            <h2 className="text-4xl md:text-6xl font-serif font-bold text-gray-900 mb-4 drop-shadow-lg">
+            <h2 className="text-4xl md:text-6xl font-serif font-bold mb-4 drop-shadow-lg" style={{ color: '#0052FF' }}>
               Every Hot Spring in America
             </h2>
-            <p className="text-xl text-gray-700 max-w-4xl mx-auto mb-8 drop-shadow-sm">
+            <p className="text-xl max-w-4xl mx-auto mb-8 drop-shadow-sm" style={{ color: '#0052FF' }}>
               The most comprehensive database of hot springs across America.
               detailed descriptions, temperatures, facilities, and everything you need for your next thermal adventure.
             </p>
