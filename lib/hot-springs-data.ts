@@ -142,7 +142,7 @@ export const hotSpringsData: HotSpring[] = [
   clothingOptional: true,
 },
 {
-  id: "boy-scout-hot-springs-nv",
+  id: "boy-scout-hot-springs",
   name: "Boy Scout Hot Springs",
   state: "Nevada",
   city: "Boulder City",
@@ -1833,7 +1833,7 @@ export const hotSpringsData: HotSpring[] = [
     clothingOptional: false,
   },
   {
-    id: "boy-scout-hot-springs-az",
+    id: "boy-scout-hot-springs",
     name: "Boy Scout Hot Springs",
     state: "Arizona",
     city: "Gila Bend",
