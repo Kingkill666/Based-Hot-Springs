@@ -361,6 +361,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Lake Mead National Recreation Area, Boulder City, NV 89005",
+  website: "NPS.gov/LakeMead",
+  detailedDescription: "Gold Strike Hot Springs is one of the most popular and challenging hot springs destinations in the Lake Mead National Recreation Area, featuring a strenuous hike through a scenic canyon to reach natural hot spring pools near the Colorado River. The springs are accessed via a demanding trail that includes rope-assisted descents and scrambling, making it a rewarding adventure for experienced hikers seeking a unique desert hot springs experience.",
+  location: "Located within Lake Mead National Recreation Area, approximately 30 miles southeast of Las Vegas, Nevada, near the Colorado River in a scenic canyon setting.",
+  directions: "From Las Vegas, take US-93 south toward Boulder City. Turn onto Northshore Road and follow signs for the Gold Strike Hot Springs trailhead. The hike begins at the trailhead and involves a strenuous 2-mile descent into the canyon with rope-assisted sections.",
+  accessibilityDetails: "Gold Strike Hot Springs requires a strenuous 2-mile hike with significant elevation change and rope-assisted descents. The trail involves scrambling and can be challenging in hot weather. The hot springs are not wheelchair accessible. Seasonal closures may apply during summer months due to extreme heat. Good physical condition and hiking experience required.",
+  hotSpringDetails: "The hot springs feature multiple natural pools with temperatures ranging from 100-106°F. The pools are formed by natural rock formations along the canyon and are filled with geothermal water. The pools can accommodate several people and are approximately 2-3 feet deep. The water flows continuously from the spring source and maintains consistent temperatures.",
+  tips: "This is a clothing optional location. The hike is strenuous and requires good physical condition. Bring plenty of water, appropriate hiking shoes, and be prepared for rope-assisted descents. Hike early in the morning to avoid extreme heat. The springs are popular, especially on weekends. Check for seasonal closures before visiting. No glass containers allowed in the recreation area. The area offers excellent opportunities for photography and experiencing the solitude of the desert canyon.",
 },
 {
   id: "fish-lake-hot-springs",
@@ -381,6 +390,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.4,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Dyer, NV 89010",
+  website: "N/A",
+  detailedDescription: "Fish Lake Hot Springs is a remote hot springs destination featuring a concrete soaking pool and free camping near Fish Lake Valley in western Nevada. This undeveloped hot spring offers visitors a peaceful and secluded experience in the vast Nevada desert. The concrete pool provides a comfortable soaking experience, while the free camping allows visitors to extend their stay and fully enjoy the remote desert setting.",
+  location: "Located near Dyer, Nevada, approximately 20 miles northwest of Dyer in the remote Fish Lake Valley area of western Nevada. The hot springs are situated in a stark desert landscape surrounded by sagebrush and distant mountain ranges.",
+  directions: "From Dyer, take NV-266 west for approximately 15 miles, then turn north onto a dirt road. Follow the dirt road for about 5 miles to reach the hot springs. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Fish Lake Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with basic restroom facilities. The concrete pool is easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature a concrete soaking pool with temperatures ranging from 100-104°F. The pool is approximately 3-4 feet deep and can accommodate several people comfortably. The water flows continuously from natural geothermal sources and maintains consistent warm temperatures. The concrete construction provides a clean and comfortable soaking experience.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are limited services in the area. The springs are best visited in spring and fall when temperatures are moderate. Free camping is available but requires self-sufficiency. Be prepared for primitive conditions - basic restroom facilities only. The area offers excellent opportunities for stargazing and experiencing the solitude of the Nevada desert. Practice Leave No Trace principles to preserve this remote environment.",
 },
 {
   id: "hot-springs-ranch",
@@ -421,6 +439,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Unionville, NV 89418",
+  website: "N/A",
+  detailedDescription: "Kyle Hot Springs is a remote and primitive hot springs destination featuring several natural soaking pools near Unionville in northern Nevada. This undeveloped hot spring offers visitors a truly wild and authentic experience in the vast Nevada desert. The multiple soaking pools provide different temperature options, making it an ideal destination for those seeking a natural and unspoiled hot springs experience.",
+  location: "Located near Unionville, Nevada, approximately 15 miles southwest of Unionville in the remote northern Nevada desert. The hot springs are situated in a stark desert landscape surrounded by sagebrush and distant mountain ranges.",
+  directions: "From Unionville, take a dirt road southwest for approximately 15 miles to reach the hot springs. A high-clearance vehicle or 4WD is recommended due to rough road conditions. The exact route may require local knowledge or GPS coordinates.",
+  accessibilityDetails: "Kyle Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. Multiple soaking pools are accessible with some walking required.",
+  hotSpringDetails: "The hot springs feature several natural soaking pools with temperatures ranging from 100-110°F. The pools vary in size and depth, typically 1-3 feet deep, and are formed by natural rock formations. The water flows continuously from geothermal sources and maintains consistent warm temperatures. The multiple pools offer different temperature options for visitors.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for wildlife viewing and experiencing the solitude of the Nevada desert. Practice Leave No Trace principles to preserve this remote environment. The multiple pools allow visitors to find their preferred temperature.",
 },
 {
   id: "paradise-valley-hot-springs",
