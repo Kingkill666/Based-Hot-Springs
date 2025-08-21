@@ -1,0 +1,18 @@
+#!/bin/sh
+#
+# Pre-commit hook to check for duplicate hot spring IDs
+#
+
+echo "🔍 Checking for duplicate hot spring IDs..."
+
+# Run the duplicate checker
+if ! npm run check-duplicates --silent; then
+    echo ""
+    echo "❌ Commit blocked: Duplicate hot spring IDs found!"
+    echo "   Please fix the duplicates before committing."
+    echo ""
+    exit 1
+fi
+
+echo "✅ No duplicates found. Proceeding with commit..."
+exit 0

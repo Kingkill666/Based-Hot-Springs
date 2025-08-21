@@ -6,7 +6,9 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "start": "next start"
+    "start": "next start",
+    "check-duplicates": "node scripts/check-duplicates.js",
+    "prebuild": "npm run check-duplicates"
   },
   "dependencies": {
     "@farcaster/miniapp-sdk": "^0.1.9",

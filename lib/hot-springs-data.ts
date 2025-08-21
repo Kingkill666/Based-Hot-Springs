@@ -17450,3 +17450,34 @@ export function getHotSpringsByAccessibility(difficulty: string): HotSpring[] {
     (spring) => spring.accessibility.difficulty === difficulty,
   );
 }
+
+// DUPLICATE PREVENTION UTILITIES
+export function validateUniqueIds(): { isValid: boolean; duplicates: string[] } {
+  const ids = hotSpringsData.map(spring => spring.id);
+  const duplicateIds = ids.filter((id, index) => ids.indexOf(id) !== index);
+  const uniqueDuplicates = [...new Set(duplicateIds)];
+  
+  return {
+    isValid: uniqueDuplicates.length === 0,
+    duplicates: uniqueDuplicates
+  };
+}
+
+export function findDuplicateIds(): string[] {
+  const validation = validateUniqueIds();
+  return validation.duplicates;
+}
+
+export function checkForDuplicateId(id: string): boolean {
+  const existingIds = hotSpringsData.map(spring => spring.id);
+  return existingIds.includes(id);
+}
+
+// Development-time validation (only runs in development)
+if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
+  const validation = validateUniqueIds();
+  if (!validation.isValid) {
+    console.error('🚨 DUPLICATE HOT SPRING IDs DETECTED:', validation.duplicates);
+    console.warn('Please fix duplicate IDs before continuing development.');
+  }
+}
