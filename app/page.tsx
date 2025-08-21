@@ -105,8 +105,8 @@ export default function BasedSprings() {
       className="min-h-screen relative"
       style={{
         backgroundImage: `
-          linear-gradient(rgba(139, 69, 19, 0.1), rgba(160, 82, 45, 0.2)),
-          url('/placeholder.svg?height=1200&width=1920')
+          linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+          url('/Mono_Hot_Springs_Background.jpg')
         `,
         backgroundSize: "cover",
         backgroundPosition: "center",
@@ -114,7 +114,7 @@ export default function BasedSprings() {
       }}
     >
       {/* Background overlay for better readability */}
-      <div className="absolute inset-0 bg-gradient-to-br from-blue-50/90 via-blue-50/85 to-orange-50/90 backdrop-blur-sm"></div>
+      <div className="absolute inset-0 bg-white/80 backdrop-blur-sm"></div>
 
       <div className="relative z-10">
         {/* Header */}
