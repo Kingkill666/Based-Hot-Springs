@@ -2628,6 +2628,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "55000 CA-1, Big Sur, CA 93920",
+    website: "Esalen.org",
+    detailedDescription: "Esalen Hot Springs is one of the most iconic hot spring destinations in California, perched dramatically on the cliffs overlooking the Pacific Ocean. This world-renowned retreat center offers visitors the unique opportunity to soak in natural hot spring pools while taking in breathtaking coastal views. The springs are part of the historic Esalen Institute, which has been a center for personal growth and wellness since 1962. The clifftop location provides an unparalleled setting where visitors can watch the sunset over the Pacific while soaking in the therapeutic mineral waters.",
+    location: "Located on the Big Sur coastline, approximately 12 miles south of the town of Big Sur, California. The springs are situated on the grounds of the Esalen Institute, a renowned retreat center.",
+    directions: "From Big Sur, take CA-1 south for approximately 12 miles. Look for the Esalen Institute entrance on the ocean side of the highway. The hot springs are located on the institute grounds and require advance reservations.",
+    accessibilityDetails: "Esalen Hot Springs is accessible by paved road, but requires advance reservations as it's part of the Esalen Institute. The facility is wheelchair accessible with paved paths leading to the hot spring pools. The clifftop location provides easy access to the soaking pools.",
+    hotSpringDetails: "The hot springs feature multiple soaking pools with temperatures ranging from 100-110°F. The pools are naturally heated and filled with mineral-rich water. The main soaking area includes several pools of varying sizes, all with stunning ocean views. The water is clear and has a slight mineral taste.",
+    tips: "Reservations are required and should be made well in advance. The springs are clothing optional and part of the Esalen Institute experience. Bring your own towels and toiletries. The facility offers overnight accommodations and meal plans. Best visited during sunset for the most spectacular ocean views. Respect the peaceful, contemplative atmosphere of the institute.",
   },
   {
     id: "calistoga-hot-springs",
@@ -2665,6 +2674,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1006 Washington St, Calistoga, CA 94515",
+    website: "CalistogaHotSprings.com",
+    detailedDescription: "Calistoga Hot Springs is a historic hot spring resort located in the heart of Napa Valley's wine country. This charming town has been a destination for hot spring enthusiasts since the 1800s, when settlers discovered the therapeutic mineral waters. The resort offers a complete spa experience with mineral pools, mud baths, and wine country luxury. The hot springs are known for their healing properties and have been attracting visitors seeking relaxation and wellness for over a century.",
+    location: "Located in downtown Calistoga, California, in the northern part of Napa Valley. The resort is within walking distance of the town's main attractions and numerous wineries.",
+    directions: "From San Francisco, take US-101 north to CA-37, then CA-29 north to Calistoga. The resort is located on Washington Street in downtown Calistoga. From Sacramento, take I-80 west to CA-29 north.",
+    accessibilityDetails: "Calistoga Hot Springs is easily accessible by paved road and is located in downtown Calistoga. The facility is wheelchair accessible with paved paths and ramps. Parking is available on-site and the resort is within walking distance of downtown amenities.",
+    hotSpringDetails: "The hot springs feature multiple mineral pools with temperatures ranging from 98-104°F. The water is naturally heated and rich in minerals including sulfur, boron, and potassium. The resort offers both indoor and outdoor soaking pools, as well as private soaking tubs. The water has a distinct mineral taste and therapeutic properties.",
+    tips: "Reservations are recommended, especially during peak wine country seasons. The resort offers day passes and overnight accommodations. Bring your own towels and toiletries, though some are provided. The mud baths are a unique experience not to be missed. Best visited year-round, with spring and fall offering pleasant weather for outdoor soaking. Combine your visit with wine tasting at nearby Napa Valley wineries.",
   },
   {
     id: "7",
@@ -2709,6 +2727,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Fall through Spring",
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Deep Creek Hot Springs, Apple Valley, CA 92308",
+    website: "N/A",
+    detailedDescription: "Deep Creek Hot Springs is a remote and pristine natural hot spring located in the Mojave Desert near Apple Valley, California. This stunning location features multiple granite pools carved naturally into the desert cliffs, offering visitors a truly wild hot spring experience. The springs are situated along Deep Creek, which flows through a scenic canyon surrounded by rugged desert terrain. The remote location and natural setting make this one of the most authentic hot spring experiences in Southern California.",
+    location: "Located in the San Bernardino National Forest, approximately 15 miles northwest of Apple Valley, California. The springs are situated in a remote canyon accessible only by hiking.",
+    directions: "From Apple Valley, take CA-18 west to Deep Creek Road. Turn north and follow the road to the trailhead. The hike to the hot springs is approximately 2.5 miles one-way with moderate elevation gain. A high-clearance vehicle is recommended for the dirt road access.",
+    accessibilityDetails: "Deep Creek Hot Springs requires a moderate 2.5-mile hike each way with approximately 800 feet of elevation gain. The trail is well-marked but can be challenging in hot weather. The hot springs are not wheelchair accessible. The remote location means no services are available nearby.",
+    hotSpringDetails: "The hot springs feature multiple natural granite pools with temperatures ranging from 98-108°F. The pools are formed by natural rock formations and are filled with crystal-clear geothermal water. The largest pool can accommodate several people and is approximately 3-4 feet deep. The water flows continuously from the source and has a slight mineral taste.",
+    tips: "Hike early in the morning to avoid extreme desert heat. Bring plenty of water and wear appropriate hiking shoes. The springs are clothing optional and remote - respect the natural setting. Be prepared for primitive conditions - no restrooms or facilities available. Best visited in fall through spring when temperatures are moderate. The hike can be challenging, so be prepared for the physical exertion required.",
   },
   {
     id: "9",
