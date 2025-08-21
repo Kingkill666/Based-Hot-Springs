@@ -254,6 +254,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "1500 Old Hot Springs Rd, Carson City, NV 89706",
+  website: "carsonhotsprings.com",
+  detailedDescription: "Carson City Hot Springs Resort is a premier commercial hot springs destination featuring a large outdoor pool and private soaking tubs in the heart of Nevada's capital city. This modern resort combines the therapeutic benefits of natural mineral water with contemporary spa amenities, offering visitors a comfortable and luxurious hot springs experience. The resort's location near Lake Tahoe and the Sierra Nevada mountains provides a beautiful backdrop for relaxation and wellness.",
+  location: "Located in Carson City, Nevada, approximately 30 miles south of Reno and 15 miles east of Lake Tahoe. The resort is situated in the scenic Carson Valley with views of the Sierra Nevada mountains.",
+  directions: "From Reno, take US-395 south to Carson City, then follow Old Hot Springs Road to the resort. From Lake Tahoe, take US-50 west to Carson City. The resort is easily accessible from major highways and well-marked.",
+  accessibilityDetails: "Carson City Hot Springs Resort is fully accessible year-round with paved parking, accessible facilities, and modern amenities. The resort and spa facilities are designed to accommodate visitors of all mobility levels. The property offers a welcoming environment for visitors seeking therapeutic experiences.",
+  hotSpringDetails: "The resort features a large outdoor pool with temperatures ranging from 98-104°F. The mineral water flows from natural geothermal sources and is used in both the main pool and private soaking tubs. The pool is approximately 3-4 feet deep and can accommodate many visitors. The resort also offers private soaking tubs for a more intimate experience.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply for pool access and spa services. The resort offers spa treatments, dining options, and private soaking experiences. Best visited year-round, with each season offering different experiences. The area provides easy access to Carson City attractions and nearby Lake Tahoe. The resort is popular with both locals and visitors seeking therapeutic mineral water experiences.",
 },
 {
   id: "david-walleys-1862-hot-springs",
@@ -274,6 +283,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.3,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "2001 Foothill Rd, Genoa, NV 89411",
+  website: "davidwalleys.com",
+  detailedDescription: "David Walley's 1862 Hot Springs is a historic resort featuring multiple hot spring pools, spa services, and comfortable lodging in the charming town of Genoa, Nevada. Established in 1862, this historic resort has been serving visitors for over 150 years, offering a perfect blend of historic charm and modern amenities. The resort's location near Lake Tahoe and the Sierra Nevada mountains provides a stunning backdrop for relaxation and wellness.",
+  location: "Located in Genoa, Nevada, approximately 20 miles south of Carson City and 25 miles east of Lake Tahoe. The resort is situated in the scenic Carson Valley with views of the Sierra Nevada mountains.",
+  directions: "From Carson City, take US-395 south to Minden, then follow Foothill Road to Genoa. From Lake Tahoe, take US-50 west to Carson City, then follow US-395 south. The resort is easily accessible and well-marked.",
+  accessibilityDetails: "David Walley's 1862 Hot Springs is fully accessible year-round with paved parking, accessible facilities, and comfortable accommodations. The resort and spa facilities are designed to accommodate visitors of all mobility levels. The property offers a welcoming environment for visitors seeking therapeutic experiences.",
+  hotSpringDetails: "The resort features multiple hot spring pools with temperatures ranging from 98-104°F. The mineral water flows from natural geothermal sources and is used in various pools and spa treatments. The pools vary in size and depth, typically 3-4 feet deep, and can accommodate many visitors. The resort also offers private soaking experiences and spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply for pool access and spa services. The resort offers lodging, dining, spa treatments, and private soaking experiences. Best visited year-round, with each season offering different experiences. The area provides easy access to historic Genoa and nearby Lake Tahoe. The resort is popular with both locals and visitors seeking therapeutic mineral water experiences.",
 },
 {
   id: "dianas-punchbowl",
@@ -294,6 +312,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Monitor Valley, NV 89008",
+  website: "N/A",
+  detailedDescription: "Diana's Punchbowl is a spectacular geothermal feature featuring a deep, extremely hot pool in the middle of the Nevada desert. This natural wonder is one of the most impressive geothermal features in the state, with water temperatures reaching up to 180°F. The pool is not suitable for soaking due to its extreme temperatures, but it offers visitors a unique opportunity to witness the raw power of geothermal activity in a stunning desert setting.",
+  location: "Located in Monitor Valley, Nevada, approximately 50 miles southeast of Austin in the remote central Nevada desert. The geothermal feature is situated in a stark desert landscape surrounded by sagebrush and distant mountain ranges.",
+  directions: "From Austin, take NV-376 south for approximately 30 miles, then turn east onto a dirt road. Follow the dirt road for about 20 miles to reach Diana's Punchbowl. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Diana's Punchbowl requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The geothermal feature is located in a remote area with no services nearby. The pool is easily accessible once you reach the site, but extreme caution is required due to the very hot water.",
+  hotSpringDetails: "Diana's Punchbowl features a deep, extremely hot pool with temperatures ranging from 140-180°F. The pool is approximately 20-30 feet deep and is fed by natural geothermal sources. The water is too hot for soaking and should be viewed from a safe distance. The pool is surrounded by mineral deposits and offers a spectacular display of geothermal activity.",
+  tips: "This is a viewing-only location - the water is too hot for soaking. Extreme caution is required due to the very hot water temperatures. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for photography and experiencing the raw power of geothermal activity. Practice Leave No Trace principles to preserve this unique environment.",
 },
 {
   id: "double-hot-springs",
