@@ -1077,6 +1077,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.3,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Soldier Meadows, NV 89412",
+  website: "N/A",
+  detailedDescription: "Soldier Meadows Hot Spring System is a complex and extensive network of hot springs located in the Soldier Meadows area of northern Nevada, featuring multiple pools with varying temperatures from 90-120°F. This comprehensive hot spring system offers visitors a unique opportunity to experience different soaking temperatures within a single location, making it perfect for those who want to find their ideal comfort level. The system's complexity and variety make it one of the most interesting hot spring destinations in the Black Rock Desert region.",
+  location: "Located in Soldier Meadows, Nevada, approximately 30 miles northeast of Gerlach in the remote northern Nevada desert. The hot spring system is situated at 5,200 feet elevation in the vast Black Rock Desert region.",
+  directions: "From Gerlach, take a dirt road northeast for approximately 30 miles to reach Soldier Meadows and the hot spring system. A high-clearance vehicle or 4WD is recommended due to rough road conditions. The remote location requires careful navigation.",
+  accessibilityDetails: "Soldier Meadows Hot Spring System requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. Multiple pools are accessible with some walking required to explore the system.",
+  hotSpringDetails: "The hot spring system features multiple pools with temperatures ranging from 90-120°F, providing various soaking experiences. The pools are formed by natural geothermal sources and contain sodium, chloride, and sulfate minerals. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from geothermal sources and maintains consistent temperatures across the range. The system includes both individual pools and interconnected areas.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. Explore the different pools to find your preferred temperature. The area offers excellent opportunities for experiencing the solitude of the Black Rock Desert. Practice Leave No Trace principles to preserve this remote environment. The complex system provides a unique hot springs experience with multiple options.",
 },
 {
   id: "soldier-meadows-hot-creek-nv",
@@ -1104,6 +1113,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Soldier Meadows, NV 89412",
+  website: "N/A",
+  detailedDescription: "Soldier Meadows Hot Creek is a natural flowing hot water creek located in the Soldier Meadows area of northern Nevada, featuring a temperature range of 106-112°F and providing visitors with a unique flowing hot springs experience. This natural hot creek offers a different type of soaking experience compared to traditional pools, with continuously flowing water that provides natural circulation and a more dynamic soaking environment. The creek's natural flow creates a therapeutic massage-like effect.",
+  location: "Located in Soldier Meadows, Nevada, approximately 30 miles northeast of Gerlach in the remote northern Nevada desert. The hot creek is situated at 5,200 feet elevation in the vast Black Rock Desert region.",
+  directions: "From Gerlach, take a dirt road northeast for approximately 30 miles to reach Soldier Meadows and the hot creek. A high-clearance vehicle or 4WD is recommended due to rough road conditions. The remote location requires careful navigation.",
+  accessibilityDetails: "Soldier Meadows Hot Creek requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot creek is located in a remote area with no services nearby. The flowing water is easily accessible once you reach the site.",
+  hotSpringDetails: "The hot creek features flowing water with temperatures ranging from 106-112°F, providing comfortable soaking temperatures. The water flows continuously from geothermal sources and contains sodium, chloride, and sulfate minerals. The creek varies in depth, typically 1-2 feet deep. The flowing water provides natural circulation and a therapeutic massage effect. The creek maintains consistent hot temperatures throughout its flow.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The creek is best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The flowing water provides a unique soaking experience with natural circulation. The area offers excellent opportunities for experiencing the solitude of the Black Rock Desert. Practice Leave No Trace principles to preserve this remote environment. The flowing water creates a therapeutic massage effect.",
 },
 {
   id: "soldier-meadows-warm-pond-nv",
@@ -1131,6 +1149,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.1,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Soldier Meadows, NV 89412",
+  website: "N/A",
+  detailedDescription: "Soldier Meadows Warm Pond is a comfortable warm pond located in the Soldier Meadows area of northern Nevada, featuring a constant 85°F temperature that's perfect for extended soaking sessions. This natural warm pond offers visitors a gentle and therapeutic experience in the heart of the Black Rock Desert, providing a peaceful alternative to hotter springs. The pond setting creates a more natural and immersive soaking experience compared to traditional hot spring pools.",
+  location: "Located in Soldier Meadows, Nevada, approximately 30 miles northeast of Gerlach in the remote northern Nevada desert. The warm pond is situated at 5,200 feet elevation in the vast Black Rock Desert region.",
+  directions: "From Gerlach, take a dirt road northeast for approximately 30 miles to reach Soldier Meadows and the warm pond. A high-clearance vehicle or 4WD is recommended due to rough road conditions. The remote location requires careful navigation.",
+  accessibilityDetails: "Soldier Meadows Warm Pond requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The warm pond is located in a remote area with no services nearby. The pond is easily accessible once you reach the site.",
+  hotSpringDetails: "The warm pond features a natural pond with a constant temperature of 85°F, providing comfortable soaking temperatures. The pond is formed by natural geothermal sources and contains calcium and magnesium minerals. The pond varies in depth, typically 2-4 feet deep. The water maintains consistent warm temperatures and provides a natural pond environment for soaking.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The pond is best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The 85°F temperature is perfect for extended soaking sessions. The area offers excellent opportunities for experiencing the solitude of the Black Rock Desert. Practice Leave No Trace principles to preserve this remote environment. The pond setting provides a unique natural soaking experience.",
 },
 {
   id: "steamboat-hot-well-nv",
@@ -1158,6 +1185,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.9,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Near Reno, NV 89511",
+  website: "N/A",
+  detailedDescription: "Steamboat Hot Well is an extremely hot geothermal well located near Reno, Nevada, featuring a constant 204°F temperature that makes it too hot for soaking but creates an impressive geothermal spectacle. This natural wonder showcases the raw power of Nevada's geothermal activity in an urban setting, providing visitors with easy access to witness extreme geothermal features. The well's proximity to Reno makes it a convenient destination for those interested in geothermal phenomena.",
+  location: "Located near Reno, Nevada, approximately 10 miles south of downtown Reno in the Steamboat Springs area. The hot well is situated at 4,500 feet elevation in an urban-adjacent setting.",
+  directions: "From Reno, take US-395 south for approximately 10 miles to reach the Steamboat Springs area and the hot well. The well is easily accessible with good road access and parking available.",
+  accessibilityDetails: "Steamboat Hot Well is easily accessible with good road access and parking available. The hot well is located in an urban-adjacent area with convenient access. This is a viewing-only location due to extreme temperatures.",
+  hotSpringDetails: "The hot well features extremely hot water at a constant 204°F, making it unsuitable for soaking but spectacular for viewing. The water contains sodium, chloride, and sulfate minerals that create mineral deposits. The well creates steam and impressive geothermal activity. The extreme temperature creates a unique geothermal spectacle in an urban setting.",
+  tips: "This is a viewing-only location - the water is extremely hot and dangerous for soaking. The best viewing opportunities are during cooler weather when steam is more visible. The urban location provides easy access for geothermal enthusiasts. Exercise extreme caution around the hot well - keep a safe distance from the boiling water. The well offers excellent opportunities for photography of geothermal activity. The proximity to Reno makes this a convenient geothermal destination.",
 },
 {
   id: "virgin-valley-hot-springs-nv",
