@@ -994,6 +994,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "17600 Chena Hot Springs Rd, Fairbanks, AK 99712",
+    website: "chenahotsprings.com",
+    detailedDescription: "Chena Hot Springs Resort is Alaska's premier hot springs destination, famous for its spectacular aurora borealis viewing opportunities and unique combination of natural hot springs with an ice museum. Located in the Alaskan wilderness just 60 miles from Fairbanks, this year-round resort offers visitors an authentic Alaskan experience with world-class aurora viewing, dog sledding adventures, and therapeutic mineral soaking in one of the most remote and beautiful locations in North America.",
+    location: "Located in the Alaskan wilderness approximately 60 miles northeast of Fairbanks, accessible via Chena Hot Springs Road through scenic boreal forest and tundra landscapes.",
+    directions: "From Fairbanks, take Chena Hot Springs Road (AK-6) northeast for approximately 60 miles. The road is paved and maintained year-round, though winter driving conditions can be challenging. The resort provides shuttle service from Fairbanks airport and hotels.",
+    accessibilityDetails: "Chena Hot Springs Resort is accessible year-round with paved road access and extensive accessibility features. The resort offers accessible accommodations, dining facilities, and hot springs areas. Winter access may require special considerations due to extreme weather conditions.",
+    hotSpringDetails: "The resort features natural hot springs with temperatures ranging from 106-165°F. The mineral water is rich in sulfur, calcium, and magnesium and flows from geothermal sources deep underground. Pool options include large outdoor soaking pools, indoor pools, and private soaking areas. The outdoor pools are especially magical during aurora viewing season. Pool depths range from 3-6 feet and are designed for comfortable soaking in all weather conditions.",
+    tips: "Reservations highly recommended, especially during aurora season (September-March). The resort offers aurora viewing packages and guided tours. Swimming suits required. The Aurora Ice Museum is a must-see attraction featuring ice sculptures and an ice bar. Dog sledding tours are available year-round. Best visited during aurora season for northern lights viewing or summer for hiking and outdoor activities. The resort provides a unique combination of luxury amenities and authentic Alaskan wilderness experience.",
   },
   {
     id: "tenakee-hot-springs",
@@ -1031,6 +1040,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Tenakee Springs, AK 99841",
+    website: "N/A",
+    detailedDescription: "Tenakee Hot Springs is a historic and remote hot springs destination located on Chichagof Island in Southeast Alaska, accessible only by seaplane or ferry. This authentic Alaskan village features a historic concrete bathhouse built in 1899, offering visitors a unique glimpse into Alaska's frontier history while enjoying therapeutic mineral soaking. The remote location and traditional bathhouse create an experience that feels like stepping back in time to Alaska's early days.",
+    location: "Located on Chichagof Island in Southeast Alaska, approximately 50 miles southwest of Juneau. The hot springs are part of the small village of Tenakee Springs, which is accessible only by boat or seaplane.",
+    directions: "Access is via Alaska Marine Highway ferry from Juneau or other Southeast Alaska communities, or by seaplane from Juneau. The ferry schedule should be checked in advance as service is limited. The historic bathhouse is located in the village center and is easily accessible on foot once in Tenakee Springs.",
+    accessibilityDetails: "Tenakee Hot Springs requires ferry or seaplane travel to reach, which may have accessibility considerations. The historic bathhouse has basic facilities but limited accessibility features due to its age and remote location. The village has no roads or vehicles, requiring walking to access all facilities.",
+    hotSpringDetails: "The hot springs feature a historic concrete bathhouse with temperatures ranging from 106-108°F. The mineral water is rich in sulfur, sodium, and chloride and flows from natural geothermal springs. The bathhouse contains individual soaking tubs and is designed for private use. The water flows continuously from the springs and maintains consistent temperatures. The historic setting provides a unique soaking experience in a traditional Alaskan bathhouse.",
+    tips: "Ferry reservations are essential as service is limited and seasonal. The village has limited accommodations, so advance planning is required. The bathhouse operates on a first-come, first-served basis with time limits. Swimming suits are required. The village offers excellent opportunities for fishing, wildlife viewing, and experiencing authentic Alaskan culture. Best visited during May-September when ferry service is more frequent and weather is more favorable. This is one of Alaska's most authentic and historic hot springs experiences.",
   },
   {
     id: "124",
