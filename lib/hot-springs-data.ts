@@ -575,6 +575,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "16025 S Virginia St, Reno, NV 89521",
+  website: "steamboatsprings.com",
+  detailedDescription: "Steamboat Hot Springs is a historic spa and wellness center featuring geothermal pools and therapeutic treatments in Reno, Nevada. This historic facility has been serving visitors for decades, offering a perfect blend of traditional hot springs therapy and modern spa amenities. The center provides a comfortable and professional environment for those seeking therapeutic mineral water experiences in the heart of Nevada's largest city.",
+  location: "Located in Reno, Nevada, approximately 5 miles south of downtown Reno. The spa is situated in a convenient location easily accessible from major highways and the Reno-Tahoe International Airport.",
+  directions: "From downtown Reno, take S Virginia Street south for approximately 5 miles. From the airport, take US-395 south to S Virginia Street. The spa is well-marked and easily accessible from major roads.",
+  accessibilityDetails: "Steamboat Hot Springs is fully accessible year-round with paved parking, accessible facilities, and professional spa amenities. The spa and wellness center are designed to accommodate visitors of all mobility levels. The facility offers a welcoming environment for visitors seeking therapeutic experiences.",
+  hotSpringDetails: "The spa features geothermal pools with temperatures ranging from 98-104°F. The mineral water flows from natural geothermal sources and is used in various spa treatments and therapeutic pools. The facility offers both private soaking experiences and professional spa services. The water flows continuously from the spring source and is used in various wellness treatments.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply for spa services and pool access. The facility offers professional spa treatments, wellness services, and private soaking experiences. Best visited year-round, with each season offering comfortable temperatures for treatments. The area provides easy access to Reno attractions and amenities. The spa is popular with both locals and visitors seeking professional therapeutic experiences.",
 },
 {
   id: "12-mile-hot-springs",
@@ -595,6 +604,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.4,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Wells, NV 89835",
+  website: "N/A",
+  detailedDescription: "12 Mile Hot Springs is a popular hot springs destination featuring a long concrete pool in a scenic canyon near Wells, Nevada. This well-developed hot spring offers visitors a comfortable soaking experience with the convenience of a concrete pool while surrounded by the natural beauty of the canyon. The springs are particularly popular for swimming and soaking, providing a perfect balance of accessibility and natural setting.",
+  location: "Located near Wells, Nevada, approximately 12 miles northwest of Wells in a scenic canyon setting. The hot springs are situated at 5,700 feet elevation with views of the surrounding canyon walls.",
+  directions: "From Wells, take a dirt road northwest for approximately 12 miles to reach the hot springs. A high-clearance vehicle is recommended due to rough road conditions. The canyon location provides a beautiful backdrop for the soaking experience.",
+  accessibilityDetails: "12 Mile Hot Springs requires driving on dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The concrete pool is easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature a long concrete pool with temperatures ranging from 100-106°F. The pool is approximately 3-4 feet deep and can accommodate many visitors comfortably. The water flows continuously from natural geothermal sources and maintains consistent warm temperatures. The concrete construction provides a clean and comfortable soaking experience.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited from late spring to early fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for swimming, soaking, and enjoying the scenic canyon setting. Practice Leave No Trace principles to preserve this environment. The concrete pool provides a comfortable soaking experience and is popular with visitors.",
 },
 {
   id: "trego-hot-springs",
@@ -615,6 +633,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Gerlach, NV 89412",
+  website: "N/A",
+  detailedDescription: "Trego Hot Springs is a primitive hot spring located in the vast Black Rock Desert near Gerlach, Nevada. This undeveloped hot spring is known for its unique mud-bottomed pools, offering visitors a truly authentic and rustic soaking experience in one of Nevada's most remote desert environments. The springs provide a perfect escape into the solitude of the Black Rock Desert, known for its stark beauty and the annual Burning Man festival.",
+  location: "Located near Gerlach, Nevada, approximately 20 miles northeast of Gerlach in the remote Black Rock Desert. The hot springs are situated in a stark desert landscape surrounded by sagebrush and distant mountain ranges.",
+  directions: "From Gerlach, take a dirt road northeast for approximately 20 miles to reach the hot springs. A high-clearance vehicle or 4WD is recommended due to rough road conditions. The remote location requires careful navigation.",
+  accessibilityDetails: "Trego Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The mud-bottomed pools are easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature mud-bottomed pools with temperatures ranging from 100-104°F. The pools are formed by natural geothermal sources and have unique mud bottoms that provide a distinctive soaking experience. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from geothermal sources and maintains consistent warm temperatures.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for experiencing the solitude of the Black Rock Desert. Practice Leave No Trace principles to preserve this remote environment. The mud-bottomed pools provide a unique soaking experience.",
 },
 {
   id: "warm-springs-nv",
