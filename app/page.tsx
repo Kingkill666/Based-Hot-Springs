@@ -103,15 +103,15 @@ export default function BasedSprings() {
   return (
     <div
       className="min-h-screen relative"
-      style={{
-        backgroundImage: `
-          linear-gradient(rgba(139, 69, 19, 0.1), rgba(160, 82, 45, 0.2)),
-          url('/placeholder.svg?height=1200&width=1920')
-        `,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        backgroundAttachment: "fixed",
-      }}
+              style={{
+          backgroundImage: `
+            linear-gradient(rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02)),
+            url('/Mono_Hot_Springs_Background.jpg')
+          `,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          backgroundAttachment: "fixed",
+        }}
     >
       {/* Background overlay for better readability */}
       <div className="absolute inset-0 bg-white/2 backdrop-blur-sm"></div>
