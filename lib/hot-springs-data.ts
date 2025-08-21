@@ -10635,6 +10635,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Wall St, Stanley, ID 83278",
+    website: "mountainvillageresort.com",
+    detailedDescription: "Mountain Village Resort is a charming mountain resort located in the heart of Stanley, offering comfortable accommodations with private hot springs amenities. This family-owned resort provides an authentic mountain town experience with modern comforts, featuring private hot springs tubs for guests and a restaurant serving hearty mountain cuisine. The resort combines rustic charm with contemporary amenities in the spectacular Sawtooth Mountains setting.",
+    location: "Located in downtown Stanley, Idaho, in the heart of the Sawtooth Mountains recreational area.",
+    directions: "From Boise, take ID-21 north through Lowman and continue to Stanley (approximately 130 miles). The resort is located on Wall Street in downtown Stanley and is easily accessible year-round.",
+    accessibilityDetails: "Mountain Village Resort is accessible year-round with paved road access directly into Stanley. The resort offers accessible parking and accommodations. Some rooms and facilities may have limited accessibility due to the mountain setting and older building structures.",
+    hotSpringDetails: "The resort features private hot springs tubs for guest use with temperatures ranging from 100-104°F. The mineral water is sourced from local geothermal springs and is rich in sodium. The private tubs are designed for intimate soaking experiences and can accommodate 2-4 people. The tubs are maintained with clean, heated mineral water and offer privacy for resort guests.",
+    tips: "Reservations required for all lodging and recommended for dining. The resort offers package deals that include meals and hot springs access. Private hot springs tubs are available exclusively for registered guests. The downtown Stanley location provides easy walking access to shops and other attractions. Best visited year-round with winter offering snow sports and summer providing hiking and fishing opportunities. The restaurant features local cuisine and mountain specialties. The resort offers a genuine mountain town experience with personalized service.",
   },
   {
     id: "mundo-hot-springs-id",
@@ -10663,6 +10672,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "13671 Galloway Rd, Cambridge, ID 83610",
+    website: "mundohotsprings.com",
+    detailedDescription: "Mundo Hot Springs is a well-developed hot springs resort featuring a large soaking pool, comfortable cabin accommodations, and full RV park facilities. Located in the scenic Weiser River valley near Cambridge, this family-friendly resort offers a relaxing getaway with modern amenities and beautiful natural surroundings. The resort has been serving visitors for many years and provides excellent facilities for both day use and extended stays.",
+    location: "Located near Cambridge, Idaho, in the Weiser River valley in western Idaho, approximately 10 miles from Cambridge.",
+    directions: "From Cambridge, take US-95 south, then turn east on Galloway Road and follow signs to Mundo Hot Springs. The resort is accessible year-round via paved and maintained gravel roads.",
+    accessibilityDetails: "Mundo Hot Springs is accessible year-round with good road access and ample parking. The resort offers accessible facilities and accommodations designed for various mobility levels. The pool area has accessible entrances and the grounds are well-maintained.",
+    hotSpringDetails: "The resort features a large hot springs pool with temperatures ranging from 100-104°F. The natural mineral water is rich in sodium and flows from artesian springs on the property. The pool is approximately 4-6 feet deep and can accommodate many visitors comfortably. The pool is maintained with continuous flow-through systems ensuring clean, fresh mineral water at all times.",
+    tips: "Open year-round with day use and overnight accommodations available. Reservations recommended for cabins and RV sites, especially during peak summer months. The resort offers full RV hookups and comfortable cabin rentals. Swimming suits required. The on-site restaurant serves hearty meals. The Weiser River valley setting offers excellent opportunities for fishing, hiking, and wildlife viewing. Best visited year-round with each season offering different outdoor recreation opportunities. The resort provides a peaceful retreat from urban life.",
   },
   {
     id: "nat-soo-pah-hot-springs-id",
@@ -10691,6 +10709,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "2738 E 2400 S, Hollister, ID 83301",
+    website: "natsoopahotsprings.com",
+    detailedDescription: "Nat-Soo-Pah Hot Springs is a popular family-friendly resort featuring natural mineral pools, exciting water slides, and excellent camping facilities. Located in the high desert of southern Idaho near Hollister, this seasonal resort offers fun-filled activities for families and groups. The resort has been a favorite destination for generations and continues to provide wholesome entertainment in a beautiful natural setting.",
+    location: "Located near Hollister, Idaho, in the Snake River valley in south-central Idaho, approximately 20 miles from Twin Falls.",
+    directions: "From Twin Falls, take US-93 south toward Nevada for about 15 miles, then turn east toward Hollister and follow signs to Nat-Soo-Pah Hot Springs. The resort is accessible during operating season via paved and gravel roads.",
+    accessibilityDetails: "Nat-Soo-Pah Hot Springs is open seasonally (typically late spring through early fall) with good road access during operating months. The resort offers accessible parking and facilities. Pool areas have steps and designated access points for various mobility levels.",
+    hotSpringDetails: "The resort features multiple hot springs pools with temperatures ranging from 99-106°F. The natural mineral water is rich in sodium and known for its therapeutic properties. Pool options include large soaking pools (4-6 feet deep), a swimming pool (3-8 feet deep), and exciting water slides for children and adults. The pools are maintained with fresh mineral water flow-through systems.",
+    tips: "Open seasonally from late spring through early fall. Day use and camping available with reservations recommended during peak summer months. The resort is very family-friendly with activities for all ages. Swimming suits required. Water slides are a major attraction for children. The on-site restaurant serves casual dining. No glass containers allowed in pool areas. RV and tent camping sites available with hookups. Best visited during summer months when all facilities are open and weather is warm for outdoor activities.",
   },
   {
     id: "pincock-hot-springs-id",
@@ -10718,6 +10745,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Bear River, Preston, ID 83263",
+    website: "N/A",
+    detailedDescription: "Pincock Hot Springs is a primitive and undeveloped hot springs destination located along the scenic Bear River near Preston, Idaho. These natural hot springs offer a rustic wilderness experience for visitors seeking a more adventurous and secluded soaking opportunity. The springs are located in a beautiful riverside setting with minimal development, preserving their natural character.",
+    location: "Located along the Bear River near Preston, Idaho, in southeastern Idaho close to the Utah border.",
+    directions: "From Preston, follow local roads toward the Bear River. Access requires local knowledge and potentially hiking. The exact route can vary depending on seasonal conditions and private property considerations. GPS coordinates and local guidance are recommended.",
+    accessibilityDetails: "Pincock Hot Springs requires moderate outdoor skills and preparation. Access may involve hiking and navigation along the riverbank. The area has no facilities, marked trails, or services. River conditions and weather can affect accessibility. Some outdoor experience is recommended for safe access.",
+    hotSpringDetails: "The hot springs feature primitive natural pools with temperatures ranging from 100-104°F. The pools are undeveloped and formed naturally along the riverbank. Pool sizes and depths vary with seasonal water flow and are typically 2-4 feet deep. The mineral-rich water contains sodium and flows directly from natural springs. The pristine riverside setting offers peaceful soaking with natural beauty.",
+    tips: "This is a clothing optional location. Bring towels and water as there are no facilities. Access may require hiking and local knowledge. Practice Leave No Trace principles to preserve this natural area. The riverside setting can be affected by seasonal water levels. Best visited during spring and fall when temperatures are moderate and water levels are stable. Respect private property and local regulations. Dispersed camping may be available but requires self-sufficiency and appropriate permits.",
   },
   {
     id: "pine-flats-hot-springs-id",
