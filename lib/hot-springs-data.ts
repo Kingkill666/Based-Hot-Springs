@@ -468,6 +468,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.9,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Paradise Valley, NV 89426",
+  website: "N/A",
+  detailedDescription: "Paradise Valley Hot Springs is a primitive hot spring located in the remote Paradise Valley area of northern Nevada. This undeveloped hot spring offers visitors a truly wild and authentic experience in the vast Nevada desert. The springs are known for their remote setting and provide a peaceful retreat for those seeking solitude and natural hot springs experiences away from civilization.",
+  location: "Located in Paradise Valley, Nevada, approximately 50 miles northeast of Winnemucca in the remote northern Nevada desert. The hot springs are situated in a stark desert landscape surrounded by sagebrush and distant mountain ranges.",
+  directions: "From Winnemucca, take US-95 north for approximately 40 miles, then turn east onto a dirt road toward Paradise Valley. Follow the dirt road for about 10 miles to reach the hot springs. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Paradise Valley Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The springs are easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-104°F. The pools are formed by natural rock formations and are filled with geothermal water. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from geothermal sources and maintains consistent warm temperatures.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for wildlife viewing and experiencing the solitude of the Nevada desert. Practice Leave No Trace principles to preserve this remote environment.",
 },
 {
   id: "rogers-springs",
@@ -508,6 +517,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Ruby Valley, NV 89833",
+  website: "N/A",
+  detailedDescription: "Ruby Valley Hot Springs is a stunning series of clear, blue pools located in a remote valley in northeastern Nevada. This pristine hot springs destination is known for its exceptional beauty and isolation, offering visitors a truly magical experience in the high desert. The crystal-clear water and multiple pools create a paradise-like setting that makes the journey to this remote location well worth the effort.",
+  location: "Located in Ruby Valley, Nevada, approximately 60 miles southeast of Elko in the remote northeastern Nevada desert. The hot springs are situated in a beautiful valley at 6,000 feet elevation surrounded by sagebrush and mountain ranges.",
+  directions: "From Elko, take US-80 east to NV-229, then follow NV-229 south toward Ruby Valley. Turn onto a dirt road and follow for approximately 10 miles to reach the hot springs. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Ruby Valley Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. Multiple pools are accessible with some walking required.",
+  hotSpringDetails: "The hot springs feature a series of clear, blue pools with temperatures ranging from 100-108°F. The pools are formed by natural rock formations and are filled with crystal-clear geothermal water. The pools vary in size and depth, typically 1-3 feet deep, and can accommodate several people. The water flows continuously from geothermal sources and maintains consistent warm temperatures.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited from late spring to early fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for photography, wildlife viewing, and experiencing the solitude of the high desert. Practice Leave No Trace principles to preserve this pristine environment. The crystal-clear water makes this one of Nevada's most beautiful hot springs destinations.",
 },
 {
   id: "spencer-hot-springs",
@@ -528,6 +546,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Austin, NV 89310",
+  website: "N/A",
+  detailedDescription: "Spencer Hot Springs is a popular cluster of primitive hot springs featuring metal soaking tubs and spectacular views of the Toiyabe Range near Austin, Nevada. This well-known hot springs destination offers visitors a unique combination of rustic soaking experiences with modern metal tubs, all while surrounded by the stunning beauty of the Nevada high desert. The springs are particularly popular for their accessibility and the comfort provided by the metal tubs.",
+  location: "Located near Austin, Nevada, approximately 20 miles southeast of Austin in the remote central Nevada desert. The hot springs are situated at 5,700 feet elevation with views of the Toiyabe Range.",
+  directions: "From Austin, take US-50 east for approximately 15 miles, then turn south onto a dirt road. Follow the dirt road for about 5 miles to reach the hot springs. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Spencer Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The metal tubs are easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature a cluster of metal soaking tubs with temperatures ranging from 100-110°F. The tubs are filled with natural geothermal water and provide a comfortable soaking experience. The tubs vary in size and can accommodate 2-4 people each. The water flows continuously from geothermal sources and maintains consistent warm temperatures. The metal tubs offer a unique soaking experience compared to natural rock pools.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for stargazing, wildlife viewing, and experiencing the solitude of the high desert. Practice Leave No Trace principles to preserve this environment. The metal tubs provide a comfortable soaking experience and are popular with visitors.",
 },
 {
   id: "steamboat-hot-springs",
