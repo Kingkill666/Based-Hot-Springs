@@ -17558,6 +17558,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "12200 San Servando Ave, North Port, FL 34287",
+  website: "warmmineralsprings.com",
+  detailedDescription: "Warm Mineral Springs is Florida's only natural warm mineral spring, featuring a massive circular pool with healing mineral water that maintains a constant 87°F temperature year-round. This unique geological wonder contains over 50 minerals and has been used for therapeutic purposes for centuries. The spring is fed by an ancient aquifer and provides visitors with a one-of-a-kind soaking experience in the heart of Florida's Gulf Coast region.",
+  location: "Located in North Port, Florida, approximately 20 miles south of Sarasota and 30 miles north of Fort Myers. The spring is situated in a natural setting surrounded by Florida's unique subtropical landscape.",
+  directions: "From Sarasota, take I-75 south to exit 191 (North Port), then follow Toledo Blade Boulevard east to San Servando Avenue. From Fort Myers, take I-75 north to exit 191. The spring is well-marked and easily accessible from major highways.",
+  accessibilityDetails: "Warm Mineral Springs is fully accessible with paved parking, accessible restrooms, and pool access features. The facility offers accessible entrances and the pool area is designed to accommodate visitors of all mobility levels. The site provides a comfortable and welcoming environment for all visitors.",
+  hotSpringDetails: "The spring features a large circular pool with a constant temperature of 87°F. The mineral water contains over 50 minerals including sodium, chloride, sulfate, calcium, magnesium, and potassium. The pool is approximately 200 feet in diameter and 250 feet deep at the center. The water flows continuously from the natural spring source, creating a therapeutic soaking experience. The facility includes spa services and a restaurant for a complete wellness experience.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply. Swimming suits required. The spring is popular with visitors seeking therapeutic benefits and natural healing. The facility offers spa services and dining options. Best visited year-round, with each season offering comfortable temperatures for soaking. The spring is particularly popular during Florida's cooler winter months. The area provides easy access to nearby beaches and attractions in the Sarasota area.",
 },
 // GEORGIA HOT SPRINGS
 {
@@ -17586,6 +17595,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "2501 Radium Springs Rd, Albany, GA 31705",
+  website: "N/A",
+  detailedDescription: "Radium Springs Gardens is a historic natural spring site featuring beautiful gardens and a natural spring with unique radium content. Once a popular resort destination in the early 20th century, the site now serves as a public park showcasing the natural spring and meticulously maintained gardens. The spring water contains trace amounts of radium and maintains a constant 68°F temperature, creating a unique natural attraction in southwest Georgia.",
+  location: "Located in Albany, Georgia, approximately 180 miles south of Atlanta and 90 miles north of Tallahassee, Florida. The gardens are situated along the Flint River in a historic area of Albany.",
+  directions: "From downtown Albany, take Radium Springs Road south to the gardens. The site is well-marked and easily accessible from major roads in Albany. Parking is available at the garden entrance.",
+  accessibilityDetails: "Radium Springs Gardens is accessible year-round with paved parking and accessible restrooms. The garden pathways are well-maintained and suitable for visitors of all mobility levels. The site offers a peaceful and accessible environment for enjoying the natural spring and gardens.",
+  hotSpringDetails: "The natural spring features water with a constant temperature of 68°F and contains trace amounts of radium along with calcium and magnesium minerals. The spring flows into a clear pool surrounded by beautiful gardens. The water is not suitable for swimming but provides a unique natural attraction. The gardens showcase the spring in a beautiful natural setting with walking paths and viewing areas.",
+  tips: "Open year-round with no admission fee. The spring water is not suitable for swimming or drinking. The site is perfect for photography, nature walks, and enjoying the historic gardens. Best visited during spring and fall when the gardens are in full bloom and temperatures are comfortable. The area provides excellent opportunities for bird watching and enjoying the natural beauty of southwest Georgia. The historic significance of the site makes it an interesting destination for history enthusiasts.",
 },
 {
   id: "warm-springs-ga",
@@ -17613,6 +17631,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.4,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Warm Springs, GA 31830",
+  website: "warmspringsga.com",
+  detailedDescription: "Warm Springs is a historic resort town famous for its therapeutic warm springs and its connection to President Franklin D. Roosevelt, who visited regularly for polio treatment. The springs maintain a constant 88°F temperature and have been used for therapeutic purposes for centuries. The town features historic buildings, the Little White House where FDR stayed, and modern spa facilities that continue the tradition of healing waters.",
+  location: "Located in Warm Springs, Georgia, approximately 70 miles southwest of Atlanta in the rolling hills of west-central Georgia. The town is situated in a beautiful rural setting surrounded by pine forests and rolling countryside.",
+  directions: "From Atlanta, take I-85 south to exit 21, then follow GA-85 south to Warm Springs. From Columbus, take GA-85 north. The town is easily accessible from major highways and well-marked with historic signage.",
+  accessibilityDetails: "Warm Springs is accessible year-round with paved parking and accessible facilities. The historic sites and modern spa facilities are designed to accommodate visitors of all mobility levels. The town offers a welcoming environment for visitors seeking therapeutic experiences.",
+  hotSpringDetails: "The warm springs feature water with a constant temperature of 88°F and contain therapeutic minerals including calcium, magnesium, sulfate, and sodium. The springs are used in modern spa treatments and therapeutic pools. The water flows from natural sources and has been used for healing purposes for generations. The facility offers both historic tours and modern spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply for spa services and historic tours. The town offers lodging, dining, and spa services. Best visited year-round, with each season offering different experiences. The historic significance and therapeutic properties make this a unique destination. The area provides opportunities to learn about FDR's connection to the springs and enjoy modern spa treatments. The Little White House historic site offers fascinating insights into presidential history.",
 },
 // ILLINOIS HOT SPRINGS
 {
@@ -17641,6 +17668,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Galena, IL 61036",
+  website: "N/A",
+  detailedDescription: "Galena Hot Springs are natural mineral springs located in the historic town of Galena, Illinois, known for their therapeutic properties and connection to the area's rich mining history. The springs have been used for centuries by Native Americans and early settlers for their healing properties. The historic town of Galena, with its well-preserved 19th-century architecture, provides a beautiful backdrop for experiencing these natural mineral waters.",
+  location: "Located in Galena, Illinois, approximately 160 miles northwest of Chicago in the rolling hills of northwest Illinois. The springs are situated in the historic downtown area near the Mississippi River.",
+  directions: "From Chicago, take I-90 west to Rockford, then follow US-20 west to Galena. From Dubuque, Iowa, take US-20 east to Galena. The historic town is easily accessible and well-marked with visitor information.",
+  accessibilityDetails: "Galena Hot Springs are accessible year-round with paved parking available in the historic downtown area. The springs are located in a public area with easy access. The historic town offers accessible facilities and accommodations for visitors.",
+  hotSpringDetails: "The mineral springs feature water with a constant temperature of 72°F and contain therapeutic minerals including calcium, magnesium, and sulfate. The springs flow naturally from underground sources and have been used for therapeutic purposes for generations. The water is suitable for drinking and external therapeutic use.",
+  tips: "Open year-round with no admission fee. The springs are located in the historic downtown area of Galena. Best visited year-round, with each season offering different experiences in the historic town. The area provides excellent opportunities to explore Galena's rich history, architecture, and the Mississippi River. The town offers numerous dining, shopping, and lodging options for a complete historic experience.",
 },
 // INDIANA HOT SPRINGS
 {
@@ -17669,6 +17705,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.3,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "French Lick, IN 47432",
+  website: "frenchlick.com",
+  detailedDescription: "French Lick Springs is a historic mineral springs resort town that became famous in the 1800s for its therapeutic mineral waters. The town features the iconic French Lick Resort and the magnificent West Baden Springs Hotel, both built around the natural mineral springs. The springs were discovered by Native Americans and later developed into one of America's premier health destinations, attracting visitors from around the world seeking the healing properties of the mineral waters.",
+  location: "Located in French Lick, Indiana, approximately 100 miles southwest of Indianapolis in the rolling hills of southern Indiana. The resort town is situated in a beautiful rural setting surrounded by the Hoosier National Forest.",
+  directions: "From Indianapolis, take I-65 south to exit 76, then follow IN-37 south to French Lick. From Louisville, Kentucky, take I-64 west to exit 79, then follow IN-37 north. The resort town is well-marked and easily accessible.",
+  accessibilityDetails: "French Lick Springs is fully accessible year-round with paved parking, accessible facilities, and accommodations. The historic resorts are designed to accommodate visitors of all mobility levels. The town offers a welcoming environment for visitors seeking therapeutic experiences and historic luxury.",
+  hotSpringDetails: "The mineral springs feature water with a constant temperature of 58°F and contain therapeutic minerals including sodium, chloride, sulfate, and calcium. The springs are used in modern spa treatments and therapeutic pools. The water flows from natural sources and has been used for healing purposes for generations. The resort offers both historic tours and modern spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply for spa services and resort access. The town offers luxury lodging, fine dining, and world-class spa services. Best visited year-round, with each season offering different experiences. The historic significance and luxury amenities make this a unique destination. The area provides opportunities to experience the grandeur of early 20th-century resort life and enjoy modern spa treatments. The West Baden Springs Hotel is a National Historic Landmark and architectural marvel.",
 },
 // MASSACHUSETTS HOT SPRINGS
 {
