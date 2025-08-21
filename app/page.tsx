@@ -101,17 +101,15 @@ export default function BasedSprings() {
   }, [hotSpringsData]);
 
   return (
-    <div
-      className="min-h-screen relative"
-              style={{
+          <div
+        className="min-h-screen relative"
+        style={{
           backgroundImage: `url('/Mono_Hot_Springs_Background.jpg')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundAttachment: "fixed",
         }}
-    >
-      {/* Background overlay for better readability */}
-      <div className="absolute inset-0 bg-white/0 backdrop-blur-[10px]"></div>
+      >
 
       <div className="relative z-10">
         {/* Header */}
