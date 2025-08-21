@@ -8903,6 +8903,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "59315 OR-78, Burns, OR 97720",
+    website: "crystalcranehotsprings.com",
+    detailedDescription: "Crystal Crane Hot Springs is a peaceful resort located in the high desert of eastern Oregon. The resort features a large natural hot springs pond, private soaking tubs, and comfortable accommodations. The setting offers stunning views of the surrounding desert landscape and is perfect for stargazing.",
+    location: "Located approximately 25 miles southeast of Burns, Oregon in the high desert region of eastern Oregon.",
+    directions: "From Burns, take OR-78 southeast for about 25 miles. The resort is well-marked and easily accessible from the highway. Follow the signs to the entrance.",
+    accessibilityDetails: "Crystal Crane Hot Springs is accessible via paved roads. The resort offers ADA-compliant lodging options and accessible pool areas. The large pond has gradual entry points suitable for most visitors.",
+    hotSpringDetails: "The resort features a large natural hot springs pond with temperatures ranging from 99-102°F. The pond is approximately 4-5 feet deep and can accommodate multiple visitors. There are also private soaking tubs available for rent. The water is naturally heated and rich in sodium minerals.",
+    tips: "Reservations are recommended, especially during peak seasons. The resort offers both day passes and overnight accommodations. Bring your own towels and swimwear. The desert setting provides excellent stargazing opportunities. The resort is pet-friendly. Best visited year-round, with each season offering unique desert experiences.",
   },
   {
     id: "deer-creek-hot-springs-or",
@@ -8931,6 +8940,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "McKenzie River, Blue River, OR 97413",
+    website: "N/A",
+    detailedDescription: "Deer Creek Hot Springs, also known as Bigelow Hot Springs, is a small, natural hot spring pool located along the scenic McKenzie River. This primitive hot spring offers a peaceful soaking experience in a beautiful forest setting, perfect for those seeking a quiet, natural hot spring experience.",
+    location: "Located along the McKenzie River near Blue River, Oregon, approximately 60 miles east of Eugene in the Cascade Mountains.",
+    directions: "From Eugene, take OR-126 east toward Blue River. Look for the pullout along the McKenzie River. The hot spring is accessible via a short walk from the parking area. Follow the well-worn path to the river's edge.",
+    accessibilityDetails: "Deer Creek Hot Springs requires a short walk from the parking area to the river. The path may be muddy or slippery depending on weather conditions. The hot spring is not wheelchair accessible due to the natural terrain and river access.",
+    hotSpringDetails: "The hot spring features a small, natural pool with temperatures ranging from 102-104°F. The pool is approximately 3-4 feet in diameter and 2-3 feet deep. The water is naturally heated and flows continuously from the source. The pool can accommodate 2-3 people comfortably.",
+    tips: "This is a clothing optional hot spring. Bring your own towels and water. The area can be crowded on weekends, so consider visiting during weekdays. Be respectful of other visitors and the natural environment. The water temperature can vary, so test before entering. Best visited during spring and fall when the weather is moderate.",
   },
   {
     id: "grande-hot-springs-or",
@@ -9015,6 +9033,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "66172 Hot Lake Ln, La Grande, OR 97850",
+    website: "hotlakesprings.com",
+    detailedDescription: "Hot Lake Hot Springs is a historic resort that has been welcoming visitors since the 1860s. The resort features a large hot springs pool, comfortable hotel accommodations, and a fascinating museum showcasing the area's rich history. The property offers a unique blend of historic charm and modern amenities.",
+    location: "Located approximately 8 miles south of La Grande, Oregon in the beautiful Grande Ronde Valley of northeastern Oregon.",
+    directions: "From La Grande, take OR-203 south for about 8 miles. Turn onto Hot Lake Lane and follow the signs to the resort. The property is well-marked and easily accessible.",
+    accessibilityDetails: "Hot Lake Hot Springs is accessible via paved roads. The resort offers ADA-compliant lodging options and accessible pool areas. The historic buildings may have some accessibility limitations due to their age.",
+    hotSpringDetails: "The resort features a large hot springs pool with temperatures ranging from 104-112°F. The pool is filled with naturally heated geothermal water rich in sodium minerals. The pool is approximately 4-5 feet deep and can accommodate multiple visitors. The water is continuously refreshed from the natural spring source.",
+    tips: "Reservations are recommended, especially during peak seasons. The resort offers both day passes and overnight accommodations. Bring your own towels and swimwear. The museum is worth visiting to learn about the area's history. The restaurant serves excellent meals with local ingredients. Best visited year-round, with each season offering unique experiences in the Grande Ronde Valley.",
   },
   {
     id: "hunters-hot-springs-or",
