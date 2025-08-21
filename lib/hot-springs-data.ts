@@ -933,6 +933,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Panaca, NV 89042",
+  website: "N/A",
+  detailedDescription: "Panaca Warm Springs is a comfortable warm springs destination located in the small town of Panaca, Nevada, featuring a pleasant temperature range of 78-86°F that's perfect for year-round soaking. These warm springs offer visitors a gentle, therapeutic experience in a peaceful rural setting. The springs are known for their consistent warm temperatures and easy accessibility, making them ideal for families and those seeking a relaxing soak without the intensity of hotter springs.",
+  location: "Located in the town of Panaca, Nevada, approximately 20 miles northwest of Caliente in the scenic eastern Nevada region. The warm springs are situated at 4,800 feet elevation in a beautiful valley setting near Cathedral Gorge State Park.",
+  directions: "From Caliente, take US-93 north for approximately 20 miles to reach Panaca. The warm springs are easily accessible within the town limits. From Panaca, follow local directions to the warm springs area.",
+  accessibilityDetails: "Panaca Warm Springs are easily accessible with good road access and parking available. The warm springs are located within the town limits, making them convenient for visitors. The pools are easily accessible with minimal walking required.",
+  hotSpringDetails: "The warm springs feature natural pools with a comfortable temperature range of 78-86°F, providing gentle soaking temperatures. The pools are formed by natural geothermal sources and contain calcium and magnesium minerals. The pools vary in size and depth, typically 1-2 feet deep. The water flows continuously from geothermal sources and maintains consistent warm temperatures year-round.",
+  tips: "This is a family-friendly location suitable for all ages. The warm temperatures make it perfect for extended soaking sessions. The springs are best visited year-round due to their comfortable temperatures. Bring towels and water as there are limited facilities. The area offers excellent opportunities for combining with a visit to nearby Cathedral Gorge State Park. The rural setting provides a peaceful and relaxing atmosphere. Practice Leave No Trace principles to preserve this natural resource.",
 },
 {
   id: "pott-ranch-hot-spring-nv",
@@ -960,6 +969,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.9,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Near Austin, NV 89310",
+  website: "N/A",
+  detailedDescription: "Pott's Ranch Hot Spring is a private hot spring located on Pott's Ranch near Austin, Nevada, featuring a constant 113°F temperature and offering visitors a unique rural soaking experience. This private hot spring provides an intimate and secluded environment for those seeking a peaceful hot springs experience away from crowds. The ranch setting adds to the authentic western atmosphere and provides a glimpse into rural Nevada life.",
+  location: "Located on Pott's Ranch near Austin, Nevada, approximately 15 miles from the town of Austin in the scenic central Nevada region. The hot spring is situated at 5,800 feet elevation in a beautiful rural setting surrounded by the Toiyabe Range.",
+  directions: "From Austin, take local roads to reach Pott's Ranch. The exact location requires permission from the ranch owners. Contact the ranch directly for specific directions and access arrangements.",
+  accessibilityDetails: "Pott's Ranch Hot Spring requires permission from the ranch owners to visit. Access is typically through arrangements with the property owners. The hot spring is located on private property and is not accessible to the general public without permission. Good road access once permission is granted.",
+  hotSpringDetails: "The hot spring features a natural pool with a constant temperature of 113°F, providing a comfortable soaking experience. The pool is formed by natural geothermal sources and contains sodium, chloride, and sulfate minerals. The pool is typically 2-3 feet deep and can accommodate several people. The water flows continuously from geothermal sources and maintains consistent hot temperatures.",
+  tips: "This is a private location requiring permission to visit. Contact the ranch owners in advance to arrange access. The 113°F temperature is comfortable for extended soaking. Respect the private property and follow any guidelines provided by the ranch owners. The rural setting offers excellent opportunities for experiencing authentic Nevada ranch life. Bring your own supplies as facilities are limited. The area provides a peaceful and secluded hot springs experience.",
 },
 {
   id: "rainbow-hot-springs-nv",
@@ -987,6 +1005,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Smith Creek, NV 89820",
+  website: "N/A",
+  detailedDescription: "Rainbow Hot Springs is an extremely hot geothermal feature located in Smith Creek, Nevada, featuring a constant 197°F temperature that makes it too hot for soaking but creates an impressive geothermal spectacle. This natural wonder showcases the raw power of Nevada's geothermal activity and provides visitors with a unique opportunity to witness extreme geothermal features. The springs are named for the colorful mineral deposits and steam that create rainbow-like effects in the air.",
+  location: "Located in Smith Creek, Nevada, approximately 25 miles southeast of Battle Mountain in the remote central Nevada desert. The hot springs are situated at 5,200 feet elevation in a scenic desert canyon setting.",
+  directions: "From Battle Mountain, take a dirt road southeast for approximately 25 miles to reach Smith Creek and Rainbow Hot Springs. A high-clearance vehicle is recommended due to rough road conditions. The remote location requires careful navigation.",
+  accessibilityDetails: "Rainbow Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. This is a viewing-only location due to extreme temperatures.",
+  hotSpringDetails: "The hot springs feature extremely hot water at a constant 197°F, making them unsuitable for soaking but spectacular for viewing. The water contains sodium, chloride, and sulfate minerals that create colorful mineral deposits. The springs create steam and colorful mineral formations. The extreme temperature creates impressive geothermal activity and mineral deposits.",
+  tips: "This is a viewing-only location - the water is extremely hot and dangerous for soaking. The best viewing opportunities are during cooler weather when steam is more visible. Bring plenty of water and supplies as there are no services in the area. The area offers excellent opportunities for photography of this unique geothermal feature. Exercise extreme caution around the hot springs - keep a safe distance from the boiling water. The colorful mineral deposits and steam create a unique natural spectacle worth visiting for geothermal enthusiasts.",
 },
 {
   id: "reese-river-hot-springs-nv",
@@ -1014,6 +1041,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.1,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Valley of the Moon, near Austin, NV 89310",
+  website: "N/A",
+  detailedDescription: "Reese River Hot Springs, also known as Valley of the Moon Hot Springs, is a scenic hot springs destination located near Austin, Nevada, featuring a constant 105°F temperature and a beautiful desert setting. This remote hot spring offers visitors a peaceful soaking experience in the heart of Nevada's high desert, surrounded by stunning desert landscapes and the majestic Toiyabe Range. The Valley of the Moon location provides a unique and otherworldly atmosphere.",
+  location: "Located in the Valley of the Moon near Austin, Nevada, approximately 20 miles from the town of Austin in the scenic central Nevada region. The hot springs are situated at 5,800 feet elevation in a beautiful desert valley setting.",
+  directions: "From Austin, take local roads to reach the Valley of the Moon area. The hot springs are located in a remote desert setting requiring careful navigation. A high-clearance vehicle is recommended for the dirt road access.",
+  accessibilityDetails: "Reese River Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The natural pools are easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature natural pools with a constant temperature of 105°F, providing comfortable soaking temperatures. The pools are formed by natural geothermal sources and contain sodium, chloride, and sulfate minerals. The pools vary in size and depth, typically 2-3 feet deep. The water flows continuously from geothermal sources and maintains consistent hot temperatures.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The Valley of the Moon setting provides excellent opportunities for stargazing and experiencing the solitude of the desert. The 105°F temperature is comfortable for extended soaking. Practice Leave No Trace principles to preserve this remote environment.",
 },
 {
   id: "soldier-meadows-hot-spring-system-nv",
