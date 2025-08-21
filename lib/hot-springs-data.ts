@@ -798,6 +798,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Near Gerlach, NV 89412",
+  website: "N/A",
+  detailedDescription: "Fly Geyser is a spectacular man-made geyser located near Gerlach, Nevada, created accidentally by geothermal drilling in 1964. This extraordinary geothermal feature has grown over the decades into a colorful, multi-tiered mineral formation that continuously spouts boiling water up to 5 feet high. The geyser's vibrant colors come from thermophilic algae that thrive in the mineral-rich water, creating a surreal and otherworldly landscape that has become one of Nevada's most photographed natural wonders.",
+  location: "Located near Gerlach, Nevada, approximately 20 miles northeast of Gerlach in the remote northern Nevada desert on private property in the Black Rock Desert region.",
+  directions: "From Gerlach, take County Road 34 northeast for approximately 20 miles. The geyser is located on private property (Fly Ranch) and requires permission or guided tours to visit. The exact location requires careful navigation on dirt roads.",
+  accessibilityDetails: "Fly Geyser is located on private property and requires permission from the property owners to visit. Access is typically through guided tours or special arrangements. The geyser is not accessible to the general public without permission. High-clearance vehicle recommended for road conditions.",
+  hotSpringDetails: "The geyser spouts water at extremely high temperatures of around 200°F, making it unsuitable for soaking but spectacular for viewing. The water contains calcium carbonate, silica, and sulfur minerals that create the colorful mineral deposits. The geyser operates continuously, creating terraced pools and mineral formations. The thermophilic algae create the vibrant red and green colors that make this formation so striking.",
+  tips: "This is a viewing-only location on private property - access requires permission or guided tours. The water is extremely hot and not suitable for soaking. The best photography opportunities are during golden hour lighting. Respect private property rights and only visit with proper permission. The area offers excellent opportunities for photography of this unique geothermal feature. The geyser has become an iconic symbol of Nevada's geothermal activity and natural beauty.",
 },
 {
   id: "hot-creek-springs-nv",
@@ -852,6 +861,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.1,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Near Hyder, NV 89013",
+  website: "N/A",
+  detailedDescription: "Hyder Hot Springs is a unique hot springs destination located near the Arizona border, featuring a remarkable wide temperature range of 95-150°F that offers various soaking experiences for different preferences. This remote desert hot spring provides visitors with multiple pools at different temperatures, making it possible to enjoy both comfortable warm soaking and more intense hot water experiences. The location near the state border adds to its unique appeal.",
+  location: "Located near Hyder, Nevada, approximately 10 miles northwest of the Arizona border in the remote southern Nevada desert. The hot springs are situated at 200 feet elevation in the desert lowlands.",
+  directions: "From Hyder, take a dirt road northwest for approximately 10 miles to reach the hot springs. A high-clearance vehicle is recommended due to rough road conditions. The border location requires careful navigation.",
+  accessibilityDetails: "Hyder Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. Multiple pools are accessible with some walking required.",
+  hotSpringDetails: "The hot springs feature multiple pools with a wide temperature range from 95-150°F, providing various soaking experiences. The pools are formed by natural geothermal sources and contain sodium, chloride, and sulfate minerals. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from geothermal sources and maintains consistent temperatures across the range.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited from fall to spring when desert temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. Exercise caution with the hotter pools - start with cooler temperatures and work up gradually. The area offers excellent opportunities for experiencing the solitude of the desert border region. Practice Leave No Trace principles to preserve this remote environment.",
 },
 {
   id: "jersey-valley-hot-springs-nv",
@@ -879,6 +897,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Jersey Valley, NV 89820",
+  website: "N/A",
+  detailedDescription: "Jersey Valley Hot Springs is a remote hot springs destination located in Jersey Valley, Nevada, featuring a constant 120°F temperature and a pristine natural setting. This undeveloped hot spring offers visitors an authentic wilderness experience in the heart of the Nevada high desert. The springs are known for their consistent temperature and remote location, making them a favorite destination for those seeking solitude and unspoiled hot springs experiences.",
+  location: "Located in Jersey Valley, Nevada, approximately 30 miles southeast of Battle Mountain in the remote central Nevada desert. The hot springs are situated at 5,200 feet elevation in a beautiful valley setting.",
+  directions: "From Battle Mountain, take a dirt road southeast for approximately 30 miles to reach Jersey Valley Hot Springs. A high-clearance vehicle is recommended due to rough road conditions. The remote location requires careful navigation.",
+  accessibilityDetails: "Jersey Valley Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The natural pools are easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature natural pools with a constant temperature of 120°F. The pools are formed by natural rock formations and are filled with geothermal water rich in sodium, chloride, and sulfate minerals. The pools vary in size and depth, typically 2-3 feet deep. The water flows continuously from geothermal sources and maintains consistent hot temperatures.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The 120°F temperature is quite hot, so limit soaking time and take breaks. The area offers excellent opportunities for stargazing, wildlife viewing, and experiencing the solitude of the high desert. Practice Leave No Trace principles to preserve this remote environment.",
 },
 {
   id: "panaca-warm-springs-nv",
