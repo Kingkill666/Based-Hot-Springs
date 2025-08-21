@@ -151,7 +151,7 @@ export default function BasedSprings() {
             </div>
 
             {/* Search and Filter Controls */}
-            <div className="bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-8">
+            <div className="bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-8 mt-5">
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
                 <div className="relative">
                   <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
