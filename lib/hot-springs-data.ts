@@ -3802,6 +3802,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1215 Avila Beach Dr, San Luis Obispo, CA 93405",
+    website: "sycamoremineralsprings.com",
+    detailedDescription: "Sycamore Hot Springs is a hillside hot springs resort located near Avila Beach, California, featuring private tubs with temperatures of 98-110°F, comprehensive spa services, and beautiful Central Coast location. This hillside resort offers visitors a private and intimate hot springs experience with excellent opportunities for relaxation and wellness in the beautiful Central Coast setting. The private tubs and hillside location create an ideal romantic hot springs destination.",
+    location: "Located near Avila Beach, California, in the Central Coast region approximately 200 miles north of Los Angeles. The hot springs are situated at 400 feet elevation on a hillside overlooking the ocean.",
+    directions: "From Los Angeles, take US-101 north to San Luis Obispo, then follow local roads to Avila Beach. The resort is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Sycamore Hot Springs is easily accessible with good road access and parking available. The hillside resort offers accessible accommodations and facilities with comprehensive wellness services. The private tubs provide accessible soaking options in the hillside setting.",
+    hotSpringDetails: "The hot springs feature private tubs with temperatures ranging from 98-110°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and potassium and flows from natural geothermal sources. The private tubs provide intimate soaking experiences. The hillside setting provides beautiful ocean views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive wellness packages including private soaking, spa services, and accommodations. Swimming suits are required. The hillside facility provides a complete wellness experience in the beautiful Central Coast. Best visited year-round with each season offering different coastal experiences. The location provides easy access to nearby attractions including Avila Beach and Hearst Castle. This is one of California's premier private hot springs destinations with unparalleled intimacy and ocean views.",
   },
   {
     id: "tassajara-hot-springs",
@@ -3836,6 +3845,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "39171 Tassajara Rd, Carmel Valley, CA 93924",
+    website: "sfzc.org/tassajara",
+    detailedDescription: "Tassajara Hot Springs is a Zen monastery retreat located in Carmel Valley, California, featuring natural hot springs with temperatures of 98-140°F, meditation practice, and vegetarian cuisine in the beautiful Ventana Wilderness. This unique Zen monastery offers visitors a spiritual hot springs experience combining natural thermal waters with meditation practice and vegetarian cuisine. The Zen monastery setting and wilderness location create an unparalleled spiritual hot springs destination.",
+    location: "Located in Carmel Valley, California, in the Ventana Wilderness approximately 150 miles south of San Francisco. The hot springs are situated at 1,500 feet elevation in the wilderness region.",
+    directions: "From San Francisco, take US-101 south to Carmel Valley, then follow local roads to the monastery. The retreat is accessible by car with parking available for guests.",
+    accessibilityDetails: "Tassajara Hot Springs is accessible with good road access and parking available. The Zen monastery offers accessible accommodations and facilities with comprehensive spiritual services. The natural springs provide accessible soaking options in the wilderness setting.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-140°F, providing a wide range of soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and lithium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The wilderness setting provides beautiful views while soaking.",
+    tips: "Reservations are required for the Zen monastery retreat. The monastery offers comprehensive spiritual packages including natural soaking, meditation practice, and vegetarian cuisine. Respectful behavior is required. The Zen monastery setting provides excellent opportunities for spiritual practice. Best visited during warmer months (May through September) when the wilderness is more accessible. The location provides easy access to nearby attractions including Ventana Wilderness and Big Sur. This is California's premier spiritual hot springs destination with unparalleled Zen monastery atmosphere.",
   },
   {
     id: "tecopa-hot-springs",
@@ -3874,6 +3892,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Tecopa Hot Springs, Tecopa, CA 92389",
+    website: "tecopahotsprings.com",
+    detailedDescription: "Tecopa Hot Springs is a desert hot springs town located in the Mojave Desert near Death Valley, California, featuring multiple resorts with natural pools and temperatures of 98-108°F offering year-round soaking. This desert hot springs town offers visitors multiple resort options with excellent opportunities for relaxation and wellness in the beautiful Mojave Desert. The desert setting and Death Valley proximity create an ideal hot springs destination.",
+    location: "Located in Tecopa, California, in the Mojave Desert approximately 200 miles northeast of Los Angeles. The hot springs are situated at 1,400 feet elevation in the desert region.",
+    directions: "From Los Angeles, take I-15 north to local roads, then follow signs to Tecopa. The town is easily accessible by car with parking available at multiple resorts.",
+    accessibilityDetails: "Tecopa Hot Springs is easily accessible with good road access and parking available. The multiple resorts offer accessible accommodations and facilities with comprehensive wellness services. The natural pools provide accessible soaking options in the desert setting.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and boron and flows from natural geothermal sources. Pool sizes vary and can accommodate many people. The desert setting provides beautiful views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The multiple resorts offer comprehensive wellness packages including natural soaking, spa services, and accommodations. Swimming suits are required. The desert facilities provide complete wellness experiences in the beautiful Mojave Desert. Best visited during cooler months (October through April) to avoid extreme desert heat. The location provides easy access to nearby attractions including Death Valley National Park and Mojave National Preserve. This is one of California's premier desert hot springs destinations with unparalleled Death Valley proximity.",
   },
   {
     id: "two-bunch-palms-hot-springs",
