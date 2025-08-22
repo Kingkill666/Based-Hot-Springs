@@ -16560,6 +16560,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Feather River Hot Springs, Quincy, CA 95971",
+    website: "featherriverhotsprings.com",
+    detailedDescription: "Feather River Hot Springs is a riverside hot springs resort featuring cabins and camping on the Feather River near Quincy, California. This scenic destination offers visitors a peaceful hot springs experience with therapeutic mineral soaking in a beautiful mountain setting. The resort's riverside location and rustic accommodations create a special and relaxing hot springs retreat in the Sierra Nevada mountains.",
+    location: "Located near Quincy, California, approximately 200 miles northeast of San Francisco in the Sierra Nevada mountains. The resort is situated at 3,400 feet elevation with stunning views of the Feather River and surrounding mountain landscape.",
+    directions: "From San Francisco, take I-80 east to CA-49 north to Quincy. From Reno, take US-395 south to CA-70 west to Quincy. The resort is accessible via paved roads and is well-marked for visitors.",
+    accessibilityDetails: "Feather River Hot Springs is accessible during summer months with parking and resort facilities. The riverside resort offers cabins and camping options with basic amenities. The natural setting provides a peaceful environment for visitors seeking a rustic hot springs experience.",
+    hotSpringDetails: "The resort features hot springs pools with temperatures ranging from 100-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The riverside location provides a beautiful setting for enjoying the therapeutic mineral waters. The resort offers both cabin accommodations and camping options for overnight stays.",
+    tips: "Reservations recommended for cabins and camping. The resort operates seasonally during summer months. Best visited during summer when access is easier and weather is favorable. Swimming suits required. The location provides excellent access to Quincy attractions and Feather River activities. The riverside setting offers a peaceful and scenic hot springs experience. The rustic accommodations provide a traditional mountain retreat atmosphere.",
   },
   {
     id: "five-palms-hot-springs-ca",
@@ -16588,6 +16597,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Five Palms Hot Springs, Niland, CA 92257",
+    website: "N/A",
+    detailedDescription: "Five Palms Hot Springs is a primitive, remote hot springs pool in the desert near Niland, California. This authentic destination offers visitors a unique hot springs experience with therapeutic mineral soaking in a stark desert landscape. The primitive nature and remote location create a special destination for those seeking a traditional, natural hot springs experience away from civilization in the California desert.",
+    location: "Located near Niland, California, approximately 150 miles southeast of Los Angeles in the Colorado Desert. The hot springs are situated at -180 feet elevation (below sea level) with views of the surrounding desert landscape and nearby Salton Sea.",
+    directions: "From Los Angeles, take I-10 east to CA-111 south to Niland. From San Diego, take I-8 east to CA-111 north to Niland. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive desert conditions.",
+    accessibilityDetails: "Five Palms Hot Springs requires moderate hiking to access. The desert terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural desert terrain. Visitors should be prepared for primitive conditions and extreme desert temperatures.",
+    hotSpringDetails: "The hot springs feature a primitive, natural pool with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pool is formed by natural rock formations in a stark desert setting. The primitive location provides a peaceful and authentic hot springs experience in the California desert wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during fall to spring months. The primitive desert setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during fall to spring when temperatures are more moderate. The location provides excellent opportunities for exploring the desert and nearby Salton Sea. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "fountain-of-youth-spa-ca",
@@ -16616,6 +16634,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "17075 Hot Mineral Spa Rd, Niland, CA 92257",
+    website: "fountainofyouthspa.com",
+    detailedDescription: "Fountain of Youth Spa is an RV resort featuring mineral hot springs pools, spa services, and activities in the Imperial Valley near Niland, California. This comprehensive destination offers visitors a complete hot springs experience with therapeutic mineral soaking combined with modern amenities in the California desert. The resort's RV-friendly facilities and spa services create a special and convenient hot springs retreat in the Imperial Valley.",
+    location: "Located in Niland, California, approximately 150 miles southeast of Los Angeles in the Imperial Valley. The resort is situated at -180 feet elevation (below sea level) with views of the surrounding desert landscape and nearby Salton Sea.",
+    directions: "From Los Angeles, take I-10 east to CA-111 south to Niland. From San Diego, take I-8 east to CA-111 north to Niland. The resort is located on Hot Mineral Spa Road and is easily accessible year-round.",
+    accessibilityDetails: "Fountain of Youth Spa is accessible during fall to spring months with paved parking and comprehensive RV resort facilities. The property offers accessible pool areas, spa facilities, and RV accommodations designed for guest comfort. The resort setting provides a welcoming environment for visitors seeking a complete hot springs experience.",
+    hotSpringDetails: "The resort features mineral hot springs pools with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking areas and spa facilities. The RV resort setting provides a convenient environment for enjoying the therapeutic mineral waters. The resort's spa services and activities complement the hot springs experience.",
+    tips: "Reservations recommended for RV sites and spa treatments. The resort operates seasonally during fall to spring months. Best visited during fall to spring when temperatures are more moderate. Swimming suits required. The location provides excellent access to Niland attractions and Salton Sea activities. The RV resort setting offers a convenient and comprehensive hot springs experience. The spa services provide additional therapeutic benefits.",
   },
   {
     id: "franklin-hot-springs-ca",
