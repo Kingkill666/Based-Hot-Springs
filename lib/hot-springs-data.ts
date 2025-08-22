@@ -1500,6 +1500,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Baranof Island, AK 99835",
+    website: "N/A",
+    detailedDescription: "Baranof Warm Springs are thermal mineral springs located on Baranof Island in Southeast Alaska, featuring natural warm pools with temperatures of 110-120°F and therapeutic mineral content. These remote springs are accessible by boat or seaplane and offer visitors a unique wilderness soaking experience surrounded by temperate rainforest and abundant wildlife. The island location and rainforest setting create a truly immersive Alaskan wilderness experience.",
+    location: "Located on Baranof Island in Southeast Alaska, approximately 50 miles southwest of Sitka. The springs are situated at 100 feet elevation in the temperate rainforest region.",
+    directions: "Access is via boat or seaplane from Sitka or other Southeast Alaska communities. The remote island location requires careful planning and coordination with local transportation services. The springs are located in a designated wilderness area.",
+    accessibilityDetails: "Baranof Warm Springs requires boat or seaplane access, making it one of Alaska's more challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for Southeast Alaska conditions.",
+    hotSpringDetails: "The springs feature natural warm pools with temperatures ranging from 110-120°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, magnesium, calcium, sodium, and chloride and flows from natural geothermal springs. The pools are formed naturally in the rainforest setting and vary in size and depth.",
+    tips: "Boat or seaplane access requires advance planning and coordination with local services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during May-September when weather conditions are more favorable. The temperate rainforest environment offers excellent opportunities for wildlife viewing and experiencing Southeast Alaska wilderness. The therapeutic mineral content provides health benefits in a pristine natural setting.",
   },
   {
     id: "chief-shakes-hot-springs",
@@ -1533,6 +1542,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Wrangell, AK 99929",
+    website: "N/A",
+    detailedDescription: "Chief Shakes Hot Springs are sacred Native Alaskan hot springs named after Chief Shakes, featuring natural thermal pools with temperatures of 115-125°F and significant cultural importance. These hot springs offer visitors a unique opportunity to experience both therapeutic mineral soaking and Native Alaskan heritage in a pristine wilderness setting. The cultural significance and natural beauty make this one of Alaska's most meaningful hot springs destinations.",
+    location: "Located near Wrangell, Alaska, in Southeast Alaska approximately 150 miles south of Juneau. The hot springs are situated at 200 feet elevation in the temperate rainforest region.",
+    directions: "Access is via boat or seaplane from Wrangell or other Southeast Alaska communities. The remote location requires careful planning and coordination with local transportation services. The springs are located in a designated wilderness area.",
+    accessibilityDetails: "Chief Shakes Hot Springs requires boat or seaplane access, making it one of Alaska's more challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for Southeast Alaska conditions.",
+    hotSpringDetails: "The hot springs feature natural thermal pools with temperatures ranging from 115-125°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, sodium, and chloride and flows from natural geothermal springs. The pools are formed naturally in the wilderness setting and vary in size and depth.",
+    tips: "Boat or seaplane access requires advance planning and coordination with local services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during June-August when weather conditions are more favorable. The cultural significance requires respectful behavior and appreciation for Native Alaskan heritage. The pristine wilderness environment offers excellent opportunities for experiencing Southeast Alaska's natural beauty.",
   },
   {
     id: "goddard-hot-spring",
@@ -1566,6 +1584,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Near Sitka, AK 99835",
+    website: "N/A",
+    detailedDescription: "Goddard Hot Spring is a coastal hot spring located near Sitka, Alaska, featuring natural pools with temperatures of 105-115°F and spectacular ocean views. This unique coastal hot spring offers visitors a rare opportunity to soak in therapeutic mineral waters while enjoying panoramic Pacific Ocean vistas and abundant marine wildlife viewing opportunities. The coastal location creates a truly unique hot springs experience in Southeast Alaska.",
+    location: "Located near Sitka, Alaska, in Southeast Alaska approximately 50 miles southwest of Juneau. The hot spring is situated at 50 feet elevation in the coastal rainforest region.",
+    directions: "Access is via boat from Sitka or other Southeast Alaska communities. The coastal location requires careful planning and coordination with local transportation services. The hot spring is located in a designated wilderness area.",
+    accessibilityDetails: "Goddard Hot Spring requires boat access, making it one of Alaska's more challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for Southeast Alaska coastal conditions.",
+    hotSpringDetails: "The hot spring features natural pools with temperatures ranging from 105-115°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal springs. The pools are formed naturally in the coastal setting and offer spectacular ocean views.",
+    tips: "Boat access requires advance planning and coordination with local services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during May-September when weather conditions are more favorable. The coastal location offers excellent opportunities for marine wildlife viewing including sea otters and whales. The ocean views provide a unique backdrop for hot spring soaking. The therapeutic mineral content provides health benefits in a pristine coastal setting.",
   },
   {
     id: "hutlinana-hot-springs",
@@ -1603,6 +1630,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Rampart, AK 99767",
+    website: "N/A",
+    detailedDescription: "Hutlinana Hot Springs are remote interior Alaska hot springs accessible by winter trail or summer aircraft, featuring natural thermal pools with temperatures of 125-140°F in a pristine wilderness setting. These extremely remote hot springs offer visitors a true backcountry soaking experience in one of Alaska's most isolated regions. The dual access options - winter trail and summer aircraft - provide unique seasonal experiences in the interior Alaska wilderness.",
+    location: "Located near Rampart, Alaska, in interior Alaska approximately 200 miles northwest of Fairbanks. The hot springs are situated at 800 feet elevation in the interior wilderness region.",
+    directions: "Access is via winter trail from Rampart or by aircraft during summer months. The extreme remoteness requires careful planning and coordination with local transportation services. The hot springs are located in a designated wilderness area.",
+    accessibilityDetails: "Hutlinana Hot Springs requires either winter trail access or summer aircraft access, making it one of Alaska's most challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for interior Alaska conditions.",
+    hotSpringDetails: "The hot springs feature natural thermal pools with temperatures ranging from 125-140°F, providing hot soaking experiences. The mineral water is rich in sulfur, sodium, and calcium and flows from natural geothermal springs. The pools are formed naturally in the wilderness setting and vary in size and depth.",
+    tips: "Winter trail access requires extensive planning and proper equipment for extreme cold conditions. Summer aircraft access requires advance coordination with local air services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during summer months for aircraft access or winter for trail access. The remote location offers excellent opportunities for experiencing interior Alaska wilderness and northern lights viewing. The extreme remoteness provides a true backcountry experience.",
   },
   {
     id: "kanuti-river-hot-springs",
