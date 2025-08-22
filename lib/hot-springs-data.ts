@@ -16893,6 +16893,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "66840 4th St, Desert Hot Springs, CA 92241",
+    website: "haciendahotsprings.com",
+    detailedDescription: "Hacienda Hot Springs is a boutique inn featuring a mineral water pool and gardens in Desert Hot Springs, California. This charming destination offers visitors a peaceful hot springs experience with therapeutic mineral soaking in a beautiful desert setting. The boutique inn's intimate atmosphere and garden setting create a special and relaxing hot springs retreat in the California desert.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The inn is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the inn. The boutique property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Hacienda Hot Springs is accessible year-round with boutique inn facilities. The property offers accessible accommodations and pool areas designed for guest comfort. The garden setting provides a peaceful environment for visitors seeking an intimate hot springs experience.",
+    hotSpringDetails: "The inn features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The garden setting provides a beautiful environment for enjoying the therapeutic mineral waters. The boutique inn offers intimate accommodations to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations. The boutique inn emphasizes intimacy and relaxation. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The garden setting offers a peaceful and intimate hot springs experience. The boutique atmosphere provides personalized service and attention.",
   },
   {
     id: "healing-sands-ca",
@@ -16921,6 +16930,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "66840 4th St, Desert Hot Springs, CA 92241",
+    website: "healingsandshotsprings.com",
+    detailedDescription: "Healing Sands is a wellness-focused boutique inn featuring a mineral water pool and spa in Desert Hot Springs, California. This holistic destination offers visitors a rejuvenating hot springs experience with therapeutic mineral soaking combined with wellness services in the beautiful California desert. The boutique inn's wellness approach and healing atmosphere create a special and restorative hot springs retreat.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The inn is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the inn. The boutique property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Healing Sands is accessible year-round with boutique inn facilities. The property offers accessible accommodations, pool areas, and spa facilities designed for guest comfort and wellness. The healing setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The inn features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The wellness-focused setting provides a healing environment for enjoying the therapeutic mineral waters. The boutique inn offers spa services to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The boutique inn emphasizes wellness and healing. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The wellness setting offers a healing and rejuvenating hot springs experience. The spa services provide additional therapeutic benefits.",
   },
   {
     id: "hog-hot-springs-ca",
@@ -16949,6 +16967,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Hog Hot Springs, Bridgeport, CA 93517",
+    website: "N/A",
+    detailedDescription: "Hog Hot Springs features primitive, remote hot springs pools near Bridgeport, California, popular with locals. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a pristine mountain setting. The primitive nature and remote location create a special destination for those seeking an authentic, natural hot springs experience away from crowds in the Sierra Nevada mountains.",
+    location: "Located near Bridgeport, California, approximately 200 miles east of San Francisco in the Sierra Nevada mountains. The hot springs are situated at 7,000 feet elevation with stunning views of the surrounding mountain landscape and high alpine wilderness.",
+    directions: "From San Francisco, take I-80 east to US-395 north to Bridgeport. From Reno, take US-395 south to Bridgeport. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive mountain conditions.",
+    accessibilityDetails: "Hog Hot Springs requires moderate hiking to access. The mountain terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural mountain terrain. Visitors should be prepared for primitive conditions and high altitude effects.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations in a scenic mountain setting. The primitive location provides a peaceful and authentic hot springs experience in Sierra Nevada wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during summer and fall months. The primitive mountain setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during summer and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring the Sierra Nevada mountains and nearby Buckeye Hot Springs. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "holtville-hot-springs-ca",
