@@ -6777,6 +6777,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Homestead Crater Hot Springs, Midway, UT 84049",
+    website: "homesteadresort.com",
+    detailedDescription: "Homestead Crater Hot Springs is a unique geothermal spring located in Midway, Utah, featuring natural pools with temperatures of 90-96°F, limestone dome setting, and swimming opportunities. This unique hot springs offers visitors a one-of-a-kind soaking experience with excellent opportunities for swimming and geological appreciation in the beautiful Homestead Resort setting. The limestone dome location and resort backdrop create an ideal hot springs destination.",
+    location: "Located in Midway, Utah, at Homestead Resort approximately 45 minutes from Salt Lake City. The hot springs are situated at 5,500 feet elevation in the resort region.",
+    directions: "From Salt Lake City, take local roads to Midway, then follow local roads to the resort. The unique facility is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Homestead Crater Hot Springs is easily accessible with good road access and parking available. The unique facility offers accessible accommodations and facilities with comprehensive resort services. The natural pools provide accessible soaking options in the resort setting.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 90-96°F, providing comfortable soaking temperatures. The mineral water is rich in calcium and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The limestone dome setting provides unique geological views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive wellness packages including mineral soaking, spa treatments, and accommodations. Swimming suits are required. The unique facility provides a one-of-a-kind experience in the beautiful Homestead Resort setting. Best visited year-round with each season offering different resort experiences. The location provides easy access to nearby attractions including Homestead Resort. This is one of Utah's premier unique hot springs destinations with unparalleled limestone dome setting.",
   },
   {
     id: "inlet-hot-springs-ut",
