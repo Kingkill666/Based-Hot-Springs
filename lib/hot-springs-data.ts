@@ -17004,6 +17004,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Holtville Hot Springs, Holtville, CA 92250",
+    website: "N/A",
+    detailedDescription: "Holtville Hot Springs is a free, public hot springs facility featuring a pool and soaking tubs near Holtville in the Imperial Valley, California. This accessible destination offers visitors an affordable hot springs experience with therapeutic mineral soaking in a community setting. The public facility's free access and community atmosphere create a special and welcoming hot springs destination in the Imperial Valley.",
+    location: "Located near Holtville, California, approximately 150 miles southeast of Los Angeles in the Imperial Valley. The facility is situated at -10 feet elevation (below sea level) with views of the surrounding agricultural landscape and nearby Salton Sea.",
+    directions: "From Los Angeles, take I-10 east to CA-111 south to Holtville. From San Diego, take I-8 east to CA-111 north to Holtville. The public facility is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Holtville Hot Springs operates seasonally during fall to spring months with public facility amenities. The property offers basic amenities including restrooms, parking, and camping areas. The public setting provides a welcoming environment for visitors seeking an affordable hot springs experience.",
+    hotSpringDetails: "The facility features a public hot springs pool and soaking tubs with temperatures ranging from 104-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The public setting provides a community atmosphere for enjoying the therapeutic mineral waters. The facility offers both pool and individual soaking tub options.",
+    tips: "This is a clothing optional facility. The facility operates seasonally during fall to spring months when temperatures are moderate. Best visited during fall to spring when Imperial Valley temperatures are comfortable. The free access makes it an affordable option for hot springs enthusiasts. The location provides excellent access to Holtville attractions and Salton Sea activities. The public setting offers a community-oriented hot springs experience. Camping is available for overnight stays.",
   },
   {
     id: "hope-springs-ca",
@@ -17032,6 +17041,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "66840 4th St, Desert Hot Springs, CA 92241",
+    website: "hopesprings.com",
+    detailedDescription: "Hope Springs is a boutique hotel and spa featuring a mineral water pool with a wellness focus in Desert Hot Springs, California. This intimate destination offers visitors a rejuvenating hot springs experience with therapeutic mineral soaking combined with wellness services in the beautiful California desert. The boutique hotel's wellness approach and healing atmosphere create a special and restorative hot springs retreat.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The hotel is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the hotel. The boutique property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Hope Springs is accessible year-round with boutique hotel facilities. The property offers accessible accommodations, pool areas, and spa facilities designed for guest comfort and wellness. The healing setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The hotel features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The wellness-focused setting provides a healing environment for enjoying the therapeutic mineral waters. The boutique hotel offers spa services to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The boutique hotel emphasizes wellness and healing. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The wellness setting offers a healing and rejuvenating hot springs experience. The spa services provide additional therapeutic benefits.",
   },
   {
     id: "hunt-hot-springs-ca",
