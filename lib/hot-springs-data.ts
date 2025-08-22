@@ -9967,6 +9967,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Jordan Hot Springs, Gila Wilderness, NM 88038",
+    website: "N/A",
+    detailedDescription: "Jordan Hot Springs is a remote natural hot springs pool located in the Gila Wilderness, New Mexico, featuring a natural pool with temperatures of 98-102°F, scenic hiking access, and pristine wilderness setting. This remote destination offers visitors an authentic wilderness hot springs experience with excellent opportunities for hiking, camping, and natural exploration in the beautiful Gila Wilderness. The remote location and wilderness setting create a perfect destination for adventurous hot springs enthusiasts.",
+    location: "Located in the Gila Wilderness, New Mexico, approximately 120 miles northwest of Silver City in the pristine wilderness area. The remote hot springs is situated at 5,600 feet elevation with beautiful wilderness views and access to Gila Cliff Dwellings.",
+    directions: "From Silver City, take NM-15 north to Gila, then follow wilderness trails to reach Jordan Hot Springs. The remote location requires a scenic hike through the Gila Wilderness. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Jordan Hot Springs requires difficult access through wilderness terrain with no formal facilities or services. The remote location has no parking or restrooms. The wilderness setting requires complete self-sufficiency and proper preparation for backcountry conditions. This is a true wilderness experience requiring advanced planning.",
+    hotSpringDetails: "The remote hot springs features a natural pool with temperatures ranging from 98-102°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pool is formed naturally in the wilderness and varies in size. The wilderness setting provides pristine Gila Wilderness views while soaking.",
+    tips: "This is a clothing optional location. The remote location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall to avoid dangerous summer heat and winter conditions. The wilderness location offers excellent opportunities for hiking, camping, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Gila Wilderness activities and Gila Cliff Dwellings. The scenic hike provides excellent opportunities for wilderness photography and nature appreciation.",
   },
   {
     id: "la-paloma-hot-springs-nm",
@@ -9995,6 +10004,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "La Paloma Hot Springs, Truth or Consequences, NM 87901",
+    website: "lapalomahotsprings.com",
+    detailedDescription: "La Paloma Hot Springs is a charming historic hot springs inn located in Truth or Consequences, New Mexico, featuring private and communal soaking tubs with temperatures of 98-108°F, historic charm, and comfortable accommodations in the beautiful New Mexico desert. This charming establishment offers visitors a comfortable and authentic hot springs experience with excellent opportunities for relaxation, historic appreciation, and desert exploration in the scenic New Mexico landscape. The charming setting and historic atmosphere create a perfect destination for comfortable soaking and natural healing.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque in the scenic New Mexico desert. The charming inn is situated at 4,242 feet elevation in the heart of T or C with beautiful desert views.",
+    directions: "From Albuquerque, take I-25 south to Truth or Consequences, then follow local roads to the charming inn. From Las Cruces, take I-25 north to T or C. The charming inn is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "La Paloma Hot Springs is easily accessible year-round with full inn facilities and accommodations designed for comfort. The establishment offers accessible private and communal soaking tubs and comfortable lodging. The charming setting provides welcoming access to hot springs soaking and desert attractions.",
+    hotSpringDetails: "The charming inn features private and communal soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The tubs offer both intimate private experiences and social communal soaking. The desert setting provides beautiful New Mexico views while soaking.",
+    tips: "Reservations recommended for accommodations and soaking experiences, especially during peak seasons. The charming inn offers comprehensive packages including private and communal soaking, comfortable lodging, and desert access. Swimming suits required. The location provides excellent access to Truth or Consequences attractions and Elephant Butte Lake. Best visited year-round with each season offering different desert experiences. The charming atmosphere provides excellent opportunities for relaxation and historic appreciation. The historic setting offers authentic charm combined with therapeutic mineral benefits.",
   },
   {
     id: "lightfeather-hot-springs-nm",
@@ -10023,6 +10041,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Lightfeather Hot Springs, Gila Wilderness, NM 88038",
+    website: "N/A",
+    detailedDescription: "Lightfeather Hot Springs is a natural riverside hot springs facility located in the Gila Wilderness, New Mexico, featuring natural pools with temperatures of 100-104°F, riverside setting, and scenic hiking access. This natural destination offers visitors an authentic wilderness hot springs experience with excellent opportunities for hiking, camping, and riverside recreation in the beautiful Gila Wilderness. The natural setting and riverside backdrop create a perfect destination for nature enthusiasts and outdoor adventurers.",
+    location: "Located in the Gila Wilderness, New Mexico, approximately 100 miles northwest of Silver City in the pristine wilderness area. The natural hot springs is situated at 4,600 feet elevation along a river with beautiful wilderness views and access to Gila Cliff Dwellings.",
+    directions: "From Silver City, take NM-15 north to Gila, then follow wilderness trails to reach Lightfeather Hot Springs. The natural location requires a short hike through the Gila Wilderness. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Lightfeather Hot Springs requires moderate access through wilderness terrain with basic camping facilities. The natural location has no parking or restrooms. The wilderness setting requires self-sufficiency and proper preparation for outdoor conditions. This is a natural wilderness experience requiring planning.",
+    hotSpringDetails: "The natural facility features riverside hot springs pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are formed naturally along the river and vary in size. The riverside setting provides beautiful wilderness views while soaking.",
+    tips: "This is a clothing optional location. The natural location requires self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall to avoid dangerous summer heat and winter conditions. The riverside location offers excellent opportunities for hiking, camping, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Gila Wilderness activities and Gila Cliff Dwellings. The scenic hike provides excellent opportunities for wilderness photography and nature appreciation.",
   },
   {
     id: "manby-hot-springs-nm",
@@ -10051,6 +10078,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Manby Hot Springs, Taos, NM 87571",
+    website: "N/A",
+    detailedDescription: "Manby Hot Springs is a remote riverside hot springs facility located near Taos, New Mexico, featuring natural pools with temperatures of 97-101°F, riverside setting, and scenic hiking access. This remote destination offers visitors an authentic wilderness hot springs experience with excellent opportunities for hiking, riverside recreation, and natural exploration in the beautiful Taos region. The remote location and riverside backdrop create a perfect destination for adventurous hot springs enthusiasts.",
+    location: "Located near Taos, New Mexico, in the scenic mountain region approximately 70 miles north of Santa Fe. The remote hot springs is situated at 6,500 feet elevation along the Rio Grande with beautiful mountain views and access to Rio Grande Gorge Bridge.",
+    directions: "From Taos, follow local roads to reach the trailhead for Manby Hot Springs. The remote location requires a scenic hike through the mountain region. The exact route requires detailed planning and hiking skills.",
+    accessibilityDetails: "Manby Hot Springs requires moderate access through mountain terrain with basic parking facilities. The remote location has parking but no restrooms or services. The mountain setting requires self-sufficiency and proper preparation for outdoor conditions. This is a remote wilderness experience requiring planning.",
+    hotSpringDetails: "The remote facility features riverside natural pools with temperatures ranging from 97-101°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are formed naturally along the Rio Grande and vary in size. The riverside setting provides beautiful mountain views while soaking.",
+    tips: "This is a clothing optional location. The remote location requires self-sufficiency - bring all necessary supplies including water, food, and hiking gear. Best visited during spring and fall to avoid dangerous summer heat and winter conditions. The riverside location offers excellent opportunities for hiking, photography, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Taos attractions and Rio Grande Gorge Bridge. The scenic hike provides excellent opportunities for mountain photography and nature appreciation.",
   },
   {
     id: "mccauley-hot-springs-nm",
