@@ -16338,6 +16338,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Drakesbad Guest Ranch, Chester, CA 96020",
+    website: "drakesbad.com",
+    detailedDescription: "Drakesbad Guest Ranch is a historic guest ranch featuring a hot springs pool, comfortable cabins, and horseback riding activities in Lassen Volcanic National Park, California. This authentic destination offers guests a traditional ranch experience with therapeutic mineral soaking in a beautiful national park setting. The historic ranch's warm hospitality and seasonal operation create a special and welcoming hot springs retreat in the heart of Northern California's volcanic landscape.",
+    location: "Located in Lassen Volcanic National Park near Chester, California, approximately 200 miles north of Sacramento. The ranch is situated at 5,700 feet elevation with stunning views of the surrounding volcanic peaks and national park wilderness.",
+    directions: "From Sacramento, take I-5 north to CA-36 east to Chester, then follow local roads to the ranch. From Redding, take CA-44 east to CA-36 west to Chester. The ranch is accessible via local roads and is well-marked for guests.",
+    accessibilityDetails: "Drakesbad Guest Ranch is accessible seasonally during summer months with ranch facilities designed for guest comfort. The historic ranch offers accessible accommodations and pool areas for registered guests. The seasonal operation ensures optimal conditions for ranch activities and hot springs enjoyment.",
+    hotSpringDetails: "The ranch features a hot springs pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pool is exclusively available to ranch guests, providing a private and peaceful soaking experience. The ranch setting offers stunning volcanic mountain views while enjoying the therapeutic mineral waters.",
+    tips: "Access is limited to registered ranch guests only. Reservations essential for ranch accommodations. The ranch operates seasonally during summer months. Ranch lodging includes access to the hot springs pool and horseback riding activities. Best visited during summer when the ranch is open and weather is favorable. The location provides excellent access to Lassen Volcanic National Park activities and Chester attractions. The historic ranch setting offers a unique and authentic hot springs experience.",
   },
   {
     id: "doctor-wilkinsons-hot-springs-ca",
@@ -16366,6 +16375,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1507 Lincoln Ave, Calistoga, CA 94515",
+    website: "drwilkinson.com",
+    detailedDescription: "Doctor Wilkinson's Hot Springs is an iconic spa hotel featuring mineral pools, mud baths, and comprehensive wellness treatments in Calistoga, California. This legendary destination offers visitors a world-class hot springs experience with therapeutic mineral soaking and traditional mud bath treatments in the heart of Napa Valley. The historic spa's authentic atmosphere and comprehensive wellness offerings create a special and rejuvenating hot springs retreat in California's premier wine country.",
+    location: "Located in Calistoga, California, approximately 70 miles north of San Francisco in the Napa Valley. The spa is situated at 348 feet elevation in downtown Calistoga with easy access to wine country attractions.",
+    directions: "From San Francisco, take US-101 north to CA-37 east to CA-29 north to Calistoga. From Sacramento, take I-80 west to CA-29 north to Calistoga. The spa is located on Lincoln Avenue in downtown Calistoga and is easily accessible year-round.",
+    accessibilityDetails: "Doctor Wilkinson's Hot Springs is fully accessible year-round with paved parking and comprehensive spa hotel facilities. The historic spa offers accessible accommodations, pool areas, and wellness facilities designed for all guests. The downtown location provides easy accessibility for visitors seeking a world-class spa experience.",
+    hotSpringDetails: "The spa features mineral pools with temperatures ranging from 96-104°F and traditional mud baths. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking pools and the signature mud bath treatments. The historic spa setting provides a comfortable and authentic hot springs experience in the heart of Napa Valley.",
+    tips: "Reservations essential for spa treatments and mud baths. The spa offers comprehensive wellness packages and treatments. Best visited year-round with consistent temperatures. Swimming suits required. The location provides excellent access to Napa Valley wineries and Calistoga attractions. The mud baths are a signature experience not to be missed. The historic spa setting offers an authentic and rejuvenating hot springs experience.",
   },
   {
     id: "eagleville-hot-springs-ca",
@@ -16394,6 +16412,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Eagleville Hot Springs, Eagleville, CA 96110",
+    website: "N/A",
+    detailedDescription: "Eagleville Hot Springs is a primitive, remote hot springs destination featuring natural pools near Eagleville in Surprise Valley, California. This authentic destination offers visitors a peaceful hot springs experience with therapeutic mineral soaking in a beautiful high desert setting. The primitive nature and remote location create a special destination for those seeking a traditional, natural hot springs experience away from crowds in Northern California's Surprise Valley.",
+    location: "Located near Eagleville, California, approximately 300 miles northeast of San Francisco in Surprise Valley. The hot springs are situated at 4,700 feet elevation with views of the surrounding high desert landscape and Surprise Valley.",
+    directions: "From San Francisco, take I-80 east to US-395 north to CA-299 east to Eagleville. From Reno, take US-395 south to CA-299 east to Eagleville. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Eagleville Hot Springs requires moderate hiking to access. The terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural terrain. Visitors should be prepared for primitive conditions and self-sufficiency.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations in a scenic high desert setting. The primitive location provides a peaceful and authentic hot springs experience in Surprise Valley wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during summer months. The primitive setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during summer when access is easier and weather is favorable. The location provides excellent opportunities for exploring Surprise Valley and the surrounding high desert. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "ecotopia-hot-springs-ca",
