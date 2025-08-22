@@ -20024,6 +20024,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Carrick-on-Shannon, County Leitrim, Ireland",
+  website: "N/A",
+  detailedDescription: "Carrick-on-Shannon Mineral Springs is a historic mineral springs in Carrick-on-Shannon, once known for their healing properties in County Leitrim, Ireland. This historic destination offers visitors a glimpse into Ireland's mineral spring heritage with therapeutic mineral waters and rural charm in the beautiful River Shannon setting. The historic springs' cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's mineral spring history in the Land of Lakes and Legends.",
+  location: "Located in Carrick-on-Shannon, County Leitrim, Ireland, approximately 100 miles northwest of Dublin on the River Shannon. The historic mineral springs are situated at 50 feet elevation with views of the surrounding countryside and River Shannon.",
+  directions: "From Dublin, take M4 west to M6 west to Carrick-on-Shannon. From Sligo, take N4 east to Carrick-on-Shannon. The historic mineral springs are easily accessible year-round.",
+  accessibilityDetails: "Carrick-on-Shannon Mineral Springs is accessible year-round with historic mineral spring facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's mineral spring heritage.",
+  hotSpringDetails: "The historic mineral springs feature therapeutic waters with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spring development. The location offers opportunities to learn about Ireland's mineral spring culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic mineral springs operate year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to River Shannon and Lough Key attractions. The historic setting offers a unique glimpse into Ireland's mineral spring heritage and rural culture. The mineral waters provide exceptional therapeutic benefits.",
 },
 //JAPAN HOT SPRINGS
 // JAPAN HOT SPRINGS (Batch 1)
@@ -20046,6 +20055,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Arima Onsen, Kobe, Hyogo Prefecture, Japan",
+  website: "arima-onsen.com",
+  detailedDescription: "Arima Onsen is one of Japan's oldest and most famous hot spring resorts, known for its gold and silver waters in Hyogo Prefecture, Japan. This iconic destination offers visitors a sophisticated onsen experience with therapeutic mineral waters and traditional Japanese hospitality in the beautiful Mount Rokko setting. The historic resort's cultural significance and therapeutic traditions create a special destination for those seeking authentic Japanese onsen culture.",
+  location: "Located in Kobe, Hyogo Prefecture, Japan, approximately 30 minutes north of Kobe City in the Mount Rokko region. The historic hot spring resort is situated at 1,150 feet elevation with stunning views of Mount Rokko and the surrounding mountains.",
+  directions: "From Kobe Station, take the Kobe Electric Railway to Arima Onsen Station. From Osaka, take JR trains to Kobe then transfer to Arima Onsen. The historic resort is easily accessible year-round.",
+  accessibilityDetails: "Arima Onsen is accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking authentic Japanese onsen culture.",
+  hotSpringDetails: "The historic resort features multiple hot spring baths with temperatures ranging from 98-185°F. The therapeutic waters are rich in iron, salt, and carbonate and flow from natural geothermal sources. The historic setting provides a unique environment for enjoying traditional Japanese onsen baths. The resort offers comprehensive spa services and traditional accommodations to complement the onsen experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The historic resort emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and cultural experiences. The location provides excellent access to Mount Rokko and Kobe attractions. The historic setting offers an authentic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural geothermal waters.",
 },
 {
   id: "beppu-onsen",
@@ -20066,6 +20084,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/Beppu Onsen.jpg",
   rating: 4.9,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Beppu, Oita Prefecture, Japan",
+  website: "beppu-onsen.com",
+  detailedDescription: "Beppu Onsen is Japan's most famous hot spring town, home to thousands of baths and the 'Hells of Beppu' geothermal wonders in Oita Prefecture, Japan. This iconic destination offers visitors an unparalleled onsen experience with therapeutic mineral waters and spectacular geothermal displays in the beautiful Kyushu setting. The historic town's cultural significance and therapeutic traditions create a special destination for those seeking the ultimate Japanese onsen experience.",
+  location: "Located in Beppu, Oita Prefecture, Japan, on the northeastern coast of Kyushu Island. The historic hot spring town is situated at 20 feet elevation with stunning views of Beppu Bay and Mount Tsurumi.",
+  directions: "From Fukuoka, take the JR Kyushu Shinkansen to Beppu Station. From Oita Airport, take a bus or taxi to Beppu. The historic town is easily accessible year-round.",
+  accessibilityDetails: "Beppu Onsen is accessible year-round with comprehensive town facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking authentic Japanese onsen culture.",
+  hotSpringDetails: "The historic town features thousands of hot spring baths with temperatures ranging from 104-212°F. The therapeutic waters are rich in sulfur, iron, and salt and flow from natural geothermal sources. The historic setting provides a unique environment for enjoying traditional Japanese onsen baths. The town offers comprehensive spa services and traditional accommodations to complement the onsen experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The historic town emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and cultural experiences. The location provides excellent access to Hells of Beppu and Mount Tsurumi attractions. The historic setting offers an authentic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural geothermal waters.",
 },
 {
   id: "dogo-onsen",
