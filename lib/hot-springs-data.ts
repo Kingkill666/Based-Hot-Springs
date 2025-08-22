@@ -19618,6 +19618,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.3,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Ballybofey, County Donegal, Ireland",
+  website: "N/A",
+  detailedDescription: "Ballybofey Mineral Springs is a historic mineral springs near Ballybofey, once known for their healing properties in County Donegal, Ireland. This historic destination offers visitors a glimpse into Ireland's mineral spring heritage with therapeutic mineral waters and rural charm in the beautiful County Donegal countryside. The historic springs' cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's mineral spring history.",
+  location: "Located near Ballybofey, County Donegal, Ireland, approximately 15 miles southeast of Donegal Town in the River Finn Valley. The historic mineral springs are situated at 50 feet elevation with views of the surrounding countryside and River Finn.",
+  directions: "From Donegal Town, take N15 southeast to Ballybofey. From Letterkenny, take N14 southwest to Ballybofey. The historic mineral springs are easily accessible year-round.",
+  accessibilityDetails: "Ballybofey Mineral Springs is accessible year-round with historic mineral spring facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's mineral spring heritage.",
+  hotSpringDetails: "The historic mineral springs feature therapeutic waters with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spring development. The location offers opportunities to learn about Ireland's mineral spring culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic mineral springs operate year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to River Finn and Drumboe Woods attractions. The historic setting offers a unique glimpse into Ireland's mineral spring heritage and rural culture. The mineral waters provide exceptional therapeutic benefits.",
 },
 {
   id: "dublin-seaweed-baths",
@@ -19638,6 +19647,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.3,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Dublin, County Dublin, Ireland",
+  website: "dublinseaweedbaths.com",
+  detailedDescription: "Dublin Seaweed Baths is a modern spa in Dublin offering heated seaweed baths and wellness treatments in the heart of Ireland's capital city. This contemporary destination offers visitors a sophisticated therapeutic experience with modern seaweed baths and urban wellness services in the beautiful Dublin setting. The modern spa's therapeutic approach and urban location create a special destination for those seeking Irish seaweed therapy in the capital.",
+  location: "Located in Dublin, County Dublin, Ireland, in the heart of Ireland's capital city near the River Liffey. The modern spa is situated at 20 feet elevation with views of the city center and River Liffey.",
+  directions: "From Dublin Airport, take M50 south to Dublin City Centre. From other parts of Dublin, the modern spa is easily accessible by public transport and walking. The modern spa is easily accessible year-round.",
+  accessibilityDetails: "Dublin Seaweed Baths is accessible year-round with modern spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and urban wellness. The urban setting provides a convenient environment for visitors seeking Irish seaweed therapy in the capital.",
+  hotSpringDetails: "The modern spa features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide modern wellness treatments. The urban setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers modern Irish seaweed therapy to complement the wellness experience.",
+  tips: "Reservations essential for seaweed bath treatments. The modern spa emphasizes Irish seaweed therapy and urban wellness. Best visited year-round for therapeutic benefits and city experiences. The location provides excellent access to Dublin City Centre and River Liffey attractions. The urban setting offers a convenient and therapeutic seaweed bath experience. The modern treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "tralee-seaweed-baths",
@@ -19658,6 +19676,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Tralee, County Kerry, Ireland",
+  website: "traleeseaweedbaths.com",
+  detailedDescription: "Tralee Seaweed Baths is a traditional seaweed bathhouse in Tralee, offering therapeutic soaks and relaxation in County Kerry, Ireland. This authentic destination offers visitors a traditional therapeutic experience with heated seaweed baths and coastal charm in the beautiful Tralee Bay setting. The traditional bathhouse's therapeutic approach and coastal location create a special destination for those seeking authentic Irish seaweed therapy in the Kingdom of Kerry.",
+  location: "Located in Tralee, County Kerry, Ireland, approximately 20 miles northwest of Killarney on the Tralee Bay coast. The traditional seaweed bathhouse is situated at 20 feet elevation with stunning views of Tralee Bay and the Atlantic Ocean.",
+  directions: "From Killarney, take N22 northwest to Tralee. From Limerick, take N21 southwest to Tralee. The traditional seaweed bathhouse is easily accessible year-round.",
+  accessibilityDetails: "Tralee Seaweed Baths is accessible year-round with traditional seaweed bathhouse facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and wellness. The coastal setting provides a peaceful environment for visitors seeking authentic Irish seaweed therapy.",
+  hotSpringDetails: "The traditional seaweed bathhouse features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide traditional Irish seaweed therapy. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The bathhouse offers traditional Irish seaweed therapy to complement the therapeutic experience.",
+  tips: "Reservations essential for seaweed bath treatments. The traditional seaweed bathhouse emphasizes authentic Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Tralee Bay and Blennerville Windmill attractions. The coastal setting offers a traditional and therapeutic seaweed bath experience. The traditional treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "limerick-mineral-springs",
@@ -19678,6 +19705,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Limerick, County Limerick, Ireland",
+  website: "N/A",
+  detailedDescription: "Limerick Mineral Springs is a historic mineral springs in Limerick, once a popular destination for health seekers in County Limerick, Ireland. This historic destination offers visitors a glimpse into Ireland's mineral spring heritage with therapeutic mineral waters and urban charm in the beautiful River Shannon setting. The historic springs' cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's mineral spring history in the Treaty City.",
+  location: "Located in Limerick, County Limerick, Ireland, in the heart of the Treaty City near the River Shannon. The historic mineral springs are situated at 20 feet elevation with views of the city center and River Shannon.",
+  directions: "From Dublin, take M7 southwest to Limerick. From Cork, take M8 north to M7 west to Limerick. The historic mineral springs are easily accessible year-round.",
+  accessibilityDetails: "Limerick Mineral Springs is accessible year-round with historic mineral spring facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's mineral spring heritage.",
+  hotSpringDetails: "The historic mineral springs feature therapeutic waters with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spring development. The location offers opportunities to learn about Ireland's mineral spring culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic mineral springs operate year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to King John's Castle and River Shannon attractions. The historic setting offers a unique glimpse into Ireland's mineral spring heritage and urban culture. The mineral waters provide exceptional therapeutic benefits.",
 },
 {
   id: "cork-seaweed-baths",
