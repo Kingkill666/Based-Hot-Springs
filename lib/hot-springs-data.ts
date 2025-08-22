@@ -9118,6 +9118,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Bodhi Manda Hot Springs, Jemez Springs, NM 87025",
+    website: "bodhimandahotsprings.com",
+    detailedDescription: "Bodhi Manda Hot Springs is a Zen retreat center facility located in Jemez Springs, New Mexico, featuring natural hot springs pools with temperatures of 102-108°F, meditation programs, and retreat center accommodations. This spiritual facility offers visitors a transformative soaking experience with excellent opportunities for meditation practice and spiritual growth in the beautiful Jemez Mountains setting. The spiritual location and mountain backdrop create an ideal hot springs destination.",
+    location: "Located in Jemez Springs, New Mexico, in the Jemez Mountains approximately 50 miles northwest of Albuquerque. The retreat center is situated at 6,200 feet elevation in the mountain region.",
+    directions: "From Albuquerque, take local roads northwest to Jemez Springs, then follow local roads to the retreat center. The spiritual facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Bodhi Manda Hot Springs is easily accessible with good road access and parking available. The spiritual facility offers accessible accommodations and facilities with comprehensive retreat services. The natural pools provide accessible soaking options in the mountain setting.",
+    hotSpringDetails: "The retreat center features natural hot springs pools with temperatures ranging from 102-108°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and silica and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The mountain setting provides beautiful Jemez Mountains views while soaking.",
+    tips: "Reservations are recommended, especially during peak retreat seasons. The facility offers comprehensive spiritual packages including natural pools, meditation programs, accommodations, and mountain access. Swimming suits are required. The spiritual facility provides a transformative experience in the beautiful Jemez Mountains setting. Best visited year-round with each season offering different spiritual experiences. The location provides easy access to nearby attractions including Jemez Springs and Jemez Historic Site. This is one of New Mexico's premier spiritual retreat destinations with unparalleled mountain setting.",
   },
   {
     id: "canon-del-rio-inn-spa-nm",
@@ -9146,6 +9155,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Canon Del Rio Inn & Spa, Jemez Springs, NM 87025",
+    website: "canondelrio.com",
+    detailedDescription: "Canon Del Rio Inn & Spa is a charming inn and spa facility located in Jemez Springs, New Mexico, featuring private soaking tubs with temperatures of 100-104°F, spa services, and beautiful canyon views. This charming facility offers visitors an intimate soaking experience with excellent opportunities for spa treatments and canyon viewing in the beautiful Jemez Mountains setting. The charming location and canyon backdrop create an ideal hot springs destination.",
+    location: "Located in Jemez Springs, New Mexico, in the Jemez Mountains approximately 50 miles northwest of Albuquerque. The inn is situated at 6,200 feet elevation in the mountain region.",
+    directions: "From Albuquerque, take local roads northwest to Jemez Springs, then follow local roads to the inn. The charming facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Canon Del Rio Inn & Spa is easily accessible with good road access and parking available. The charming facility offers accessible accommodations and facilities with comprehensive inn and spa services. The private soaking tubs provide accessible soaking options in the canyon setting.",
+    hotSpringDetails: "The inn features private soaking tubs with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Tub sizes vary and can accommodate 1-2 people. The canyon setting provides beautiful Jemez Mountains views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The inn offers comprehensive spa packages including private soaking tubs, spa treatments, accommodations, and canyon access. Swimming suits are optional in private tubs. The charming facility provides an intimate experience in the beautiful Jemez Mountains setting. Best visited during spring and fall with each season offering different canyon experiences. The location provides easy access to nearby attractions including Jemez Springs and Jemez Falls. This is one of New Mexico's premier charming inn and spa destinations with unparalleled canyon setting.",
   },
   {
     id: "charles-motel-hot-springs-nm",
@@ -9174,6 +9192,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Charles Motel and Hot Springs, Truth or Consequences, NM 87901",
+    website: "charlesmotel.com",
+    detailedDescription: "Charles Motel and Hot Springs is a historic motel facility located in Truth or Consequences, New Mexico, featuring private mineral soaking tubs with temperatures of 98-108°F, vintage charm, and historic accommodations. This historic facility offers visitors a traditional soaking experience with excellent opportunities for historic appreciation and local community interaction in the beautiful Truth or Consequences setting. The historic location and community backdrop create an ideal hot springs destination.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque. The motel is situated at 4,242 feet elevation in the desert region.",
+    directions: "From Albuquerque, take I-25 south for about 140 miles to exit 79 for Truth or Consequences. Follow signs to downtown and the historic motel. The historic facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Charles Motel and Hot Springs is easily accessible with good road access and parking available. The historic facility offers accessible accommodations and facilities with comprehensive motel services. The private mineral soaking tubs provide accessible soaking options in the community setting.",
+    hotSpringDetails: "The motel features private mineral soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Tub sizes vary and can accommodate 1-2 people. The community setting provides beautiful Truth or Consequences views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The motel offers comprehensive historic packages including private mineral soaking tubs, accommodations, and community access. Swimming suits are optional in private tubs. The historic facility provides a traditional experience in the beautiful Truth or Consequences setting. Best visited year-round with each season offering different community experiences. The location provides easy access to nearby attractions including Downtown T or C and Elephant Butte Lake. This is one of New Mexico's premier historic motel destinations with unparalleled community setting.",
   },
   {
     id: "faywood-hot-springs-nm",
