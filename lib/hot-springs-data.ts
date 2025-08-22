@@ -20296,6 +20296,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.4,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Shikinejima Island, Tokyo Prefecture 100-0211, Japan",
+  website: "N/A",
+  detailedDescription: "Jinata Onsen is a wild, seaside hot spring on Shikinejima Island, with natural pools that mix with the ocean at high tide. This unique onsen offers visitors a truly wild and natural hot spring experience in a dramatic seaside setting. The hot spring's tidal pools and ocean location create an unforgettable soaking experience that changes with the tides, making it one of Japan's most unique and adventurous onsen destinations.",
+  location: "Located on Shikinejima Island, Tokyo Prefecture, Japan, approximately 120 miles south of Tokyo in the Pacific Ocean. The wild hot spring is situated at sea level where the geothermal pools meet the ocean.",
+  directions: "From Tokyo, take a ferry from Takeshiba Pier to Shikinejima Island. The journey takes approximately 2-3 hours by ferry. Once on the island, the hot springs are accessible by walking from the port area.",
+  accessibilityDetails: "Jinata Onsen requires moderate access and is only accessible during specific tidal conditions. The wild location has no facilities and requires visitors to be prepared for primitive conditions. The seaside location provides a challenging but rewarding environment for adventurous hot spring enthusiasts.",
+  hotSpringDetails: "The wild hot spring features natural tidal pools with temperatures ranging from 104-140°F. The mineral water is rich in iron and flows from natural geothermal sources that mix with ocean water at high tide. The pools change dramatically with the tides, creating a unique soaking experience. The water flows continuously from the spring source and is affected by tidal movements.",
+  tips: "Only accessible during low tide and spring to fall seasons. No facilities available - bring all necessary supplies. Swimming suits not required in this remote setting. Check tide charts before visiting. The location provides stunning ocean views and a unique wild onsen experience. The tidal pools create an ever-changing natural spa experience. Best visited during calm weather conditions for safety.",
 },
 {
   id: "kawaguchiko-onsen",
@@ -21157,6 +21166,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Yamanouchi, Nagano Prefecture 381-0401, Japan",
+  website: "yudanaka-onsen.com",
+  detailedDescription: "Yudanaka Onsen is a historic hot spring town near the snow monkeys of Jigokudani, with many traditional inns in Nagano Prefecture, Japan. This historic destination offers visitors a traditional onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Nagano setting. The historic town's traditional approach and snow monkey location create a special destination for those seeking a historic Japanese onsen experience near the famous snow monkeys.",
+  location: "Located in Yamanouchi, Nagano Prefecture, Japan, in the mountains of central Honshu approximately 150 miles northwest of Tokyo. The historic hot spring town is situated at 2,100 feet elevation with stunning views of the surrounding mountains and access to the snow monkeys.",
+  directions: "From Tokyo, take the JR Hokuriku Shinkansen to Nagano Station, then take local trains to Yudanaka Station. From Nagano, take the JR Iiyama Line to Yudanaka. The historic town is easily accessible by public transportation.",
+  accessibilityDetails: "Yudanaka Onsen is accessible year-round with traditional inn facilities and accommodations for visitors with varying mobility needs. The town offers accessible traditional accommodations and scenic viewpoints. The mountainous location provides a peaceful environment perfect for historic Japanese onsen therapy.",
+  hotSpringDetails: "The historic town features traditional hot spring baths with temperatures ranging from 104-140°F. The mineral water is alkaline and flows from natural geothermal sources. The town offers many traditional inns with authentic Japanese architecture and access to the snow monkeys. The water flows continuously from the spring source and provides therapeutic benefits.",
+  tips: "Reservations recommended for traditional inn stays, especially during winter when the snow monkeys are most active. The town is best visited in winter for the beautiful snowy scenery and snow monkey viewing. The location provides excellent access to Jigokudani Monkey Park and mountain hiking. Swimming suits not required in traditional onsen. The snow monkey atmosphere creates a unique and historic Japanese onsen experience.",
 },
 // FLORIDA HOT SPRINGS
 {
