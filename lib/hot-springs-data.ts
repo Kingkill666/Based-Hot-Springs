@@ -11220,6 +11220,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 3.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Mickey Hot Springs, Alvord Desert, OR 97710",
+    website: "N/A",
+    detailedDescription: "Mickey Hot Springs is a remote, extremely hot geothermal area located in the stunning Alvord Desert of southeastern Oregon. The site features boiling mud pots, steam vents, and extremely hot water temperatures reaching up to 200°F, making it unsafe for soaking but fascinating for geothermal observation. The area offers visitors a rare opportunity to witness intense geothermal activity in a dramatic desert setting.",
+    location: "Located in the Alvord Desert near Steens Mountain, approximately 80 miles southeast of Burns in the high desert region of southeastern Oregon.",
+    directions: "From Burns, take OR-78 south toward Fields. Continue on gravel roads into the Alvord Desert. The hot springs require a moderate hike from the nearest road access. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Mickey Hot Springs requires moderate hiking to access. The terrain is rugged and may be challenging for some visitors. The springs are not wheelchair accessible due to the remote location and natural terrain. Visitors should be prepared for primitive conditions and extreme caution.",
+    hotSpringDetails: "The site features extremely hot geothermal features with temperatures ranging from 120-200°F. The area includes boiling mud pots, steam vents, and hot springs that are too hot for human contact. The geothermal activity is intense and creates a dramatic landscape of bubbling mud and steam.",
+    tips: "EXTREME CAUTION: These springs are dangerously hot and NOT safe for soaking. This is for observation only. Keep a safe distance from all geothermal features. This is a remote location requiring self-sufficiency. Bring plenty of water and be prepared for changing weather conditions in the high desert. The springs are best visited during spring and fall when access is easier. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "paulina-lake-hot-springs-or",
