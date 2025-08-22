@@ -3661,6 +3661,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Buckeye Hot Springs, Bridgeport, CA 93517",
+    website: "N/A",
+    detailedDescription: "Buckeye Hot Springs is a natural riverside hot springs located near Bridgeport, California, featuring multiple pools with temperatures of 98-140°F offering stunning Eastern Sierra mountain views and easy access. These natural riverside pools offer visitors a unique soaking experience in the beautiful Eastern Sierra with excellent opportunities for photography and mountain viewing. The riverside location and mountain backdrop create one of California's most scenic hot springs destinations.",
+    location: "Located near Bridgeport, California, in the Eastern Sierra approximately 200 miles east of San Francisco. The hot springs are situated at 6,900 feet elevation along a mountain stream.",
+    directions: "From San Francisco, take US-395 north to Bridgeport, then follow local roads to the hot springs. The springs are easily accessible by car with parking available near the pools.",
+    accessibilityDetails: "Buckeye Hot Springs is easily accessible with good road access and parking available. The natural pools offer accessible soaking options with stunning mountain views. The riverside location provides easy access to multiple temperature pools.",
+    hotSpringDetails: "The hot springs feature multiple natural pools with temperatures ranging from 98-140°F, providing a wide range of soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and boron and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Eastern Sierra setting provides spectacular mountain views while soaking.",
+    tips: "The hot springs are free to access. The riverside location provides excellent photography opportunities. The location offers multiple temperature pools for different soaking preferences. Best visited year-round with each season offering different mountain experiences. The location provides easy access to nearby attractions including Mono Lake and Bodie Ghost Town. This is one of California's premier mountain hot springs destinations with unparalleled scenic beauty.",
   },
   {
     id: "glen-ivy-hot-springs",
@@ -3699,6 +3708,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "25000 Glen Ivy Rd, Corona, CA 92883",
+    website: "glenivy.com",
+    detailedDescription: "Glen Ivy Hot Springs is a popular day spa resort located in Temescal Canyon near Corona, California, featuring famous red clay pools with temperatures of 98-104°F, mineral baths, and comprehensive spa treatments. This renowned day spa offers visitors a luxurious wellness experience combining natural hot springs with modern spa services in the beautiful canyon setting. The red clay pools and comprehensive spa facilities create an ideal wellness destination.",
+    location: "Located in Temescal Canyon near Corona, California, approximately 50 miles southeast of Los Angeles. The spa is situated at 1,400 feet elevation in the canyon region.",
+    directions: "From Los Angeles, take I-15 south to Corona, then follow local roads to Temescal Canyon. The spa is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Glen Ivy Hot Springs is easily accessible with good road access and parking available. The day spa offers accessible accommodations and facilities with comprehensive wellness services. The red clay pools provide accessible soaking options in the canyon setting.",
+    hotSpringDetails: "The hot springs feature red clay pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in iron oxide, sulfur, calcium, and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate many people. The canyon setting provides beautiful views while soaking.",
+    tips: "Reservations are recommended, especially during peak hours. The spa offers comprehensive wellness packages including red clay soaking, mineral baths, and spa treatments. Swimming suits are required. The day spa facility provides a complete wellness experience in the beautiful canyon setting. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Lake Elsinore and Temecula Wine Country. This is Southern California's premier day spa hot springs destination with unparalleled red clay experiences.",
   },
   {
     id: "sespe-hot-springs",
@@ -3741,6 +3759,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Sespe Hot Springs, Fillmore, CA 93015",
+    website: "N/A",
+    detailedDescription: "Sespe Hot Springs is a remote wilderness hot springs located near Fillmore, California, featuring natural pools with temperatures of 98-108°F requiring a challenging hike through Los Padres National Forest. These remote wilderness hot springs offer visitors a true backcountry experience with excellent opportunities for solitude and natural immersion. The challenging access and wilderness setting create one of California's most authentic hot springs experiences.",
+    location: "Located near Fillmore, California, in Los Padres National Forest approximately 60 miles northwest of Los Angeles. The hot springs are situated at 2,600 feet elevation in the wilderness area.",
+    directions: "From Los Angeles, take local roads northwest to Fillmore, then follow forest roads to the trailhead. A challenging hike is required to reach the hot springs. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Sespe Hot Springs requires a challenging hike through Los Padres National Forest, making it one of California's most difficult hot springs to reach. The wilderness location has no facilities or services. Wilderness navigation skills and emergency preparedness are essential. Only experienced hikers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The wilderness setting provides beautiful forest views while soaking.",
+    tips: "This is a clothing optional location. Bring extensive supplies including extra water, food, emergency equipment, and navigation tools. The challenging hike requires excellent physical condition and wilderness experience. Best visited during cooler months (October through May) to avoid dangerous heat. Summer visits can be life-threatening due to extreme temperatures. The wilderness location provides excellent opportunities for solitude and natural immersion. Practice Leave No Trace principles to preserve this pristine wilderness environment. This is one of California's most remote and authentic hot springs destinations.",
   },
   {
     id: "sycamore-hot-springs",
