@@ -16449,6 +16449,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Ecotopia Hot Springs, Ojai, CA 93023",
+    website: "ecotopiahotsprings.com",
+    detailedDescription: "Ecotopia Hot Springs is an eco-friendly, clothing-optional hot springs retreat featuring natural pools in Ojai, California. This sustainable destination offers visitors a unique hot springs experience with therapeutic mineral soaking in a beautiful natural setting. The eco-friendly approach and clothing-optional policy create a special and liberating hot springs retreat in the scenic Ojai Valley near Los Padres National Forest.",
+    location: "Located in Ojai, California, approximately 80 miles northwest of Los Angeles in the Ojai Valley. The retreat is situated at 800 feet elevation with views of the surrounding mountains and Los Padres National Forest.",
+    directions: "From Los Angeles, take US-101 north to CA-33 north to Ojai. From Santa Barbara, take US-101 south to CA-33 north to Ojai. The retreat is accessible via local roads and is well-marked for visitors.",
+    accessibilityDetails: "Ecotopia Hot Springs is accessible year-round with paved parking and eco-friendly facilities. The clothing-optional retreat offers natural pool areas designed for sustainable enjoyment. The natural setting provides a peaceful environment for visitors seeking an eco-conscious hot springs experience.",
+    hotSpringDetails: "The retreat features natural hot springs pools with temperatures ranging from 100-105°F. The mineral water is rich in sodium and flows from natural geothermal sources. The eco-friendly approach ensures sustainable use of the natural resources. The clothing-optional policy allows guests to experience the hot springs in their natural state while enjoying the beautiful Ojai Valley setting.",
+    tips: "This is a clothing-optional facility. Reservations recommended for day visits. The eco-friendly retreat operates year-round with sustainable practices. Best visited year-round with consistent temperatures. The location provides excellent access to Ojai attractions and Los Padres National Forest activities. The eco-friendly setting offers a unique and sustainable hot springs experience. Respect the natural environment and the retreat's sustainable practices.",
   },
   {
     id: "el-morocco-inn-spa-resort-ca",
@@ -16477,6 +16486,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "66810 4th St, Desert Hot Springs, CA 92241",
+    website: "elmoroccoinn.com",
+    detailedDescription: "El Morocco Inn and Spa Resort is a Moroccan-themed boutique inn and spa featuring a mineral water pool in Desert Hot Springs, California. This unique destination offers visitors a distinctive hot springs experience with therapeutic mineral soaking in an exotic Moroccan atmosphere. The boutique inn's authentic Moroccan theme and intimate spa services create a special and luxurious hot springs retreat in the beautiful California desert.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The inn is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the inn. The resort is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "El Morocco Inn and Spa Resort is accessible year-round with paved parking and boutique inn facilities. The Moroccan-themed inn offers accessible accommodations and pool areas designed for guest comfort. The intimate setting provides a welcoming environment for visitors seeking a unique hot springs experience.",
+    hotSpringDetails: "The inn features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The Moroccan-themed setting provides a unique and exotic atmosphere for enjoying the therapeutic mineral waters. The boutique inn offers intimate spa services to complement the hot springs experience.",
+    tips: "Reservations essential for inn accommodations and spa treatments. The Moroccan theme creates a unique and exotic atmosphere. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The boutique inn setting offers a unique and luxurious hot springs experience. The Moroccan theme provides an exotic and memorable atmosphere.",
   },
   {
     id: "fairmont-sonoma-mission-inn-ca",
@@ -16505,6 +16523,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "100 Boyes Blvd, Sonoma, CA 95476",
+    website: "fairmont.com/sonoma",
+    detailedDescription: "Fairmont Sonoma Mission Inn is a luxury resort and spa featuring geothermal mineral pools and fine dining in Sonoma, California. This world-class destination offers visitors an unparalleled hot springs experience with therapeutic mineral soaking combined with luxury amenities in the heart of California's premier wine country. The resort's elegant atmosphere and comprehensive spa services create a special and sophisticated hot springs retreat in the beautiful Sonoma Valley.",
+    location: "Located in Sonoma, California, approximately 50 miles north of San Francisco in the Sonoma Valley. The resort is situated at 75 feet elevation with stunning views of the surrounding vineyards and wine country landscape.",
+    directions: "From San Francisco, take US-101 north to CA-37 east to CA-121 north to Sonoma. From Sacramento, take I-80 west to CA-12 west to Sonoma. The resort is located on Boyes Boulevard and is easily accessible year-round.",
+    accessibilityDetails: "Fairmont Sonoma Mission Inn is fully accessible year-round with paved parking and comprehensive luxury resort facilities. The property offers accessible accommodations, pool access with lifts and ramps, accessible spa facilities, and ADA-compliant pathways throughout the resort. The luxury setting ensures broad accessibility for all guests.",
+    hotSpringDetails: "The resort features geothermal mineral pools with temperatures ranging from 98-102°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking pools and luxury spa facilities. The elegant resort setting provides a sophisticated environment for enjoying the therapeutic mineral waters. The resort's fine dining complements the luxury hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The resort offers comprehensive luxury packages and fine dining experiences. Best visited year-round with consistent temperatures. Swimming suits required. The location provides excellent access to Sonoma wine country attractions and vineyard tours. The luxury resort setting offers a sophisticated and memorable hot springs experience. The fine dining options provide exceptional culinary experiences.",
   },
   {
     id: "feather-river-hot-springs-ca",
