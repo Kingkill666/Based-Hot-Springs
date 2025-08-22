@@ -4488,6 +4488,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Slates Hot Springs, Big Sur, CA 93920",
+    website: "N/A",
+    detailedDescription: "Slates Hot Springs is a clifftop hot springs located in Big Sur, California, featuring natural rock pools with temperatures of 98-108°F overlooking the Pacific Ocean with Big Sur coastline views. These clifftop hot springs offer visitors a spectacular soaking experience with excellent opportunities for ocean viewing and photography in the beautiful Big Sur setting. The clifftop location and Pacific Ocean backdrop create an unparalleled hot springs destination.",
+    location: "Located in Big Sur, California, along the Pacific Coast approximately 150 miles south of San Francisco. The hot springs are situated at 200 feet elevation on the dramatic Big Sur coastline.",
+    directions: "From San Francisco, take US-101 south to CA-1, then follow Highway 1 south to Big Sur. The clifftop hot springs are accessible by car with parking available near the pools.",
+    accessibilityDetails: "Slates Hot Springs is accessible with good road access and parking available. The clifftop location offers accessible soaking options with stunning ocean views. The natural rock pools provide easy access to multiple temperature pools.",
+    hotSpringDetails: "The hot springs feature natural rock pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Big Sur setting provides spectacular Pacific Ocean views while soaking.",
+    tips: "The hot springs are free to access. The clifftop location provides excellent photography opportunities and ocean viewing. The location offers multiple temperature pools for different soaking preferences. Best visited year-round with each season offering different coastal experiences. The location provides easy access to nearby attractions including McWay Falls and Julia Pfeiffer Burns State Park. This is one of California's premier clifftop hot springs destinations with unparalleled ocean views.",
   },
   {
     id: "wheeler-hot-springs",
@@ -4522,6 +4531,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Wheeler Hot Springs, Ojai, CA 93023",
+    website: "wheelerhotsprings.com",
+    detailedDescription: "Wheeler Hot Springs is a historic Ojai Valley hot springs resort located in Ojai, California, featuring mineral pools with temperatures of 98-104°F, comprehensive spa treatments, and mountain views. This historic resort offers visitors a luxurious hot springs experience with excellent opportunities for relaxation and wellness in the beautiful Ojai Valley setting. The historic charm and mountain views create an ideal hot springs destination.",
+    location: "Located in Ojai, California, in the Ojai Valley approximately 80 miles northwest of Los Angeles. The resort is situated at 1,000 feet elevation in the valley region.",
+    directions: "From Los Angeles, take local roads northwest to Ojai, then follow local roads to the resort. The historic resort is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Wheeler Hot Springs is easily accessible with good road access and parking available. The historic resort offers accessible accommodations and facilities with comprehensive wellness services. The mineral pools provide accessible soaking options in the valley setting.",
+    hotSpringDetails: "The hot springs feature mineral pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and potassium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Ojai Valley setting provides beautiful mountain views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive wellness packages including mineral soaking, spa treatments, and accommodations. Swimming suits are required. The historic facility provides a complete wellness experience in the beautiful Ojai Valley. Best visited year-round with each season offering different valley experiences. The location provides easy access to nearby attractions including Los Padres National Forest and Ventura. This is one of California's premier Ojai Valley hot springs destinations with unparalleled historic charm.",
   },
   {
     id: "matilija-hot-springs",
