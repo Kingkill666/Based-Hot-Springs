@@ -3089,6 +3089,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "509 Central Ave, Hot Springs, AR 71901",
+    website: "buckstaffbaths.com",
+    detailedDescription: "Buckstaff Bathhouse is America's oldest continuously operating bathhouse since 1912, located on historic Bathhouse Row in Hot Springs National Park, featuring traditional thermal baths with temperatures of 143-147°F and comprehensive spa treatments. This historic bathhouse offers visitors an authentic experience of America's traditional spa culture with preserved architecture and therapeutic thermal water treatments. The bathhouse's rich history and traditional services create a unique glimpse into America's spa heritage.",
+    location: "Located on historic Bathhouse Row in Hot Springs National Park, Arkansas, approximately 50 miles southwest of Little Rock. The bathhouse is situated at 600 feet elevation in the heart of the historic district.",
+    directions: "From Little Rock, take I-30 west to US-70, then follow signs to Hot Springs National Park. The bathhouse is located on Central Avenue in the heart of Bathhouse Row, easily accessible by car with parking available.",
+    accessibilityDetails: "Buckstaff Bathhouse is easily accessible with good road access and parking available. The historic bathhouse offers accessible accommodations and facilities with traditional spa services. The bathhouse staff provides assistance to ensure all guests can enjoy the traditional thermal baths and treatments.",
+    hotSpringDetails: "The bathhouse features traditional thermal baths with temperatures ranging from 143-147°F, providing hot soaking experiences. The mineral water is rich in silica, calcium, magnesium, and sodium and flows from natural geothermal sources within the national park. The bathhouse offers traditional soaking options with comprehensive spa facilities and therapeutic treatments.",
+    tips: "Reservations are recommended, especially during peak tourist season. The bathhouse offers traditional spa packages including thermal soaking and therapeutic treatments. Swimming suits are required. The historic facility provides an authentic experience of America's traditional spa culture. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Bathhouse Row and Ouachita Mountains. This is America's premier historic bathhouse with unparalleled cultural significance.",
   },
   {
     id: "129",
@@ -3130,6 +3139,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "369 Central Ave, Hot Springs, AR 71901",
+    website: "nps.gov/hosp",
+    detailedDescription: "Fordyce Bathhouse is a grand historic bathhouse built in 1915, now serving as the Hot Springs National Park visitor center and museum, featuring preserved architecture and exhibits on thermal springs history. This magnificent historic bathhouse offers visitors a comprehensive understanding of America's spa culture and thermal springs history through interactive exhibits and preserved architecture. The bathhouse's grand design and educational exhibits create an unparalleled cultural experience.",
+    location: "Located on historic Bathhouse Row in Hot Springs National Park, Arkansas, approximately 50 miles southwest of Little Rock. The bathhouse is situated at 600 feet elevation in the heart of the historic district.",
+    directions: "From Little Rock, take I-30 west to US-70, then follow signs to Hot Springs National Park. The bathhouse is located on Central Avenue in the heart of Bathhouse Row, easily accessible by car with parking available.",
+    accessibilityDetails: "Fordyce Bathhouse is easily accessible with good road access and parking available. The historic bathhouse offers accessible accommodations and facilities with comprehensive visitor services. The museum staff provides assistance to ensure all guests can enjoy the exhibits and educational programs.",
+    hotSpringDetails: "The bathhouse features preserved thermal spring infrastructure with temperatures ranging from 143-147°F, providing educational insights into traditional thermal water use. The mineral water is rich in silica, calcium, magnesium, and sodium and flows from natural geothermal sources within the national park. The bathhouse offers educational exhibits on thermal springs history and traditional bathing practices.",
+    tips: "Admission is free to the visitor center and museum. The bathhouse offers comprehensive educational programs including guided tours and interactive exhibits. The grand architecture provides excellent photography opportunities. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Bathhouse Row and downtown Hot Springs. This is America's premier historic bathhouse museum with unparalleled cultural and educational significance.",
   },
   {
     id: "130",
@@ -3171,6 +3189,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Blanchard Springs, Mountain View, AR 72560",
+    website: "fs.usda.gov",
+    detailedDescription: "Blanchard Springs is a natural spring-fed pool system located in the Ozark National Forest near Mountain View, Arkansas, featuring crystal clear water with temperatures of 58-62°F and spectacular cavern tours. These natural spring-fed pools offer visitors a refreshing experience in the beautiful Ozark Mountains with excellent opportunities for swimming, hiking, and exploring the extensive cavern system. The crystal clear water and mountain forest setting create a unique natural springs destination.",
+    location: "Located in Ozark National Forest near Mountain View, Arkansas, approximately 100 miles north of Little Rock. The springs are situated at 1,200 feet elevation in the Ozark Mountains.",
+    directions: "From Little Rock, take US-65 north to Mountain View, then follow local roads to Blanchard Springs Recreation Area. The springs are easily accessible by car with parking available at the recreation area.",
+    accessibilityDetails: "Blanchard Springs is easily accessible with good road access and parking available. The recreation area offers accessible accommodations and facilities with comprehensive visitor services. The natural pools provide accessible swimming options in the beautiful mountain setting.",
+    hotSpringDetails: "The springs feature natural spring-fed pools with temperatures ranging from 58-62°F, providing refreshing swimming temperatures. The crystal clear water is rich in calcium, magnesium, and bicarbonate and flows from natural spring sources. Pool sizes vary and can accommodate many people. The mountain forest setting provides beautiful views while swimming.",
+    tips: "Admission fees apply for the recreation area and cavern tours. The area offers comprehensive visitor services including guided cavern tours, hiking trails, and camping facilities. Swimming suits are required. The crystal clear water provides excellent swimming opportunities. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Blanchard Springs Caverns and Buffalo National River. This is one of Arkansas's premier natural springs destinations with unparalleled crystal clear water.",
   },
   {
     id: "131",
@@ -3212,6 +3239,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1537 County Road 178, Eureka Springs, AR 72632",
+    website: "bluespringheritage.com",
+    detailedDescription: "Blue Spring Heritage Center is a historic natural spring located near Eureka Springs, Arkansas, featuring blue-tinted water with temperatures of 56-60°F and comprehensive educational exhibits showcasing Ozark mountain spring culture and history. This historic spring offers visitors a unique combination of natural beauty and cultural education in the beautiful Ozark Mountains with excellent opportunities for learning about regional spring culture and history. The blue-tinted water and educational exhibits create a unique cultural springs destination.",
+    location: "Located near Eureka Springs, Arkansas, in the Ozark Mountains approximately 200 miles northwest of Little Rock. The spring is situated at 1,300 feet elevation in the mountain region.",
+    directions: "From Little Rock, take I-40 west to US-65 north, then follow local roads to Eureka Springs. The heritage center is easily accessible by car with parking available at the facility.",
+    accessibilityDetails: "Blue Spring Heritage Center is easily accessible with good road access and parking available. The heritage center offers accessible accommodations and facilities with comprehensive educational services. The center staff provides assistance to ensure all guests can enjoy the exhibits and spring viewing.",
+    hotSpringDetails: "The spring features blue-tinted water with temperatures ranging from 56-60°F, providing cool viewing temperatures. The water is rich in calcium, magnesium, and sulfur and flows from natural spring sources. The spring is primarily for viewing and educational purposes. The Ozark mountain setting provides beautiful views while learning about spring culture.",
+    tips: "Admission fees apply for the heritage center and educational exhibits. The center offers comprehensive educational programs including guided tours and interactive exhibits. The blue-tinted water provides excellent photography opportunities. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Eureka Springs and Buffalo National River. This is one of Arkansas's premier cultural springs destinations with unparalleled educational significance.",
   },
   // CALIFORNIA HOT SPRINGS (100+ springs - adding comprehensive selection)
   {
