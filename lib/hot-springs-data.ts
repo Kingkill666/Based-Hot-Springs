@@ -9791,6 +9791,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Hoosier Hot Springs, Truth or Consequences, NM 87901",
+    website: "hoosierhotsprings.com",
+    detailedDescription: "Hoosier Hot Springs is a historic hot springs facility located in Truth or Consequences, New Mexico, featuring private soaking tubs with temperatures of 98-108°F, historic charm, and a relaxed atmosphere in the beautiful New Mexico desert. This historic establishment offers visitors a peaceful and authentic hot springs experience with excellent opportunities for relaxation, historic appreciation, and desert exploration in the scenic New Mexico landscape. The historic setting and relaxed atmosphere create a perfect destination for stress relief and natural healing.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque in the scenic New Mexico desert. The historic facility is situated at 4,242 feet elevation in the heart of T or C with beautiful desert views.",
+    directions: "From Albuquerque, take I-25 south to Truth or Consequences, then follow local roads to the historic facility. From Las Cruces, take I-25 north to T or C. The historic facility is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Hoosier Hot Springs is easily accessible year-round with full facilities designed for relaxation and comfort. The establishment offers accessible private soaking tubs and comfortable amenities. The relaxed setting provides welcoming access to hot springs soaking and desert attractions.",
+    hotSpringDetails: "The historic facility features private soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The private tubs offer intimate soaking experiences. The desert setting provides beautiful New Mexico views while soaking.",
+    tips: "Reservations recommended, especially during peak seasons and weekends. The historic facility offers day passes and packages for peaceful soaking experiences. Swimming suits required. The location provides excellent access to Truth or Consequences attractions and Elephant Butte Lake. Best visited year-round with each season offering different desert experiences. The relaxed atmosphere provides excellent opportunities for stress relief and natural healing. The historic setting offers authentic charm combined with therapeutic mineral benefits.",
   },
   {
     id: "hot-springs-glamp-camp-nm",
@@ -9819,6 +9828,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Hot Springs Glamp Camp, Truth or Consequences, NM 87901",
+    website: "hotspringsglampcamp.com",
+    detailedDescription: "Hot Springs Glamp Camp is a unique glamping site located in Truth or Consequences, New Mexico, featuring private hot springs soaking tubs with temperatures of 98-108°F, unique accommodations, and a distinctive outdoor experience in the beautiful New Mexico desert. This innovative facility offers visitors a luxurious camping experience with excellent opportunities for outdoor adventure, natural soaking, and desert exploration in the scenic New Mexico landscape. The glamping setting and desert backdrop create a perfect destination for outdoor enthusiasts and luxury campers.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque in the scenic New Mexico desert. The glamping site is situated at 4,242 feet elevation with beautiful desert views and easy access to Elephant Butte Lake.",
+    directions: "From Albuquerque, take I-25 south to Truth or Consequences, then follow local roads to the glamping site. From Las Cruces, take I-25 north to T or C. The glamping site is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Hot Springs Glamp Camp is easily accessible year-round with full glamping facilities and accommodations designed for outdoor enthusiasts. The establishment offers accessible unique accommodations and private soaking facilities. The glamping setting provides comfortable access to hot springs soaking and desert recreation.",
+    hotSpringDetails: "The glamping site features private hot springs soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The private tubs offer intimate soaking experiences in the outdoor setting. The desert setting provides beautiful New Mexico views while soaking.",
+    tips: "Reservations required for unique accommodations and glamping experiences, especially during peak seasons. The glamping site offers comprehensive packages including private soaking, unique accommodations, and desert access. Swimming suits required. The location provides excellent access to Truth or Consequences attractions and Elephant Butte Lake. Best visited year-round with each season offering different desert experiences. The unique accommodations provide luxury camping combined with natural hot springs benefits. The desert location offers opportunities for stargazing, hiking, and exploring the scenic New Mexico landscape.",
   },
   {
     id: "indian-springs-bathhouse-nm",
@@ -9847,6 +9865,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Indian Springs Bathhouse, Truth or Consequences, NM 87901",
+    website: "indianspringsbathhouse.com",
+    detailedDescription: "Indian Springs Bathhouse is a classic bathhouse located in Truth or Consequences, New Mexico, featuring private mineral soaking tubs with temperatures of 98-108°F, historic charm, and authentic bathhouse atmosphere in the beautiful New Mexico desert. This historic establishment offers visitors a traditional bathhouse experience with excellent opportunities for relaxation, historic appreciation, and therapeutic soaking in the scenic New Mexico landscape. The classic bathhouse setting and historic vibe create a perfect destination for traditional healing and stress relief.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque in the scenic New Mexico desert. The classic bathhouse is situated at 4,242 feet elevation in the heart of T or C with beautiful desert views.",
+    directions: "From Albuquerque, take I-25 south to Truth or Consequences, then follow local roads to the classic bathhouse. From Las Cruces, take I-25 north to T or C. The classic bathhouse is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Indian Springs Bathhouse is easily accessible year-round with full bathhouse facilities designed for traditional soaking experiences. The establishment offers accessible private soaking tubs and comfortable amenities. The historic setting provides welcoming access to therapeutic soaking and desert attractions.",
+    hotSpringDetails: "The classic bathhouse features private mineral soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The private tubs offer intimate soaking experiences in the historic setting. The desert setting provides beautiful New Mexico views while soaking.",
+    tips: "Reservations recommended, especially during peak seasons and weekends. The classic bathhouse offers day passes and packages for traditional soaking experiences. Swimming suits required. The location provides excellent access to Truth or Consequences attractions and Elephant Butte Lake. Best visited year-round with each season offering different desert experiences. The historic vibe provides excellent opportunities for traditional healing and stress relief. The classic bathhouse setting offers authentic charm combined with therapeutic mineral benefits.",
   },
   {
     id: "jemez-hot-springs-nm",
@@ -9875,6 +9902,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Jemez Hot Springs, Jemez Springs, NM 87025",
+    website: "jemezhotsprings.com",
+    detailedDescription: "Jemez Hot Springs is a beautifully landscaped hot springs facility located in Jemez Springs, New Mexico, featuring landscaped pools with temperatures of 100-104°F, mountain views, and a tranquil setting in the beautiful Jemez Mountains. This peaceful facility offers visitors a serene and natural hot springs experience with excellent opportunities for relaxation, mountain appreciation, and stress relief in the scenic New Mexico landscape. The landscaped setting and mountain backdrop create a perfect destination for peaceful soaking and natural healing.",
+    location: "Located in Jemez Springs, New Mexico, in the Jemez Mountains approximately 50 miles northwest of Albuquerque. The landscaped facility is situated at 6,200 feet elevation with beautiful mountain views and easy access to Jemez Falls.",
+    directions: "From Albuquerque, take NM-550 north to San Ysidro, then take NM-4 west to Jemez Springs. The landscaped facility is easily accessible in the heart of Jemez Springs with clear signage and good road access.",
+    accessibilityDetails: "Jemez Hot Springs is easily accessible year-round with full facilities designed for peaceful soaking experiences. The establishment offers accessible landscaped pools and comfortable amenities. The tranquil setting provides welcoming access to hot springs soaking and mountain recreation.",
+    hotSpringDetails: "The landscaped facility features beautiful pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The landscaped pools offer peaceful soaking experiences with mountain views. The mountain setting provides beautiful Jemez Mountains views while soaking.",
+    tips: "Reservations recommended, especially during peak seasons and weekends. The landscaped facility offers day passes and packages for peaceful soaking experiences. Swimming suits required. The location provides excellent access to Jemez Springs attractions and Jemez Falls. Best visited during spring and fall when temperatures are perfect for outdoor soaking. The tranquil setting provides excellent opportunities for stress relief and mountain appreciation. The landscaped pools offer beautiful natural surroundings combined with therapeutic mineral benefits.",
   },
   {
     id: "jemez-springs-bath-house-nm",
