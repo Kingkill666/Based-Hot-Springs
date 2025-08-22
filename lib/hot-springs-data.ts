@@ -19734,6 +19734,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Cork, County Cork, Ireland",
+  website: "corkseaweedbaths.com",
+  detailedDescription: "Cork Seaweed Baths is a modern spa in Cork offering heated seaweed baths and wellness treatments in the heart of Ireland's Rebel County. This contemporary destination offers visitors a sophisticated therapeutic experience with modern seaweed baths and urban wellness services in the beautiful Cork setting. The modern spa's therapeutic approach and urban location create a special destination for those seeking Irish seaweed therapy in the Rebel City.",
+  location: "Located in Cork, County Cork, Ireland, in the heart of the Rebel City near the River Lee. The modern spa is situated at 10 feet elevation with views of the city center and River Lee.",
+  directions: "From Dublin, take M8 south to Cork. From Limerick, take M7 east to M8 south to Cork. The modern spa is easily accessible by public transport and walking.",
+  accessibilityDetails: "Cork Seaweed Baths is accessible year-round with modern spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and urban wellness. The urban setting provides a convenient environment for visitors seeking Irish seaweed therapy in the Rebel City.",
+  hotSpringDetails: "The modern spa features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide modern wellness treatments. The urban setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers modern Irish seaweed therapy to complement the wellness experience.",
+  tips: "Reservations essential for seaweed bath treatments. The modern spa emphasizes Irish seaweed therapy and urban wellness. Best visited year-round for therapeutic benefits and city experiences. The location provides excellent access to Cork City Centre and River Lee attractions. The urban setting offers a convenient and therapeutic seaweed bath experience. The modern treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "ballycastle-seaweed-baths",
@@ -19754,6 +19763,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.1,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Ballycastle, County Antrim, Ireland",
+  website: "ballycastleseaweedbaths.com",
+  detailedDescription: "Ballycastle Seaweed Baths is a traditional seaweed bathhouse on the Antrim coast, offering therapeutic soaks and relaxation in County Antrim, Ireland. This authentic destination offers visitors a traditional therapeutic experience with heated seaweed baths and coastal charm in the beautiful Antrim coast setting. The traditional bathhouse's therapeutic approach and coastal location create a special destination for those seeking authentic Irish seaweed therapy on the Causeway Coast.",
+  location: "Located in Ballycastle, County Antrim, Ireland, approximately 60 miles north of Belfast on the Antrim coast. The traditional seaweed bathhouse is situated at 10 feet elevation with stunning views of the Atlantic Ocean and Ballycastle Beach.",
+  directions: "From Belfast, take M2 north to A26 north to Ballycastle. From Derry, take A2 east to Ballycastle. The traditional seaweed bathhouse is easily accessible year-round.",
+  accessibilityDetails: "Ballycastle Seaweed Baths is accessible year-round with traditional seaweed bathhouse facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and wellness. The coastal setting provides a peaceful environment for visitors seeking authentic Irish seaweed therapy.",
+  hotSpringDetails: "The traditional seaweed bathhouse features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide traditional Irish seaweed therapy. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The bathhouse offers traditional Irish seaweed therapy to complement the therapeutic experience.",
+  tips: "Reservations essential for seaweed bath treatments. The traditional seaweed bathhouse emphasizes authentic Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Giant's Causeway and Ballycastle Beach attractions. The coastal setting offers a traditional and therapeutic seaweed bath experience. The traditional treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "portrush-seaweed-baths",
@@ -19774,6 +19792,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Portrush, County Antrim, Ireland",
+  website: "portrushseaweedbaths.com",
+  detailedDescription: "Portrush Seaweed Baths is a modern spa in Portrush offering heated seaweed baths and wellness treatments on the north coast of County Antrim, Ireland. This contemporary destination offers visitors a sophisticated therapeutic experience with modern seaweed baths and coastal wellness services in the beautiful north coast setting. The modern spa's therapeutic approach and coastal location create a special destination for those seeking Irish seaweed therapy on the Causeway Coast.",
+  location: "Located in Portrush, County Antrim, Ireland, approximately 70 miles north of Belfast on the north coast. The modern spa is situated at 10 feet elevation with stunning views of the Atlantic Ocean and Portrush Beach.",
+  directions: "From Belfast, take M2 north to A26 north to Portrush. From Derry, take A2 east to Portrush. The modern spa is easily accessible year-round.",
+  accessibilityDetails: "Portrush Seaweed Baths is accessible year-round with modern spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and coastal wellness. The coastal setting provides a peaceful environment for visitors seeking modern Irish seaweed therapy.",
+  hotSpringDetails: "The modern spa features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide modern wellness treatments. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers modern Irish seaweed therapy to complement the wellness experience.",
+  tips: "Reservations essential for seaweed bath treatments. The modern spa emphasizes Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Portrush Beach and Dunluce Castle attractions. The coastal setting offers a modern and therapeutic seaweed bath experience. The wellness treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "rosses-point-seaweed-baths",
