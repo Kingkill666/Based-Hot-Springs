@@ -1676,6 +1676,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Near Bettles, AK 99726",
+    website: "N/A",
+    detailedDescription: "Kanuti River Hot Springs are extremely remote hot springs located along the Kanuti River in interior Alaska, accessible only by aircraft or extensive wilderness travel. These hot springs feature temperatures of 130-150°F and offer visitors a true backcountry soaking experience in one of Alaska's most isolated regions. The extreme remoteness and proximity to Gates of the Arctic National Park create an authentic wilderness experience.",
+    location: "Located along the Kanuti River near Bettles, Alaska, in interior Alaska approximately 300 miles northwest of Fairbanks. The hot springs are situated at 600 feet elevation in the Arctic wilderness region.",
+    directions: "Access is via aircraft only - typically by bush plane from Bettles or Fairbanks. The extreme remoteness requires careful planning and coordination with local air services. The hot springs are located in a designated wilderness area.",
+    accessibilityDetails: "Kanuti River Hot Springs requires aircraft access, making it one of Alaska's most challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for Arctic conditions.",
+    hotSpringDetails: "The hot springs feature extremely hot water with temperatures ranging from 130-150°F, providing hot soaking experiences. The mineral water is rich in sulfur, magnesium, and sodium and flows from natural geothermal springs. The pools are formed naturally along the river and vary in size and depth.",
+    tips: "Aircraft access requires advance planning and coordination with local air services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during summer months when weather conditions are more favorable. The extreme remoteness offers excellent opportunities for experiencing Arctic wilderness and true backcountry solitude. The proximity to Gates of the Arctic National Park provides additional wilderness exploration opportunities. Exercise caution due to hot temperatures and remote location.",
   },
   {
     id: "kilo-hot-springs",
@@ -1709,6 +1718,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Ruby, AK 99768",
+    website: "N/A",
+    detailedDescription: "Kilo Hot Springs are remote interior hot springs located near Ruby, Alaska, featuring natural thermal pools with temperatures of 120-135°F in a wilderness setting accessible by winter trail or summer aircraft. These remote hot springs offer visitors a true wilderness soaking experience in interior Alaska's pristine backcountry. The dual access options provide unique seasonal experiences in the interior wilderness.",
+    location: "Located near Ruby, Alaska, in interior Alaska approximately 250 miles northwest of Fairbanks. The hot springs are situated at 400 feet elevation in the interior wilderness region.",
+    directions: "Access is via winter trail from Ruby or by aircraft during summer months. The remote location requires careful planning and coordination with local transportation services. The hot springs are located in a designated wilderness area.",
+    accessibilityDetails: "Kilo Hot Springs requires either winter trail access or summer aircraft access, making it one of Alaska's more challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for interior Alaska conditions.",
+    hotSpringDetails: "The hot springs feature natural thermal pools with temperatures ranging from 120-135°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and sodium and flows from natural geothermal springs. The pools are formed naturally in the wilderness setting and vary in size and depth.",
+    tips: "Winter trail access requires extensive planning and proper equipment for extreme cold conditions. Summer aircraft access requires advance coordination with local air services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during summer months for aircraft access or winter for trail access. The remote location offers excellent opportunities for experiencing interior Alaska wilderness and Yukon River region. The wilderness setting provides a true backcountry experience.",
   },
   {
     id: "manley-hot-springs",
@@ -1746,6 +1764,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Manley Hot Springs, AK 99756",
+    website: "N/A",
+    detailedDescription: "Manley Hot Springs is a historic hot springs resort town located in interior Alaska, featuring natural thermal pools with temperatures of 135-155°F and rustic accommodations in the wilderness. This historic resort town offers visitors a unique combination of natural hot springs soaking and authentic Alaskan frontier experience. The year-round accessibility and rustic accommodations provide a true interior Alaska experience.",
+    location: "Located in Manley Hot Springs, Alaska, in interior Alaska approximately 150 miles northwest of Fairbanks. The resort town is situated at 270 feet elevation near the Tanana River.",
+    directions: "From Fairbanks, take the Elliott Highway northwest for approximately 150 miles to reach Manley Hot Springs. The road is paved and maintained year-round, though winter driving conditions can be challenging. The resort town provides accommodations and dining facilities.",
+    accessibilityDetails: "Manley Hot Springs is accessible year-round with paved road access and extensive facilities. The resort town offers accessible accommodations, dining facilities, and hot springs areas. Winter access may require special considerations due to extreme weather conditions.",
+    hotSpringDetails: "The resort features natural thermal pools with temperatures ranging from 135-155°F, providing hot soaking experiences. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal springs. The resort offers both indoor and outdoor soaking options with rustic accommodations.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort town offers rustic accommodations and dining facilities. Swimming suits are required. The year-round accessibility provides opportunities for experiencing interior Alaska in all seasons. The historic atmosphere and northern lights viewing opportunities create a unique Alaskan experience. Best visited year-round with each season offering different experiences in interior Alaska.",
   },
   {
     id: "pilgrim-hot-springs",
@@ -1779,6 +1806,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Near Nome, AK 99762",
+    website: "N/A",
+    detailedDescription: "Pilgrim Hot Springs are historic hot springs located near Nome, Alaska, featuring natural thermal pools with temperatures of 140-160°F and remnants of an early 1900s resort in the Seward Peninsula tundra landscape. These historic hot springs offer visitors a unique glimpse into Alaska's gold rush era while enjoying therapeutic mineral soaking in the Arctic tundra. The historic ruins and tundra setting create an authentic Alaskan frontier experience.",
+    location: "Located near Nome, Alaska, on the Seward Peninsula approximately 50 miles northeast of Nome. The hot springs are situated at 100 feet elevation in the Arctic tundra region.",
+    directions: "Access is via aircraft or boat from Nome. The remote location requires careful planning and coordination with local transportation services. The hot springs are located in a designated wilderness area.",
+    accessibilityDetails: "Pilgrim Hot Springs requires aircraft or boat access, making it one of Alaska's more challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for Arctic conditions.",
+    hotSpringDetails: "The hot springs feature natural thermal pools with temperatures ranging from 140-160°F, providing hot soaking experiences. The mineral water is rich in sulfur, sodium, and chloride and flows from natural geothermal springs. The pools are formed naturally in the tundra landscape and vary in size and depth.",
+    tips: "Aircraft or boat access requires advance planning and coordination with local services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during summer months when weather conditions are more favorable. The historic ruins provide insight into Alaska's gold rush history. The tundra landscape offers excellent opportunities for experiencing Arctic wilderness. The remote location provides a true backcountry experience in the Seward Peninsula.",
   },
   {
     id: "shelokum-hot-springs",
