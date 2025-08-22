@@ -16782,6 +16782,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1881 Hot Mineral Spa Rd, Niland, CA 92257",
+    website: "glamishotsprings.com",
+    detailedDescription: "Glamis North Hot Springs Resort is an RV resort featuring mineral hot springs pools, cabins, and off-roading opportunities near Niland, California. This adventure-focused destination offers visitors a unique hot springs experience with therapeutic mineral soaking combined with desert recreation in the Imperial Valley. The resort's off-roading amenities and comprehensive facilities create a special and exciting hot springs retreat for outdoor enthusiasts.",
+    location: "Located near Niland, California, approximately 150 miles southeast of Los Angeles in the Imperial Valley. The resort is situated at -180 feet elevation (below sea level) with access to the surrounding desert landscape and nearby Salton Sea and Imperial Sand Dunes.",
+    directions: "From Los Angeles, take I-10 east to CA-111 south to Niland, then follow Hot Mineral Spa Road to the resort. From San Diego, take I-8 east to CA-111 north to Niland. The resort is well-marked and accessible year-round.",
+    accessibilityDetails: "Glamis North Hot Springs Resort operates seasonally during fall to spring months with comprehensive RV resort facilities. The property offers accessible accommodations, pool areas, spa facilities, and recreational amenities designed for guest comfort. The desert setting provides excellent access for off-road vehicle enthusiasts.",
+    hotSpringDetails: "The resort features mineral hot springs pools with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking areas and spa facilities. The resort setting provides a convenient environment for enjoying the therapeutic mineral waters while having access to desert recreation activities.",
+    tips: "Reservations recommended for RV sites, cabins, and spa treatments. The resort operates seasonally during fall to spring months when temperatures are moderate. Best visited during fall to spring when desert temperatures are comfortable. Swimming suits required. The location provides excellent access to Imperial Sand Dunes for off-roading and Salton Sea activities. The resort setting offers a unique combination of hot springs relaxation and desert adventure recreation.",
   },
   {
     id: "golden-haven-hot-springs-ca",
@@ -16810,6 +16819,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1713 Lake St, Calistoga, CA 94515",
+    website: "goldenhaven.com",
+    detailedDescription: "Golden Haven Hot Springs Spa and Resort is a comprehensive resort and spa featuring mineral pools, mud baths, and lodging in Calistoga, California. This premier destination offers visitors an exceptional hot springs experience with therapeutic mineral soaking combined with luxury spa services in the heart of Napa Valley wine country. The resort's comprehensive amenities and prime Calistoga location create a special and sophisticated hot springs retreat.",
+    location: "Located in Calistoga, California, approximately 75 miles north of San Francisco in the heart of Napa Valley. The resort is situated at 348 feet elevation with stunning views of the surrounding vineyards and wine country landscape.",
+    directions: "From San Francisco, take US-101 north to CA-37 east to CA-29 north to Calistoga. From Sacramento, take I-80 west to CA-29 south to Calistoga. The resort is located on Lake Street and is easily accessible year-round.",
+    accessibilityDetails: "Golden Haven Hot Springs Spa and Resort is fully accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, pool access with lifts and ramps, accessible spa facilities, and ADA-compliant pathways throughout the resort. The luxury setting ensures broad accessibility for all guests.",
+    hotSpringDetails: "The resort features mineral pools with temperatures ranging from 96-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking pools and spa facilities featuring the famous Calistoga mud baths. The resort setting provides a luxurious environment for enjoying the therapeutic mineral waters and spa treatments.",
+    tips: "Reservations essential for accommodations and spa treatments. The resort offers comprehensive spa packages including famous Calistoga mud baths. Best visited year-round with consistent wine country temperatures. Swimming suits required. The location provides excellent access to Napa Valley wine country attractions and vineyard tours. The luxury resort setting offers a sophisticated and complete hot springs and spa experience. The mud baths provide a unique and therapeutic treatment experience.",
   },
   {
     id: "good-house-hot-springs-ca",
@@ -16838,6 +16856,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "66865 5th St, Desert Hot Springs, CA 92241",
+    website: "goodhousehotsprings.com",
+    detailedDescription: "Good House Hot Springs is a boutique hotel and spa featuring a mineral water pool with a wellness focus in Desert Hot Springs, California. This intimate destination offers visitors a peaceful hot springs experience with therapeutic mineral soaking combined with holistic wellness services in the beautiful California desert. The boutique hotel's wellness approach and intimate atmosphere create a special and rejuvenating hot springs retreat.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The hotel is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the hotel. The boutique property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Good House Hot Springs is accessible year-round with boutique hotel facilities. The property offers accessible accommodations and pool areas designed for guest comfort and wellness. The intimate setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The hotel features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The wellness-focused setting provides a peaceful environment for enjoying the therapeutic mineral waters. The boutique hotel offers intimate spa services to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The boutique hotel emphasizes wellness and relaxation. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The wellness-focused setting offers a peaceful and rejuvenating hot springs experience. The intimate boutique atmosphere provides personalized service and attention.",
   },
   {
     id: "hacienda-hot-springs-ca",
