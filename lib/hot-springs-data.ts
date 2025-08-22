@@ -9748,6 +9748,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Mothership Hot Springs, Truth or Consequences, NM 87901",
+    website: "mothershiphotsprings.com",
+    detailedDescription: "Mothership Hot Springs is an artistic retreat facility located in Truth or Consequences, New Mexico, featuring private soaking tubs with temperatures of 98-108°F, creative accommodations, and artistic atmosphere. This artistic facility offers visitors a creative soaking experience with excellent opportunities for artistic inspiration and local community interaction in the beautiful Truth or Consequences setting. The artistic location and creative backdrop create an ideal hot springs destination.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque. The retreat is situated at 4,242 feet elevation in the desert region.",
+    directions: "From Albuquerque, take I-25 south for about 140 miles to exit 79 for Truth or Consequences. Follow signs to downtown and the artistic retreat. The artistic facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Mothership Hot Springs is easily accessible with good road access and parking available. The artistic facility offers accessible accommodations and facilities with comprehensive retreat services. The private soaking tubs provide accessible soaking options in the creative setting.",
+    hotSpringDetails: "The retreat features private soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Tub sizes vary and can accommodate 1-2 people. The creative setting provides beautiful Truth or Consequences views while soaking.",
+    tips: "Reservations are recommended, especially during peak artistic seasons. The retreat offers comprehensive creative packages including private soaking tubs, accommodations, and artistic access. Swimming suits are optional in private tubs. The artistic facility provides a creative experience in the beautiful Truth or Consequences setting. Best visited year-round with each season offering different artistic experiences. The location provides easy access to nearby attractions including Downtown T or C and Elephant Butte Lake. This is one of New Mexico's premier artistic retreat destinations with unparalleled creative setting.",
   },
   {
     id: "montezuma-hot-springs-nm",
