@@ -20750,6 +20750,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kinugawa Onsen, Nikko, Tochigi Prefecture, Japan",
+  website: "kinugawa-onsen.com",
+  detailedDescription: "Kinugawa Onsen is a popular hot spring resort along the Kinugawa River, near Nikko's famous shrines in Tochigi Prefecture, Japan. This popular destination offers visitors a riverside onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Nikko setting. The popular resort's riverside approach and shrine location create a special destination for those seeking a popular Japanese onsen experience near famous shrines.",
+  location: "Located in Nikko, Tochigi Prefecture, Japan, in the mountains of central Honshu approximately 100 miles north of Tokyo. The popular hot spring resort is situated at 700 feet elevation with stunning views of the Kinugawa River and Nikko's famous shrines.",
+  directions: "From Tokyo, take the JR Nikko Line to Kinugawa Onsen Station. From Utsunomiya, take the JR Nikko Line to Kinugawa Onsen Station. The popular resort is easily accessible year-round.",
+  accessibilityDetails: "Kinugawa Onsen is accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and riverside enjoyment. The mountain setting provides a peaceful environment for visitors seeking a popular Japanese onsen experience near famous shrines.",
+  hotSpringDetails: "The popular resort features riverside hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The riverside setting provides a unique environment for enjoying traditional Japanese onsen baths near Nikko's shrines. The resort offers comprehensive spa services and traditional accommodations to complement the popular experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The popular resort emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and shrine experiences. The location provides excellent access to Nikko Shrines and Kinugawa River attractions. The riverside setting offers a popular and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "shirakawa-onsen",
@@ -20770,6 +20779,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.3,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Shirakawa Onsen, Minamiaso, Kumamoto Prefecture, Japan",
+  website: "shirakawa-onsen.com",
+  detailedDescription: "Shirakawa Onsen is a tranquil hot spring area in the Aso region, surrounded by mountains and nature in Kumamoto Prefecture, Japan. This tranquil destination offers visitors a peaceful onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Aso setting. The tranquil area's peaceful approach and mountain location create a special destination for those seeking a tranquil Japanese onsen experience surrounded by nature.",
+  location: "Located in Minamiaso, Kumamoto Prefecture, Japan, in the Aso region of Kyushu approximately 50 miles east of Kumamoto City. The tranquil hot spring area is situated at 1,800 feet elevation with stunning views of Mount Aso and the surrounding mountains.",
+  directions: "From Kumamoto, take the JR Hohi Line to Aso Station then transfer to a bus to Shirakawa Onsen. From Fukuoka, take the JR Kyushu Shinkansen to Kumamoto then transfer to Aso. The tranquil area is easily accessible year-round.",
+  accessibilityDetails: "Shirakawa Onsen is accessible year-round with comprehensive area facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and tranquil enjoyment. The mountain setting provides a peaceful environment for visitors seeking a tranquil Japanese onsen experience surrounded by nature.",
+  hotSpringDetails: "The tranquil area features peaceful hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The mountain setting provides a unique environment for enjoying traditional Japanese onsen baths surrounded by nature. The area offers comprehensive spa services and traditional accommodations to complement the tranquil experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The tranquil area emphasizes traditional Japanese onsen culture and peaceful practices. Best visited year-round for therapeutic benefits and nature experiences. The location provides excellent access to Mount Aso attractions. The mountain setting offers a tranquil and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "iwaki-yumoto-onsen",
@@ -20790,6 +20808,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Iwaki Yumoto Onsen, Iwaki, Fukushima Prefecture, Japan",
+  website: "iwaki-yumoto-onsen.com",
+  detailedDescription: "Iwaki Yumoto Onsen is a historic hot spring area in Iwaki, known for its soft, alkaline waters in Fukushima Prefecture, Japan. This historic destination offers visitors a soft onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Fukushima setting. The historic area's soft approach and Iwaki location create a special destination for those seeking a historic Japanese onsen experience with soft alkaline waters.",
+  location: "Located in Iwaki, Fukushima Prefecture, Japan, in the eastern part of Honshu approximately 150 miles northeast of Tokyo. The historic hot spring area is situated at 100 feet elevation with stunning views of the surrounding mountains and Spa Resort Hawaiians.",
+  directions: "From Tokyo, take the JR Joban Line to Iwaki Station then transfer to a bus to Yumoto Onsen. From Sendai, take the JR Joban Line to Iwaki then transfer to the onsen. The historic area is easily accessible year-round.",
+  accessibilityDetails: "Iwaki Yumoto Onsen is accessible year-round with comprehensive area facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and historic enjoyment. The mountain setting provides a peaceful environment for visitors seeking a historic Japanese onsen experience with soft alkaline waters.",
+  hotSpringDetails: "The historic area features soft alkaline hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The mountain setting provides a unique environment for enjoying traditional Japanese onsen baths with soft alkaline waters. The area offers comprehensive spa services and traditional accommodations to complement the historic experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The historic area emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and historic experiences. The location provides excellent access to Spa Resort Hawaiians attractions. The mountain setting offers a historic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural soft alkaline waters.",
 },
 {
   id: "atami-onsen",
