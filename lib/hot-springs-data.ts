@@ -10845,6 +10845,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Wildwood Retreat and Hot Springs, Truth or Consequences, NM 87901",
+    website: "wildwoodretreat.com",
+    detailedDescription: "Wildwood Retreat and Hot Springs is a wellness retreat center located in Truth or Consequences, New Mexico, featuring private soaking tubs with temperatures of 98-108°F, comfortable lodging, and comprehensive wellness programs in the beautiful New Mexico desert. This wellness facility offers visitors a transformative hot springs experience with excellent opportunities for wellness programs, relaxation, and desert exploration in the scenic New Mexico landscape. The retreat setting and wellness focus create a perfect destination for healing and personal growth.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque in the scenic New Mexico desert. The retreat center is situated at 4,242 feet elevation with beautiful desert views and easy access to Elephant Butte Lake.",
+    directions: "From Albuquerque, take I-25 south to Truth or Consequences, then follow local roads to the retreat center. From Las Cruces, take I-25 north to T or C. The retreat center is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Wildwood Retreat and Hot Springs is easily accessible year-round with full retreat facilities and accommodations designed for wellness guests. The establishment offers accessible private soaking tubs, comfortable lodging, and wellness programs. The retreat setting provides welcoming access to hot springs soaking and wellness activities.",
+    hotSpringDetails: "The retreat center features private soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The private tubs offer intimate soaking experiences in the wellness setting. The desert setting provides beautiful New Mexico views while soaking.",
+    tips: "Reservations required for retreat programs and accommodations, especially during peak wellness seasons. The retreat center offers comprehensive wellness packages including private soaking, lodging, and wellness programs. Swimming suits required. The location provides excellent access to Truth or Consequences attractions and Elephant Butte Lake. Best visited year-round with each season offering different wellness experiences. The wellness focus provides excellent opportunities for healing and personal growth. The retreat setting offers authentic wellness combined with therapeutic mineral benefits.",
   },
   {
     id: "ann-arbor-hot-springs-or",
@@ -10873,6 +10882,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Ann Arbor Hot Springs, Oregon",
+    website: "N/A",
+    detailedDescription: "Ann Arbor Hot Springs is a remote, little-known hot spring located somewhere in Oregon. Due to its remote location and limited documentation, details about this hot spring are scarce. This mysterious hot spring offers visitors an opportunity to discover a hidden natural treasure in the beautiful Oregon wilderness. The remote setting provides a perfect destination for adventurous hot springs enthusiasts seeking undiscovered locations.",
+    location: "Located in an unknown location in Oregon. The exact coordinates and elevation are not documented. The remote location makes it difficult to access and requires extensive research and exploration to locate.",
+    directions: "Due to limited documentation, specific directions to Ann Arbor Hot Springs are not available. The remote location requires extensive research, local knowledge, and wilderness navigation skills. Visitors should be prepared for primitive conditions and self-sufficiency.",
+    accessibilityDetails: "Accessibility information for Ann Arbor Hot Springs is unknown due to limited documentation. The remote location likely requires difficult hiking and wilderness navigation. Visitors should be prepared for primitive conditions and complete self-sufficiency.",
+    hotSpringDetails: "Temperature and mineral information for Ann Arbor Hot Springs is not documented. The natural hot spring likely features primitive pools formed by geothermal activity. Pool sizes and specific characteristics are unknown due to limited visitation and documentation.",
+    tips: "This is a remote location requiring extensive research and preparation. Due to limited documentation, visitors should be prepared for primitive conditions and complete self-sufficiency. The location may require wilderness navigation skills and local knowledge to access. Respect the natural environment and practice Leave No Trace principles. Consider consulting with local hot springs enthusiasts or wilderness guides for current access information.",
   },
   {
     id: "austin-hot-springs-or",
