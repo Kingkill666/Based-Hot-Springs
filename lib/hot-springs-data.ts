@@ -5439,6 +5439,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Azure Palm Hot Springs, Desert Hot Springs, CA 92240",
+    website: "azurepalmhotsprings.com",
+    detailedDescription: "Azure Palm Hot Springs is a boutique desert resort located in Desert Hot Springs, California, featuring azure-blue mineral pools with temperatures of 98-108°F, palm tree landscaping, and desert setting. This boutique resort offers visitors a premium soaking experience with excellent opportunities for relaxation and wellness in the beautiful Coachella Valley setting. The boutique amenities and desert backdrop create an ideal hot springs destination.",
+    location: "Located in Desert Hot Springs, California, in the Coachella Valley approximately 120 miles east of Los Angeles. The resort is situated at 1,200 feet elevation in the desert region.",
+    directions: "From Los Angeles, take local roads east to Desert Hot Springs, then follow local roads to the resort. The boutique resort is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Azure Palm Hot Springs is easily accessible with good road access and parking available. The boutique resort offers accessible accommodations and facilities with comprehensive spa services. The azure-blue mineral pools provide accessible soaking options in the desert setting.",
+    hotSpringDetails: "The hot springs feature azure-blue mineral pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and potassium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The desert setting provides beautiful mountain views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive wellness packages including mineral soaking, spa treatments, and accommodations. Swimming suits are required. The boutique facility provides a premium experience in the beautiful Coachella Valley. Best visited during October through May to avoid dangerous desert heat. The location provides easy access to nearby attractions including Palm Springs and Joshua Tree National Park. This is one of California's premier boutique desert hot springs destinations with unparalleled azure-blue pools.",
   },
   {
     id: "boyes-hot-springs",
