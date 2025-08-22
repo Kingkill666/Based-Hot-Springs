@@ -5486,6 +5486,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Boyes Hot Springs, Sonoma, CA 95476",
+    website: "boyeshotsprings.com",
+    detailedDescription: "Boyes Hot Springs is a historic Sonoma wine country hot springs located in Sonoma, California, featuring mineral pools with temperatures of 98-104°F, vineyard views, and wine country setting. This historic hot springs offers visitors a traditional soaking experience with excellent opportunities for wine tasting and vineyard exploration in the beautiful Sonoma Valley setting. The historic charm and wine country backdrop create an ideal hot springs destination.",
+    location: "Located in Sonoma, California, in the Sonoma Valley approximately 50 miles north of San Francisco. The hot springs are situated at 100 feet elevation in the wine country region.",
+    directions: "From San Francisco, take local roads north to Sonoma, then follow local roads to the hot springs. The historic facility is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Boyes Hot Springs is easily accessible with good road access and parking available. The historic facility offers accessible accommodations and facilities with comprehensive spa services. The mineral pools provide accessible soaking options in the wine country setting.",
+    hotSpringDetails: "The hot springs feature mineral pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and potassium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The wine country setting provides beautiful vineyard views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The facility offers comprehensive wellness packages including mineral soaking, spa treatments, and accommodations. Swimming suits are required. The historic facility provides a traditional experience in the beautiful Sonoma wine country. Best visited year-round with each season offering different wine country experiences. The location provides easy access to nearby attractions including Sonoma wineries and Napa Valley. This is one of California's premier wine country hot springs destinations with unparalleled historic charm.",
   },
   {
     id: "campbell-hot-springs",
