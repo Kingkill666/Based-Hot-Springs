@@ -10043,6 +10043,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Stagecoach Hot Springs, Truth or Consequences, NM 87901",
+    website: "N/A",
+    detailedDescription: "Stagecoach Hot Springs is a historic hot springs facility located in Truth or Consequences, New Mexico, featuring private soaking tubs with temperatures of 98-108°F, vintage atmosphere, and historic accommodations. This historic facility offers visitors a traditional soaking experience with excellent opportunities for historic appreciation and local community interaction in the beautiful Truth or Consequences setting. The historic location and vintage backdrop create an ideal hot springs destination.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque. The facility is situated at 4,242 feet elevation in the desert region.",
+    directions: "From Albuquerque, take I-25 south for about 140 miles to exit 79 for Truth or Consequences. Follow signs to downtown and the historic facility. The historic facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Stagecoach Hot Springs is easily accessible with good road access and parking available. The historic facility offers accessible accommodations and facilities with comprehensive hot springs services. The private soaking tubs provide accessible soaking options in the vintage setting.",
+    hotSpringDetails: "The facility features private soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Tub sizes vary and can accommodate 1-2 people. The vintage setting provides beautiful Truth or Consequences views while soaking.",
+    tips: "The facility is open year-round with varying seasonal hours. The facility offers comprehensive historic packages including private soaking tubs and vintage access. Swimming suits are optional in private tubs. The historic facility provides a traditional experience in the beautiful Truth or Consequences setting. Best visited year-round with each season offering different vintage experiences. The location provides easy access to nearby attractions including Downtown T or C and Elephant Butte Lake. This is one of New Mexico's premier historic hot springs destinations with unparalleled vintage setting.",
   },
   {
     id: "sundial-hot-springs-nm",
