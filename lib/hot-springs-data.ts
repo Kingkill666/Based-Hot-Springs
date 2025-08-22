@@ -2986,6 +2986,8 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Year-round",
     image: "/placeholder.svg?height=300&width=400",
+    rating: 4.7,
+    clothingOptional: false,
     // Enhanced detailed information
     address: "Hot Springs National Park, Hot Springs, AR 71901",
     website: "nps.gov/hosp",
@@ -2995,9 +2997,6 @@ export const hotSpringsData: HotSpring[] = [
     accessibilityDetails: "Hot Springs National Park is easily accessible with good road access and parking available. The national park offers accessible accommodations and facilities with comprehensive visitor services. The historic bathhouses provide accessible soaking options and spa services.",
     hotSpringDetails: "The park features 47 thermal springs with temperatures ranging from 143-147°F, providing hot soaking experiences. The mineral water is rich in silica, calcium, magnesium, and bicarbonate and flows from natural geothermal sources. The historic bathhouses offer both traditional and modern soaking options with comprehensive spa facilities and therapeutic treatments.",
     tips: "Reservations are recommended for bathhouse visits and spa treatments. The park offers comprehensive visitor services including guided tours, spa treatments, and dining facilities. Swimming suits are required in public areas. The historic bathhouses provide a unique glimpse into America's spa culture. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Lake Ouachita and Hot Springs Mountain. This is America's premier historic hot springs destination with unparalleled cultural and therapeutic significance.",
-  },
-    rating: 4.7,
-    clothingOptional: false,
   },
   {
     id: "6",
@@ -3296,16 +3295,6 @@ export const hotSpringsData: HotSpring[] = [
     hotSpringDetails: "The hot springs feature thermal pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The clifftop setting provides spectacular Pacific Ocean views while soaking.",
     tips: "Access is limited to guests of the Esalen Institute. Reservations are required for institute programs and accommodations. The hot springs are clothing optional. The clifftop location provides spectacular photography opportunities. Best visited year-round with each season offering different coastal experiences. The location provides easy access to nearby attractions including Big Sur coastline and McWay Falls. This is California's premier clifftop hot springs destination with unparalleled ocean views.",
   },
-    // Enhanced detailed information
-    address: "55000 CA-1, Big Sur, CA 93920",
-    website: "Esalen.org",
-    detailedDescription: "Esalen Hot Springs is one of the most iconic hot spring destinations in California, perched dramatically on the cliffs overlooking the Pacific Ocean. This world-renowned retreat center offers visitors the unique opportunity to soak in natural hot spring pools while taking in breathtaking coastal views. The springs are part of the historic Esalen Institute, which has been a center for personal growth and wellness since 1962. The clifftop location provides an unparalleled setting where visitors can watch the sunset over the Pacific while soaking in the therapeutic mineral waters.",
-    location: "Located on the Big Sur coastline, approximately 12 miles south of the town of Big Sur, California. The springs are situated on the grounds of the Esalen Institute, a renowned retreat center.",
-    directions: "From Big Sur, take CA-1 south for approximately 12 miles. Look for the Esalen Institute entrance on the ocean side of the highway. The hot springs are located on the institute grounds and require advance reservations.",
-    accessibilityDetails: "Esalen Hot Springs is accessible by paved road, but requires advance reservations as it's part of the Esalen Institute. The facility is wheelchair accessible with paved paths leading to the hot spring pools. The clifftop location provides easy access to the soaking pools.",
-    hotSpringDetails: "The hot springs feature multiple soaking pools with temperatures ranging from 100-110°F. The pools are naturally heated and filled with mineral-rich water. The main soaking area includes several pools of varying sizes, all with stunning ocean views. The water is clear and has a slight mineral taste.",
-    tips: "Reservations are required and should be made well in advance. The springs are clothing optional and part of the Esalen Institute experience. Bring your own towels and toiletries. The facility offers overnight accommodations and meal plans. Best visited during sunset for the most spectacular ocean views. Respect the peaceful, contemplative atmosphere of the institute.",
-  },
   {
     id: "calistoga-hot-springs",
     name: "Calistoga Hot Springs",
@@ -3543,6 +3532,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "39555 Great Southern Overland Stage Route, Julian, CA 92036",
+    website: "parks.ca.gov",
+    detailedDescription: "Agua Caliente Springs Park is a desert oasis hot springs park located near Julian, California, featuring developed pools with temperatures of 96-104°F, camping facilities, and hiking trails in the beautiful Anza-Borrego Desert. This developed hot springs park offers visitors a family-friendly desert experience with excellent opportunities for camping, hiking, and soaking in the therapeutic mineral waters. The desert oasis setting and developed facilities create an accessible hot springs destination.",
+    location: "Located near Julian, California, in the Anza-Borrego Desert approximately 60 miles east of San Diego. The hot springs are situated at 1,350 feet elevation in the desert region.",
+    directions: "From San Diego, take I-8 east to CA-79, then follow local roads to Julian. The park is easily accessible by car with parking available at the developed facility.",
+    accessibilityDetails: "Agua Caliente Springs Park is easily accessible with good road access and parking available. The developed park offers accessible accommodations and facilities with comprehensive visitor services. The developed pools provide accessible soaking options in the desert setting.",
+    hotSpringDetails: "The hot springs feature developed pools with temperatures ranging from 96-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and sodium and flows from natural geothermal sources. Pool sizes vary and can accommodate many people. The desert oasis setting provides beautiful views while soaking.",
+    tips: "Admission fees apply for the park and camping facilities. The park offers comprehensive visitor services including camping, hiking trails, and developed facilities. Swimming suits are required. The desert oasis setting provides excellent photography opportunities. Best visited during cooler months (October through April) to avoid extreme desert heat. The location provides easy access to nearby attractions including Anza-Borrego Desert State Park and Julian. This is one of California's premier desert hot springs destinations with unparalleled family-friendly facilities.",
   },
   {
     id: "avila-hot-springs",
@@ -3577,6 +3575,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "250 Avila Beach Dr, San Luis Obispo, CA 93405",
+    website: "avilahotsprings.com",
+    detailedDescription: "Avila Hot Springs is a historic mineral hot springs resort located near Pismo Beach, California, featuring therapeutic pools with temperatures of 98-104°F, comprehensive spa services, and RV camping in the beautiful Central Coast region. This historic resort offers visitors a complete wellness experience combining natural hot springs with modern spa services and camping facilities. The Central Coast location and historic charm create an ideal hot springs destination.",
+    location: "Located near Pismo Beach, California, in the Central Coast region approximately 200 miles north of Los Angeles. The hot springs are situated at 200 feet elevation near the Pacific Ocean.",
+    directions: "From Los Angeles, take US-101 north to San Luis Obispo, then follow local roads to Avila Beach. The resort is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Avila Hot Springs is easily accessible with good road access and parking available. The historic resort offers accessible accommodations and facilities with comprehensive wellness services. The therapeutic pools provide accessible soaking options in the Central Coast setting.",
+    hotSpringDetails: "The hot springs feature therapeutic pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Central Coast setting provides beautiful ocean views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive wellness packages including therapeutic soaking, spa services, and RV camping. Swimming suits are required. The historic facility provides a complete wellness experience in the beautiful Central Coast. Best visited year-round with each season offering different coastal experiences. The location provides easy access to nearby attractions including Pismo Beach and Hearst Castle. This is one of California's premier Central Coast hot springs destinations with unparalleled historic charm.",
   },
   {
     id: "beverly-hot-springs",
@@ -3611,6 +3618,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "308 N Oxford Ave, Los Angeles, CA 90004",
+    website: "beverlyhotsprings.com",
+    detailedDescription: "Beverly Hot Springs is an urban Korean-style spa located in LA's Koreatown, featuring natural mineral hot springs with temperatures of 100-108°F, traditional Korean saunas, and comprehensive spa treatments. This unique urban hot springs destination offers visitors a traditional Korean spa experience in the heart of Los Angeles with excellent opportunities for relaxation and wellness. The urban location and traditional Korean treatments create a unique cultural hot springs experience.",
+    location: "Located in Koreatown, Los Angeles, California, approximately 5 miles west of downtown LA. The spa is situated at 300 feet elevation in the urban area.",
+    directions: "From downtown LA, take local roads west to Koreatown. The spa is easily accessible by car with parking available, or by public transportation.",
+    accessibilityDetails: "Beverly Hot Springs is easily accessible with good road access and parking available. The urban spa offers accessible accommodations and facilities with comprehensive wellness services. The spa staff provides assistance to ensure all guests can enjoy the traditional Korean treatments.",
+    hotSpringDetails: "The hot springs feature natural mineral pools with temperatures ranging from 100-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, sodium, calcium, and potassium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The urban setting provides a unique cultural experience while soaking.",
+    tips: "Reservations are recommended, especially during peak hours. The spa offers comprehensive Korean spa packages including mineral soaking, sauna experiences, and traditional treatments. Swimming suits are required. The urban facility provides a complete Korean spa experience in the heart of Los Angeles. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Hollywood and Griffith Observatory. This is Los Angeles's premier Korean-style hot springs destination with unparalleled cultural authenticity.",
   },
   {
     id: "buckeye-hot-springs",
