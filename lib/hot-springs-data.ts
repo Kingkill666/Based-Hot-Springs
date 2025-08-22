@@ -10048,6 +10048,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Pelican Spa Hot Springs, Truth or Consequences, NM 87901",
+    website: "N/A",
+    detailedDescription: "Pelican Spa Hot Springs is a colorful, retro-style hotel featuring private mineral soaking tubs in the charming town of Truth or Consequences, New Mexico. This unique destination combines vintage charm with therapeutic mineral soaking, offering guests private tubs filled with natural geothermal water. The hotel's vibrant, retro aesthetic and intimate setting create a distinctive hot springs experience perfect for relaxation and rejuvenation.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque. The hotel is situated at 4,242 feet elevation in the historic downtown area near the Rio Grande valley.",
+    directions: "From Albuquerque, take I-25 south for approximately 150 miles to Truth or Consequences. From Las Cruces, take I-25 north for about 75 miles. The hotel is located in the downtown area and easily accessible from the interstate.",
+    accessibilityDetails: "Pelican Spa Hot Springs is easily accessible year-round with paved parking and hotel facilities designed to accommodate guests with varying mobility needs. The retro hotel offers accessible rooms and private soaking areas. The downtown location provides a peaceful environment perfect for relaxation.",
+    hotSpringDetails: "The hotel features private mineral soaking tubs with temperatures ranging from 98-108°F. The mineral water is rich in sodium and calcium and flows from natural geothermal sources unique to the Truth or Consequences area. Each room includes private soaking tubs for an intimate and personalized hot springs experience. The colorful, retro decor creates a unique and memorable soaking atmosphere.",
+    tips: "Reservations recommended for accommodations, especially during peak seasons. The retro-style hotel offers a unique and colorful atmosphere perfect for a distinctive getaway. Best visited year-round with mild desert climate. Swimming suits required. The location provides excellent access to downtown Truth or Consequences attractions and Elephant Butte Lake. The private tubs offer an intimate hot springs experience. The hotel's vintage charm makes it perfect for couples seeking a unique retreat.",
   },
   {
     id: "ponce-de-leon-hot-springs-nm",
@@ -10076,6 +10085,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Ponce de Leon Hot Springs, Taos, NM 87571",
+    website: "N/A",
+    detailedDescription: "Ponce de Leon Hot Springs is a natural, riverside hot springs destination located near Taos, New Mexico, featuring natural pools with scenic views accessible by a moderate hike. These primitive hot springs offer visitors an authentic wilderness experience with therapeutic mineral soaking along the beautiful Rio Grande. The natural setting and hiking access create a perfect combination of outdoor adventure and relaxation in the stunning high desert landscape near Taos.",
+    location: "Located near Taos, New Mexico, approximately 70 miles north of Santa Fe along the Rio Grande. The hot springs are situated at 6,500 feet elevation in the high desert region with dramatic canyon views.",
+    directions: "From Taos, take local roads toward the Rio Grande Gorge area. The hot springs require a moderate hike from the parking area. From Santa Fe, take US-84/285 north to Española, then NM-68 north to Taos. Detailed directions and trail information should be obtained locally.",
+    accessibilityDetails: "Ponce de Leon Hot Springs requires a moderate hike through natural terrain to reach the riverside pools. The hiking trail can be challenging and requires good physical condition. The natural pools are primitive with no facilities or services available. Visitors should be prepared for wilderness conditions.",
+    hotSpringDetails: "The hot springs feature natural riverside pools with temperatures ranging from 97-101°F. The mineral water is rich in sodium and calcium and flows from natural geothermal sources along the Rio Grande. The pools are formed by natural rock formations and vary in size and depth. The riverside setting provides beautiful views of the Rio Grande canyon and surrounding high desert landscape.",
+    tips: "This is a clothing optional location. Best visited during spring and fall when hiking conditions are optimal and temperatures are moderate. The moderate hike requires good physical condition and proper hiking equipment. Bring plenty of water and supplies as there are no facilities available. The location provides excellent opportunities for combining hot springs soaking with outdoor adventure. Practice Leave No Trace principles to preserve this pristine natural environment. The area offers spectacular views of the Rio Grande Gorge and high desert landscape.",
   },
   {
     id: "riverbend-hot-springs-nm",
@@ -10110,6 +10128,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "100 Austin St, Truth or Consequences, NM 87901",
+    website: "riverbendhotsprings.com",
+    detailedDescription: "Riverbend Hot Springs is a premier riverside resort located in Truth or Consequences, New Mexico, featuring private and communal soaking tubs, comfortable lodging, and beautiful views of the Rio Grande. This elegant resort combines therapeutic mineral soaking with modern amenities and stunning natural beauty. The property offers both intimate private tubs and larger communal pools, all filled with natural geothermal water and positioned to take advantage of the scenic riverside setting.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque along the Rio Grande. The resort is situated at 4,242 feet elevation in the downtown area with direct access to the river.",
+    directions: "From Albuquerque, take I-25 south for approximately 150 miles to Truth or Consequences. From Las Cruces, take I-25 north for about 75 miles. The resort is located on Austin Street in the downtown area, easily accessible from the interstate.",
+    accessibilityDetails: "Riverbend Hot Springs is fully accessible year-round with paved parking and comprehensive resort facilities. The property offers accessible accommodations, pool access features, and ADA-compliant pathways throughout. The riverside location provides a peaceful and accessible environment for all guests.",
+    hotSpringDetails: "The resort features multiple private and communal soaking options with temperatures ranging from 98-108°F. The mineral water is rich in sodium and calcium and flows from natural geothermal sources unique to the Truth or Consequences area. Options include private riverside tubs, communal pools, and therapy pools. The beautiful riverside setting provides stunning views of the Rio Grande while soaking.",
+    tips: "Reservations essential for accommodations and highly recommended for day use. The resort offers luxury lodging options and various soaking packages. Best visited year-round with mild desert climate perfect for outdoor soaking. Swimming suits required. The location provides excellent access to downtown Truth or Consequences and Elephant Butte Lake recreational activities. The riverside setting offers exceptional sunrise and sunset views. This is considered one of New Mexico's premier hot springs destinations.",
   },
   {
     id: "san-antonio-hot-springs-nm",
