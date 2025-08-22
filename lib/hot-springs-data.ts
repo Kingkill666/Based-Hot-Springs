@@ -17299,6 +17299,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Kosk Creek Hot Springs, Big Bend, CA 96011",
+    website: "N/A",
+    detailedDescription: "Kosk Creek Hot Springs features primitive, remote hot springs pools along Kosk Creek near Big Bend, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a beautiful creek setting. The primitive nature and remote location create a special destination for those seeking an authentic, natural hot springs experience in Northern California's wilderness.",
+    location: "Located near Big Bend, California, approximately 250 miles north of San Francisco in Northern California. The hot springs are situated at 1,800 feet elevation with stunning views of Kosk Creek and surrounding mountain landscape.",
+    directions: "From San Francisco, take I-80 east to CA-89 north to Big Bend. From Redding, take CA-299 east to Big Bend. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Kosk Creek Hot Springs requires moderate hiking to access. The creekside terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural creek terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations along Kosk Creek. The primitive location provides a peaceful and authentic hot springs experience in Northern California wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during spring and fall months. The primitive creekside setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during spring and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring Kosk Creek and the surrounding wilderness. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "lake-elsinore-hot-springs-ca",
@@ -17327,6 +17336,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Lake Elsinore Hot Springs, Lake Elsinore, CA 92530",
+    website: "lakeelsinorehotsprings.com",
+    detailedDescription: "Lake Elsinore Hot Springs is a historic hot springs resort featuring pools and spa services in Lake Elsinore, California. This iconic destination offers visitors a comprehensive hot springs experience with therapeutic mineral soaking combined with spa services in the beautiful Southern California landscape. The historic resort's authentic atmosphere and comprehensive amenities create a special and memorable hot springs retreat.",
+    location: "Located in Lake Elsinore, California, approximately 60 miles southeast of Los Angeles in Southern California. The resort is situated at 1,263 feet elevation with stunning views of Lake Elsinore and the surrounding Cleveland National Forest.",
+    directions: "From Los Angeles, take I-15 south to Lake Elsinore. From San Diego, take I-15 north to Lake Elsinore. The historic resort is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Lake Elsinore Hot Springs is accessible year-round with comprehensive resort facilities. The historic property offers accessible accommodations, pool areas, spa facilities, and basic amenities designed for guest comfort. The resort setting provides a welcoming environment for visitors seeking a complete hot springs experience.",
+    hotSpringDetails: "The resort features hot springs pools with temperatures ranging from 100-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking areas and spa facilities. The historic setting provides an authentic environment for enjoying the therapeutic mineral waters. The resort's spa services complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The historic resort offers comprehensive hot springs and spa experiences. Best visited year-round with consistent Southern California temperatures. Swimming suits required. The location provides excellent access to Lake Elsinore attractions and Cleveland National Forest activities. The historic resort setting offers an authentic and memorable hot springs experience. The spa services provide additional therapeutic benefits.",
   },
   {
     id: "lake-isabella-hot-springs-ca",
@@ -17354,6 +17372,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Lake Isabella Hot Springs, Lake Isabella, CA 93240",
+    website: "N/A",
+    detailedDescription: "Lake Isabella Hot Springs features primitive, riverside hot springs pools near Lake Isabella, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a beautiful mountain lake setting. The primitive nature and riverside location create a special destination for those seeking an authentic, natural hot springs experience in the Southern Sierra Nevada mountains.",
+    location: "Located near Lake Isabella, California, approximately 150 miles north of Los Angeles in the Southern Sierra Nevada mountains. The hot springs are situated at 2,513 feet elevation with stunning views of Lake Isabella and the Kern River.",
+    directions: "From Los Angeles, take I-5 north to CA-99 north to CA-178 east to Lake Isabella. From Bakersfield, take CA-178 east to Lake Isabella. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Lake Isabella Hot Springs requires moderate hiking to access. The riverside terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural river terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations along the Kern River. The primitive location provides a peaceful and authentic hot springs experience in Southern Sierra Nevada wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during spring and fall months. The primitive riverside setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during spring and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring Lake Isabella and the Kern River. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "las-cruces-hot-springs-ca",
