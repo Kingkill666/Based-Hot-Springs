@@ -1221,6 +1221,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Virgin Valley, NV 89412",
+  website: "N/A",
+  detailedDescription: "Virgin Valley Hot Springs are natural hot springs located in the remote Virgin Valley area of northern Nevada, featuring a temperature range of 100-110°F and known for their pristine natural beauty and secluded valley setting. These hot springs offer visitors a peaceful and therapeutic experience in one of Nevada's most remote and beautiful locations, surrounded by the vast Black Rock Desert landscape. The valley setting provides a unique backdrop for soaking in the natural mineral waters.",
+  location: "Located in Virgin Valley, Nevada, approximately 40 miles northeast of Gerlach in the remote northern Nevada desert. The hot springs are situated at 5,200 feet elevation in the vast Black Rock Desert region.",
+  directions: "From Gerlach, take a dirt road northeast for approximately 40 miles to reach Virgin Valley and the hot springs. A high-clearance vehicle or 4WD is recommended due to rough road conditions. The remote location requires careful navigation.",
+  accessibilityDetails: "Virgin Valley Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The natural pools are easily accessible once you reach the site.",
+  hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The pools are formed by natural geothermal sources and contain sodium, chloride, and sulfate minerals. The pools vary in size and depth, typically 2-3 feet deep. The water flows continuously from geothermal sources and maintains consistent hot temperatures.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The valley setting provides excellent opportunities for experiencing the solitude of the Black Rock Desert. Practice Leave No Trace principles to preserve this remote environment. The 100-110°F temperature range is comfortable for extended soaking.",
 },
 // ALASKA HOT SPRINGS (16 springs)
   {
@@ -1355,6 +1364,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Summer months only",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Bering Land Bridge National Preserve, Nome, AK 99762",
+    website: "N/A",
+    detailedDescription: "Serpentine Hot Springs is one of Alaska's most remote and pristine hot springs destinations, located in the Bering Land Bridge National Preserve near Nome. These wilderness hot springs require aircraft access and offer visitors a true wilderness soaking experience in one of Alaska's most remote locations. The springs feature extremely hot temperatures of 140-170°F and provide an authentic Arctic wilderness experience surrounded by pristine tundra and abundant wildlife.",
+    location: "Located in the Bering Land Bridge National Preserve approximately 100 miles northeast of Nome in western Alaska. The hot springs are situated at 250 feet elevation in the Arctic tundra region.",
+    directions: "Access is via aircraft only - typically by bush plane from Nome. The remote location requires careful planning and coordination with local air services. The hot springs are located in a designated wilderness area within the national preserve.",
+    accessibilityDetails: "Serpentine Hot Springs requires aircraft access, making it one of Alaska's most challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for Arctic conditions.",
+    hotSpringDetails: "The hot springs feature extremely hot water with temperatures ranging from 140-170°F, making them suitable for viewing rather than soaking. The mineral water is rich in sulfur, sodium, and chloride and flows from natural geothermal springs. The springs create natural pools and channels in the tundra landscape. The extreme temperatures create impressive geothermal activity in the Arctic environment.",
+    tips: "This is a viewing-only location due to extremely hot temperatures. Aircraft access requires advance planning and coordination with local air services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during summer months when weather conditions are more favorable. The pristine Arctic environment offers excellent opportunities for wildlife viewing and experiencing true wilderness. Exercise extreme caution around the hot springs due to dangerous temperatures.",
   },
   {
     id: "circle-hot-springs",
@@ -1396,6 +1414,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Summer months",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Central, AK 99730",
+    website: "N/A",
+    detailedDescription: "Circle Hot Springs is a historic hot springs resort located in interior Alaska near the Yukon River, featuring natural thermal pools with temperatures of 135-145°F and rustic accommodations that provide an authentic Alaskan wilderness experience. This remote resort offers visitors a unique combination of historic charm and natural hot springs soaking in one of Alaska's most isolated regions. The resort's location in the interior wilderness provides a true frontier experience with modern comforts.",
+    location: "Located in Central, Alaska, approximately 160 miles northeast of Fairbanks in the interior Alaska wilderness. The resort is situated at 900 feet elevation near the Yukon River.",
+    directions: "From Fairbanks, take the Steese Highway north for approximately 160 miles to reach Central and Circle Hot Springs. The road is paved but remote, and winter driving conditions can be challenging. The resort provides accommodations and dining facilities.",
+    accessibilityDetails: "Circle Hot Springs requires driving on remote roads that can be challenging, especially in winter. The resort offers accessible accommodations and facilities. The remote location requires advance planning and reservations.",
+    hotSpringDetails: "The resort features natural thermal pools with temperatures ranging from 135-145°F, providing hot soaking experiences. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal springs. The pools are designed for comfortable soaking in the wilderness setting. The resort offers both indoor and outdoor soaking options.",
+    tips: "Reservations are essential due to the remote location and limited accommodations. The resort is best visited during summer months when road conditions are more favorable. The rustic accommodations provide an authentic Alaskan experience. Swimming suits are required. The remote location offers excellent opportunities for experiencing interior Alaska wilderness and gold mining history. The resort provides a unique combination of historic charm and natural hot springs.",
   },
   {
     id: "alaska-hotel-springs",
@@ -2763,7 +2790,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: true,
       restaurant: true,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Buckstaff Bathhouse.jpeg",
     rating: 4.5,
     minerals: ["Silica", "Calcium", "Magnesium", "Sodium"],
     nearbyAttractions: [
