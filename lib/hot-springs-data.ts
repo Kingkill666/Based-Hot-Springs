@@ -21589,6 +21589,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "Szechenyi Baths.jpg",
   rating: 4.9,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Állatkerti krt. 9-11, 1146 Budapest, Hungary",
+  website: "szechenyibath.com",
+  detailedDescription: "Széchenyi Baths is one of the largest bathing complexes in Europe, featuring 18 pools including indoor medicinal baths and outdoor thermal pools. The complex has a grand atmosphere with Roman-style architecture and offers various medical treatments. Built in 1913, this magnificent thermal bath complex is the largest medicinal bath in Europe and represents the pinnacle of Budapest's famous thermal bath culture.",
+  location: "Located in Budapest, Hungary, in the heart of City Park (Városliget) approximately 2 miles northeast of the city center. The baths are situated in a beautiful park setting at 400 feet elevation.",
+  directions: "From Budapest city center, take the M1 metro line to Széchenyi fürdő station. From Heroes' Square, walk north through City Park. The baths are easily accessible by public transportation and well-marked.",
+  accessibilityDetails: "Széchenyi Baths is fully accessible year-round with paved parking, accessible facilities, and accommodations. The historic bath complex and modern spa amenities are designed to accommodate visitors of all mobility levels. The facility offers a welcoming environment for visitors seeking traditional thermal bathing experiences.",
+  hotSpringDetails: "The thermal baths feature 18 pools with temperatures ranging from 74-102°F. The mineral water is rich in sulfate, calcium, magnesium, bicarbonate, fluoride, and metaboric acid and flows from natural geothermal sources. The complex includes both indoor medicinal baths and outdoor thermal pools. The water flows continuously from the spring source and the facility offers various medical treatments and spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply. Swimming suits required. The baths are popular, especially during peak seasons. Best visited year-round, with each season offering different experiences. The historic significance and therapeutic properties make this a unique destination. The area provides opportunities to experience Budapest's famous thermal bath culture and enjoy modern spa treatments. The City Park location offers beautiful surroundings and easy access to other attractions.",
 },
 {
   id: "rudas-baths-hu",
