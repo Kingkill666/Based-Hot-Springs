@@ -17816,6 +17816,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Ojai Hot Springs, Ojai, CA 93023",
+    website: "N/A",
+    detailedDescription: "Ojai Hot Springs features primitive, riverside hot springs pools in the Los Padres National Forest near Ojai, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a beautiful forest setting. The primitive nature and riverside location create a special destination for those seeking an authentic, natural hot springs experience in the Los Padres wilderness.",
+    location: "Located near Ojai, California, approximately 80 miles northwest of Los Angeles in the Los Padres National Forest. The hot springs are situated at 800 feet elevation with stunning views of the surrounding forest and mountain landscape.",
+    directions: "From Los Angeles, take US-101 north to CA-33 north to Ojai. From Santa Barbara, take CA-150 east to Ojai. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Ojai Hot Springs requires moderate hiking to access. The forest terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural forest terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools with temperatures ranging from 100-105°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations in the Los Padres National Forest. The primitive location provides a peaceful and authentic hot springs experience in forest wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during spring and fall months. The primitive forest setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during spring and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring the Los Padres National Forest and Ojai area. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "river-oaks-hot-spring-ca",
@@ -17844,6 +17853,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "800 12th St, Paso Robles, CA 93446",
+    website: "riveroakshotspring.com",
+    detailedDescription: "River Oaks Hot Spring Spa is a spa and wellness center featuring private mineral tubs and vineyard views in Paso Robles, California. This intimate destination offers visitors a personalized hot springs experience with therapeutic mineral soaking combined with wine country charm in the heart of Central Coast wine country. The spa's private setting and vineyard views create a special and romantic hot springs retreat.",
+    location: "Located in Paso Robles, California, approximately 200 miles north of Los Angeles in Central Coast wine country. The spa is situated at 732 feet elevation with stunning views of the surrounding vineyards and wine country landscape.",
+    directions: "From Los Angeles, take US-101 north to Paso Robles. From San Francisco, take US-101 south to Paso Robles. The intimate spa is located on 12th Street and is easily accessible year-round.",
+    accessibilityDetails: "River Oaks Hot Spring Spa is accessible year-round with spa facilities. The property offers accessible private tub areas and spa facilities designed for guest comfort and privacy. The intimate setting provides a peaceful environment for visitors seeking a personalized hot springs experience.",
+    hotSpringDetails: "The spa features private mineral tubs with temperatures ranging from 100-106°F. The mineral water is rich in sodium and flows from natural geothermal sources. The private setting provides an intimate environment for enjoying the therapeutic mineral waters. The spa's vineyard views and wine country setting complement the hot springs experience.",
+    tips: "Reservations essential for private tub sessions. The intimate spa emphasizes privacy and personalized experiences. Best visited year-round with consistent wine country temperatures. Swimming suits required. The location provides excellent access to Paso Robles attractions and Central Coast wine tours. The private setting offers a romantic and intimate hot springs experience. The vineyard views provide exceptional wine country ambiance.",
   },
   {
     id: "roman-spa-hot-springs-ca",
