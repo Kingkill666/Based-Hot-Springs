@@ -4219,6 +4219,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Jordan Hot Springs, Kernville, CA 93238",
+    website: "N/A",
+    detailedDescription: "Jordan Hot Springs is a remote wilderness hot springs located in Sequoia National Forest near Kernville, California, featuring natural pools with temperatures of 98-108°F requiring challenging backpacking access. These remote wilderness hot springs offer visitors a true backcountry experience with excellent opportunities for solitude and natural immersion in the beautiful mountain setting. The challenging access and wilderness setting create one of California's most authentic hot springs experiences.",
+    location: "Located near Kernville, California, in Sequoia National Forest approximately 150 miles north of Los Angeles. The hot springs are situated at 6,000 feet elevation in the wilderness area.",
+    directions: "From Los Angeles, take local roads north to Kernville, then follow forest roads to the trailhead. A challenging backpacking trip is required to reach the hot springs. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Jordan Hot Springs requires a challenging backpacking trip through Sequoia National Forest, making it one of California's most difficult hot springs to reach. The wilderness location has no facilities or services. Wilderness navigation skills and emergency preparedness are essential. Only experienced backpackers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The wilderness setting provides beautiful forest views while soaking.",
+    tips: "This is a clothing optional location. Bring extensive supplies including extra water, food, emergency equipment, and navigation tools. The challenging backpacking trip requires excellent physical condition and wilderness experience. Best visited during warmer months (June through October) when the wilderness is more accessible. The wilderness location provides excellent opportunities for solitude and natural immersion. Practice Leave No Trace principles to preserve this pristine wilderness environment. This is one of California's most remote and authentic hot springs destinations.",
   },
   {
     id: "mercey-hot-springs",
@@ -4253,6 +4262,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Mercey Hot Springs, Firebaugh, CA 93622",
+    website: "merceyhotsprings.com",
+    detailedDescription: "Mercey Hot Springs is a historic Central Valley hot springs resort located near Firebaugh, California, featuring mineral pools with temperatures of 98-104°F, camping, and agricultural valley views. This historic resort offers visitors a peaceful hot springs experience with excellent opportunities for relaxation and camping in the beautiful Central Valley setting. The historic charm and agricultural views create an ideal hot springs destination.",
+    location: "Located near Firebaugh, California, in the Central Valley approximately 200 miles north of Los Angeles. The resort is situated at 800 feet elevation in the agricultural region.",
+    directions: "From Los Angeles, take I-5 north to local roads, then follow signs to Firebaugh. The historic resort is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Mercey Hot Springs is easily accessible with good road access and parking available. The historic resort offers accessible accommodations and facilities with comprehensive visitor services. The mineral pools provide accessible soaking options in the Central Valley setting.",
+    hotSpringDetails: "The hot springs feature mineral pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and sodium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Central Valley setting provides beautiful agricultural views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive packages including mineral soaking, camping, and accommodations. Swimming suits are required. The historic facility provides a complete experience in the beautiful Central Valley. Best visited year-round with each season offering different agricultural experiences. The location provides easy access to nearby attractions including San Luis Reservoir and Pacheco Pass. This is one of California's premier Central Valley hot springs destinations with unparalleled historic charm.",
   },
   {
     id: "murrieta-hot-springs",
