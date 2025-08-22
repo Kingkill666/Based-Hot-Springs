@@ -20307,6 +20307,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kawaguchiko Onsen, Fujikawaguchiko, Yamanashi Prefecture, Japan",
+  website: "kawaguchiko-onsen.com",
+  detailedDescription: "Kawaguchiko Onsen is a hot spring resort area with stunning views of Mount Fuji and lakeside baths in Yamanashi Prefecture, Japan. This scenic destination offers visitors a resort onsen experience with therapeutic alkaline waters and spectacular Mount Fuji views in the beautiful Lake Kawaguchi setting. The resort onsen's scenic approach and lakeside location create a special destination for those seeking a picturesque Japanese onsen experience with iconic mountain views.",
+  location: "Located in Fujikawaguchiko, Yamanashi Prefecture, Japan, at the base of Mount Fuji approximately 80 miles west of Tokyo. The scenic hot spring resort is situated at 2,700 feet elevation with stunning views of Mount Fuji and Lake Kawaguchi.",
+  directions: "From Tokyo, take the JR Chuo Line to Otsuki then transfer to the Fujikyu Line to Kawaguchiko Station. From Shinjuku, take the Fujikyu Express Bus to Kawaguchiko. The scenic resort is easily accessible year-round.",
+  accessibilityDetails: "Kawaguchiko Onsen is accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and scenic enjoyment. The lakeside setting provides a peaceful environment for visitors seeking a scenic Japanese onsen experience with Mount Fuji views.",
+  hotSpringDetails: "The scenic resort features lakeside hot spring baths with temperatures ranging from 98-108°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The lakeside setting provides a unique environment for enjoying traditional Japanese onsen baths with Mount Fuji views. The resort offers comprehensive spa services and traditional accommodations to complement the scenic experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The scenic resort emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and scenic experiences. The location provides excellent access to Lake Kawaguchi and Mount Fuji attractions. The lakeside setting offers a scenic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "kinosaki-onsen",
@@ -20327,6 +20336,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kinosaki Onsen, Toyooka, Hyogo Prefecture, Japan",
+  website: "kinosaki-onsen.com",
+  detailedDescription: "Kinosaki Onsen is a charming hot spring town with seven public bathhouses and picturesque willow-lined streets in Hyogo Prefecture, Japan. This traditional destination offers visitors a classic onsen experience with therapeutic alkaline waters and authentic Japanese charm in the beautiful Kinosaki setting. The traditional onsen's seven bathhouses and picturesque location create a special destination for those seeking a complete Japanese onsen experience in a charming town setting.",
+  location: "Located in Toyooka, Hyogo Prefecture, Japan, in the northern part of the Kansai region approximately 100 miles northwest of Osaka. The charming hot spring town is situated at 30 feet elevation with picturesque willow-lined streets and traditional architecture.",
+  directions: "From Osaka, take the JR Limited Express to Kinosaki Onsen Station. From Kyoto, take the JR Limited Express to Kinosaki Onsen Station. The charming town is easily accessible year-round.",
+  accessibilityDetails: "Kinosaki Onsen is accessible year-round with comprehensive town facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and town enjoyment. The picturesque setting provides a peaceful environment for visitors seeking a traditional Japanese onsen experience in a charming town.",
+  hotSpringDetails: "The charming town features seven public bathhouses with temperatures ranging from 104-112°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The picturesque setting provides a unique environment for enjoying traditional Japanese onsen baths. The town offers comprehensive spa services and traditional accommodations to complement the charming experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The charming town emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and town experiences. The location provides excellent access to Kinosaki Ropeway and Genbudo Park attractions. The picturesque setting offers a traditional and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "kurokawa-onsen",
@@ -20347,6 +20365,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/Kurokawa Onsen.jpg",
   rating: 4.9,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kurokawa Onsen, Minamioguni, Kumamoto Prefecture, Japan",
+  website: "kurokawa-onsen.com",
+  detailedDescription: "Kurokawa Onsen is a picturesque hot spring village in the mountains, famous for its outdoor baths and traditional ryokan in Kumamoto Prefecture, Japan. This mountain destination offers visitors a traditional onsen experience with therapeutic sulfur and alkaline waters and authentic Japanese hospitality in the beautiful Kyushu mountains. The mountain onsen's traditional approach and scenic location create a special destination for those seeking an authentic Japanese onsen experience in a picturesque mountain village.",
+  location: "Located in Minamioguni, Kumamoto Prefecture, Japan, in the mountains of northern Kyushu approximately 50 miles northeast of Kumamoto City. The picturesque hot spring village is situated at 2,100 feet elevation with stunning views of the surrounding mountains and Aso Kuju National Park.",
+  directions: "From Kumamoto, take the JR Hohi Line to Aso Station then transfer to a bus to Kurokawa Onsen. From Fukuoka, take the JR Kyushu Shinkansen to Kumamoto then transfer to Aso. The picturesque village is easily accessible year-round.",
+  accessibilityDetails: "Kurokawa Onsen is accessible year-round with comprehensive village facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and mountain enjoyment. The picturesque setting provides a peaceful environment for visitors seeking a traditional Japanese onsen experience in a mountain village.",
+  hotSpringDetails: "The picturesque village features outdoor hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in sulfur and alkaline minerals and flow from natural geothermal sources. The mountain setting provides a unique environment for enjoying traditional Japanese outdoor onsen baths. The village offers comprehensive spa services and traditional ryokan accommodations to complement the picturesque experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The picturesque village emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and mountain experiences. The location provides excellent access to Aso Kuju National Park attractions. The mountain setting offers a traditional and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural geothermal waters.",
 },
 {
   id: "kusatsu-onsen",
