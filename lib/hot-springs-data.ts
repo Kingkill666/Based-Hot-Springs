@@ -1523,6 +1523,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "167 S Franklin St, Juneau, AK 99801",
+    website: "alaskahotelsprings.com",
+    detailedDescription: "Alaska Hotel Springs is a historic hotel hot springs located in downtown Juneau, featuring therapeutic mineral waters with temperatures of 98-104°F and vintage charm from Alaska's gold rush era. This downtown establishment offers visitors a unique combination of historic accommodation and natural hot springs therapy in the heart of Alaska's capital city. The hotel's gold rush history and downtown location create a perfect base for exploring Juneau while enjoying therapeutic mineral soaking.",
+    location: "Located in downtown Juneau, Alaska, in the heart of Alaska's capital city at 50 feet elevation. The historic hotel is situated within walking distance of major Juneau attractions and the downtown waterfront.",
+    directions: "From Juneau International Airport, take Egan Drive north to downtown Juneau. The hotel is located on South Franklin Street in the historic downtown district. Public transportation and taxis are available from the airport.",
+    accessibilityDetails: "Alaska Hotel Springs is easily accessible year-round with downtown location and full hotel facilities. The establishment offers accessible accommodations and spa facilities designed for all guests. The urban setting provides comfortable access to hot springs therapy.",
+    hotSpringDetails: "The hotel features therapeutic mineral pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and sodium and flows from natural geothermal sources. The spa offers both private and communal soaking options with historic hotel amenities and modern comfort.",
+    tips: "Reservations recommended for both accommodations and spa treatments. The downtown location provides easy access to Juneau attractions including Mendenhall Glacier and the Alaska State Museum. Swimming suits required. The historic setting offers authentic Alaska gold rush atmosphere. Best visited year-round with each season offering different Juneau experiences. The hotel provides excellent opportunities for combining hot springs therapy with urban Alaska exploration.",
   },
   {
     id: "baranof-warm-springs",
@@ -4092,6 +4101,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "3375 Wilbur Springs Rd, Williams, CA 95987",
+    website: "wilburhotsprings.com",
+    detailedDescription: "Wilbur Hot Springs is a clothing-optional sanctuary resort featuring natural hot springs with temperatures of 98-140°F, silent retreat atmosphere, and healing arts focus in Northern California. This unique sanctuary offers visitors a peaceful and transformative experience with natural mineral soaking, holistic healing, and spiritual renewal in a tranquil natural setting. The silent retreat atmosphere and healing arts focus create a perfect environment for personal restoration and wellness.",
+    location: "Located in Williams, California, approximately 150 miles north of San Francisco in the Coast Range foothills. The sanctuary is situated at 1,300 feet elevation in a peaceful valley surrounded by rolling hills and natural springs.",
+    directions: "From San Francisco, take I-80 north to I-505 north, then follow CA-20 west to Williams. From Williams, follow Wilbur Springs Road north for approximately 20 miles to reach the sanctuary. The final portion is on gravel roads.",
+    accessibilityDetails: "Wilbur Hot Springs is accessible by car with parking available at the sanctuary. The resort offers accessible accommodations and facilities designed for healing and wellness. The peaceful setting provides a comfortable environment for guests with varying mobility needs.",
+    hotSpringDetails: "The sanctuary features natural hot springs with temperatures ranging from 98-140°F in multiple pools of varying temperatures. The mineral water is rich in sulfur, boron, lithium, and magnesium and flows from natural geothermal sources. Pool options include hot pools, warm pools, and cold plunge pools for contrasting therapy. The healing mineral content is known for therapeutic and spiritual benefits.",
+    tips: "Reservations required for all visits and accommodations. The sanctuary maintains a silent retreat atmosphere - speaking is only allowed in designated areas. Clothing optional throughout the property. Bring personal items as the focus is on simplicity and healing. Best visited year-round with each season offering different healing experiences. The sanctuary offers workshops, healing arts, and wellness programs. Practice mindfulness and respect the sacred nature of the healing environment.",
   },
   {
     id: "bashfords-hot-mineral-spa",
@@ -4408,6 +4426,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "39405 Murrieta Hot Springs Rd, Murrieta, CA 92563",
+    website: "murrietahotsprings.com",
+    detailedDescription: "Murrieta Hot Springs is a historic Southern California hot springs resort featuring mineral pools with temperatures of 98-104°F, comprehensive spa services, and wellness programs in the beautiful Temecula Valley. This historic resort offers visitors a complete wellness experience with therapeutic mineral soaking, professional spa treatments, and holistic healing programs in a tranquil Southern California setting. The resort's combination of natural hot springs and modern wellness amenities creates a perfect destination for relaxation and rejuvenation.",
+    location: "Located in Murrieta, California, approximately 85 miles southeast of Los Angeles in the scenic Temecula Valley. The resort is situated at 1,100 feet elevation with beautiful views of the surrounding hills and wine country.",
+    directions: "From Los Angeles, take I-5 south to CA-79 south (Temecula Parkway), then follow signs to Murrieta Hot Springs Road. From San Diego, take I-15 north to CA-79 north. The resort is easily accessible from major Southern California highways.",
+    accessibilityDetails: "Murrieta Hot Springs is easily accessible year-round with full resort facilities and accommodations designed for all guests. The establishment offers accessible spa facilities and lodging options. The resort setting provides comfortable access to therapeutic treatments and wellness programs.",
+    hotSpringDetails: "The resort features mineral pools with temperatures ranging from 98-104°F, providing comfortable therapeutic soaking. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources. Pool options include therapeutic pools, spa pools, and wellness pools designed for different healing modalities. The mineral-rich water is known for its therapeutic benefits and skin healing properties.",
+    tips: "Reservations recommended for spa treatments and accommodations, especially during peak seasons. The resort offers comprehensive wellness packages combining mineral soaking with spa services. Swimming suits required. The location provides excellent access to Temecula Wine Country and Lake Elsinore. Best visited year-round with each season offering different wellness experiences. The resort provides professional wellness programs and healing treatments. The historic setting offers authentic Southern California charm combined with modern amenities.",
   },
   {
     id: "paso-robles-hot-springs",
