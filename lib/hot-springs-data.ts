@@ -4893,6 +4893,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Grover Hot Springs State Park, Markleeville, CA 96120",
+    website: "parks.ca.gov",
+    detailedDescription: "Grover Hot Springs is a state park hot springs located near Markleeville, California, featuring concrete pools with temperatures of 102-148°F, alpine meadow setting, and camping facilities. This state park hot springs offers visitors a family-friendly soaking experience with excellent opportunities for camping and alpine exploration in the beautiful Sierra Nevada setting. The state park amenities and alpine backdrop create an ideal hot springs destination.",
+    location: "Located near Markleeville, California, in Alpine County approximately 200 miles east of San Francisco. The state park is situated at 5,900 feet elevation in the Sierra Nevada mountains.",
+    directions: "From San Francisco, take local roads east to Markleeville, then follow local roads to the state park. The state park facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Grover Hot Springs is easily accessible with good road access and parking available. The state park offers accessible camping and basic facilities. The concrete pools provide accessible soaking options in the alpine setting.",
+    hotSpringDetails: "The hot springs feature concrete pools with temperatures ranging from 102-148°F, providing a wide range of soaking temperatures. The mineral water is rich in sulfur, sodium, and chloride and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The alpine meadow setting provides beautiful mountain views while soaking.",
+    tips: "Reservations are recommended for camping, especially during peak tourist season. The state park offers basic camping amenities and day-use soaking. Swimming suits are required. The state park facility provides a family-friendly experience in the beautiful Sierra Nevada. Best visited during May through October to avoid dangerous winter conditions. The location provides easy access to nearby attractions including Lake Tahoe and Carson Pass. This is one of California's premier state park hot springs destinations with unparalleled alpine setting.",
   },
   {
     id: "mono-hot-springs",
@@ -4926,6 +4935,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Mono Hot Springs, Lakeshore, CA 93634",
+    website: "monohotsprings.com",
+    detailedDescription: "Mono Hot Springs is a historic resort located in Sierra Nevada wilderness near Lakeshore, California, featuring natural pools with temperatures of 103-125°F, wilderness setting, and fishing opportunities. This historic resort offers visitors a traditional soaking experience with excellent opportunities for wilderness exploration and fishing in the beautiful Sierra Nevada setting. The historic charm and wilderness backdrop create an ideal hot springs destination.",
+    location: "Located in Lakeshore, California, in the Sierra Nevada approximately 250 miles east of San Francisco. The resort is situated at 7,400 feet elevation in the wilderness region.",
+    directions: "From San Francisco, take local roads east to Lakeshore, then follow mountain roads to the resort. The historic resort requires careful driving and mountain navigation skills.",
+    accessibilityDetails: "Mono Hot Springs requires moderate access through mountain terrain, making it one of California's more challenging hot springs to reach. The wilderness location has basic resort facilities but limited services. Mountain driving skills and emergency preparedness are essential. Only experienced mountain travelers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 103-125°F, providing a wide range of soaking temperatures. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Sierra Nevada setting provides spectacular wilderness views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers basic accommodations and natural soaking. Swimming suits are required. The historic facility provides a traditional experience in the beautiful Sierra Nevada wilderness. Best visited during June through October to avoid dangerous winter conditions. The location provides excellent opportunities for fishing and wilderness exploration. This is one of California's premier wilderness hot springs destinations with unparalleled Sierra Nevada views.",
   },
   {
     id: "benton-hot-springs",
@@ -4963,6 +4981,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Benton Hot Springs, Benton, CA 93512",
+    website: "bentonhotsprings.com",
+    detailedDescription: "Benton Hot Springs is a historic mining town hot springs located in Benton, California, featuring natural pools with temperatures of 140-180°F, rustic cabins, and desert setting. This historic mining town hot springs offers visitors a rustic soaking experience with excellent opportunities for desert exploration and mining history in the beautiful Eastern Sierra setting. The historic charm and desert backdrop create an ideal hot springs destination.",
+    location: "Located in Benton, California, in the Eastern Sierra approximately 250 miles east of San Francisco. The hot springs are situated at 5,200 feet elevation in the desert region.",
+    directions: "From San Francisco, take local roads east to Benton, then follow local roads to the hot springs. The historic facility is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Benton Hot Springs is easily accessible with good road access and parking available. The historic facility offers accessible rustic cabins and basic facilities. The natural pools provide accessible soaking options in the desert setting.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 140-180°F, providing very hot soaking temperatures. The mineral water is rich in sulfur, boron, and lithium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The desert setting provides beautiful mountain views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The facility offers rustic cabin accommodations and natural soaking. Swimming suits are required. The historic facility provides a rustic experience in the beautiful Eastern Sierra desert. Best visited year-round with each season offering different desert experiences. The location provides easy access to nearby attractions including Mono Lake and Bodie State Historic Park. This is one of California's premier mining town hot springs destinations with unparalleled desert setting.",
   },
   {
     id: "wild-willy-hot-springs",
@@ -4996,6 +5023,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Wild Willy Hot Springs, Mammoth Lakes, CA 93546",
+    website: "N/A",
+    detailedDescription: "Wild Willy Hot Springs is a natural riverside hot springs located near Mammoth Lakes, California, featuring multiple pools with temperatures of 100-110°F along Owens River with natural setting. These natural riverside hot springs offer visitors a peaceful soaking experience with excellent opportunities for river viewing and natural immersion in the beautiful Eastern Sierra setting. The riverside location and natural backdrop create an ideal hot springs destination.",
+    location: "Located near Mammoth Lakes, California, in the Eastern Sierra approximately 250 miles east of San Francisco. The hot springs are situated at 7,000 feet elevation along the Owens River.",
+    directions: "From San Francisco, take local roads east to Mammoth Lakes, then follow local roads to the hot springs. The riverside location is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Wild Willy Hot Springs is easily accessible with good road access and parking available. The riverside location offers accessible natural pools with no facilities or services. The multiple pools provide accessible soaking options in the natural setting.",
+    hotSpringDetails: "The hot springs feature multiple pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Owens River setting provides beautiful river views while soaking.",
+    tips: "This is a clothing optional location. The hot springs are free to access. The riverside location provides excellent opportunities for river viewing and natural immersion. The location offers multiple temperature pools for different soaking preferences. Best visited during May through October to avoid dangerous winter conditions. The location provides easy access to nearby attractions including Devils Postpile and Owens River. This is one of California's premier riverside hot springs destinations with unparalleled natural setting.",
   },
   {
     id: "hilltop-hot-springs",
