@@ -3287,6 +3287,16 @@ export const hotSpringsData: HotSpring[] = [
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
+    address: "55000 Highway 1, Big Sur, CA 93920",
+    website: "esalen.org",
+    detailedDescription: "Esalen Hot Springs is a world-famous clifftop hot springs located at the Esalen Institute in Big Sur, California, featuring thermal pools with temperatures of 100-110°F overlooking the Pacific Ocean. This iconic hot springs destination offers visitors breathtaking coastal views and a unique spiritual retreat experience in one of California's most beautiful coastal settings. The clifftop location and Pacific Ocean backdrop create an unparalleled hot springs experience.",
+    location: "Located at the Esalen Institute in Big Sur, California, approximately 150 miles south of San Francisco. The hot springs are situated at 100 feet elevation on the dramatic Big Sur coastline.",
+    directions: "From San Francisco, take US-101 south to CA-1, then follow Highway 1 south to Big Sur. The institute is located on Highway 1, easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Esalen Hot Springs is accessible to guests of the Esalen Institute with good road access and parking available. The institute offers accessible accommodations and facilities with comprehensive wellness services. The clifftop location provides accessible soaking options with stunning ocean views.",
+    hotSpringDetails: "The hot springs feature thermal pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The clifftop setting provides spectacular Pacific Ocean views while soaking.",
+    tips: "Access is limited to guests of the Esalen Institute. Reservations are required for institute programs and accommodations. The hot springs are clothing optional. The clifftop location provides spectacular photography opportunities. Best visited year-round with each season offering different coastal experiences. The location provides easy access to nearby attractions including Big Sur coastline and McWay Falls. This is California's premier clifftop hot springs destination with unparalleled ocean views.",
+  },
+    // Enhanced detailed information
     address: "55000 CA-1, Big Sur, CA 93920",
     website: "Esalen.org",
     detailedDescription: "Esalen Hot Springs is one of the most iconic hot spring destinations in California, perched dramatically on the cliffs overlooking the Pacific Ocean. This world-renowned retreat center offers visitors the unique opportunity to soak in natural hot spring pools while taking in breathtaking coastal views. The springs are part of the historic Esalen Institute, which has been a center for personal growth and wellness since 1962. The clifftop location provides an unparalleled setting where visitors can watch the sunset over the Pacific while soaking in the therapeutic mineral waters.",
@@ -3435,6 +3445,15 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Calistoga", "Napa Valley", "Clear Lake"],
     bestTimeToVisit: "Year-round",
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "18424 Harbin Springs Rd, Middletown, CA 95461",
+    website: "harbin.org",
+    detailedDescription: "Harbin Hot Springs is a clothing-optional retreat center located in the redwood forest near Middletown, California, featuring natural hot springs with temperatures of 95-110°F in a spiritual and peaceful setting. This unique retreat center offers visitors a holistic wellness experience combining natural hot springs with spiritual practices in the beautiful redwood forest. The clothing-optional atmosphere and redwood forest setting create a unique and liberating hot springs experience.",
+    location: "Located near Middletown, California, in the redwood forest approximately 100 miles north of San Francisco. The hot springs are situated at 1,500 feet elevation in the forest region.",
+    directions: "From San Francisco, take US-101 north to CA-29, then follow local roads to Middletown. The retreat center is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Harbin Hot Springs is easily accessible with good road access and parking available. The retreat center offers accessible accommodations and facilities with comprehensive wellness services. The redwood forest setting provides accessible soaking options in a peaceful environment.",
+    hotSpringDetails: "The hot springs feature multiple natural pools with temperatures ranging from 95-110°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, magnesium, and silica and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The redwood forest setting provides beautiful views while soaking.",
+    tips: "Access is limited to guests of the retreat center. Reservations are required for accommodations and day passes. The hot springs are clothing optional. The redwood forest setting provides excellent photography opportunities. Best visited year-round with each season offering different forest experiences. The location provides easy access to nearby attractions including Calistoga and Napa Valley. This is California's premier clothing-optional hot springs destination with unparalleled spiritual atmosphere.",
   },
   {
     id: "10",
@@ -3476,6 +3495,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Year-round",
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Travertine Hot Springs, Bridgeport, CA 93517",
+    website: "N/A",
+    detailedDescription: "Travertine Hot Springs is a spectacular natural hot springs located near Bridgeport, California, featuring terraced limestone pools with temperatures of 95-110°F overlooking Bridgeport Valley with stunning Eastern Sierra mountain views. These natural terraced pools offer visitors a unique soaking experience in the beautiful Eastern Sierra with excellent opportunities for photography and mountain viewing. The terraced limestone formations and mountain backdrop create one of California's most scenic hot springs destinations.",
+    location: "Located near Bridgeport, California, in the Eastern Sierra approximately 200 miles east of San Francisco. The hot springs are situated at 6,900 feet elevation overlooking Bridgeport Valley.",
+    directions: "From San Francisco, take US-395 north to Bridgeport, then follow local roads to the hot springs. The springs are easily accessible by car with parking available near the pools.",
+    accessibilityDetails: "Travertine Hot Springs is easily accessible with good road access and parking available. The natural pools offer accessible soaking options with stunning mountain views. The terraced limestone formations provide easy access to multiple temperature pools.",
+    hotSpringDetails: "The hot springs feature terraced limestone pools with temperatures ranging from 95-110°F, providing comfortable soaking temperatures. The mineral water is rich in calcium carbonate, sulfur, and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Eastern Sierra setting provides spectacular mountain views while soaking.",
+    tips: "The hot springs are free to access. The terraced limestone formations provide excellent photography opportunities. The location offers multiple temperature pools for different soaking preferences. Best visited year-round with each season offering different mountain experiences. The location provides easy access to nearby attractions including Mono Lake and Bodie State Historic Park. This is one of California's premier mountain hot springs destinations with unparalleled scenic beauty.",
   },
   // CALIFORNIA HOT SPRINGS - COMPREHENSIVE COLLECTION (100+ springs)
   {
