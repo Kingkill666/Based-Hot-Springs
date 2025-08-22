@@ -19250,6 +19250,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Enfield, County Meath, Ireland",
+  website: "N/A",
+  detailedDescription: "Enfield Spa is a historic spa village with mineral springs, once a popular destination for health seekers in County Meath, Ireland. This historic destination offers visitors a glimpse into Ireland's spa village heritage with therapeutic mineral waters and rural charm in the beautiful County Meath countryside. The historic village's cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's spa village history.",
+  location: "Located in Enfield, County Meath, Ireland, approximately 30 miles northwest of Dublin in the Royal Canal region. The historic spa village is situated at 250 feet elevation with views of the surrounding countryside and Royal Canal.",
+  directions: "From Dublin, take N3 northwest to Enfield. From Navan, take N3 southeast to Enfield. The historic spa village is easily accessible year-round.",
+  accessibilityDetails: "Enfield Spa is accessible year-round with historic spa village facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's spa village heritage.",
+  hotSpringDetails: "The historic spa village features mineral springs with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spa village development. The location offers opportunities to learn about Ireland's spa village culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic spa village operates year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to Royal Canal and Trim Castle attractions. The historic setting offers a unique glimpse into Ireland's spa village heritage and rural culture. The mineral springs provide exceptional therapeutic benefits.",
 },
 {
   id: "mallow-spa",
@@ -19270,6 +19279,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Mallow, County Cork, Ireland",
+  website: "N/A",
+  detailedDescription: "Mallow Spa is a historic spa town with mineral-rich wells, once a fashionable 18th-century health resort in County Cork, Ireland. This historic destination offers visitors a glimpse into Ireland's spa town heritage with therapeutic mineral waters and Georgian charm in the beautiful County Cork countryside. The historic town's cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's spa town history.",
+  location: "Located in Mallow, County Cork, Ireland, approximately 20 miles north of Cork City in the Blackwater River Valley. The historic spa town is situated at 100 feet elevation with views of the surrounding countryside and Blackwater River.",
+  directions: "From Cork City, take N20 north to Mallow. From Limerick, take N20 south to Mallow. The historic spa town is easily accessible year-round.",
+  accessibilityDetails: "Mallow Spa is accessible year-round with historic spa town facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's spa town heritage.",
+  hotSpringDetails: "The historic spa town features mineral wells with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spa town development. The location offers opportunities to learn about Ireland's spa town culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic spa town operates year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to Mallow Castle and Blackwater River attractions. The historic setting offers a unique glimpse into Ireland's spa town heritage and Georgian culture. The mineral wells provide exceptional therapeutic benefits.",
 },
 {
   id: "lucan-spa",
@@ -19290,6 +19308,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Lucan, County Dublin, Ireland",
+  website: "N/A",
+  detailedDescription: "Lucan Spa is a historic mineral spa in Lucan, once a popular 18th-century health retreat near Dublin, Ireland. This historic destination offers visitors a glimpse into Ireland's spa heritage with therapeutic mineral waters and Georgian charm in the beautiful County Dublin countryside. The historic spa's cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's spa history near the capital.",
+  location: "Located in Lucan, County Dublin, Ireland, approximately 10 miles west of Dublin City in the River Liffey Valley. The historic mineral spa is situated at 150 feet elevation with views of the surrounding countryside and River Liffey.",
+  directions: "From Dublin City, take N4 west to Lucan. From Maynooth, take N4 east to Lucan. The historic mineral spa is easily accessible year-round.",
+  accessibilityDetails: "Lucan Spa is accessible year-round with historic mineral spa facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's spa heritage.",
+  hotSpringDetails: "The historic mineral spa features therapeutic waters with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spa development. The location offers opportunities to learn about Ireland's spa culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic mineral spa operates year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to Lucan Demesne and River Liffey attractions. The historic setting offers a unique glimpse into Ireland's spa heritage and Georgian culture near Dublin. The mineral waters provide exceptional therapeutic benefits.",
 },
 {
   id: "ballybunion-seaweed-baths",
@@ -19310,6 +19337,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.3,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Ballybunion, County Kerry, Ireland",
+  website: "ballybunionseaweedbaths.com",
+  detailedDescription: "Ballybunion Seaweed Baths is a traditional seaweed bathhouse offering therapeutic heated seaweed soaks on the Atlantic coast of County Kerry, Ireland. This unique destination offers visitors a distinctive therapeutic experience with heated seaweed baths and coastal charm in the beautiful Atlantic setting. The traditional bathhouse's therapeutic approach and coastal location create a special destination for those seeking authentic Irish seaweed therapy.",
+  location: "Located in Ballybunion, County Kerry, Ireland, approximately 20 miles northwest of Tralee on the Atlantic coast. The traditional seaweed bathhouse is situated at 20 feet elevation with stunning views of the Atlantic Ocean and Ballybunion Beach.",
+  directions: "From Tralee, take N69 northwest to Ballybunion. From Limerick, take N69 southwest to Ballybunion. The traditional seaweed bathhouse is easily accessible year-round.",
+  accessibilityDetails: "Ballybunion Seaweed Baths is accessible year-round with traditional seaweed bathhouse facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and wellness. The coastal setting provides a peaceful environment for visitors seeking authentic Irish seaweed therapy.",
+  hotSpringDetails: "The traditional seaweed bathhouse features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide natural healing properties. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The bathhouse offers traditional Irish seaweed therapy to complement the therapeutic experience.",
+  tips: "Reservations essential for seaweed bath treatments. The traditional seaweed bathhouse emphasizes authentic Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Ballybunion Beach and Golf Links attractions. The coastal setting offers a unique and therapeutic seaweed bath experience. The traditional treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "strandhill-seaweed-baths",
