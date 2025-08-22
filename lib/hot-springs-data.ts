@@ -18931,6 +18931,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Maurice Bathhouse, Hot Springs, AR 71901",
+    website: "N/A",
+    detailedDescription: "Maurice Bathhouse is a historic bathhouse on Bathhouse Row in Hot Springs, Arkansas, currently closed but notable for its architecture and history. This historic destination offers visitors a glimpse into the past with its preserved bathhouse architecture in the heart of Hot Springs National Park. The historic nature and architectural significance create a special destination for those seeking to explore the history of bathhouse culture in Hot Springs.",
+    location: "Located in Hot Springs, Arkansas, approximately 50 miles southwest of Little Rock in the Ouachita Mountains. The historic bathhouse is situated at 600 feet elevation with views of the surrounding mountains and Bathhouse Row.",
+    directions: "From Little Rock, take I-30 west to US-70 west to Hot Springs. From Dallas, take I-30 east to US-70 west to Hot Springs. The historic bathhouse is located on Bathhouse Row and is viewable from outside year-round.",
+    accessibilityDetails: "Maurice Bathhouse is viewable from outside year-round with historic architecture on display. The property offers accessible viewing areas and basic amenities designed for guest comfort. The historic setting provides a peaceful environment for visitors seeking to explore bathhouse history.",
+    hotSpringDetails: "The historic bathhouse features preserved architecture that was once used for therapeutic mineral soaking. The mineral water is rich in sodium and silica and flows from natural geothermal sources. The historic setting provides a unique environment for exploring the preserved bathhouse development. The location offers opportunities to learn about the history of bathhouse culture in Hot Springs.",
+    tips: "The historic bathhouse is currently closed but viewable from outside year-round. The historic site emphasizes architectural preservation and cultural history. Best visited year-round for exterior viewing. The location provides excellent access to Hot Springs National Park and Bathhouse Row attractions. The historic setting offers a unique glimpse into bathhouse history and architecture. The preserved building provides exceptional historical significance.",
   },
   {
     id: "ozark-bathhouse-ar",
@@ -18959,6 +18968,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Ozark Bathhouse, Hot Springs, AR 71901",
+    website: "N/A",
+    detailedDescription: "Ozark Bathhouse is a historic bathhouse on Bathhouse Row in Hot Springs, Arkansas, now an art gallery and cultural center. This historic destination offers visitors a cultural experience with preserved bathhouse architecture and contemporary art in the heart of Hot Springs National Park. The historic nature and cultural focus create a special destination for those seeking to explore the intersection of bathhouse history and modern culture in Hot Springs.",
+    location: "Located in Hot Springs, Arkansas, approximately 50 miles southwest of Little Rock in the Ouachita Mountains. The historic bathhouse is situated at 600 feet elevation with views of the surrounding mountains and Bathhouse Row.",
+    directions: "From Little Rock, take I-30 west to US-70 west to Hot Springs. From Dallas, take I-30 east to US-70 west to Hot Springs. The historic bathhouse is located on Bathhouse Row and is easily accessible year-round.",
+    accessibilityDetails: "Ozark Bathhouse is accessible year-round with art gallery and cultural center facilities. The property offers accessible viewing areas, gallery spaces, and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore bathhouse history and contemporary art.",
+    hotSpringDetails: "The historic bathhouse features preserved architecture that was once used for therapeutic mineral soaking. The mineral water is rich in sodium and silica and flows from natural geothermal sources. The historic setting provides a unique environment for exploring the preserved bathhouse development. The location offers opportunities to learn about the history of bathhouse culture and enjoy contemporary art exhibitions.",
+    tips: "The historic bathhouse operates year-round as an art gallery and cultural center. The cultural site emphasizes artistic expression and historical preservation. Best visited year-round for art exhibitions and cultural experiences. The location provides excellent access to Hot Springs National Park and Bathhouse Row attractions. The historic setting offers a unique blend of bathhouse history and contemporary culture. The art gallery provides exceptional cultural enrichment opportunities.",
   },
   {
     id: "palace-hotel-bathhouse-ar",
@@ -18991,6 +19009,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "135 Spring St, Eureka Springs, AR 72632",
+    website: "palacehotelbathhouse.com",
+    detailedDescription: "Palace Hotel & Bathhouse is a historic hotel and bathhouse with spa services and mineral baths in Eureka Springs, Arkansas. This iconic destination offers visitors a sophisticated hot springs experience with therapeutic mineral soaking combined with historic charm in the beautiful Ozark Mountains. The historic hotel's elegant atmosphere and comprehensive spa services create a special and memorable hot springs retreat.",
+    location: "Located in Eureka Springs, Arkansas, approximately 200 miles northwest of Little Rock in the Ozark Mountains. The historic hotel is situated at 1,200 feet elevation with stunning views of the surrounding mountains and historic downtown.",
+    directions: "From Little Rock, take I-40 west to US-65 north to Eureka Springs. From Springfield, take US-65 south to Eureka Springs. The historic hotel is located on Spring Street and is easily accessible year-round.",
+    accessibilityDetails: "Palace Hotel & Bathhouse is accessible year-round with comprehensive historic hotel facilities. The property offers accessible accommodations, bath areas, spa facilities, and ADA-compliant pathways throughout the hotel. The luxury setting ensures broad accessibility for all guests.",
+    hotSpringDetails: "The historic hotel features mineral baths with temperatures ranging from 98-104°F. The mineral water is rich in sodium and silica and flows from natural geothermal sources. Bath options include various soaking areas and luxury spa facilities. The historic setting provides an elegant environment for enjoying the therapeutic mineral waters. The hotel's spa services and dining options complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The historic hotel offers comprehensive luxury packages and dining experiences. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Eureka Springs attractions and Ozark Mountains recreation. The historic hotel setting offers an elegant and memorable hot springs experience. The spa services and dining provide exceptional amenities.",
   },
   {
     id: "springs-hotel-spa-ar",
@@ -19023,6 +19050,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "135 Central Ave, Hot Springs, AR 71901",
+    website: "springshotelspa.com",
+    detailedDescription: "Springs Hotel and Spa is a hotel and spa in downtown Hot Springs, Arkansas, offering mineral baths and modern amenities. This contemporary destination offers visitors a comfortable hot springs experience with therapeutic mineral soaking combined with modern conveniences in the heart of Hot Springs National Park. The hotel's modern atmosphere and comprehensive spa services create a special and accessible hot springs retreat.",
+    location: "Located in downtown Hot Springs, Arkansas, approximately 50 miles southwest of Little Rock in the Ouachita Mountains. The hotel is situated at 600 feet elevation with views of the surrounding mountains and Bathhouse Row.",
+    directions: "From Little Rock, take I-30 west to US-70 west to Hot Springs. From Dallas, take I-30 east to US-70 west to Hot Springs. The hotel is located on Central Avenue and is easily accessible year-round.",
+    accessibilityDetails: "Springs Hotel and Spa is fully accessible year-round with comprehensive hotel facilities. The property offers accessible accommodations, bath areas, spa facilities, and ADA-compliant pathways throughout the hotel. The modern setting ensures broad accessibility for all guests.",
+    hotSpringDetails: "The hotel features mineral baths with temperatures ranging from 98-104°F. The mineral water is rich in sodium and silica and flows from natural geothermal sources. Bath options include various soaking areas and modern spa facilities. The modern setting provides a comfortable environment for enjoying the therapeutic mineral waters. The hotel's spa services and dining options complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The hotel offers comprehensive packages and dining experiences. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Hot Springs National Park and Bathhouse Row attractions. The modern hotel setting offers a comfortable and accessible hot springs experience. The spa services and dining provide exceptional amenities.",
   },
   {
     id: "swan-song-spa-ar",
