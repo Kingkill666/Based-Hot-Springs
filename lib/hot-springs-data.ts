@@ -9263,6 +9263,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Fire Water Lodge Hot Springs, Truth or Consequences, NM 87901",
+    website: "firewaterlodge.com",
+    detailedDescription: "Fire Water Lodge Hot Springs is a unique lodge facility located in Truth or Consequences, New Mexico, featuring private in-room hot springs tubs with temperatures of 98-108°F, eclectic decor, and unique accommodations. This unique facility offers visitors a distinctive soaking experience with excellent opportunities for artistic appreciation and local community interaction in the beautiful Truth or Consequences setting. The unique location and artistic backdrop create an ideal hot springs destination.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque. The lodge is situated at 4,242 feet elevation in the desert region.",
+    directions: "From Albuquerque, take I-25 south for about 140 miles to exit 79 for Truth or Consequences. Follow signs to downtown and the unique lodge. The unique facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Fire Water Lodge Hot Springs is easily accessible with good road access and parking available. The unique facility offers accessible accommodations and facilities with comprehensive lodge services. The private in-room hot springs tubs provide accessible soaking options in the artistic setting.",
+    hotSpringDetails: "The lodge features private in-room hot springs tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Tub sizes vary and can accommodate 1-2 people. The artistic setting provides beautiful Truth or Consequences views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The lodge offers comprehensive unique packages including private in-room hot springs tubs, accommodations, and artistic access. Swimming suits are optional in private tubs. The unique facility provides a distinctive experience in the beautiful Truth or Consequences setting. Best visited year-round with each season offering different artistic experiences. The location provides easy access to nearby attractions including Downtown T or C and Elephant Butte Lake. This is one of New Mexico's premier unique lodge destinations with unparalleled artistic setting.",
   },
   {
     id: "giggling-hot-springs-nm",
