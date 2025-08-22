@@ -17188,6 +17188,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "800 Keough Hot Springs Rd, Bishop, CA 93514",
+    website: "keoughhotsprings.com",
+    detailedDescription: "Keough Hot Springs is a historic hot springs resort featuring a large pool, soaking tubs, and camping near Bishop, California. This iconic destination offers visitors a comprehensive hot springs experience with therapeutic mineral soaking in the beautiful Owens Valley. The historic resort's authentic atmosphere and comprehensive amenities create a special and memorable hot springs retreat in the Eastern Sierra.",
+    location: "Located near Bishop, California, approximately 300 miles northeast of Los Angeles in the Owens Valley. The resort is situated at 4,150 feet elevation with stunning views of the surrounding Sierra Nevada mountains and Owens Valley landscape.",
+    directions: "From Los Angeles, take US-395 north to Bishop. From Reno, take US-395 south to Bishop. The historic resort is located on Keough Hot Springs Road and is easily accessible year-round.",
+    accessibilityDetails: "Keough Hot Springs is accessible year-round with comprehensive resort facilities. The historic property offers accessible pool areas, camping facilities, and basic amenities designed for guest comfort. The resort setting provides a welcoming environment for visitors seeking a complete hot springs experience.",
+    hotSpringDetails: "The resort features a large hot springs pool and soaking tubs with temperatures ranging from 100-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include the main large pool and individual soaking tubs. The historic setting provides an authentic environment for enjoying the therapeutic mineral waters. The resort offers camping options for overnight stays.",
+    tips: "Reservations recommended for camping. The historic resort offers comprehensive hot springs experiences. Best visited year-round with consistent Owens Valley temperatures. Swimming suits required. The location provides excellent access to Bishop attractions and Eastern Sierra activities. The historic resort setting offers an authentic and memorable hot springs experience. The camping options provide affordable overnight accommodations.",
   },
   {
     id: "keough-hot-ditch-ca",
@@ -17216,6 +17225,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Keough Hot Ditch, Bishop, CA 93514",
+    website: "N/A",
+    detailedDescription: "Keough Hot Ditch features primitive, free hot springs pools in a ditch near the Keough Hot Springs resort in Bishop, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a natural ditch setting. The primitive nature and free access create a special destination for those seeking an authentic, natural hot springs experience in the Owens Valley.",
+    location: "Located near Bishop, California, approximately 300 miles northeast of Los Angeles in the Owens Valley. The hot springs are situated at 4,150 feet elevation with views of the surrounding Sierra Nevada mountains and Owens Valley landscape.",
+    directions: "From Los Angeles, take US-395 north to Bishop. From Reno, take US-395 south to Bishop. The primitive hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Keough Hot Ditch requires moderate hiking to access. The ditch terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural ditch terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools in a ditch with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations in a ditch setting. The primitive location provides a peaceful and authentic hot springs experience in Owens Valley wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during spring and fall months. The primitive ditch setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during spring and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring the Owens Valley and nearby Keough Hot Springs resort. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "koa-palm-springs-ca",
@@ -17244,6 +17262,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "66840 4th St, Desert Hot Springs, CA 92241",
+    website: "koa.com",
+    detailedDescription: "KOA Palm Springs is a family-friendly RV park featuring a mineral water pool and hot tub in Desert Hot Springs, California. This welcoming destination offers visitors a convenient hot springs experience with therapeutic mineral soaking in a family-oriented setting. The RV park's family-friendly atmosphere and comprehensive amenities create a special and accessible hot springs retreat in the California desert.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The RV park is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the RV park. The family-friendly facility is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "KOA Palm Springs is accessible year-round with comprehensive RV park facilities. The property offers accessible RV sites, pool areas, and family amenities designed for guest comfort. The family setting provides a welcoming environment for visitors seeking a convenient hot springs experience.",
+    hotSpringDetails: "The RV park features a mineral water pool and hot tub with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include the main mineral pool and hot tub. The family-friendly setting provides a convenient environment for enjoying the therapeutic mineral waters. The RV park offers comprehensive camping and RV accommodations.",
+    tips: "Reservations recommended for RV sites and camping. The family-friendly RV park emphasizes convenience and accessibility. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The family setting offers a convenient and accessible hot springs experience. The RV park amenities provide comprehensive camping and recreation options.",
   },
   {
     id: "kosk-creek-hot-springs-ca",
