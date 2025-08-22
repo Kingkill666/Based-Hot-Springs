@@ -19366,6 +19366,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Strandhill, County Sligo, Ireland",
+  website: "galwaybayseaweedbaths.com",
+  detailedDescription: "Galway Bay Seaweed Baths is a traditional spa offering authentic seaweed baths and treatments on the beautiful Sligo coast of Ireland. This charming destination offers visitors a genuine therapeutic experience with traditional seaweed baths and coastal charm in the stunning Atlantic setting. The traditional spa's authentic approach and coastal location create a special destination for those seeking traditional Irish seaweed therapy.",
+  location: "Located in Strandhill, County Sligo, Ireland, approximately 5 miles west of Sligo Town on the Atlantic coast. The traditional spa is situated at 10 feet elevation with stunning views of the Atlantic Ocean and Strandhill Beach.",
+  directions: "From Sligo Town, take R292 west to Strandhill. From Galway, take N17 north to R292 west to Strandhill. The traditional spa is easily accessible year-round.",
+  accessibilityDetails: "Galway Bay Seaweed Baths is accessible year-round with traditional spa facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and traditional wellness. The coastal setting provides a peaceful environment for visitors seeking authentic Irish seaweed therapy.",
+  hotSpringDetails: "The traditional spa features authentic seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide traditional treatments. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers traditional treatments to complement the therapeutic experience.",
+  tips: "Reservations recommended for traditional seaweed bath treatments. The traditional spa emphasizes authentic Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Strandhill Beach and Knocknarea attractions. The coastal setting offers a traditional and therapeutic seaweed bath experience. The authentic treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "enagh-spa",
@@ -20394,6 +20403,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/Kusatsu Onsen.jpeg",
   rating: 4.9,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kusatsu, Agatsuma District, Gunma Prefecture 377-1711, Japan",
+  website: "kusatsu-onsen.ne.jp",
+  detailedDescription: "Kusatsu Onsen is one of Japan's most famous and prestigious hot spring resorts, renowned for its high-quality, highly acidic waters and the iconic Yubatake (hot water field). This historic onsen town has been celebrated for over 1,200 years for its therapeutic properties and represents the pinnacle of Japanese hot spring culture. The town's unique geothermal features and traditional ryokan accommodations create an authentic Japanese onsen experience.",
+  location: "Located in Kusatsu, Gunma Prefecture, Japan, approximately 150 miles northwest of Tokyo in the mountainous region. The onsen town is situated at 3,900 feet elevation surrounded by the beautiful Japanese Alps.",
+  directions: "From Tokyo, take the JR Joetsu Shinkansen to Naganohara-Kusatsuguchi Station, then take a bus to Kusatsu. From Gunma, take local trains or buses to Kusatsu. The onsen town is well-connected by public transportation.",
+  accessibilityDetails: "Kusatsu Onsen is fully accessible year-round with paved roads, accessible ryokan, and modern facilities. The town offers accommodations for visitors with varying mobility needs. The mountainous location provides a peaceful environment perfect for traditional Japanese onsen therapy.",
+  hotSpringDetails: "The onsen features highly acidic waters with temperatures ranging from 104-131°F. The mineral water is rich in sulfur and acidic compounds and flows from natural geothermal sources. The famous Yubatake displays the hot spring water and the town offers various public and private baths. The water flows continuously from the spring source and is known for its therapeutic properties.",
+  tips: "Reservations recommended for ryokan stays, especially during peak seasons. The onsen town offers traditional Japanese accommodations and modern hotels. Best visited year-round with each season offering different experiences. The location provides excellent access to hiking trails and cultural experiences. Swimming suits not required in traditional onsen. The Yubatake is a must-see attraction showcasing the hot spring water.",
 },
 {
   id: "lamp-no-yado",
@@ -20414,6 +20432,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Suzu, Ishikawa Prefecture 927-1223, Japan",
+  website: "lampnoyado.com",
+  detailedDescription: "Lamp no Yado is a secluded, traditional ryokan with private open-air baths overlooking the Sea of Japan. This intimate hot spring inn offers visitors a truly authentic Japanese onsen experience in a peaceful coastal setting. The ryokan's traditional architecture and private baths create a serene environment perfect for relaxation and traditional Japanese hospitality.",
+  location: "Located in Suzu, Ishikawa Prefecture, Japan, approximately 200 miles northwest of Tokyo on the Noto Peninsula. The ryokan is situated at 50 feet elevation with stunning views of the Sea of Japan.",
+  directions: "From Tokyo, take the JR Hokuriku Shinkansen to Kanazawa, then take local trains or buses to Suzu. From Kanazawa, take local transportation to the Noto Peninsula. The ryokan is accessible by public transportation.",
+  accessibilityDetails: "Lamp no Yado is accessible year-round with traditional ryokan facilities. The property offers accessible accommodations and private bath areas designed for guest comfort. The coastal setting provides a peaceful environment perfect for traditional Japanese onsen therapy.",
+  hotSpringDetails: "The ryokan features private open-air baths with temperatures ranging from 104-112°F. The mineral water is alkaline and flows from natural geothermal sources. The private baths offer stunning views of the Sea of Japan and the ryokan provides traditional Japanese accommodations. The water flows continuously from the spring source.",
+  tips: "Reservations essential for this intimate ryokan. The traditional inn emphasizes privacy and authentic Japanese hospitality. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Noto Peninsula attractions. The private baths offer a secluded and therapeutic onsen experience. Traditional Japanese meals are included with ryokan stays.",
 },
 {
   id: "noboribetsu-onsen",
@@ -20434,6 +20461,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Noboribetsu, Hokkaido 059-0551, Japan",
+  website: "noboribetsu-spa.jp",
+  detailedDescription: "Noboribetsu Onsen is Hokkaido's most famous hot spring resort, known for its variety of mineral-rich waters and the dramatic Jigokudani (Hell Valley). This premier onsen destination offers visitors a unique geothermal experience with diverse mineral waters and stunning volcanic landscapes. The resort's therapeutic variety and natural wonders create an exceptional Japanese onsen experience.",
+  location: "Located in Noboribetsu, Hokkaido, Japan, approximately 50 miles southwest of Sapporo in the southern region of Hokkaido. The onsen resort is situated at 650 feet elevation surrounded by volcanic landscapes and the famous Jigokudani.",
+  directions: "From Sapporo, take the JR Hokkaido Shinkansen to Noboribetsu Station, then take a bus to the onsen area. From Hakodate, take local trains to Noboribetsu. The onsen resort is well-connected by public transportation.",
+  accessibilityDetails: "Noboribetsu Onsen is fully accessible year-round with paved roads, accessible ryokan, and modern facilities. The resort offers accommodations for visitors with varying mobility needs. The volcanic location provides a unique environment perfect for therapeutic onsen therapy.",
+  hotSpringDetails: "The onsen features diverse mineral waters with temperatures ranging from 104-185°F. The mineral water is rich in sulfur, salt, iron, and alum and flows from natural geothermal sources. The resort offers various public and private baths with different mineral compositions. The water flows continuously from the spring source and is known for its therapeutic variety.",
+  tips: "Reservations recommended for ryokan stays, especially during peak seasons. The onsen resort offers traditional Japanese accommodations and modern hotels. Best visited year-round with each season offering different experiences. The location provides excellent access to Jigokudani and volcanic attractions. Swimming suits not required in traditional onsen. The Hell Valley is a must-see geological wonder.",
 },
 {
   id: "nyuto-onsen",
@@ -20454,6 +20490,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Semboku, Akita Prefecture 014-1201, Japan",
+  website: "nyuto-onsen.com",
+  detailedDescription: "Nyuto Onsen is a collection of rustic hot spring inns in the mountains, famous for their milky white waters and traditional Japanese hospitality. This secluded onsen village offers visitors an authentic mountain hot spring experience with traditional ryokan accommodations and therapeutic milky waters. The village's rustic charm and natural setting create a peaceful retreat perfect for traditional Japanese onsen therapy.",
+  location: "Located in Semboku, Akita Prefecture, Japan, approximately 300 miles north of Tokyo in the mountainous region. The onsen village is situated at 1,800 feet elevation surrounded by the beautiful Akita Mountains.",
+  directions: "From Tokyo, take the JR Akita Shinkansen to Tazawako Station, then take a bus to Nyuto Onsen. From Akita, take local trains to Tazawako. The onsen village is accessible by public transportation.",
+  accessibilityDetails: "Nyuto Onsen is accessible year-round with rustic ryokan facilities. The village offers traditional accommodations and bath areas designed for guest comfort. The mountainous location provides a peaceful environment perfect for traditional Japanese onsen therapy.",
+  hotSpringDetails: "The onsen features milky white waters with temperatures ranging from 104-140°F. The mineral water is rich in sulfur and flows from natural geothermal sources. The village offers various rustic ryokan with private and public baths. The water flows continuously from the spring source and is known for its milky appearance and therapeutic properties.",
+  tips: "Reservations recommended for ryokan stays, especially during peak seasons. The rustic village emphasizes traditional Japanese hospitality and mountain tranquility. Best visited year-round with each season offering different experiences. The location provides excellent access to Tazawa Lake and mountain hiking. Swimming suits not required in traditional onsen. The milky waters are particularly therapeutic for skin conditions.",
 },
 {
   id: "oedo-onsen",
@@ -20474,6 +20519,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "2-6-3 Aomi, Koto City, Tokyo 135-0064, Japan",
+  website: "daiba.ooedoonsen.jp",
+  detailedDescription: "Ōedo Onsen Monogatari is a large, Edo-themed hot spring complex in Tokyo, offering a variety of baths and entertainment in an urban setting. This unique onsen facility combines traditional Japanese hot spring culture with modern entertainment, creating a one-of-a-kind experience in the heart of Tokyo. The complex's Edo-period theme and diverse bathing options provide visitors with an accessible introduction to Japanese onsen culture.",
+  location: "Located in Odaiba, Tokyo, Japan, approximately 10 miles southeast of central Tokyo on Tokyo Bay. The onsen complex is situated at 20 feet elevation with views of Tokyo Bay and the city skyline.",
+  directions: "From central Tokyo, take the Yurikamome Line to Telecom Center Station or the Rinkai Line to Tokyo Teleport Station. The onsen complex is easily accessible by public transportation and well-marked.",
+  accessibilityDetails: "Ōedo Onsen Monogatari is fully accessible year-round with modern facilities and accommodations for visitors with varying mobility needs. The complex offers accessible bathing areas and entertainment facilities. The urban location provides easy access to Tokyo attractions.",
+  hotSpringDetails: "The onsen complex features various baths with temperatures ranging from 98-108°F. The mineral water is alkaline and flows from natural geothermal sources. The complex offers indoor and outdoor baths, themed areas, and entertainment facilities. The water flows continuously from the spring source and provides therapeutic benefits.",
+  tips: "Reservations not required but recommended during peak times. The complex offers day passes and overnight accommodations. Best visited year-round for urban onsen experiences. The location provides excellent access to Odaiba attractions and Tokyo Bay views. Swimming suits required in some areas. The Edo theme creates a unique cultural experience in an urban setting.",
 },
 {
   id: "sengokuhara-onsen",
@@ -21661,6 +21715,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "Lukacs Baths.jpg",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Frankel Leó út 25-29, 1023 Budapest, Hungary",
+  website: "lukacsfurdo.hu",
+  detailedDescription: "Lukács Baths are historic baths with Turkish origins, revived in the 19th century. Features four thermal baths with varying temperatures and is known as a center for intellectuals and artists since the 1950s. This distinguished thermal bath complex represents a blend of traditional Turkish bathing culture and modern European spa practices, providing visitors with a unique thermal bathing experience in an intellectually vibrant setting.",
+  location: "Located in Budapest, Hungary, in the Buda district approximately 1.5 miles northwest of the city center. The baths are situated near Margaret Bridge and the Danube River at 400 feet elevation.",
+  directions: "From Budapest city center, take the M2 metro line to Batthyány tér station. From Margaret Bridge, walk northwest to the baths. The facility is easily accessible by public transportation and well-marked.",
+  accessibilityDetails: "Lukács Baths is fully accessible year-round with paved parking, accessible facilities, and accommodations. The historic bath complex and modern spa amenities are designed to accommodate visitors of all mobility levels. The facility offers a welcoming environment for visitors seeking traditional thermal bathing experiences.",
+  hotSpringDetails: "The thermal baths feature four pools with temperatures ranging from 79-104°F. The mineral water is rich in calcium hydrogencarbonate, calcium hydrogensulfite, magnesium hydrogencarbonate, chloride, sodium, and fluoride and flows from natural geothermal sources. The facility includes traditional thermal baths with varying temperature pools. The water flows continuously from the spring source and the facility offers various medical treatments and spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply. Swimming suits required. Best visited year-round, with each season offering different experiences. The historic significance and intellectual atmosphere make this a unique destination. The area provides opportunities to experience Budapest's famous thermal bath culture and enjoy traditional thermal bathing. The Margaret Bridge location offers beautiful views of the Danube River and city.",
 },
 {
   id: "gellert-baths-hu",
@@ -21688,6 +21751,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "Gellert Baths.jpeg",
   rating: 4.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kelenhegyi út 4, 1118 Budapest, Hungary",
+  website: "gellertbath.com",
+  detailedDescription: "Gellért Baths are Art Nouveau thermal baths built in 1918, featuring 13 pools including wave pools and effervescent baths. The well-preserved interior includes colorful mosaics, marble columns, and stained glass windows. This magnificent thermal bath complex represents one of the finest examples of Art Nouveau architecture in Budapest and provides visitors with a luxurious thermal bathing experience in a historic setting.",
+  location: "Located in Budapest, Hungary, at the foot of Gellért Hill approximately 1 mile south of the city center. The baths are situated in a historic area near the Danube River at 400 feet elevation.",
+  directions: "From Budapest city center, take the M4 metro line to Szent Gellért tér station. From Liberty Bridge, walk south to the baths. The facility is easily accessible by public transportation and well-marked.",
+  accessibilityDetails: "Gellért Baths is fully accessible year-round with paved parking, accessible facilities, and accommodations. The historic bath complex and modern spa amenities are designed to accommodate visitors of all mobility levels. The facility offers a welcoming environment for visitors seeking traditional thermal bathing experiences.",
+  hotSpringDetails: "The thermal baths feature 13 pools with temperatures ranging from 74-104°F. The mineral water is rich in calcium, magnesium, hydrocarbonate, alkalis, chloride, sulfate, and fluoride and flows from natural geothermal sources. The facility includes wave pools and effervescent baths. The water flows continuously from the spring source and the facility offers various medical treatments and spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply. Swimming suits required. Best visited year-round, with each season offering different experiences. The historic significance and Art Nouveau architecture make this a unique destination. The area provides opportunities to experience Budapest's famous thermal bath culture and enjoy modern spa treatments. The Gellért Hill location offers beautiful views of the Danube River and city.",
 },
 {
   id: "kiraly-baths-hu",
@@ -21715,6 +21787,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "Kiraly Baths.jpg",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Fő utca 84, 1013 Budapest, Hungary",
+  website: "kiralyfurdo.hu",
+  detailedDescription: "Király Baths are historic Turkish baths dating from 1565, featuring four pools under a fine cupola-topped structure. The baths maintain their original Turkish character and offer a traditional thermal bathing experience. This magnificent thermal bath complex represents one of the oldest and most authentic Turkish bath experiences in Budapest and provides visitors with a truly traditional thermal bathing experience in a historic setting.",
+  location: "Located in Budapest, Hungary, in the Buda district approximately 1 mile northwest of the city center. The baths are situated near Buda Castle and the Danube River at 400 feet elevation.",
+  directions: "From Budapest city center, take the M2 metro line to Batthyány tér station. From Buda Castle, walk northwest to the baths. The facility is easily accessible by public transportation and well-marked.",
+  accessibilityDetails: "Király Baths is fully accessible year-round with paved parking, accessible facilities, and accommodations. The historic bath complex and traditional spa amenities are designed to accommodate visitors of all mobility levels. The facility offers a welcoming environment for visitors seeking traditional thermal bathing experiences.",
+  hotSpringDetails: "The thermal baths feature four pools with temperatures ranging from 79-104°F. The mineral water is rich in sulfate, calcium, magnesium, bicarbonate, and fluoride and flows from natural geothermal sources. The facility includes traditional Turkish baths with cupola-topped structure. The water flows continuously from the spring source and the facility offers various medical treatments and spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply. Swimming suits required. Best visited year-round, with each season offering different experiences. The historic significance and traditional Turkish architecture make this a unique destination. The area provides opportunities to experience Budapest's famous thermal bath culture and enjoy traditional Turkish bathing. The Buda Castle location offers beautiful views of the city and Danube River.",
 },
 ];
 
