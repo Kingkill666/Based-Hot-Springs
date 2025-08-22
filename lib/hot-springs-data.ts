@@ -7652,6 +7652,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Ruidosa Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Ruidosa Hot Springs, Ruidosa, TX 79847",
+    website: "N/A",
+    detailedDescription: "Ruidosa Hot Springs is a remote, undeveloped hot spring located near the Rio Grande in Ruidosa, Texas, featuring primitive natural pools with temperatures of 100-104°F and stunning river access in the remote Texas desert. This primitive hot spring offers visitors a true wilderness soaking experience with excellent opportunities for river exploration and desert adventure in the beautiful Rio Grande region. The remote location and river access create a perfect destination for adventurous hot springs enthusiasts.",
+    location: "Located near Ruidosa, Texas, approximately 50 miles southeast of Presidio along the Rio Grande. The hot springs are situated at 3,000 feet elevation in the remote Texas desert region near the Mexican border.",
+    directions: "From Presidio, take FM 170 southeast toward Ruidosa, then follow local roads to reach the hot springs area. The remote location requires careful navigation and high-clearance vehicle recommended. Access may require hiking to reach the riverside hot springs.",
+    accessibilityDetails: "Ruidosa Hot Springs requires difficult access with no formal facilities or services. The remote location has no parking or restrooms. The primitive setting requires complete self-sufficiency and proper preparation for desert conditions. This is a true wilderness experience requiring advanced planning.",
+    hotSpringDetails: "The hot springs feature primitive natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The pools are formed naturally near the Rio Grande and vary in size. The river access provides opportunities for cooling off in the Rio Grande.",
+    tips: "This is a clothing optional location. The remote location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall to avoid dangerous desert heat. Summer visits can be life-threatening due to extreme temperatures. The riverside location offers excellent opportunities for river exploration and desert adventure. Practice Leave No Trace principles to preserve this pristine desert environment. The location provides access to Rio Grande activities and remote desert hiking.",
   },
   // SOUTH DAKOTA HOT SPRINGS (new additions)
   {
@@ -7681,6 +7690,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Cascade Falls Large.jpeg",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Cascade Falls, Hot Springs, SD 57747",
+    website: "N/A",
+    detailedDescription: "Cascade Falls is a natural warm spring-fed swimming hole located south of Hot Springs, South Dakota, featuring refreshing waters with temperatures of 67°F and scenic natural beauty in the Black Hills region. This natural swimming destination offers visitors a refreshing and scenic soaking experience with excellent opportunities for swimming, relaxation, and nature appreciation in the beautiful South Dakota landscape. The natural pool and scenic setting create a perfect destination for outdoor enthusiasts.",
+    location: "Located south of Hot Springs, South Dakota, approximately 60 miles south of Rapid City in the scenic Black Hills region. The natural swimming hole is situated at 3,400 feet elevation in the beautiful South Dakota landscape.",
+    directions: "From Rapid City, take US-385 south to Hot Springs, then follow local roads south to reach Cascade Falls. From Hot Springs, the natural swimming hole is easily accessible via well-marked local roads. Parking is available near the falls.",
+    accessibilityDetails: "Cascade Falls is easily accessible year-round with good road access and parking available. The natural setting provides easy access to the spring-fed swimming hole. The area has no formal facilities but offers a peaceful and natural environment for swimming and relaxation.",
+    hotSpringDetails: "The natural swimming hole features refreshing spring-fed water with temperatures of 67°F, providing cool and comfortable swimming temperatures. The mineral water is rich in calcium and magnesium and flows from natural spring sources. The pool is large enough for swimming and recreational activities. The scenic setting provides beautiful Black Hills views while enjoying the water.",
+    tips: "Swimming suits required. Best visited during summer months when temperatures are warm enough for swimming in the cool water. The natural location provides excellent opportunities for photography and nature appreciation. Bring supplies as there are no facilities in the area. The scenic location offers excellent opportunities for exploring the Black Hills region. Practice Leave No Trace principles to preserve this natural swimming environment. The location provides access to Hot Springs attractions and Black Hills activities.",
   },
   {
     id: "moccasin-springs-natural-mineral-spa-sd",
@@ -7709,6 +7727,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Moccasin Springs Natural Mineral Spa.jpg",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1000 University Dr, Hot Springs, SD 57747",
+    website: "moccasinsprings.com",
+    detailedDescription: "Moccasin Springs Natural Mineral Spa is a modern spa and soaking facility located in Hot Springs, South Dakota, featuring natural mineral water with temperatures of 88-102°F and comprehensive spa services in the beautiful Black Hills region. This modern facility offers visitors a comfortable and luxurious hot springs experience with professional spa treatments, therapeutic mineral soaking, and excellent accommodations in the scenic South Dakota landscape. The spa's combination of natural mineral waters and modern amenities creates a perfect destination for relaxation and wellness.",
+    location: "Located in Hot Springs, South Dakota, approximately 60 miles south of Rapid City in the scenic Black Hills region. The spa is situated at 3,400 feet elevation in the heart of Hot Springs with beautiful views of the surrounding Black Hills.",
+    directions: "From Rapid City, take US-385 south directly to Hot Springs. The spa is located on University Drive in Hot Springs and is easily accessible from major highways. From Interstate 90, take Highway 385 south to Hot Springs.",
+    accessibilityDetails: "Moccasin Springs Natural Mineral Spa is easily accessible year-round with full spa facilities and accommodations designed for all guests. The establishment offers accessible spa facilities, lodging options, and soaking pools. The modern setting provides comfortable access to therapeutic treatments and wellness programs.",
+    hotSpringDetails: "The spa features modern soaking pools with temperatures ranging from 88-102°F, providing comfortable therapeutic soaking. The natural mineral water is rich in calcium and magnesium and flows from local natural sources. Pool options include various therapeutic pools, spa pools, and wellness pools designed for different healing modalities. The mineral-rich water is known for its therapeutic benefits and relaxation properties.",
+    tips: "Reservations recommended for spa treatments and accommodations, especially during peak seasons. The spa offers comprehensive wellness packages combining mineral soaking with professional spa services. Swimming suits required. The location provides excellent access to Black Hills attractions and Hot Springs. Best visited year-round with each season offering different spa experiences. The spa provides professional wellness programs and therapeutic treatments. The modern setting offers luxury amenities combined with natural mineral healing properties.",
   },
   {
     id: "stroppel-inn-mineral-baths-sd",
@@ -7736,6 +7763,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Stroppel Inn & Mineral Baths.jpg",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Stroppel Inn & Mineral Baths, Midland, SD 57552",
+    website: "stroppelinn.com",
+    detailedDescription: "Stroppel Inn & Mineral Baths is a historic inn and mineral bath facility located in Midland, South Dakota, featuring therapeutic mineral waters with temperatures of 100-110°F and authentic historic accommodations in the beautiful South Dakota prairie. This historic establishment offers visitors a unique combination of comfortable lodging and therapeutic mineral soaking with excellent opportunities for exploring the Badlands region. The inn's historic charm and mineral baths create a perfect destination for relaxation and regional exploration.",
+    location: "Located in Midland, South Dakota, approximately 75 miles southwest of Pierre in the scenic South Dakota prairie region. The historic inn is situated at 2,200 feet elevation with beautiful views of the surrounding prairie landscape.",
+    directions: "From Rapid City, take I-90 east to exit 192, then follow local roads north to Midland. From Pierre, take US-83 south to local roads leading to Midland. The historic inn is easily accessible from major South Dakota highways.",
+    accessibilityDetails: "Stroppel Inn & Mineral Baths is easily accessible year-round with full inn facilities and accommodations designed for all guests. The establishment offers accessible lodging options and mineral bath facilities. The historic setting provides comfortable access to therapeutic treatments and regional attractions.",
+    hotSpringDetails: "The inn features therapeutic mineral baths with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in calcium and magnesium and flows from local natural sources. The historic baths offer a traditional soaking experience with authentic charm and therapeutic benefits. The mineral-rich water is known for its healing properties and relaxation benefits.",
+    tips: "Reservations recommended for accommodations and mineral bath treatments, especially during peak seasons. The historic inn offers authentic South Dakota hospitality and traditional mineral bath experiences. Swimming suits required. The location provides excellent access to Badlands National Park and prairie attractions. Best visited year-round with each season offering different prairie experiences. The historic setting offers authentic charm combined with therapeutic mineral benefits. The area provides opportunities for exploring the scenic South Dakota prairie and Badlands region.",
   },
   // OREGON HOT SPRINGS (new additions)
   {
