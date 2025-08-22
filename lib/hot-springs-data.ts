@@ -127,6 +127,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Bailey's Hot Springs, Beatty, NV 89003",
+  website: "N/A",
+  detailedDescription: "Bailey's Hot Springs is a commercial hot spring facility located near Beatty, Nevada, offering private soaking tubs and an RV park for visitors. This family-friendly hot spring provides a comfortable and accessible way to experience geothermal waters in the Nevada desert. The facility features individual soaking tubs that can be rented for private use, making it an ideal destination for those seeking a more controlled and comfortable hot spring experience.",
+  location: "Located near Beatty, Nevada, approximately 120 miles northwest of Las Vegas in the Amargosa Valley region.",
+  directions: "From Las Vegas, take US-95 north toward Beatty. Bailey's Hot Springs is located just outside of Beatty, easily accessible from the main highway. Follow signs for the hot springs facility.",
+  accessibilityDetails: "Bailey's Hot Springs is easily accessible by car with paved road access. The facility offers private soaking tubs that are wheelchair accessible. The RV park provides additional accommodation options. The commercial nature of the facility makes it suitable for visitors of all ages and abilities.",
+  hotSpringDetails: "The hot springs feature private soaking tubs with water temperatures ranging from 98-104°F. The tubs are filled with naturally heated geothermal water and can accommodate 2-4 people each. The water is continuously refreshed and maintained at comfortable soaking temperatures. The facility also includes an RV park for overnight stays.",
+  tips: "Reservations are recommended for the private soaking tubs, especially during peak seasons. The facility is family-friendly and clothing is required. The RV park offers a convenient option for overnight stays. Best visited year-round as the facility provides controlled access to the hot springs. Bring towels and any personal items you may need for your soak.",
 },
 {
   id: "bishop-creek-hot-springs",
@@ -147,6 +156,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.1,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Bishop Creek Hot Springs, Wells, NV 89835",
+  website: "N/A",
+  detailedDescription: "Bishop Creek Hot Springs is a primitive hot spring located along Bishop Creek in the remote Nevada desert near Wells. This undeveloped hot spring offers visitors a truly natural and secluded soaking experience in a beautiful creekside setting. The springs feature natural pools formed by the geothermal waters flowing into Bishop Creek, creating a peaceful and remote hot spring destination.",
+  location: "Located along Bishop Creek near Wells, Nevada, approximately 50 miles north of Elko in the northeastern Nevada desert region.",
+  directions: "From Wells, take NV-93 north for approximately 15 miles, then turn onto a dirt road leading to Bishop Creek. Follow the dirt road for about 5 miles to reach the hot springs area. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Bishop Creek Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. Access to the soaking pools requires some walking along the creek.",
+  hotSpringDetails: "The hot springs feature natural pools along Bishop Creek with temperatures ranging from 100-104°F. The pools are formed by geothermal water flowing into the creek, creating warm soaking areas. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from the spring source and mixes with the creek water.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in late spring to early fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for wildlife viewing and experiencing the solitude of the Nevada desert. Practice Leave No Trace principles to preserve this remote environment.",
 },
 {
   id: "bog-hot-spring",
@@ -341,6 +359,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Black Rock Desert, Gerlach, NV 89412",
+  website: "N/A",
+  detailedDescription: "Double Hot Springs is a pair of extremely hot pools located in the vast Black Rock Desert near Gerlach, Nevada. These geothermal features are not safe for soaking due to their extremely high temperatures, but they offer visitors a spectacular display of geothermal activity in the stunning desert landscape. The springs are named for their dual nature and provide a unique opportunity to witness the raw power of geothermal forces in the remote Nevada desert.",
+  location: "Located in the Black Rock Desert near Gerlach, Nevada, approximately 100 miles north of Reno in the remote northwestern Nevada desert region.",
+  directions: "From Gerlach, take NV-447 north for approximately 20 miles, then turn onto a dirt road leading into the Black Rock Desert. Follow the dirt road for about 10 miles to reach Double Hot Springs. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Double Hot Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. The pools are easily accessible once you reach the site, but extreme caution is required due to the very hot water.",
+  hotSpringDetails: "Double Hot Springs features two extremely hot pools with temperatures ranging from 120-180°F. The pools are fed by natural geothermal sources and are too hot for soaking. The pools vary in size and depth, with the larger pool being approximately 10-15 feet deep. The water flows continuously from the spring sources and maintains extremely high temperatures.",
+  tips: "This is a viewing-only location - the water is too hot for soaking. Extreme caution is required due to the very hot water temperatures. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for photography and experiencing the raw power of geothermal activity in the Black Rock Desert. Practice Leave No Trace principles to preserve this unique environment.",
 },
 {
   id: "goldstrike-hot-springs",
@@ -419,6 +446,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Hot Springs Ranch, Paradise Valley, NV 89426",
+  website: "N/A",
+  detailedDescription: "Hot Springs Ranch is a private ranch property featuring natural hot springs in the remote Paradise Valley area of northern Nevada. This private hot spring destination offers visitors a unique opportunity to experience geothermal waters in a ranch setting, though access requires permission from the property owners. The ranch setting provides a peaceful and authentic Nevada experience for those fortunate enough to gain access to this private hot springs location.",
+  location: "Located in Paradise Valley, Nevada, approximately 50 miles northeast of Winnemucca in the remote northern Nevada desert. The ranch is situated in a stark desert landscape surrounded by sagebrush and distant mountain ranges.",
+  directions: "From Winnemucca, take US-95 north for approximately 40 miles, then turn east onto a dirt road toward Paradise Valley. The ranch is located in the Paradise Valley area, but specific access requires permission from the property owners.",
+  accessibilityDetails: "Hot Springs Ranch is located on private property and requires permission from the property owners for access. The ranch is accessible by dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no public services nearby.",
+  hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-104°F. The pools are formed by natural rock formations and are filled with geothermal water. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from geothermal sources and maintains consistent warm temperatures.",
+  tips: "Access to this private property requires permission from the property owners. Contact the ranch owners in advance to request access. Be respectful of the private property and follow any guidelines provided by the owners. Bring plenty of water and supplies as there are no public services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions and respect the ranch environment.",
 },
 {
   id: "kyle-hot-springs",
