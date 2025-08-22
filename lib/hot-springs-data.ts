@@ -18140,6 +18140,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Shoshone Hot Springs, Shoshone, CA 92384",
+    website: "N/A",
+    detailedDescription: "Shoshone Hot Springs features historic, rustic hot springs pools and camping in the small town of Shoshone, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a historic desert setting. The rustic nature and historic location create a special destination for those seeking an authentic, natural hot springs experience in the California desert.",
+    location: "Located in Shoshone, California, approximately 200 miles northeast of Los Angeles in the California desert. The hot springs are situated at 1,570 feet elevation with views of the surrounding desert landscape and nearby Death Valley National Park.",
+    directions: "From Los Angeles, take I-15 north to Baker, then take CA-127 north to Shoshone. From Las Vegas, take I-15 south to Baker, then take CA-127 north to Shoshone. The historic hot springs are easily accessible via paved roads year-round.",
+    accessibilityDetails: "Shoshone Hot Springs is accessible year-round with rustic facilities. The property offers basic camping facilities and pool areas designed for guest comfort. The historic setting provides a peaceful environment for visitors seeking an authentic hot springs experience.",
+    hotSpringDetails: "The hot springs feature historic, rustic pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The rustic setting provides an authentic environment for enjoying the therapeutic mineral waters. The historic location offers camping opportunities.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during fall to spring months. The rustic desert setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during fall to spring when temperatures are more moderate. The location provides excellent opportunities for exploring Death Valley National Park and the surrounding desert. Respect the historic environment and practice Leave No Trace principles.",
   },
   {
     id: "sky-valley-resort-ca",
@@ -18168,6 +18177,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "12689 Reposo Way, Desert Hot Springs, CA 92240",
+    website: "skyvalleyresort.com",
+    detailedDescription: "Sky Valley Resort is a family-friendly RV resort featuring mineral pools, spa, and activities in Desert Hot Springs, California. This welcoming destination offers visitors a comfortable hot springs experience with therapeutic mineral soaking combined with family activities in the beautiful California desert. The RV resort's family-friendly atmosphere and comprehensive amenities create a special and accessible hot springs retreat.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The RV resort is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the RV resort. The family-friendly property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Sky Valley Resort is accessible year-round with family-friendly RV resort facilities. The property offers accessible RV sites, pool areas, spa facilities, and family activities designed for guest comfort. The family setting provides a welcoming environment for visitors seeking an accessible hot springs experience.",
+    hotSpringDetails: "The RV resort features mineral pools with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking areas suitable for families. The family-friendly setting provides a comfortable environment for enjoying the therapeutic mineral waters. The RV resort offers spa services and family activities.",
+    tips: "Reservations recommended for RV sites and spa treatments. The family-friendly RV resort emphasizes accessibility and family activities. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The family setting offers a comfortable and accessible hot springs experience. The spa services and activities provide additional family entertainment.",
   },
   {
     id: "solage-hot-springs-ca",
