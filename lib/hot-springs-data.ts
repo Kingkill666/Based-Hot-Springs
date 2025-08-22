@@ -20837,6 +20837,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Atami Onsen, Shizuoka Prefecture, Japan",
+  website: "atami-onsen.com",
+  detailedDescription: "Atami Onsen is a famous seaside hot spring resort, popular for its ocean views and fireworks festivals in Shizuoka Prefecture, Japan. This famous destination offers visitors a seaside onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Shizuoka setting. The famous resort's seaside approach and fireworks location create a special destination for those seeking a famous Japanese onsen experience with ocean views and fireworks.",
+  location: "Located in Atami, Shizuoka Prefecture, Japan, on the Izu Peninsula approximately 60 miles southwest of Tokyo. The famous seaside hot spring resort is situated at 30 feet elevation with stunning views of Sagami Bay and the Pacific Ocean.",
+  directions: "From Tokyo, take the JR Tokaido Shinkansen to Atami Station. From Yokohama, take the JR Tokaido Line to Atami Station. The famous seaside resort is easily accessible year-round.",
+  accessibilityDetails: "Atami Onsen is accessible year-round with comprehensive seaside facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and seaside enjoyment. The coastal setting provides a peaceful environment for visitors seeking a famous Japanese onsen experience with ocean views.",
+  hotSpringDetails: "The famous seaside resort features coastal hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The seaside setting provides a unique environment for enjoying traditional Japanese onsen baths with ocean views. The resort offers comprehensive spa services and traditional accommodations to complement the famous seaside experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The famous seaside resort emphasizes traditional Japanese onsen culture and fireworks practices. Best visited year-round for therapeutic benefits and seaside experiences. The location provides excellent access to Atami Sun Beach and MOA Museum of Art attractions. The seaside setting offers a famous and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "shibu-onsen",
@@ -20877,6 +20886,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Kawayu Onsen, Tanabe, Wakayama Prefecture, Japan",
+  website: "kawayu-onsen.com",
+  detailedDescription: "Kawayu Onsen is a riverside hot spring where visitors can dig their own bath in the riverbed in Wakayama Prefecture, Japan. This unique destination offers visitors a do-it-yourself onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Wakayama setting. The unique onsen's DIY approach and riverside location create a special destination for those seeking a unique Japanese onsen experience where visitors dig their own baths.",
+  location: "Located in Tanabe, Wakayama Prefecture, Japan, in the Kumano region approximately 200 miles southwest of Osaka. The unique riverside hot spring is situated at 600 feet elevation with stunning views of the riverbed and surrounding mountains.",
+  directions: "From Osaka, take the JR Limited Express to Tanabe Station then transfer to a bus to Kawayu Onsen. From Wakayama, take the JR Kisei Line to Tanabe then transfer to the onsen. The unique riverside onsen is easily accessible year-round.",
+  accessibilityDetails: "Kawayu Onsen is accessible year-round with basic riverside facilities. The property offers basic accommodations, camping areas, and traditional amenities designed for guest comfort and unique enjoyment. The riverside setting provides a peaceful environment for visitors seeking a unique Japanese onsen experience where they dig their own baths.",
+  hotSpringDetails: "The unique riverside onsen features do-it-yourself hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The riverside setting provides a unique environment for enjoying traditional Japanese onsen baths that visitors dig themselves. The onsen offers basic camping facilities and traditional accommodations to complement the unique experience.",
+  tips: "Digging your own bath required and camping reservations recommended. The unique onsen emphasizes traditional Japanese onsen culture and DIY practices. Best visited in winter for therapeutic benefits and unique experiences. The location provides excellent access to Kumano Kodo and Hongu Taisha attractions. The riverside setting offers a unique and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "manza-onsen",
@@ -20897,6 +20915,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Manza Onsen, Tsumagoi, Gunma Prefecture, Japan",
+  website: "manza-onsen.com",
+  detailedDescription: "Manza Onsen is a high-altitude hot spring resort with sulfurous, milky-white waters and mountain views in Gunma Prefecture, Japan. This high-altitude destination offers visitors a mountain onsen experience with therapeutic sulfur waters and authentic Japanese hospitality in the beautiful Gunma setting. The high-altitude resort's sulfurous approach and mountain location create a special destination for those seeking a high-altitude Japanese onsen experience with milky-white waters.",
+  location: "Located in Tsumagoi, Gunma Prefecture, Japan, in the mountains of central Honshu approximately 120 miles northwest of Tokyo. The high-altitude hot spring resort is situated at 5,900 feet elevation with stunning views of Mount Kusatsu-Shirane and the surrounding mountains.",
+  directions: "From Tokyo, take the JR Joetsu Shinkansen to Karuizawa Station then transfer to a bus to Manza Onsen. From Nagano, take the JR Shinetsu Line to Karuizawa then transfer to the resort. The high-altitude resort is easily accessible year-round.",
+  accessibilityDetails: "Manza Onsen is accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and high-altitude enjoyment. The mountain setting provides a peaceful environment for visitors seeking a high-altitude Japanese onsen experience with milky-white waters.",
+  hotSpringDetails: "The high-altitude resort features sulfurous milky-white hot spring baths with temperatures ranging from 104-176°F. The therapeutic waters are rich in sulfur minerals and flow from natural geothermal sources. The mountain setting provides a unique environment for enjoying traditional Japanese onsen baths with milky-white waters. The resort offers comprehensive spa services and traditional accommodations to complement the high-altitude experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The high-altitude resort emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited in winter for therapeutic benefits and mountain experiences. The location provides excellent access to Mount Kusatsu-Shirane attractions. The mountain setting offers a high-altitude and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural sulfur waters.",
 },
 {
   id: "shirabu-onsen",
