@@ -19087,6 +19087,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Swan Song Spa, Eureka Springs, AR 72632",
+    website: "swansongspa.com",
+    detailedDescription: "Swan Song Spa is a boutique day spa in Eureka Springs, Arkansas, offering mineral baths and wellness treatments. This intimate destination offers visitors a rejuvenating hot springs experience with therapeutic mineral soaking combined with wellness services in the beautiful Ozark Mountains. The boutique spa's wellness approach and personalized treatments create a special and restorative hot springs retreat.",
+    location: "Located in Eureka Springs, Arkansas, approximately 200 miles northwest of Little Rock in the Ozark Mountains. The boutique day spa is situated at 1,200 feet elevation with views of the surrounding mountains and historic downtown.",
+    directions: "From Little Rock, take I-40 west to US-65 north to Eureka Springs. From Springfield, take US-65 south to Eureka Springs. The boutique day spa is easily accessible year-round.",
+    accessibilityDetails: "Swan Song Spa is accessible year-round with boutique day spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and relaxation. The intimate setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The boutique day spa features mineral baths with temperatures ranging from 98-104°F. The mineral water is rich in sodium and silica and flows from natural geothermal sources. The intimate setting provides a therapeutic environment for enjoying the mineral waters. The boutique spa offers personalized wellness treatments to complement the hot springs experience.",
+    tips: "Reservations essential for spa treatments and mineral baths. The boutique day spa emphasizes wellness and personalized treatments. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Eureka Springs attractions and Ozark Mountains recreation. The intimate setting offers a rejuvenating and therapeutic hot springs experience. The wellness treatments provide additional therapeutic benefits.",
   },
   {
     id: "thai-me-spa-ar",
@@ -19115,6 +19124,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Thai Me Spa, Hot Springs, AR 71901",
+    website: "thaimespa.com",
+    detailedDescription: "Thai Me Spa is a modern day spa in Hot Springs, Arkansas, offering mineral baths, massages, and Thai wellness treatments. This unique destination offers visitors a distinctive hot springs experience with therapeutic mineral soaking combined with authentic Thai wellness services in the heart of Hot Springs National Park. The modern spa's Thai wellness approach and comprehensive treatments create a special and culturally rich hot springs retreat.",
+    location: "Located in Hot Springs, Arkansas, approximately 50 miles southwest of Little Rock in the Ouachita Mountains. The modern day spa is situated at 600 feet elevation with views of the surrounding mountains and Bathhouse Row.",
+    directions: "From Little Rock, take I-30 west to US-70 west to Hot Springs. From Dallas, take I-30 east to US-70 west to Hot Springs. The modern day spa is easily accessible year-round.",
+    accessibilityDetails: "Thai Me Spa is accessible year-round with modern day spa facilities. The property offers accessible treatment areas, bath facilities, and Thai wellness services designed for guest comfort and cultural enrichment. The modern setting provides a peaceful environment for visitors seeking a culturally unique hot springs experience.",
+    hotSpringDetails: "The modern day spa features mineral baths with temperatures ranging from 98-104°F. The mineral water is rich in sodium and silica and flows from natural geothermal sources. The modern setting provides a therapeutic environment for enjoying the mineral waters. The day spa offers authentic Thai wellness treatments to complement the hot springs experience.",
+    tips: "Reservations essential for spa treatments and mineral baths. The modern day spa emphasizes Thai wellness and cultural treatments. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Hot Springs National Park and Bathhouse Row attractions. The modern setting offers a culturally unique and therapeutic hot springs experience. The Thai wellness treatments provide additional cultural and therapeutic benefits.",
   },
 
   {
