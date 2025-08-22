@@ -21480,6 +21480,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.4,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Heise Hot Springs, Ririe, ID 83443",
+  website: "heisehotsprings.com",
+  detailedDescription: "Heise Hot Springs is a family-friendly hot springs resort featuring indoor and outdoor pools, camping, and RV facilities. The springs are known for their consistent temperature and mineral content, making them perfect for family visits and extended stays. The resort offers a complete hot spring experience with modern amenities while maintaining the natural therapeutic properties of the mineral waters.",
+  location: "Located in Ririe, Idaho, approximately 30 miles northeast of Idaho Falls in southeastern Idaho. The resort is situated in a beautiful rural setting at 5,200 feet elevation.",
+  directions: "From Idaho Falls, take US-26 east to Ririe, then follow signs to Heise Hot Springs. From Rexburg, take US-26 west to Ririe. The resort is easily accessible and well-marked.",
+  accessibilityDetails: "Heise Hot Springs is fully accessible year-round with paved parking, accessible facilities, and accommodations. The resort facilities and modern spa amenities are designed to accommodate visitors of all mobility levels. The resort offers a welcoming environment for families and visitors seeking therapeutic experiences.",
+  hotSpringDetails: "The hot springs feature indoor and outdoor pools with temperatures ranging from 104-108°F. The mineral water is rich in sodium, chloride, sulfate, and calcium and flows from natural geothermal sources. The resort includes both indoor and outdoor pools, camping facilities, and RV accommodations. The water flows continuously from the spring source and maintains consistent temperature and mineral content.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply. Swimming suits required. The resort offers lodging, camping, RV facilities, dining, and spa services. Best visited year-round, with each season offering different experiences. The family-friendly atmosphere and consistent temperatures make this an ideal destination for families. The area provides opportunities for outdoor recreation including fishing and hiking near the Snake River and Ririe Reservoir.",
 },
 // ENHANCED WASHINGTON HOT SPRINGS
 {
@@ -21508,6 +21517,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.8,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Goldmyer Hot Springs, North Bend, WA 98045",
+  website: "goldmyer.org",
+  detailedDescription: "Goldmyer Hot Springs is a remote natural hot spring destination in the pristine Alpine Lakes Wilderness, accessible by a 4.5-mile hike through beautiful mountain terrain. The springs feature natural rock pools with stunning mountain views and limited daily access to preserve the wilderness experience. This secluded destination offers visitors a unique opportunity to soak in therapeutic mineral water while surrounded by the untouched beauty of Washington's Cascade Mountains.",
+  location: "Located in the Alpine Lakes Wilderness near North Bend, Washington, approximately 50 miles east of Seattle. The hot springs are situated in a remote mountain setting at 2,200 feet elevation.",
+  directions: "From Seattle, take I-90 east to exit 34, then follow Middle Fork Road to the trailhead. The hot springs require a 4.5-mile hike from the trailhead. Access is limited and requires advance reservation.",
+  accessibilityDetails: "Goldmyer Hot Springs requires difficult access with a 4.5-mile hike to reach the springs. The remote location requires visitors to be prepared for wilderness conditions. The natural pools may require some walking on uneven terrain. The area offers camping options for overnight stays.",
+  hotSpringDetails: "The hot springs feature natural rock pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium, chloride, and sulfate and flows from natural geothermal sources. The pools are situated in a beautiful mountain setting with stunning views of the Cascade Mountains. The water flows continuously from the spring source and the pools can accommodate multiple visitors.",
+  tips: "Open during summer and fall with limited daily access. Advance reservations required. Admission fees apply. Clothing optional. The springs are popular and access is limited to preserve the wilderness experience. Best visited during summer and fall when the trail is accessible. The area provides excellent opportunities for wildlife viewing, photography, and experiencing the solitude of Washington's wilderness. The Alpine Lakes Wilderness offers additional hiking and camping opportunities.",
 },
 {
   id: "scenic-hot-springs-wa",
@@ -21535,6 +21553,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Scenic Hot Springs, Skykomish, WA 98288",
+  website: "scenichotsprings.com",
+  detailedDescription: "Scenic Hot Springs is a private hot spring destination with stunning views of the Cascade Mountains, offering visitors a secluded and intimate soaking experience. Access requires advance reservation and a moderate hike through beautiful forest terrain. The springs provide a perfect blend of natural beauty and privacy, making them ideal for those seeking a peaceful and scenic hot spring experience in the heart of Washington's mountain wilderness.",
+  location: "Located near Skykomish, Washington, approximately 60 miles east of Seattle in the Cascade Mountains. The hot springs are situated in a beautiful mountain setting at 3,200 feet elevation.",
+  directions: "From Seattle, take US-2 east to Skykomish, then follow signs to the trailhead. The hot springs require a moderate hike from the trailhead. Advance reservations are required for access.",
+  accessibilityDetails: "Scenic Hot Springs requires moderate access with a hike to reach the springs. The private location requires advance reservations. The remote setting requires visitors to be prepared for mountain conditions. The natural pools may require some walking on uneven terrain.",
+  hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-105°F. The mineral water is rich in sodium, chloride, and sulfate and flows from natural geothermal sources. The pools are situated in a beautiful mountain setting with stunning views of the Cascade Mountains. The water flows continuously from the spring source and the pools can accommodate small groups.",
+  tips: "Open year-round with advance reservations required. Admission fees apply. Clothing optional. The springs are private and offer a secluded experience. Best visited year-round, with each season offering different experiences in the beautiful mountain setting. The area provides excellent opportunities for wildlife viewing, photography, and experiencing the solitude of Washington's wilderness. The Cascade Mountains offer additional hiking and outdoor recreation opportunities.",
 },
 {
   id: "szechenyi-baths-hu",
