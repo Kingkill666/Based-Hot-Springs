@@ -9615,6 +9615,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Giggling Springs, Jemez Springs, NM 87025",
+    website: "gigglingsprings.com",
+    detailedDescription: "Giggling Hot Springs is a small, friendly hot springs facility located in Jemez Springs, New Mexico, featuring intimate pools with temperatures of 100-104°F, friendly staff, and a relaxed atmosphere in the beautiful Jemez Mountains. This welcoming facility offers visitors a peaceful and intimate hot springs experience with excellent opportunities for relaxation, rejuvenation, and mountain appreciation in the scenic New Mexico landscape. The friendly atmosphere and mountain setting create a perfect destination for stress relief and natural healing.",
+    location: "Located in Jemez Springs, New Mexico, in the Jemez Mountains approximately 50 miles northwest of Albuquerque. The facility is situated at 6,200 feet elevation with beautiful mountain views and easy access to Jemez Falls.",
+    directions: "From Albuquerque, take NM-550 north to San Ysidro, then take NM-4 west to Jemez Springs. The facility is easily accessible in the heart of Jemez Springs with clear signage and good road access.",
+    accessibilityDetails: "Giggling Hot Springs is easily accessible year-round with full facilities designed for relaxation and comfort. The establishment offers accessible small pools and comfortable amenities. The friendly setting provides welcoming access to hot springs soaking and mountain recreation.",
+    hotSpringDetails: "The facility features small, intimate pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are designed for intimate groups and peaceful soaking. The mountain setting provides beautiful Jemez Mountains views while soaking.",
+    tips: "Reservations recommended, especially during peak seasons and weekends. The facility offers day passes and packages for peaceful soaking experiences. Swimming suits required. The location provides excellent access to Jemez Springs attractions and Jemez Falls. Best visited during spring and fall when temperatures are perfect for outdoor soaking. The friendly staff provides excellent service and local recommendations. The intimate setting offers personalized attention and peaceful mountain experiences.",
   },
   {
     id: "gila-hot-springs-campground-nm",
@@ -9643,6 +9652,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Gila Hot Springs Campground, Gila, NM 88038",
+    website: "gilahotspringscampground.com",
+    detailedDescription: "Gila Hot Springs Campground is a rustic campground located in Gila, New Mexico, featuring natural hot springs pools with temperatures of 100-104°F along the beautiful Gila River in the pristine Gila Wilderness. This rustic facility offers visitors an authentic outdoor hot springs experience with excellent opportunities for camping, wilderness exploration, and riverside recreation in the scenic New Mexico mountains. The wilderness setting and river backdrop create a perfect destination for nature enthusiasts and outdoor adventurers.",
+    location: "Located in Gila, New Mexico, in the Gila Wilderness approximately 100 miles northwest of Silver City. The campground is situated at 4,600 feet elevation along the Gila River with beautiful wilderness views and access to Gila Cliff Dwellings.",
+    directions: "From Silver City, take NM-15 north for about 44 miles to Gila. The campground is accessible via forest roads - high clearance vehicle recommended. The route to Gila includes winding mountain roads requiring careful driving.",
+    accessibilityDetails: "Gila Hot Springs Campground requires moderate access through wilderness terrain with rustic camping facilities. The establishment offers basic camping amenities and natural hot springs pools. The wilderness setting requires self-sufficiency and proper outdoor preparation.",
+    hotSpringDetails: "The campground features natural hot springs pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are formed naturally along the Gila River and vary in size. The wilderness setting provides pristine Gila River and mountain views while soaking.",
+    tips: "Reservations recommended for camping, especially during peak seasons. The campground offers rustic camping packages including hot springs access and wilderness exploration. Swimming suits required. The location provides excellent access to Gila Cliff Dwellings and Gila Wilderness activities. Best visited during spring and fall when temperatures are ideal for camping and outdoor activities. The wilderness setting requires proper camping gear and self-sufficiency. The location provides opportunities for hiking, fishing, and exploring the pristine Gila Wilderness.",
   },
   {
     id: "gila-hot-springs-ranch-nm",
@@ -9671,6 +9689,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Gila Hot Springs Ranch, Gila, NM 88038",
+    website: "gilahotspringsranch.com",
+    detailedDescription: "Gila Hot Springs Ranch is a family-owned ranch located in Gila, New Mexico, featuring rustic cabins and natural hot springs pools with temperatures of 100-104°F in the pristine Gila Wilderness. This authentic ranch offers visitors a genuine Western hot springs experience with excellent opportunities for ranch activities, wilderness exploration, and natural soaking in the scenic New Mexico mountains. The family-owned atmosphere and wilderness setting create a perfect destination for authentic ranch experiences.",
+    location: "Located in Gila, New Mexico, in the Gila Wilderness approximately 100 miles northwest of Silver City. The family ranch is situated at 4,600 feet elevation with beautiful wilderness views and easy access to Gila Cliff Dwellings.",
+    directions: "From Silver City, take NM-15 north for about 44 miles to Gila. The family ranch is accessible via well-maintained ranch roads with clear signage. The route includes scenic mountain drives through the Gila region.",
+    accessibilityDetails: "Gila Hot Springs Ranch is easily accessible year-round with full ranch facilities and accommodations designed for families. The establishment offers accessible rustic cabins and natural hot springs pools. The ranch setting provides comfortable access to hot springs soaking and wilderness recreation.",
+    hotSpringDetails: "The ranch features natural hot springs pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are maintained in a natural setting with beautiful wilderness views. The ranch setting provides authentic Western atmosphere while soaking.",
+    tips: "Reservations required for rustic cabins and ranch activities, especially during peak seasons. The family ranch offers comprehensive packages including natural hot springs, rustic accommodations, and wilderness access. Swimming suits required. The location provides excellent access to Gila Cliff Dwellings and Gila Wilderness activities. Best visited during spring and fall when temperatures are perfect for ranch activities. The family-owned operation provides authentic Western hospitality and local knowledge. The location offers opportunities for horseback riding, hiking, and exploring the pristine Gila Wilderness.",
   },
   {
     id: "gila-hot-springs-rv-nm",
@@ -9699,6 +9726,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Gila Hot Springs RV Park, Gila, NM 88038",
+    website: "gilahotspringsrv.com",
+    detailedDescription: "Gila Hot Springs RV is an RV park located in Gila, New Mexico, featuring natural hot springs pools with temperatures of 100-104°F along the beautiful Gila River in the pristine Gila Wilderness. This RV facility offers visitors a convenient hot springs experience with excellent opportunities for RV camping, wilderness exploration, and riverside recreation in the scenic New Mexico mountains. The RV-friendly setting and river backdrop create a perfect destination for mobile travelers and outdoor enthusiasts.",
+    location: "Located in Gila, New Mexico, in the Gila Wilderness approximately 100 miles northwest of Silver City. The RV park is situated at 4,600 feet elevation along the Gila River with beautiful wilderness views and easy access to Gila Cliff Dwellings.",
+    directions: "From Silver City, take NM-15 north for about 44 miles to Gila. The RV park is accessible via well-maintained roads suitable for RVs with clear signage. The route includes scenic mountain drives through the Gila region.",
+    accessibilityDetails: "Gila Hot Springs RV is easily accessible year-round with full RV facilities and accommodations designed for mobile travelers. The establishment offers accessible RV sites with hookups and natural hot springs pools. The RV-friendly setting provides comfortable access to hot springs soaking and wilderness recreation.",
+    hotSpringDetails: "The RV park features natural hot springs pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are located along the Gila River and offer beautiful riverside views. The wilderness setting provides pristine natural atmosphere while soaking.",
+    tips: "Reservations recommended for RV sites, especially during peak seasons. The RV park offers comprehensive packages including natural hot springs access, full RV hookups, and wilderness exploration. Swimming suits required. The location provides excellent access to Gila Cliff Dwellings and Gila Wilderness activities. Best visited during spring and fall when temperatures are ideal for RV camping and outdoor activities. The RV-friendly facilities provide convenient amenities for mobile travelers. The location offers opportunities for hiking, fishing, and exploring the pristine Gila Wilderness.",
   },
   {
     id: "hay-yo-kay-hot-springs-nm",
