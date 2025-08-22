@@ -20200,6 +20200,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Hakone Onsen, Kanagawa Prefecture, Japan",
+  website: "hakone-onsen.com",
+  detailedDescription: "Hakone Onsen is a famous hot spring region near Tokyo, offering a wide range of baths and beautiful natural scenery in Kanagawa Prefecture, Japan. This iconic destination offers visitors a comprehensive onsen experience with therapeutic mineral waters and spectacular natural scenery in the beautiful Hakone setting. The famous region's variety of baths and scenic location create a special destination for those seeking a complete Japanese onsen experience near Tokyo.",
+  location: "Located in Hakone, Kanagawa Prefecture, Japan, approximately 60 miles southwest of Tokyo in the Hakone mountain region. The famous hot spring region is situated at 1,400 feet elevation with stunning views of Mount Fuji, Lake Ashi, and the surrounding mountains.",
+  directions: "From Tokyo, take the Odakyu Romance Car to Hakone-Yumoto Station. From Yokohama, take JR trains to Odawara then transfer to Hakone. The famous region is easily accessible year-round.",
+  accessibilityDetails: "Hakone Onsen is accessible year-round with comprehensive regional facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and scenic enjoyment. The mountain setting provides a peaceful environment for visitors seeking a scenic Japanese onsen experience.",
+  hotSpringDetails: "The famous region features a wide range of hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in sulfur and alkaline minerals and flow from natural geothermal sources. The mountain setting provides a unique environment for enjoying traditional Japanese onsen baths. The region offers comprehensive spa services and traditional accommodations to complement the onsen experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The famous region emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and scenic experiences. The location provides excellent access to Lake Ashi and Hakone Shrine attractions. The mountain setting offers a scenic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural geothermal waters.",
 },
 {
   id: "hida-takayama-onsen",
@@ -20220,6 +20229,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Hida-Takayama Onsen, Takayama, Gifu Prefecture, Japan",
+  website: "hida-takayama-onsen.com",
+  detailedDescription: "Hida-Takayama Onsen is a hot spring area in the Japanese Alps, known for its traditional inns and mountain scenery in Gifu Prefecture, Japan. This alpine destination offers visitors a traditional onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Japanese Alps setting. The alpine onsen's traditional approach and mountain location create a special destination for those seeking an authentic Japanese onsen experience in the mountains.",
+  location: "Located in Takayama, Gifu Prefecture, Japan, in the heart of the Japanese Alps approximately 200 miles northwest of Tokyo. The alpine hot spring area is situated at 1,850 feet elevation with stunning views of the Japanese Alps and surrounding mountains.",
+  directions: "From Tokyo, take the JR Hida Limited Express to Takayama Station. From Nagoya, take the JR Hida Limited Express to Takayama Station. The alpine onsen is easily accessible year-round.",
+  accessibilityDetails: "Hida-Takayama Onsen is accessible year-round with comprehensive alpine facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and mountain enjoyment. The alpine setting provides a peaceful environment for visitors seeking a traditional Japanese onsen experience in the mountains.",
+  hotSpringDetails: "The alpine onsen features traditional hot spring baths with temperatures ranging from 98-108°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The alpine setting provides a unique environment for enjoying traditional Japanese onsen baths. The onsen offers comprehensive spa services and traditional accommodations to complement the alpine experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The alpine onsen emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and mountain experiences. The location provides excellent access to Takayama Old Town and Shirakawa-go attractions. The alpine setting offers a traditional and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "ibusuki-onsen",
@@ -20240,6 +20258,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Ibusuki Onsen, Kagoshima Prefecture, Japan",
+  website: "ibusuki-onsen.com",
+  detailedDescription: "Ibusuki Onsen is famous for its unique sand baths, where guests are buried in naturally heated sand in Kagoshima Prefecture, Japan. This unique destination offers visitors a distinctive onsen experience with therapeutic sand baths and coastal charm in the beautiful Kyushu setting. The unique onsen's innovative approach and coastal location create a special destination for those seeking a one-of-a-kind Japanese onsen experience.",
+  location: "Located in Ibusuki, Kagoshima Prefecture, Japan, on the southern coast of Kyushu Island. The unique hot spring onsen is situated at 30 feet elevation with stunning views of the Pacific Ocean and Mount Kaimon.",
+  directions: "From Kagoshima, take the JR Ibusuki Makurazaki Line to Ibusuki Station. From Fukuoka, take the JR Kyushu Shinkansen to Kagoshima then transfer to Ibusuki. The unique onsen is easily accessible year-round.",
+  accessibilityDetails: "Ibusuki Onsen is accessible year-round with comprehensive onsen facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and unique experiences. The coastal setting provides a peaceful environment for visitors seeking a unique Japanese onsen experience.",
+  hotSpringDetails: "The unique onsen features distinctive sand baths with temperatures ranging from 104-140°F. The therapeutic sand baths are rich in salt minerals and provide natural geothermal heating. The coastal setting provides a unique environment for enjoying traditional Japanese sand baths. The onsen offers comprehensive spa services and traditional accommodations to complement the unique experience.",
+  tips: "Reservations essential for accommodations and sand bath treatments. The unique onsen emphasizes traditional Japanese onsen culture and innovative therapeutic practices. Best visited year-round for therapeutic benefits and unique experiences. The location provides excellent access to Chiringashima and Mount Kaimon attractions. The coastal setting offers a unique and therapeutic Japanese sand bath experience. The innovative treatments provide exceptional therapeutic benefits from natural geothermal sand.",
 },
 {
   id: "jinata-onsen",
