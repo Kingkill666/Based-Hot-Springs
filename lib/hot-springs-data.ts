@@ -7118,6 +7118,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 3.9,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Ogden Hot Springs, Ogden, UT 84401",
+    website: "N/A",
+    detailedDescription: "Ogden Hot Springs is a natural hot springs destination located in the scenic Ogden Canyon near Ogden, Utah, featuring natural pools in a beautiful canyon setting. These hot springs were formerly a developed resort and now offer visitors a more natural and rustic soaking experience. The canyon location provides a peaceful retreat with stunning rock formations and mountain views, making it a perfect destination for those seeking a natural hot springs experience near the city.",
+    location: "Located in Ogden Canyon near Ogden, Utah, approximately 40 miles north of Salt Lake City. The hot springs are situated at 4,300 feet elevation in the scenic Ogden Canyon surrounded by dramatic rock formations and mountain scenery.",
+    directions: "From Ogden, take Ogden Canyon Road east into Ogden Canyon. From Salt Lake City, take I-15 north to Ogden, then follow Ogden Canyon Road. The hot springs are accessible via well-marked trails from the canyon road.",
+    accessibilityDetails: "Ogden Hot Springs is easily accessible year-round with good road access and parking available. The canyon location provides easy access to the natural pools. The area has no formal facilities but offers a natural and peaceful environment for soaking.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The pools are formed by natural rock formations in the canyon and vary in size. The canyon setting provides beautiful rock formations and mountain views while soaking.",
+    tips: "This is a clothing optional location. Best visited during spring and fall when temperatures are moderate. The canyon location provides excellent opportunities for hiking and rock climbing. Bring plenty of water and supplies as there are no facilities in the area. The location offers beautiful sunset views through the canyon. Swimming suits recommended. The area provides opportunities for wildlife viewing and photography. Practice Leave No Trace principles to preserve this natural canyon environment.",
   },
   {
     id: "pah-tempe-hot-springs-ut",
@@ -10002,6 +10011,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "50 Los Banos Dr, Ojo Caliente, NM 87549",
+    website: "ojocalientesprings.com",
+    detailedDescription: "Ojo Caliente Hot Springs is a world-famous mineral hot springs resort located in northern New Mexico, featuring multiple therapeutic mineral pools, luxury spa treatments, fine dining, and elegant accommodations. This historic resort has been welcoming guests since 1868 and is renowned for its unique mineral composition including lithia, iron, arsenic, soda, and sodium. The resort combines authentic Southwestern charm with modern luxury, creating an unforgettable wellness retreat experience.",
+    location: "Located in Ojo Caliente, New Mexico, approximately 50 miles northwest of Santa Fe in the high desert region. The resort is situated at 6,200 feet elevation surrounded by mesas, mountains, and the scenic Rio Ojo Caliente valley.",
+    directions: "From Santa Fe, take US-84/285 north for about 30 miles, then take NM-554 west to Ojo Caliente. From Albuquerque, take US-25 north to Santa Fe, then follow directions above. The resort is well-marked and easily accessible year-round.",
+    accessibilityDetails: "Ojo Caliente Hot Springs is fully accessible year-round with paved parking and comprehensive accessibility features. The resort offers accessible accommodations, pool access with lifts, accessible spa facilities, and ADA-compliant pathways throughout the property.",
+    hotSpringDetails: "The resort features multiple natural mineral pools with temperatures ranging from 98-106°F. The unique mineral water contains lithia, iron, arsenic, soda, and sodium minerals known for their therapeutic properties. Pool options include the Iron Pool (105°F), Lithia Pool (100°F), Arsenic Pool (98°F), and Soda Pool (103°F). Each pool offers different mineral compositions and therapeutic benefits. The pools are fed by natural geothermal springs and maintain consistent temperatures year-round.",
+    tips: "Reservations essential for spa treatments and highly recommended for dining and accommodations. The resort offers luxury spa packages, fine dining, and elegant lodging options. Best visited year-round with each season offering different high desert experiences. Swimming suits required. The location provides excellent access to Santa Fe attractions and Northern New Mexico cultural sites. Each mineral pool offers unique therapeutic benefits - try different pools for varied experiences. The resort's restaurant features farm-to-table cuisine perfect after soaking.",
   },
   {
     id: "pelican-spa-hot-springs-nm",
