@@ -5794,6 +5794,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Late spring through early fall",
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Jerry Johnson Hot Springs, Lowell, ID 83537",
+    website: "N/A",
+    detailedDescription: "Jerry Johnson Hot Springs is a series of terraced pools located along Warm Springs Creek in pristine wilderness setting near Lowell, Idaho. These natural hot springs offer visitors a peaceful soaking experience with excellent opportunities for wilderness exploration and old-growth forest viewing in the beautiful Clearwater National Forest setting. The terraced pools and creek setting create an ideal hot springs destination.",
+    location: "Located near Lowell, Idaho, in Clearwater National Forest approximately 100 miles southeast of Spokane, Washington. The hot springs are situated at 3,100 feet elevation in the wilderness region.",
+    directions: "From Spokane, take local roads southeast to Lowell, then follow local roads to the trailhead. An easy hike is required to reach the hot springs. The exact route requires detailed planning and hiking skills.",
+    accessibilityDetails: "Jerry Johnson Hot Springs requires easy hike access through wilderness terrain. The forest location has basic camping facilities but no services. Hiking skills and emergency preparedness are recommended. The terraced pools provide accessible soaking options in the wilderness setting.",
+    hotSpringDetails: "The hot springs feature terraced pools with temperatures ranging from 95-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, silica, and calcium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The creek setting provides beautiful wilderness views while soaking.",
+    tips: "This is a clothing optional location. The hot springs are free to access. The wilderness location provides excellent opportunities for hiking and forest exploration. The location offers multiple temperature pools for different soaking preferences. Best visited during late spring through early fall to avoid dangerous winter conditions. The location provides easy access to nearby attractions including Clearwater National Forest and Lochsa River. This is one of Idaho's premier wilderness hot springs destinations with unparalleled terraced pool setting.",
   },
 
   // MONTANA HOT SPRINGS (28 springs - adding selection)
@@ -5939,6 +5948,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Fall through Spring",
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Black Rock Hot Springs, Gerlach, NV 89412",
+    website: "N/A",
+    detailedDescription: "Black Rock Hot Springs is a remote desert hot springs located in the Black Rock Desert near Gerlach, Nevada, featuring natural pools with temperatures of 95-105°F, incredible stargazing opportunities, and minimal light pollution. This remote desert hot springs offers visitors a peaceful soaking experience with excellent opportunities for stargazing and desert exploration in the beautiful Black Rock Desert setting. The desert location and remote backdrop create an ideal hot springs destination.",
+    location: "Located near Gerlach, Nevada, in the Black Rock Desert approximately 120 miles north of Reno. The hot springs are situated at 3,900 feet elevation in the desert region.",
+    directions: "From Reno, take local roads north to Gerlach, then follow local roads to the hot springs. The remote desert location requires careful navigation and 4WD vehicle recommended.",
+    accessibilityDetails: "Black Rock Hot Springs requires remote access through desert terrain, making it one of Nevada's more challenging hot springs to reach. The desert location has basic camping facilities but no services. Desert driving skills and emergency preparedness are essential. Only experienced desert travelers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 95-105°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, sodium, and chloride and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The desert setting provides incredible stargazing opportunities while soaking.",
+    tips: "This is a clothing optional location. The hot springs are free to access. The remote desert location provides excellent opportunities for stargazing and desert exploration. The location offers minimal light pollution for optimal stargazing. Best visited during fall through spring to avoid dangerous desert heat. The location provides easy access to nearby attractions including Black Rock Desert and Burning Man site. This is one of Nevada's premier remote desert hot springs destinations with unparalleled stargazing opportunities.",
   },
   // OREGON HOT SPRINGS (32 springs - adding selection)
   {
@@ -5985,6 +6003,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Bagby Hot Springs, Estacada, OR 97023",
+    website: "N/A",
+    detailedDescription: "Bagby Hot Springs is a historic hot springs located near Estacada, Oregon, featuring cedar log bathhouses with hand-hewn tubs, temperatures of 95-104°F, and old-growth forest setting. This historic hot springs offers visitors a rustic soaking experience with excellent opportunities for forest exploration and historic appreciation in the beautiful Mount Hood National Forest setting. The cedar bathhouses and forest backdrop create an ideal hot springs destination.",
+    location: "Located near Estacada, Oregon, in Mount Hood National Forest approximately 50 miles southeast of Portland. The hot springs are situated at 2,200 feet elevation in the old-growth forest region.",
+    directions: "From Portland, take local roads southeast to Estacada, then follow local roads to the trailhead. A moderate hike is required to reach the hot springs. The exact route requires detailed planning and hiking skills.",
+    accessibilityDetails: "Bagby Hot Springs requires moderate hike access through forest terrain. The forest location has basic camping facilities but limited services. Hiking skills and emergency preparedness are recommended. The cedar bathhouses provide accessible soaking options in the forest setting.",
+    hotSpringDetails: "The hot springs feature historic cedar log bathhouses with hand-hewn tubs and temperatures ranging from 95-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, silica, and calcium and flows from natural geothermal sources. Tub sizes vary and can accommodate several people. The old-growth forest setting provides beautiful wilderness views while soaking.",
+    tips: "The hot springs require a paid permit for access. The historic cedar bathhouses provide a unique rustic experience. Swimming suits are required. The forest location provides excellent opportunities for hiking and forest exploration. Best visited year-round with each season offering different forest experiences. The location provides easy access to nearby attractions including Mount Hood National Forest and Clackamas River. This is one of Oregon's premier historic hot springs destinations with unparalleled cedar bathhouse setting.",
   },
   {
     id: "22",
@@ -6030,6 +6057,15 @@ export const hotSpringsData: HotSpring[] = [
     ],
     bestTimeToVisit: "Year-round",
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Umpqua Hot Springs, Glide, OR 97443",
+    website: "N/A",
+    detailedDescription: "Umpqua Hot Springs is a cliff-top hot springs located near Glide, Oregon, featuring terraced pools with temperatures of 95-108°F, spectacular river views, and scenic setting. This cliff-top hot springs offers visitors a breathtaking soaking experience with excellent opportunities for river viewing and scenic appreciation in the beautiful Umpqua National Forest setting. The cliff-top location and river backdrop create an ideal hot springs destination.",
+    location: "Located near Glide, Oregon, in Umpqua National Forest approximately 200 miles south of Portland. The hot springs are situated at 2,600 feet elevation overlooking the North Umpqua River.",
+    directions: "From Portland, take local roads south to Glide, then follow local roads to the trailhead. A moderate hike is required to reach the hot springs. The exact route requires detailed planning and hiking skills.",
+    accessibilityDetails: "Umpqua Hot Springs requires moderate hike access through forest terrain. The cliff-top location has basic camping facilities but no services. Hiking skills and emergency preparedness are recommended. The terraced pools provide accessible soaking options in the scenic setting.",
+    hotSpringDetails: "The hot springs feature terraced pools with temperatures ranging from 95-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, silica, and calcium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The cliff-top setting provides spectacular North Umpqua River views while soaking.",
+    tips: "This is a clothing optional location. The hot springs are free to access. The cliff-top location provides excellent opportunities for river viewing and scenic appreciation. The location offers multiple temperature pools for different soaking preferences. Best visited year-round with each season offering different river experiences. The location provides easy access to nearby attractions including Umpqua National Forest and Crater Lake National Park. This is one of Oregon's premier cliff-top hot springs destinations with unparalleled river views.",
   },
   // WASHINGTON HOT SPRINGS (new additions)
   {
