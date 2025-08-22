@@ -2801,6 +2801,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Roper Lake State Park, Safford, AZ 85546",
+    website: "N/A",
+    detailedDescription: "Roper Lake State Park Hot Springs are developed hot springs within the Arizona State Park system located near Safford, featuring natural mineral pools with temperatures of 99-108°F and comprehensive recreational amenities. These family-friendly hot springs offer visitors a comfortable and accessible way to experience natural mineral soaking with developed facilities, camping options, and recreational activities. The state park setting provides a perfect combination of natural hot springs and modern amenities.",
+    location: "Located within Roper Lake State Park near Safford, Arizona, in southeastern Arizona approximately 150 miles east of Phoenix. The hot springs are situated at 3,100 feet elevation in the state park setting.",
+    directions: "From Phoenix, take US-60 east toward Globe, then continue east to Safford. Follow local roads to reach Roper Lake State Park. The hot springs are easily accessible within the state park with developed facilities.",
+    accessibilityDetails: "Roper Lake State Park Hot Springs are easily accessible with good road access and parking available. The state park offers accessible accommodations and facilities with comprehensive recreational amenities. The developed setting provides comfortable access to the hot springs.",
+    hotSpringDetails: "The hot springs feature natural mineral pools with temperatures ranging from 99-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal sources. The state park offers both indoor and outdoor soaking options with developed facilities and camping amenities.",
+    tips: "Reservations are recommended for camping and peak season visits. The state park offers comprehensive recreational amenities including camping, hiking, and wildlife viewing. Swimming suits are required. The family-friendly atmosphere makes this suitable for visitors of all ages. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Mount Graham and the Gila River. The state park setting provides a perfect combination of natural hot springs and modern amenities for a comfortable family experience.",
   },
   {
     id: "sheppards-hot-springs",
@@ -2839,6 +2848,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Clifton, AZ 85533",
+    website: "N/A",
+    detailedDescription: "Sheppards Hot Springs are historic hot springs located in the mountains of southeastern Arizona near Clifton, featuring natural pools with temperatures of 98-110°F and stunning mountain views with rich mining history. These historic hot springs offer visitors a unique opportunity to experience natural mineral soaking while learning about the area's rich mining heritage and enjoying spectacular mountain vistas. The historic setting and mountain location create a meaningful hot springs experience.",
+    location: "Located near Clifton, Arizona, in southeastern Arizona approximately 200 miles east of Phoenix in the mountainous region. The hot springs are situated at 3,400 feet elevation in the mountain setting.",
+    directions: "From Phoenix, take US-60 east toward Globe, then continue east to Clifton. Follow local roads to reach the Sheppards Hot Springs area. The hot springs require a moderate hike to access.",
+    accessibilityDetails: "Sheppards Hot Springs requires a moderate hike to reach the natural pools. The area has no facilities or services. The mountainous setting may require careful navigation. The historic significance of the site requires respectful behavior and appreciation for the mining heritage.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-110°F, providing comfortable soaking temperatures. The pools are formed naturally by geothermal activity and contain sulfur, copper, and iron minerals. Pool sizes vary and can accommodate several people. The mountainous setting provides stunning views while soaking.",
+    tips: "Bring water, snacks, and supplies as there are no facilities. The historic significance requires respectful behavior and appreciation for the mining heritage. The mountainous setting provides excellent opportunities for experiencing the natural landscape and mining history. Best visited year-round with each season offering different experiences. The area offers excellent opportunities for learning about the region's mining history and culture. Practice Leave No Trace principles to preserve this historic site. The location provides easy access to nearby attractions including Coronado National Forest. This is one of southeastern Arizona's most historically significant hot springs destinations.",
   },
   {
     id: "pumpkin-spring",
@@ -2877,6 +2895,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Grand Canyon National Park, AZ 86023",
+    website: "N/A",
+    detailedDescription: "Pumpkin Spring is a natural hot spring located within the Grand Canyon National Park, featuring a unique pumpkin-shaped pool with temperatures of 95-105°F formed by mineral deposits. This extraordinary hot spring offers visitors a truly unique experience with its distinctive pumpkin-shaped formation created by calcium, silica, sulfur, and iron mineral deposits. The challenging hike down into the canyon and the spectacular Grand Canyon setting create one of Arizona's most memorable hot springs adventures.",
+    location: "Located within Grand Canyon National Park, Arizona, approximately 80 miles north of Flagstaff. The hot spring is situated at 2,400 feet elevation deep within the canyon.",
+    directions: "Access requires a strenuous hike down into the Grand Canyon from the rim. The exact route requires detailed planning and permits from Grand Canyon National Park. The challenging descent requires excellent physical condition and hiking experience.",
+    accessibilityDetails: "Pumpkin Spring requires a strenuous hike down into the Grand Canyon, making it one of Arizona's most challenging hot springs to reach. The canyon location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for canyon conditions.",
+    hotSpringDetails: "The hot spring features a unique pumpkin-shaped pool with temperatures ranging from 95-105°F, providing comfortable soaking temperatures. The distinctive shape is created by calcium, silica, sulfur, and iron mineral deposits. The pool is formed naturally within the canyon and provides a truly unique soaking experience. The Grand Canyon setting offers spectacular views while soaking.",
+    tips: "Bring extensive supplies including extra water, food, emergency equipment, and navigation tools. The strenuous hike requires excellent physical condition and hiking experience. Permits may be required from Grand Canyon National Park. Best visited during spring and fall when weather conditions are more favorable. Summer visits can be life-threatening due to extreme canyon heat. The unique pumpkin-shaped formation provides excellent photography opportunities. Practice Leave No Trace principles to preserve this pristine canyon environment. This is one of Arizona's most unique and challenging hot springs destinations within the iconic Grand Canyon.",
   },
   {
     id: "sheep-bridge-hot-spring",
