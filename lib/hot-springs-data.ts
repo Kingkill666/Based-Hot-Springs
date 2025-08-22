@@ -4126,6 +4126,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "10590 Hot Mineral Spa Rd, Niland, CA 92257",
+    website: "bashfordshotmineralspa.com",
+    detailedDescription: "Bashford's Hot Mineral Spa is a unique desert hot springs spa located near the Salton Sea in Niland, California, offering therapeutic mineral pools, mud baths, and spa treatments in a remote desert setting. This family-owned spa has been operating since the 1950s, providing visitors with an authentic desert hot springs experience featuring natural geothermal mineral water rich in lithium and other therapeutic minerals. The spa's location near iconic desert attractions makes it a perfect base for exploring the Salton Sea region.",
+    location: "Located in Niland, California, approximately 150 miles southeast of Los Angeles near the Salton Sea. The spa is situated in the Colorado Desert at 200 feet below sea level, surrounded by unique desert landscapes and artistic communities.",
+    directions: "From Los Angeles, take I-10 east to CA-86 south, then follow signs to Niland. From San Diego, take CA-78 east to CA-86 north. The spa is easily accessible from Highway 111 and is well-marked with signs.",
+    accessibilityDetails: "Bashford's Hot Mineral Spa is easily accessible year-round with paved parking and accommodations for visitors with mobility challenges. The spa facilities and lodging are designed to be welcoming to all guests. The desert location provides a peaceful environment for therapeutic treatments.",
+    hotSpringDetails: "The spa features natural mineral pools with temperatures ranging from 98-108°F. The geothermal water is rich in sulfur, calcium, magnesium, and lithium minerals known for their therapeutic properties. Pool options include various soaking pools, mud baths, and private spa areas. The mineral-rich water flows from natural underground sources and is particularly noted for its lithium content, which is believed to have mood-enhancing properties.",
+    tips: "Reservations recommended, especially for lodging and spa treatments. Best visited October through April when desert temperatures are comfortable. The spa offers overnight accommodations including RV sites. Bring sun protection and plenty of water for desert activities. The location provides excellent access to unique attractions like Salvation Mountain and Slab City. The spa's mud baths are particularly popular for their therapeutic benefits. Swimming suits required. The desert setting offers excellent stargazing opportunities.",
   },
   {
     id: "california-hot-springs-resort",
@@ -4164,6 +4173,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "46721 California Hot Springs Rd, California Hot Springs, CA 93207",
+    website: "californiahotsprings.net",
+    detailedDescription: "California Hot Springs Resort is a charming mountain resort featuring natural hot springs pools, comfortable cabins, and direct access to Sequoia National Forest. Located in the scenic Sierra Nevada foothills, this family-owned resort has been welcoming guests since 1912, offering a perfect blend of natural hot springs therapy and mountain recreation. The resort provides an authentic mountain getaway experience with therapeutic mineral soaking in a beautiful forest setting.",
+    location: "Located in California Hot Springs, California, approximately 50 miles northeast of Bakersfield in the Sierra Nevada foothills. The resort is situated at 3,100 feet elevation surrounded by Sequoia National Forest and the scenic Kern River valley.",
+    directions: "From Bakersfield, take CA-178 east to CA-155 north, then follow California Hot Springs Road. From Fresno, take CA-180 east to CA-245 south. The resort is well-marked and accessible by paved roads year-round.",
+    accessibilityDetails: "California Hot Springs Resort is accessible year-round with paved parking and facilities designed to accommodate guests with varying mobility needs. The resort offers accessible cabins and hot springs areas. The mountain location provides a peaceful environment perfect for relaxation and therapeutic treatments.",
+    hotSpringDetails: "The resort features natural hot springs pools with temperatures ranging from 98-104°F. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources in the Sierra Nevada. Pool options include large soaking pools, private pools, and family-friendly areas. The mineral-rich water is known for its therapeutic properties and skin benefits.",
+    tips: "Reservations recommended, especially for cabins and during peak seasons. The resort offers comfortable accommodations ranging from rustic cabins to modern rooms. Best visited year-round with each season offering different mountain experiences. The location provides excellent access to Sequoia National Forest hiking trails and Kern River activities. Swimming suits required. The mountain setting offers excellent opportunities for stargazing and wildlife viewing. The resort's restaurant serves hearty mountain fare perfect after soaking.",
   },
   {
     id: "desert-hot-springs-spa-hotel",
@@ -4202,6 +4220,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Desert Hot Springs, CA 92240",
+    website: "N/A",
+    detailedDescription: "Desert Hot Springs Spa Hotel is a tranquil desert spa destination featuring natural mineral hot springs, multiple therapeutic pools, and stunning Coachella Valley views. Located in the heart of Desert Hot Springs, this spa hotel offers guests a perfect desert retreat with therapeutic mineral soaking and modern spa amenities. The natural geothermal waters are renowned for their healing properties and provide a rejuvenating experience in the beautiful Sonoran Desert setting.",
+    location: "Located in Desert Hot Springs, California, approximately 8 miles north of Palm Springs in the Coachella Valley. The spa hotel is situated at 1,200 feet elevation with panoramic views of the surrounding desert mountains and valley.",
+    directions: "From Palm Springs, take Indian Canyon Drive north to Desert Hot Springs. From Los Angeles, take I-10 east to exit 123 for Desert Hot Springs. The spa hotel is easily accessible from major highways and well-marked within the city.",
+    accessibilityDetails: "Desert Hot Springs Spa Hotel is easily accessible year-round with paved parking and spa facilities designed to accommodate guests with varying mobility needs. The hotel offers accessible rooms and hot springs areas. The desert location provides a peaceful environment perfect for relaxation and therapeutic treatments.",
+    hotSpringDetails: "The spa hotel features multiple natural mineral pools with temperatures ranging from 98-108°F. The geothermal water is rich in sulfur, calcium, magnesium, and potassium minerals known for their therapeutic and rejuvenating properties. Pool options include large soaking pools, private spa pools, and therapeutic treatment pools. The mineral-rich water flows from natural underground aquifers unique to the Desert Hot Springs area.",
+    tips: "Reservations recommended for spa treatments and accommodations. Best visited October through May when desert temperatures are most comfortable. The hotel offers various spa packages and wellness treatments. Swimming suits required. The location provides easy access to Palm Springs attractions and Joshua Tree National Park. The desert setting offers excellent stargazing opportunities and spectacular sunrise/sunset views. Bring sun protection and stay hydrated in the desert climate.",
   },
   {
     id: "indian-springs-calistoga",
@@ -4240,6 +4267,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1712 Lincoln Ave, Calistoga, CA 94515",
+    website: "indianspringscalistoga.com",
+    detailedDescription: "Indian Springs Calistoga is a historic Napa Valley resort established in 1862, featuring natural geothermal pools, therapeutic mud baths, and luxurious wine country amenities. This iconic resort has been a premier destination for over 160 years, offering guests an authentic California spa experience combining natural mineral soaking with world-class wine country hospitality. The resort's historic charm and modern luxury create an unforgettable wine country retreat.",
+    location: "Located in Calistoga, California, at the northern end of Napa Valley approximately 80 miles north of San Francisco. The resort is situated at 300 feet elevation in the heart of California's premier wine region, surrounded by vineyards and volcanic hills.",
+    directions: "From San Francisco, take US-101 north to CA-37 east, then CA-121 north to CA-29 north through Napa Valley to Calistoga. From Sacramento, take I-80 west to CA-12 west to CA-29 north. The resort is located on Lincoln Avenue in downtown Calistoga.",
+    accessibilityDetails: "Indian Springs Calistoga is easily accessible year-round with paved parking and facilities designed to accommodate guests with varying mobility needs. The historic resort offers accessible accommodations and spa areas. The wine country location provides a refined environment perfect for relaxation and therapeutic treatments.",
+    hotSpringDetails: "The resort features natural geothermal pools with temperatures ranging from 98-104°F. The mineral water is rich in sulfur, boron, potassium, and magnesium and flows from natural volcanic hot springs. Pool options include Olympic-sized mineral pools, private spa pools, and therapeutic treatment pools. The resort is famous for its volcanic ash mud baths, considered among the finest therapeutic treatments in North America.",
+    tips: "Reservations essential, especially during harvest season (September-October) and weekends. The resort offers luxury accommodations and world-class spa treatments. Best visited year-round with each season offering different wine country experiences. The location provides excellent access to Napa Valley wineries and wine tasting. Swimming suits required for pools. The historic property offers beautiful gardens and architecture perfect for relaxation. The mud baths are a signature experience not to be missed.",
   },
   {
     id: "jordan-hot-springs",
