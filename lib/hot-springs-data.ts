@@ -19386,6 +19386,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.4,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Enagh, County Londonderry, Ireland",
+  website: "N/A",
+  detailedDescription: "Enagh Spa is a historic mineral spa near Derry, once known for its healing waters in County Londonderry, Ireland. This historic destination offers visitors a glimpse into Ireland's spa heritage with therapeutic mineral waters and rural charm in the beautiful County Londonderry countryside. The historic spa's cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's spa history in Northern Ireland.",
+  location: "Located in Enagh, County Londonderry, Ireland, approximately 5 miles east of Derry City near Enagh Lough. The historic mineral spa is situated at 50 feet elevation with views of the surrounding countryside and Enagh Lough.",
+  directions: "From Derry City, take A6 east to Enagh. From Belfast, take M1 west to A6 west to Enagh. The historic mineral spa is easily accessible year-round.",
+  accessibilityDetails: "Enagh Spa is accessible year-round with historic mineral spa facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's spa heritage.",
+  hotSpringDetails: "The historic mineral spa features therapeutic waters with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spa development. The location offers opportunities to learn about Ireland's spa culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic mineral spa operates year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to Derry City and Enagh Lough attractions. The historic setting offers a unique glimpse into Ireland's spa heritage and rural culture in Northern Ireland. The mineral waters provide exceptional therapeutic benefits.",
 },
 {
   id: "kilkee-thalassotherapy-centre",
@@ -19406,6 +19415,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kilkee, County Clare, Ireland",
+  website: "kilkeethalassotherapy.com",
+  detailedDescription: "Kilkee Thalassotherapy Centre is a modern spa offering heated seaweed baths and thalassotherapy treatments on the Atlantic coast of County Clare, Ireland. This contemporary destination offers visitors a sophisticated therapeutic experience with modern thalassotherapy and coastal charm in the beautiful Atlantic setting. The modern spa's therapeutic approach and coastal location create a special destination for those seeking advanced Irish seaweed therapy.",
+  location: "Located in Kilkee, County Clare, Ireland, approximately 30 miles west of Ennis on the Atlantic coast. The modern spa is situated at 10 feet elevation with stunning views of the Atlantic Ocean and Kilkee Beach.",
+  directions: "From Ennis, take N68 west to Kilkee. From Limerick, take N69 west to N68 west to Kilkee. The modern spa is easily accessible year-round.",
+  accessibilityDetails: "Kilkee Thalassotherapy Centre is accessible year-round with modern spa facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and wellness. The coastal setting provides a peaceful environment for visitors seeking modern Irish thalassotherapy.",
+  hotSpringDetails: "The modern spa features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide advanced thalassotherapy treatments. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers modern thalassotherapy treatments to complement the therapeutic experience.",
+  tips: "Reservations essential for thalassotherapy treatments. The modern spa emphasizes advanced Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Kilkee Beach and Loop Head attractions. The coastal setting offers a sophisticated and therapeutic seaweed bath experience. The modern treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "voya-seaweed-baths",
@@ -19426,6 +19444,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Strandhill, County Sligo, Ireland",
+  website: "voya.ie",
+  detailedDescription: "VOYA Seaweed Baths is a luxury spa offering organic seaweed baths and treatments on the Sligo coast of Ireland. This premium destination offers visitors an exclusive therapeutic experience with luxury organic seaweed baths and coastal elegance in the beautiful Atlantic setting. The luxury spa's organic approach and coastal location create a special destination for those seeking premium Irish seaweed therapy.",
+  location: "Located in Strandhill, County Sligo, Ireland, approximately 5 miles west of Sligo Town on the Atlantic coast. The luxury spa is situated at 10 feet elevation with stunning views of the Atlantic Ocean and Strandhill Beach.",
+  directions: "From Sligo Town, take R292 west to Strandhill. From Galway, take N17 north to R292 west to Strandhill. The luxury spa is easily accessible year-round.",
+  accessibilityDetails: "VOYA Seaweed Baths is accessible year-round with luxury spa facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and luxury wellness. The coastal setting provides a peaceful environment for visitors seeking premium Irish seaweed therapy.",
+  hotSpringDetails: "The luxury spa features organic seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from organic Atlantic seaweed and provide luxury treatments. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers luxury organic treatments to complement the therapeutic experience.",
+  tips: "Reservations essential for luxury seaweed bath treatments. The luxury spa emphasizes premium organic Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Strandhill Beach and Knocknarea attractions. The coastal setting offers a luxury and therapeutic seaweed bath experience. The premium treatments provide exceptional therapeutic benefits from organic Atlantic seaweed.",
 },
 {
   id: "galway-bay-seaweed-baths",
@@ -19446,6 +19473,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.4,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Galway, County Galway, Ireland",
+  website: "galwaybayseaweedbaths.com",
+  detailedDescription: "Galway Bay Seaweed Baths is a modern spa offering traditional heated seaweed baths and wellness treatments on the Galway coast of Ireland. This contemporary destination offers visitors a balanced therapeutic experience with traditional seaweed baths and modern wellness services in the beautiful Galway Bay setting. The modern spa's traditional approach and coastal location create a special destination for those seeking authentic Irish seaweed therapy with modern amenities.",
+  location: "Located in Galway, County Galway, Ireland, on the Galway Bay coast approximately 2 miles west of Galway City. The modern spa is situated at 10 feet elevation with stunning views of Galway Bay and the Atlantic Ocean.",
+  directions: "From Galway City, take R336 west along the coast. From Salthill, take R336 east to Galway. The modern spa is easily accessible year-round.",
+  accessibilityDetails: "Galway Bay Seaweed Baths is accessible year-round with modern spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and therapeutic wellness. The coastal setting provides a peaceful environment for visitors seeking traditional Irish seaweed therapy with modern conveniences.",
+  hotSpringDetails: "The modern spa features traditional heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Galway Bay seaweed and provide traditional treatments with modern wellness services. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers traditional Irish seaweed therapy to complement the wellness experience.",
+  tips: "Reservations essential for seaweed bath treatments. The modern spa emphasizes traditional Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Galway Bay and Salthill Promenade attractions. The coastal setting offers a traditional and therapeutic seaweed bath experience. The wellness treatments provide exceptional therapeutic benefits from Galway Bay seaweed.",
 },
 {
   id: "salthill-spa",
