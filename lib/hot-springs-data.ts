@@ -533,6 +533,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Lake Mead National Recreation Area, Overton, NV 89040",
+  website: "NPS.gov/LakeMead",
+  detailedDescription: "Rogers Springs is a warm spring located within the Lake Mead National Recreation Area near Overton, Nevada. This natural spring features warm water temperatures that are perfect for wading and wildlife viewing rather than traditional hot spring soaking. The spring is popular with visitors for its accessibility and the opportunity to observe desert wildlife that are attracted to the water source in this arid environment.",
+  location: "Located within Lake Mead National Recreation Area near Overton, Nevada, approximately 60 miles northeast of Las Vegas. The spring is situated in the desert landscape of the recreation area.",
+  directions: "From Las Vegas, take US-93 north toward Overton. From Overton, follow signs for Lake Mead National Recreation Area. Rogers Springs is accessible via established trails within the recreation area. Park entry fees apply.",
+  accessibilityDetails: "Rogers Springs is easily accessible within Lake Mead National Recreation Area with paved parking and restroom facilities. The spring area is accessible via established trails. The recreation area is designed to accommodate visitors of all mobility levels. Park entry fees apply for access.",
+  hotSpringDetails: "Rogers Springs features warm water with temperatures ranging from 85-90°F, making it more suitable for wading than traditional hot spring soaking. The spring creates a small pool area that attracts wildlife. The water flows continuously from natural sources and maintains consistent warm temperatures throughout the year.",
+  tips: "This is a warm spring rather than a traditional hot spring, perfect for wading and wildlife viewing. Park entry fees apply for access to Lake Mead National Recreation Area. The spring is popular for wildlife photography and bird watching. Best visited from fall to spring when temperatures are moderate. The area provides opportunities to explore other attractions within the recreation area. Be respectful of wildlife and maintain a safe distance from animals attracted to the water.",
 },
 {
   id: "ruby-valley-hot-springs",
@@ -698,6 +707,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.5,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Warm Springs, NV 89008",
+  website: "N/A",
+  detailedDescription: "Warm Springs is a small, warm spring located in the ghost town of Warm Springs, Nevada, offering visitors a unique opportunity to experience a warm spring in a historic desert ghost town setting. This undeveloped spring features limited soaking opportunities but provides a fascinating glimpse into Nevada's mining history. The ghost town setting adds a unique historical dimension to the hot springs experience, making it an interesting destination for those interested in both natural hot springs and Nevada's mining heritage.",
+  location: "Located in the ghost town of Warm Springs, Nevada, approximately 50 miles southeast of Austin in the remote central Nevada desert. The spring is situated in a historic mining town that has been largely abandoned.",
+  directions: "From Austin, take NV-376 south for approximately 40 miles, then turn east onto a dirt road toward Warm Springs. Follow the dirt road for about 10 miles to reach the ghost town. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Warm Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote ghost town with no services nearby. The warm spring is easily accessible once you reach the site.",
+  hotSpringDetails: "The warm spring features water with temperatures ranging from 90-100°F, making it more suitable for wading than traditional hot spring soaking. The spring creates a small pool area with limited soaking opportunities. The water flows continuously from natural sources and maintains consistent warm temperatures throughout the year.",
+  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for exploring the ghost town and experiencing Nevada's mining history. Practice Leave No Trace principles to preserve this historic environment. The ghost town setting makes this one of Nevada's most unique hot springs destinations.",
 },
 // ADDITIONAL NEVADA HOT SPRINGS FROM WIKIPEDIA LIST
 {
@@ -870,6 +888,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Near Austin, NV 89310",
+  website: "N/A",
+  detailedDescription: "Hot Creek Springs and Marsh Area is a unique warm spring and marsh ecosystem located near Austin, Nevada, featuring a constant 85°F temperature that supports a diverse wetland environment. This natural area offers visitors a rare opportunity to experience a warm spring that has created a thriving marsh ecosystem in the midst of the Nevada desert. The area is particularly interesting for its ecological diversity and the contrast between the desert landscape and the lush wetland environment.",
+  location: "Located near Austin, Nevada, approximately 25 miles southeast of Austin in the remote central Nevada desert. The springs are situated at 5,800 feet elevation with views of the Toiyabe Range.",
+  directions: "From Austin, take US-50 east for approximately 20 miles, then turn south onto a dirt road. Follow the dirt road for about 5 miles to reach the hot creek springs area. A high-clearance vehicle is recommended due to rough road conditions.",
+  accessibilityDetails: "Hot Creek Springs requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The springs are located in a remote area with no services nearby. The marsh area is easily accessible once you reach the site.",
+  hotSpringDetails: "The warm spring features water with a constant temperature of 85°F, making it more suitable for wading than traditional hot spring soaking. The spring creates a marsh area that supports unique wetland ecosystems. The water contains calcium and magnesium minerals and flows continuously from natural sources. The marsh area provides habitat for various plant and animal species.",
+  tips: "This is a warm spring rather than a traditional hot spring, perfect for wading and wildlife viewing. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The area offers excellent opportunities for bird watching, wildlife photography, and experiencing the unique wetland ecosystem. Practice Leave No Trace principles to preserve this delicate environment. The marsh area makes this one of Nevada's most ecologically interesting hot springs destinations.",
 },
 {
   id: "hyder-hot-springs-nv",
