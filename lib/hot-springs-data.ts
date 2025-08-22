@@ -5632,6 +5632,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Campbell Hot Springs, Sierraville, CA 96126",
+    website: "N/A",
+    detailedDescription: "Campbell Hot Springs is a high-altitude Sierra Valley hot springs destination featuring natural pools and a beautiful mountain meadow setting near Sierraville, California. Located at 4,900 feet elevation, these remote hot springs offer visitors a pristine alpine soaking experience surrounded by the stunning Sierra Nevada landscape. The mountain meadow setting and seasonal accessibility create a truly special high-country hot springs experience.",
+    location: "Located near Sierraville, California, in the scenic Sierra Valley approximately 50 miles north of Lake Tahoe. The hot springs are situated at 4,900 feet elevation in a beautiful mountain meadow setting surrounded by Tahoe and Plumas National Forests.",
+    directions: "From Truckee, take CA-89 north through Sierraville, then follow local roads to Campbell Hot Springs. From Reno, take CA-70 west to Portola, then north to Sierraville. Access may require high-clearance vehicles and is seasonal due to snow conditions.",
+    accessibilityDetails: "Campbell Hot Springs requires moderate hiking and may need high-clearance vehicles for access. The hot springs are located in a remote mountain area with seasonal accessibility due to snow. The natural pools are accessible with some walking required. Access is typically available May through October depending on snow conditions.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures in a high-altitude setting. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources. The pools vary in size and are formed by natural rock formations. The mountain meadow setting provides beautiful alpine scenery while soaking.",
+    tips: "This is a clothing optional location. Best visited May through October due to seasonal snow and weather conditions. Bring plenty of water and supplies as there are no services in the remote location. Be prepared for primitive conditions - no restrooms or facilities available. The high-altitude location can have rapidly changing weather conditions. The mountain meadow setting offers excellent opportunities for wildlife viewing and experiencing the Sierra Nevada wilderness. Practice Leave No Trace principles to preserve this pristine alpine environment.",
   },
   {
     id: "carlsbad-mineral-water",
@@ -5666,6 +5675,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Carlsbad, CA 92008",
+    website: "N/A",
+    detailedDescription: "Carlsbad Mineral Water is a coastal mineral water spa located in Carlsbad, California, offering therapeutic treatments and mineral soaking with Pacific Ocean proximity. This modern spa facility provides visitors with a unique coastal hot springs experience, combining therapeutic mineral water treatments with the refreshing ocean atmosphere. The spa's location near beautiful Carlsbad Beach and family attractions makes it an ideal destination for combining relaxation with coastal activities.",
+    location: "Located in Carlsbad, California, approximately 35 miles north of San Diego along the scenic Pacific Coast. The spa is situated at 100 feet elevation with easy access to Carlsbad's beautiful beaches and coastal attractions.",
+    directions: "From San Diego, take I-5 north to Carlsbad Village Drive exit. From Los Angeles, take I-5 south through Orange County to Carlsbad. The spa is easily accessible from major coastal highways and well-marked within the city.",
+    accessibilityDetails: "Carlsbad Mineral Water is easily accessible year-round with paved parking and modern spa facilities designed to accommodate guests with varying mobility needs. The coastal location provides a peaceful and accessible environment perfect for relaxation and therapeutic treatments.",
+    hotSpringDetails: "The spa features mineral water pools and treatments with temperatures ranging from 98-104°F. The mineral water is rich in calcium, magnesium, potassium, and sodium and is used in various therapeutic treatments and soaking experiences. The facility offers modern spa amenities combined with natural mineral water benefits. The coastal setting provides a unique backdrop for mineral water therapy.",
+    tips: "Reservations recommended for spa treatments and mineral water experiences. Best visited year-round with mild coastal climate perfect for spa activities. The location provides excellent access to Carlsbad Beach, Legoland, and San Diego attractions. Swimming suits required. The coastal setting offers excellent opportunities for combining spa treatments with beach activities. The facility provides modern amenities and professional spa services. The proximity to family attractions makes it perfect for family-friendly coastal vacations.",
   },
   {
     id: "catalina-spa-rv-resort",
@@ -5704,6 +5722,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Catalina Spa RV Resort, Desert Hot Springs, CA 92240",
+    website: "N/A",
+    detailedDescription: "Catalina Spa RV Resort is an RV-friendly resort featuring natural mineral hot springs, multiple therapeutic pools, and stunning desert mountain views in Desert Hot Springs, California. This family-friendly resort combines the convenience of RV accommodations with the therapeutic benefits of natural mineral hot springs, making it perfect for travelers seeking relaxation in the beautiful Coachella Valley. The resort's multiple pools and spa amenities provide a complete desert retreat experience.",
+    location: "Located in Desert Hot Springs, California, approximately 8 miles north of Palm Springs in the scenic Coachella Valley. The resort is situated at 1,200 feet elevation with panoramic views of the surrounding desert mountains and valley.",
+    directions: "From Palm Springs, take Indian Canyon Drive north to Desert Hot Springs. From Los Angeles, take I-10 east to exit 123 for Desert Hot Springs. The resort is easily accessible from major highways and well-marked within the city.",
+    accessibilityDetails: "Catalina Spa RV Resort is easily accessible year-round with paved parking and RV facilities designed to accommodate guests with varying mobility needs. The resort offers accessible accommodations and hot springs areas. The family-friendly environment provides a welcoming atmosphere for all guests.",
+    hotSpringDetails: "The resort features multiple natural mineral pools with temperatures ranging from 98-108°F. The geothermal water is rich in sulfur, calcium, magnesium, and potassium minerals known for their therapeutic properties. Pool options include large soaking pools, family pools, and spa treatment pools. The mineral-rich water flows from natural underground sources unique to the Desert Hot Springs area.",
+    tips: "Reservations recommended for RV sites and accommodations, especially during peak season (October-May). The resort offers RV hookups, cabin rentals, and comprehensive spa services. Best visited October through May when desert temperatures are most comfortable. Swimming suits required. The location provides easy access to Palm Springs attractions and Joshua Tree National Park. The desert setting offers excellent stargazing opportunities and spectacular mountain views. The family-friendly atmosphere makes it perfect for RV travelers seeking therapeutic mineral soaking.",
   },
   {
     id: "crowley-hot-springs",
