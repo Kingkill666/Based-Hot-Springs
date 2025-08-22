@@ -18820,6 +18820,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "239 Central Ave, Hot Springs, AR 71901",
+    website: "arlingtonhotel.com",
+    detailedDescription: "Arlington Hotel is a historic hotel and spa in downtown Hot Springs, Arkansas, offering mineral baths and luxury accommodations. This iconic destination offers visitors a sophisticated hot springs experience with therapeutic mineral soaking combined with historic charm in the heart of Hot Springs National Park. The historic hotel's elegant atmosphere and comprehensive spa services create a special and memorable hot springs retreat.",
+    location: "Located in downtown Hot Springs, Arkansas, approximately 50 miles southwest of Little Rock in the Ouachita Mountains. The historic hotel is situated at 600 feet elevation with stunning views of the surrounding mountains and Bathhouse Row.",
+    directions: "From Little Rock, take I-30 west to US-70 west to Hot Springs. From Dallas, take I-30 east to US-70 west to Hot Springs. The historic hotel is located on Central Avenue and is easily accessible year-round.",
+    accessibilityDetails: "Arlington Hotel is fully accessible year-round with comprehensive historic hotel facilities. The property offers accessible accommodations, bath areas, spa facilities, and ADA-compliant pathways throughout the hotel. The luxury setting ensures broad accessibility for all guests.",
+    hotSpringDetails: "The historic hotel features mineral baths with temperatures ranging from 98-104°F. The mineral water is rich in sodium and silica and flows from natural geothermal sources. Bath options include various soaking areas and luxury spa facilities. The historic setting provides an elegant environment for enjoying the therapeutic mineral waters. The hotel's spa services and dining options complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The historic hotel offers comprehensive luxury packages and dining experiences. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Hot Springs National Park and Bathhouse Row attractions. The historic hotel setting offers an elegant and memorable hot springs experience. The spa services and dining provide exceptional amenities.",
   },
   {
     id: "blanchard-springs-ar",
@@ -18848,6 +18857,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Blanchard Springs, Fifty-Six, AR 72533",
+    website: "N/A",
+    detailedDescription: "Blanchard Springs is a scenic spring and recreation area in the Ozark National Forest, known for caves and cool spring water. This natural destination offers visitors a refreshing spring experience with cool mineral water in a beautiful forest setting. The scenic nature and recreation focus create a special destination for those seeking natural spring water and outdoor activities in the Ozark Mountains.",
+    location: "Located in Fifty-Six, Arkansas, approximately 150 miles north of Little Rock in the Ozark National Forest. The scenic spring is situated at 700 feet elevation with stunning views of the surrounding forest and mountain landscape.",
+    directions: "From Little Rock, take I-40 west to US-65 north to Fifty-Six. From Springfield, take US-65 south to Fifty-Six. The scenic spring is easily accessible via paved roads during spring to fall months.",
+    accessibilityDetails: "Blanchard Springs operates seasonally during spring to fall months with recreation area facilities. The property offers accessible parking, viewing areas, and basic amenities designed for guest comfort. The natural setting provides a peaceful environment for visitors seeking a scenic spring experience.",
+    hotSpringDetails: "The scenic spring features cool mineral water with temperatures ranging from 58-62°F. The mineral water is rich in calcium and magnesium and flows from natural spring sources. The natural setting provides a refreshing environment for enjoying the cool spring water. The recreation area offers cave tours and outdoor activities.",
+    tips: "The scenic spring operates seasonally during spring to fall months. The recreation area emphasizes natural experiences and outdoor activities. Best visited during spring to fall when weather is favorable. The location provides excellent access to Blanchard Springs Caverns and Ozark National Forest recreation. The natural setting offers a refreshing and scenic spring experience. The cave tours and outdoor activities provide additional recreation opportunities.",
   },
   {
     id: "chrysalis-day-spa-ar",
@@ -18876,6 +18894,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "501 Central Ave, Hot Springs, AR 71901",
+    website: "chrysalisdayspa.com",
+    detailedDescription: "Chrysalis Day Spa is a modern day spa in Hot Springs, Arkansas, offering mineral baths, massages, and wellness treatments. This contemporary destination offers visitors a rejuvenating hot springs experience with therapeutic mineral soaking combined with modern wellness services in the heart of Hot Springs National Park. The modern spa's wellness approach and comprehensive treatments create a special and restorative hot springs retreat.",
+    location: "Located in Hot Springs, Arkansas, approximately 50 miles southwest of Little Rock in the Ouachita Mountains. The modern day spa is situated at 600 feet elevation with views of the surrounding mountains and Bathhouse Row.",
+    directions: "From Little Rock, take I-30 west to US-70 west to Hot Springs. From Dallas, take I-30 east to US-70 west to Hot Springs. The modern day spa is located on Central Avenue and is easily accessible year-round.",
+    accessibilityDetails: "Chrysalis Day Spa is accessible year-round with modern day spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and relaxation. The modern setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The modern day spa features mineral baths with temperatures ranging from 98-104°F. The mineral water is rich in sodium and silica and flows from natural geothermal sources. The modern setting provides a therapeutic environment for enjoying the mineral waters. The day spa offers comprehensive wellness treatments to complement the hot springs experience.",
+    tips: "Reservations essential for spa treatments and mineral baths. The modern day spa emphasizes wellness and therapeutic treatments. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Hot Springs National Park and Bathhouse Row attractions. The modern setting offers a rejuvenating and therapeutic hot springs experience. The wellness treatments provide additional therapeutic benefits.",
   },
   {
     id: "maurice-bathhouse-ar",
