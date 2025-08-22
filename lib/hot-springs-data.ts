@@ -8799,6 +8799,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Lost Trail Hot Springs Resort, Sula, MT 59871",
+    website: "losttrailhotsprings.com",
+    detailedDescription: "Lost Trail Hot Springs Resort is a family-friendly resort located in Sula, Montana, featuring a natural hot springs pool with temperatures of 92-102°F, comfortable cabins, RV sites, and comprehensive amenities in the beautiful Bitterroot Mountains. This family-friendly resort offers visitors a comfortable and accessible hot springs experience with excellent accommodations, dining options, and mountain recreation in the scenic Montana landscape. The resort's combination of natural hot springs and family amenities creates a perfect destination for relaxation and mountain adventure.",
+    location: "Located in Sula, Montana, in the Bitterroot Mountains approximately 50 miles south of Missoula near Lost Trail Pass. The resort is situated at 5,400 feet elevation with beautiful mountain views and easy access to outdoor recreation.",
+    directions: "From Missoula, take US-93 south to Sula, then follow local roads to the resort. From Salmon, Idaho, take US-93 north to Sula. The resort is easily accessible from major highways with clear signage and good road access.",
+    accessibilityDetails: "Lost Trail Hot Springs Resort is easily accessible year-round with full resort facilities and accommodations designed for families. The establishment offers accessible lodging options, RV sites, and pool facilities. The family-friendly setting provides comfortable access to hot springs soaking and mountain recreation.",
+    hotSpringDetails: "The resort features a natural hot springs pool with temperatures ranging from 92-102°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pool is large enough for families and groups. The mountain setting provides beautiful Bitterroot Mountains views while soaking.",
+    tips: "Reservations recommended for accommodations and RV sites, especially during peak seasons. The family-friendly resort offers comprehensive packages including hot springs access, lodging, and dining. Swimming suits required. The location provides excellent access to Bitterroot Mountains recreation and Lost Trail Pass. Best visited year-round with each season offering different mountain experiences. The resort provides family-friendly amenities combined with natural hot springs benefits. The mountain setting offers excellent opportunities for hiking, fishing, and outdoor recreation.",
   },
   {
     id: "medicine-hot-springs-mt",
@@ -9378,6 +9387,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "410 Austin St, Truth or Consequences, NM 87901",
+    website: "blackstonehotsprings.com",
+    detailedDescription: "Blackstone Hot Springs is a modern boutique hotel located in Truth or Consequences, New Mexico, featuring private soaking tubs with temperatures of 98-108°F, themed rooms, and luxury accommodations in the beautiful New Mexico desert. This boutique establishment offers visitors a luxurious and private hot springs experience with excellent accommodations, spa services, and desert exploration in the scenic New Mexico landscape. The boutique setting and desert backdrop create a perfect destination for relaxation and luxury.",
+    location: "Located in Truth or Consequences, New Mexico, approximately 150 miles south of Albuquerque in the scenic New Mexico desert. The boutique hotel is situated at 4,242 feet elevation in the heart of T or C with beautiful desert views.",
+    directions: "From Albuquerque, take I-25 south to Truth or Consequences, then follow local roads to the boutique hotel. From Las Cruces, take I-25 north to T or C. The boutique hotel is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Blackstone Hot Springs is easily accessible year-round with full boutique hotel facilities and accommodations designed for luxury guests. The establishment offers accessible themed rooms and private soaking facilities. The boutique setting provides comfortable access to spa services and desert attractions.",
+    hotSpringDetails: "The boutique hotel features private soaking tubs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from local natural sources. Each themed room includes private soaking tubs for intimate experiences. The desert setting provides beautiful New Mexico views while soaking.",
+    tips: "Reservations required for themed rooms and spa services, especially during peak seasons. The boutique hotel offers luxury packages including private soaking, themed accommodations, and spa treatments. Swimming suits optional in private tubs. The location provides excellent access to Truth or Consequences attractions and Elephant Butte Lake. Best visited year-round with each season offering different desert experiences. The boutique setting offers luxury amenities combined with natural hot springs benefits. The desert location provides opportunities for exploring the scenic New Mexico landscape.",
   },
   {
     id: "bodhi-manda-hot-springs-nm",
@@ -9523,6 +9541,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Faywood Hot Springs, Faywood, NM 88034",
+    website: "faywoodhotsprings.com",
+    detailedDescription: "Faywood Hot Springs is a rustic resort located in Faywood, New Mexico, featuring public and private pools with temperatures of 100-110°F, camping facilities, and clothing-optional areas in the beautiful New Mexico desert. This rustic resort offers visitors a natural and authentic hot springs experience with excellent opportunities for camping, outdoor recreation, and desert exploration in the scenic New Mexico landscape. The rustic setting and desert backdrop create a perfect destination for nature lovers and hot springs enthusiasts.",
+    location: "Located in Faywood, New Mexico, approximately 30 miles north of Deming in the scenic New Mexico desert. The rustic resort is situated at 5,200 feet elevation with beautiful desert views and easy access to City of Rocks State Park.",
+    directions: "From Deming, take NM-26 north for about 30 miles to Faywood, then follow local roads to the rustic resort. From Silver City, take NM-90 east to local roads leading to Faywood. The rustic resort is easily accessible from major highways.",
+    accessibilityDetails: "Faywood Hot Springs is easily accessible year-round with full rustic resort facilities and accommodations designed for nature enthusiasts. The establishment offers accessible camping options, public and private pools, and rustic accommodations. The natural setting provides comfortable access to hot springs soaking and desert recreation.",
+    hotSpringDetails: "The rustic resort features public and private pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium, calcium, and magnesium and flows from natural geothermal sources. Pool options include public pools for socializing and private pools for intimate experiences. The desert setting provides beautiful New Mexico views while soaking.",
+    tips: "Reservations recommended for camping and private pools, especially during peak seasons. The rustic resort offers comprehensive packages including public and private pools, camping, and desert access. Clothing optional in designated areas. The location provides excellent access to City of Rocks State Park and desert recreation. Best visited year-round with each season offering different desert experiences. The rustic setting offers natural amenities combined with hot springs benefits. The desert location provides opportunities for hiking, rock climbing, and exploring the scenic New Mexico landscape.",
   },
   {
     id: "fire-water-lodge-hot-springs-nm",
