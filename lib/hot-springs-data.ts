@@ -3939,6 +3939,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "67425 Two Bunch Palms Trail, Desert Hot Springs, CA 92240",
+    website: "twobunchpalms.com",
+    detailedDescription: "Two Bunch Palms Hot Springs is a luxury desert spa resort located in Desert Hot Springs, California, featuring natural mineral hot springs with temperatures of 98-104°F, world-class spa treatments, and celebrity hideaway atmosphere. This luxury resort offers visitors an exclusive hot springs experience with excellent opportunities for relaxation and wellness in the beautiful desert setting. The luxury amenities and celebrity atmosphere create an unparalleled hot springs destination.",
+    location: "Located in Desert Hot Springs, California, in the Coachella Valley approximately 100 miles east of Los Angeles. The resort is situated at 1,200 feet elevation in the desert region.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs, then follow local roads to the resort. The luxury resort is easily accessible by car with valet parking available for guests.",
+    accessibilityDetails: "Two Bunch Palms Hot Springs is easily accessible with good road access and valet parking available. The luxury resort offers accessible accommodations and facilities with comprehensive wellness services. The natural mineral pools provide accessible soaking options in the desert setting.",
+    hotSpringDetails: "The hot springs feature natural mineral pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and potassium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The desert setting provides beautiful views while soaking.",
+    tips: "Reservations are required for the luxury resort experience. The resort offers comprehensive wellness packages including natural mineral soaking, world-class spa treatments, and luxury accommodations. Swimming suits are required. The luxury facility provides a complete wellness experience in the beautiful desert setting. Best visited during cooler months (October through May) to avoid extreme desert heat. The location provides easy access to nearby attractions including Palm Springs and Joshua Tree National Park. This is California's premier luxury hot springs destination with unparalleled celebrity atmosphere.",
   },
   {
     id: "vichy-hot-springs",
@@ -3977,6 +3986,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "2605 Vichy Springs Rd, Ukiah, CA 95482",
+    website: "vichysprings.com",
+    detailedDescription: "Vichy Hot Springs is a historic resort located in Ukiah, California, featuring naturally carbonated mineral springs with temperatures of 90-104°F, Olympic-size pool, and Mendocino County wine country location. This historic resort offers visitors a unique hot springs experience with naturally carbonated water and excellent opportunities for relaxation and wellness in the beautiful wine country setting. The carbonated springs and historic charm create an unparalleled hot springs destination.",
+    location: "Located in Ukiah, California, in Mendocino County wine country approximately 120 miles north of San Francisco. The resort is situated at 600 feet elevation in the wine country region.",
+    directions: "From San Francisco, take US-101 north to Ukiah, then follow local roads to the resort. The historic resort is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Vichy Hot Springs is easily accessible with good road access and parking available. The historic resort offers accessible accommodations and facilities with comprehensive wellness services. The carbonated mineral pools provide accessible soaking options in the wine country setting.",
+    hotSpringDetails: "The hot springs feature naturally carbonated mineral pools with temperatures ranging from 90-104°F, providing comfortable soaking temperatures. The mineral water is rich in carbon dioxide, calcium, magnesium, and bicarbonate and flows from natural geothermal sources. The Olympic-size pool provides excellent swimming opportunities. The wine country setting provides beautiful views while soaking.",
+    tips: "Reservations are recommended, especially during peak wine country seasons. The resort offers comprehensive wellness packages including carbonated mineral soaking, spa services, and accommodations. Swimming suits are required. The historic facility provides a complete wellness experience in the beautiful wine country setting. Best visited year-round with each season offering different experiences. The location provides easy access to nearby attractions including Mendocino wine country and Russian River. This is California's premier carbonated hot springs destination with unparalleled historic charm.",
   },
   {
     id: "wilbur-hot-springs",
