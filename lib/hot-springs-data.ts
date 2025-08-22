@@ -2035,6 +2035,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Akutan Island, AK 99553",
+    website: "N/A",
+    detailedDescription: "Akutan Hot Springs are remote volcanic hot springs located on Akutan Island in the Aleutian chain, featuring natural thermal pools with temperatures of 140-160°F and spectacular views of the Pacific Ocean and surrounding volcanic landscape. These extremely remote hot springs offer visitors a unique opportunity to experience therapeutic mineral soaking in one of Alaska's most isolated volcanic island settings. The volcanic location and Aleutian Islands setting create a truly unique hot springs experience.",
+    location: "Located on Akutan Island in the Aleutian Islands chain approximately 800 miles southwest of Anchorage. The hot springs are situated at 50 feet elevation in the volcanic island region.",
+    directions: "Access is via boat or aircraft only from mainland Alaska or other Aleutian Islands. The extreme remoteness requires careful planning and coordination with local transportation services. The hot springs are located in a designated wilderness area.",
+    accessibilityDetails: "Akutan Hot Springs requires boat or aircraft access, making it one of Alaska's most challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for Aleutian Islands conditions.",
+    hotSpringDetails: "The hot springs feature natural thermal pools with temperatures ranging from 140-160°F, providing hot soaking experiences. The mineral water is rich in sulfur, silica, sodium, and chloride and flows from volcanic geothermal sources. The pools are formed naturally in the volcanic landscape and vary in size and depth.",
+    tips: "Boat or aircraft access requires extensive advance planning and coordination with local services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during summer months when weather conditions are more favorable. The volcanic location offers unique geological features and Aleutian wildlife viewing opportunities. The extreme remoteness provides a true wilderness experience in the Aleutian Islands. Exercise caution due to hot temperatures and remote volcanic location.",
   },
 
   // ARIZONA HOT SPRINGS (10 springs)
@@ -2223,6 +2232,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Tonopah, AZ 85354",
+    website: "N/A",
+    detailedDescription: "Tonopah Hot Springs are natural desert hot springs located in the Sonoran Desert near Tonopah, Arizona, featuring primitive soaking pools with temperatures of 95-105°F in a remote desert landscape with stunning mountain views and abundant desert wildlife. These natural hot springs offer visitors an authentic desert wilderness experience surrounded by rugged desert mountains and diverse desert vegetation. The remote desert setting provides a peaceful escape into one of Arizona's most pristine desert environments.",
+    location: "Located in the Sonoran Desert near Tonopah, Arizona, approximately 50 miles west of Phoenix in the rugged desert mountains. The hot springs are situated at 1,800 feet elevation in the desert wilderness.",
+    directions: "From Phoenix, take I-10 west toward Quartzsite, then exit at Tonopah and follow local desert roads. Access requires detailed local knowledge, GPS coordinates, and 4WD vehicle. The exact route varies depending on weather and road conditions. Consultation with local authorities or experienced desert travelers is recommended.",
+    accessibilityDetails: "Tonopah Hot Springs requires significant desert travel experience and 4WD vehicle access. The area has no marked trails, facilities, or services. Desert navigation skills, GPS, and emergency preparedness are essential. Access can be affected by weather conditions and flash flood risks. Only experienced desert travelers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural desert pools with temperatures ranging from 95-105°F, providing comfortable soaking temperatures. The pools are undeveloped and formed naturally by geothermal activity in the desert terrain. Pool sizes vary but typically accommodate 4-8 people and range from 2-4 feet deep. The mineral-rich water contains sulfur, sodium, magnesium, and calcium. The remote desert setting provides complete solitude with expansive views of the Sonoran Desert and surrounding mountain ranges.",
+    tips: "Bring extensive supplies including extra water, food, emergency equipment, and navigation tools. Inform others of travel plans and expected return times. Best visited during cooler months (October-April) to avoid dangerous desert heat. Summer visits can be life-threatening due to extreme temperatures. The area offers excellent wildlife viewing including desert bighorn sheep, javelinas, and various desert birds. Practice strict Leave No Trace principles to preserve this pristine desert environment. Dispersed camping may be possible but requires complete self-sufficiency and awareness of flash flood risks. This is one of Arizona's most remote and challenging hot springs destinations.",
   },
   {
     id: "127",
