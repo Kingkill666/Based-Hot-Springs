@@ -6472,6 +6472,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Wind River Hot Springs, Carson, WA 98610",
+    website: "N/A",
+    detailedDescription: "Wind River Hot Springs is a remote primitive hot springs located near Carson, Washington, featuring natural pools with temperatures of 100-104°F, primitive setting, and river access. This remote hot springs offers visitors a wilderness soaking experience with excellent opportunities for river exploration and forest viewing in the beautiful Gifford Pinchot National Forest setting. The primitive location and river backdrop create an ideal hot springs destination.",
+    location: "Located near Carson, Washington, in Gifford Pinchot National Forest approximately 50 miles east of Portland, Oregon. The hot springs are situated at 200 feet elevation in the forest region.",
+    directions: "From Portland, take local roads east to Carson, then follow local roads to the hot springs. The remote location requires careful planning and wilderness navigation skills. The exact route requires detailed planning and backcountry skills.",
+    accessibilityDetails: "Wind River Hot Springs requires difficult access through remote wilderness terrain, making it one of Washington's more challenging hot springs to reach. The remote location has basic camping facilities but no services. Backcountry skills and emergency preparedness are essential. Only experienced wilderness travelers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The river setting provides beautiful Wind River views while soaking.",
+    tips: "This is a clothing optional location. The hot springs are free to access. The remote location provides excellent opportunities for river exploration and forest viewing. The location offers primitive camping opportunities. Best visited during summer to avoid dangerous winter conditions. The location provides easy access to nearby attractions including Wind River and Gifford Pinchot National Forest. This is one of Washington's premier remote hot springs destinations with unparalleled river setting.",
   },
   // VIRGINIA HOT SPRINGS (new addition)
   {
@@ -6654,6 +6663,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "8215 UT-38, Honeyville, UT 84314",
+    website: "crystalhotsprings.net",
+    detailedDescription: "Crystal Hot Springs is a family-friendly resort located in Honeyville, Utah, featuring hot and cold mineral pools with temperatures of 120-134°F, water slides, and family-friendly amenities. This family-friendly resort offers visitors a fun soaking experience with excellent opportunities for family recreation and water activities in the beautiful Bear River Valley setting. The family-friendly amenities and water park backdrop create an ideal hot springs destination.",
+    location: "Located in Honeyville, Utah, in the Bear River Valley approximately 80 miles north of Salt Lake City. The resort is situated at 4,300 feet elevation in the valley region.",
+    directions: "From Salt Lake City, take I-15 north to exit 365 for Honeyville, then follow UT-38 east to the resort. The family-friendly facility is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Crystal Hot Springs is easily accessible with good road access and parking available. The family-friendly resort offers accessible accommodations and facilities with comprehensive water park services. The hot and cold pools provide accessible soaking options in the family setting.",
+    hotSpringDetails: "The resort features hot and cold mineral pools with temperatures ranging from 120-134°F for hot pools and cooler temperatures for cold pools, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The family-friendly setting provides water slides and recreational activities while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive family packages including mineral soaking, water slides, and accommodations. Swimming suits are required. The family-friendly facility provides a fun experience in the beautiful Bear River Valley setting. Best visited year-round with each season offering different family experiences. The location provides easy access to nearby attractions including Bear River Migratory Bird Refuge. This is one of Utah's premier family-friendly hot springs destinations with unparalleled water park amenities.",
   },
   {
     id: "diamond-fork-hot-springs-ut",
@@ -6683,6 +6701,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Diamond Fork Hot Springs, Spanish Fork, UT 84660",
+    website: "N/A",
+    detailedDescription: "Diamond Fork Hot Springs is a scenic natural hot springs located near Spanish Fork, Utah, featuring natural pools with temperatures of 102-112°F, hiking required access, and scenic canyon setting. This scenic hot springs offers visitors a wilderness soaking experience with excellent opportunities for hiking and canyon exploration in the beautiful Uinta-Wasatch-Cache National Forest setting. The scenic location and canyon backdrop create an ideal hot springs destination.",
+    location: "Located near Spanish Fork, Utah, in Uinta-Wasatch-Cache National Forest approximately 60 miles south of Salt Lake City. The hot springs are situated at 6,000 feet elevation in the canyon region.",
+    directions: "From Salt Lake City, take local roads south to Spanish Fork, then follow local roads to the trailhead. A moderate hike is required to reach the hot springs. The exact route requires detailed planning and hiking skills.",
+    accessibilityDetails: "Diamond Fork Hot Springs requires moderate hike access through canyon terrain. The scenic location has basic camping facilities but no services. Hiking skills and emergency preparedness are recommended. The natural pools provide accessible soaking options in the canyon setting.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 102-112°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The canyon setting provides beautiful Diamond Fork Canyon views while soaking.",
+    tips: "This is a clothing optional location. The hot springs are free to access. The scenic location provides excellent opportunities for hiking and canyon exploration. The location offers camping opportunities. Best visited during spring to fall to avoid dangerous winter conditions. The location provides easy access to nearby attractions including Uinta-Wasatch-Cache National Forest. This is one of Utah's premier scenic hot springs destinations with unparalleled canyon setting.",
   },
   {
     id: "fifth-water-hot-springs-ut",
@@ -6712,6 +6739,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Fifth Water Hot Springs, Spanish Fork, UT 84660",
+    website: "N/A",
+    detailedDescription: "Fifth Water Hot Springs is a series of beautiful natural pools located near Spanish Fork, Utah, featuring natural pools with temperatures of 102-112°F, hiking required access, and waterfalls setting. This beautiful hot springs offers visitors a wilderness soaking experience with excellent opportunities for hiking and waterfall viewing in the beautiful Diamond Fork Canyon setting. The beautiful location and waterfall backdrop create an ideal hot springs destination.",
+    location: "Located near Spanish Fork, Utah, in Diamond Fork Canyon approximately 60 miles south of Salt Lake City. The hot springs are situated at 6,000 feet elevation in the canyon region.",
+    directions: "From Salt Lake City, take local roads south to Spanish Fork, then follow local roads to the trailhead. A moderate hike is required to reach the hot springs. The exact route requires detailed planning and hiking skills.",
+    accessibilityDetails: "Fifth Water Hot Springs requires moderate hike access through canyon terrain. The beautiful location has basic camping facilities but no services. Hiking skills and emergency preparedness are recommended. The natural pools provide accessible soaking options in the waterfall setting.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 102-112°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The waterfall setting provides beautiful waterfall views while soaking.",
+    tips: "This is a clothing optional location. The hot springs are free to access. The beautiful location provides excellent opportunities for hiking and waterfall viewing. The location offers camping opportunities. Best visited during spring to fall to avoid dangerous winter conditions. The location provides easy access to nearby attractions including Diamond Fork Canyon. This is one of Utah's premier beautiful hot springs destinations with unparalleled waterfall setting.",
   },
   {
     id: "homestead-crater-hot-springs-ut",
