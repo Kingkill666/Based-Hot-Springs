@@ -1996,7 +1996,6 @@ export const hotSpringsData: HotSpring[] = [
     hotSpringDetails: "The hot springs feature natural thermal pools with temperatures ranging from 112-122°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, and magnesium with particularly high sulfur content. The pools are formed naturally in the island wilderness setting and vary in size and depth.",
     tips: "Boat or seaplane access requires advance planning and coordination with local services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during June-August when weather conditions are more favorable. The high sulfur content provides therapeutic benefits but may have a strong odor. The island location offers excellent opportunities for brown bear viewing and wilderness fishing. The pristine wilderness environment provides a true backcountry experience.",
   },
-  },
   {
     id: "akutan-hot-springs",
     name: "Akutan Hot Springs",
@@ -2450,6 +2449,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Carefree, AZ 85377",
+    website: "N/A",
+    detailedDescription: "Essence of Tranquility is a luxury spa resort featuring natural hot springs in the Sonoran Desert foothills near Carefree, Arizona, offering premium wellness experiences with temperatures of 100-108°F and stunning desert mountain views. This exclusive wellness facility combines natural hot springs with world-class spa services, providing visitors with a premium desert wellness experience in the heart of Arizona's most beautiful desert landscape. The luxury amenities and desert setting create an unparalleled wellness retreat.",
+    location: "Located in Carefree, Arizona, in the Sonoran Desert foothills approximately 30 miles north of Phoenix. The resort is situated at 2,400 feet elevation in the desert mountain region.",
+    directions: "From Phoenix, take I-17 north to Carefree Highway (AZ-74), then follow local roads to the Essence of Tranquility resort. The luxury facility is easily accessible by car with valet parking available.",
+    accessibilityDetails: "Essence of Tranquility is easily accessible with good road access and valet parking available. The luxury resort offers accessible accommodations and facilities with premium amenities. The resort staff provides assistance to ensure all guests can enjoy the hot springs and wellness services.",
+    hotSpringDetails: "The resort features natural hot springs with temperatures ranging from 100-108°F, providing comfortable soaking temperatures. The mineral water is rich in lithium, sodium, and potassium and flows from natural geothermal sources. The resort offers both indoor and outdoor soaking options with luxury spa facilities and premium amenities.",
+    tips: "Reservations are required for all visits as this is an exclusive luxury resort. The resort offers comprehensive wellness packages including spa treatments, dining, and accommodations. Swimming suits are required. The desert setting provides incredible mountain views and wellness experiences. Best visited during cooler months (October-May) when desert weather is most pleasant. The resort offers guided wellness activities, spa treatments, and fine dining. This is one of Arizona's most luxurious and exclusive hot springs destinations, perfect for wellness retreats and special occasions.",
   },
   {
     id: "gold-strike-hot-springs",
@@ -2488,6 +2496,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Boulder City, NV 89005",
+    website: "N/A",
+    detailedDescription: "Gold Strike Hot Springs are spectacular hot springs accessible by challenging hike down a desert canyon to the Colorado River near Boulder City, featuring multiple pools with temperatures of 105-125°F and stunning canyon views. These natural hot springs offer visitors a truly unique desert canyon experience with spectacular views of the Colorado River and surrounding desert landscape. The challenging access and dramatic canyon setting create one of Arizona's most memorable hot springs adventures.",
+    location: "Located near Boulder City, Nevada, along the Colorado River approximately 30 miles southeast of Las Vegas. The hot springs are situated at 600 feet elevation in a dramatic desert canyon setting.",
+    directions: "From Las Vegas, take US-93 south toward Boulder City, then follow local roads to the Gold Strike Canyon trailhead. Access requires a strenuous 2-mile hike down the canyon with significant elevation change and technical sections requiring ropes and scrambling.",
+    accessibilityDetails: "Gold Strike Hot Springs requires a strenuous 2-mile hike each way with significant elevation change and technical sections requiring ropes and scrambling. The challenging access makes this suitable only for experienced hikers in good physical condition. The canyon location has no facilities or services.",
+    hotSpringDetails: "The hot springs feature multiple natural pools with temperatures ranging from 105-125°F, providing hot soaking experiences. The pools are formed naturally along the Colorado River bank and filled with mineral-rich water containing sulfur, calcium, and magnesium. Pool depths vary from 2-5 feet and can accommodate several people. The dramatic canyon setting provides spectacular views while soaking.",
+    tips: "This is a clothing optional location. Bring plenty of water, food, and supplies as there are no facilities. The strenuous hike requires good physical condition and hiking experience. Technical sections require ropes and scrambling skills. Best visited during cooler months (October-April) to avoid dangerous desert heat. Summer visits should be avoided due to extreme temperatures. The canyon location offers spectacular photography opportunities and unique desert canyon experience. River access allows for cooling off in the Colorado River. Practice Leave No Trace principles to preserve this pristine canyon environment. This is one of Arizona's most challenging and rewarding hot springs destinations.",
   },
   {
     id: "holladay-hot-springs",
@@ -2522,6 +2539,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Safford, AZ 85546",
+    website: "N/A",
+    detailedDescription: "Holladay Hot Springs is a historic hot springs resort located in southeastern Arizona near Safford, featuring natural mineral pools with temperatures of 98-110°F and authentic southwestern hospitality. This family-owned facility offers visitors a genuine southwestern experience with natural mineral soaking in a historic setting. The resort's authentic atmosphere and natural mineral waters create a unique Arizona hot springs experience.",
+    location: "Located near Safford, Arizona, in southeastern Arizona approximately 150 miles east of Phoenix. The resort is situated at 2,800 feet elevation in the desert mountain region.",
+    directions: "From Phoenix, take US-60 east toward Globe, then continue east to Safford. Follow local roads to reach the Holladay Hot Springs resort. The facility is easily accessible by car with parking available.",
+    accessibilityDetails: "Holladay Hot Springs is easily accessible with good road access and parking available. The historic resort offers accessible accommodations and facilities. The family-owned facility provides authentic southwestern hospitality and assistance to guests.",
+    hotSpringDetails: "The resort features natural mineral pools with temperatures ranging from 98-110°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, sodium, and calcium and flows from natural geothermal sources. The resort offers both indoor and outdoor soaking options with historic accommodations.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers authentic southwestern dining and accommodations. Swimming suits are required. The family-owned atmosphere provides genuine southwestern hospitality. Best visited year-round with each season offering different experiences in the desert climate. The location provides easy access to nearby attractions including Mount Graham and the Gila River. The historic setting offers a unique Arizona hot springs experience.",
   },
   {
     id: "hot-well-dunes-hot-springs",
