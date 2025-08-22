@@ -16671,6 +16671,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "3015 Adelaida Rd, Paso Robles, CA 93446",
+    website: "franklinhotsprings.com",
+    detailedDescription: "Franklin Hot Springs is a rustic, family-friendly hot springs destination featuring hot springs pools and fishing ponds in Paso Robles, California. This charming destination offers visitors a peaceful hot springs experience with therapeutic mineral soaking combined with recreational fishing in the beautiful Central Coast wine country. The rustic atmosphere and family-friendly amenities create a special and relaxing hot springs retreat near Paso Robles wine country.",
+    location: "Located in Paso Robles, California, approximately 200 miles northwest of Los Angeles in the Central Coast region. The hot springs are situated at 732 feet elevation with views of the surrounding rolling hills and wine country landscape.",
+    directions: "From Los Angeles, take US-101 north to Paso Robles, then take Adelaida Road west to the hot springs. From San Francisco, take US-101 south to Paso Robles. The facility is well-marked and accessible via paved roads year-round.",
+    accessibilityDetails: "Franklin Hot Springs is accessible year-round with paved parking and family-friendly facilities. The rustic property offers basic amenities including restrooms and camping areas. The natural setting provides a peaceful environment for visitors seeking a traditional hot springs experience with fishing opportunities.",
+    hotSpringDetails: "The facility features hot springs pools with temperatures ranging from 100-106°F. The mineral water is rich in sodium and flows from natural geothermal sources. The rustic setting includes fishing ponds for recreational angling. The family-friendly atmosphere makes it suitable for visitors of all ages to enjoy the therapeutic mineral waters and outdoor activities.",
+    tips: "Reservations recommended for camping. The facility operates year-round with consistent amenities. Best visited year-round with mild Central Coast temperatures. Swimming suits required. Fishing licenses required for pond fishing. The location provides excellent access to Paso Robles wine country attractions and Central Coast activities. The rustic setting offers a traditional and family-friendly hot springs experience. The fishing ponds provide additional recreational opportunities.",
   },
   {
     id: "furnace-creek-inn-hot-springs-ca",
@@ -16699,6 +16708,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1 Furnace Creek Inn, Death Valley, CA 92328",
+    website: "oasisatdeathvalley.com",
+    detailedDescription: "Furnace Creek Inn Hot Springs is a historic luxury inn featuring a hot springs-fed pool and gardens in Death Valley National Park, California. This iconic destination offers visitors an extraordinary hot springs experience with therapeutic mineral soaking in one of the world's most extreme environments. The historic inn's elegance and unique Death Valley setting create a special and unforgettable hot springs retreat in America's hottest, driest national park.",
+    location: "Located in Death Valley National Park, California, approximately 300 miles northeast of Los Angeles in the Mojave Desert. The inn is situated at -190 feet elevation (below sea level) with stunning views of the surrounding desert landscape and Death Valley wilderness.",
+    directions: "From Los Angeles, take I-5 north to CA-14 north to US-395 north to CA-190 west to Furnace Creek. From Las Vegas, take US-95 north to NV-374 west to CA-190 west. The inn is located within Death Valley National Park and requires park entrance fees.",
+    accessibilityDetails: "Furnace Creek Inn Hot Springs operates seasonally during fall to spring months with luxury inn facilities. The historic property offers accessible accommodations, pool access, spa facilities, and fine dining. The extreme desert environment requires careful planning and preparation for visits during operating season.",
+    hotSpringDetails: "The inn features a hot springs-fed pool with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The historic setting includes beautiful gardens and luxury amenities. The extreme Death Valley environment provides a unique and dramatic backdrop for enjoying the therapeutic mineral waters.",
+    tips: "Reservations essential for accommodations and dining. The inn operates seasonally during fall to spring months when temperatures are more moderate. Death Valley summer temperatures can exceed 120°F, making visits dangerous. Swimming suits required. The location provides access to Death Valley National Park attractions and extreme desert experiences. The historic inn setting offers a luxury hot springs experience in one of the world's most extreme environments.",
   },
   {
     id: "gaviota-hot-springs-ca",
@@ -16727,6 +16745,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Gaviota State Park, Goleta, CA 93117",
+    website: "parks.ca.gov",
+    detailedDescription: "Gaviota Hot Springs features small, natural hot springs pools in Gaviota State Park accessed by a short hike near Goleta, California. This scenic destination offers visitors a peaceful hot springs experience with therapeutic mineral soaking in a beautiful coastal mountain setting. The natural pools and state park location create a special and pristine hot springs retreat on California's Central Coast near Santa Barbara.",
+    location: "Located in Gaviota State Park near Goleta, California, approximately 30 miles northwest of Santa Barbara on the Central Coast. The hot springs are situated at 400 feet elevation with views of the surrounding coastal mountains and Pacific Ocean.",
+    directions: "From Santa Barbara, take US-101 north to Gaviota State Park. From San Luis Obispo, take US-101 south to Gaviota State Park. Park at the designated area and follow the marked trail for a short hike to the hot springs. State park entry fees apply.",
+    accessibilityDetails: "Gaviota Hot Springs requires a short hike to access the natural pools. The trail may be challenging for some visitors. The springs are not wheelchair accessible due to the natural terrain and hiking requirement. Visitors should be prepared for primitive conditions and seasonal access depending on weather and park conditions.",
+    hotSpringDetails: "The hot springs feature small, natural pools with temperatures ranging from 95-100°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations in a scenic coastal mountain setting. The pristine state park location provides a peaceful and authentic hot springs experience.",
+    tips: "This is a clothing optional hot spring. State park entry fees required. The facility operates seasonally during spring and fall when conditions are best. Best visited during spring and fall with moderate temperatures and good trail conditions. The short hike requires basic hiking preparation. The location provides excellent access to Gaviota State Park attractions and Central Coast activities. Respect the natural environment and follow Leave No Trace principles.",
   },
   {
     id: "glamis-hot-springs-ca",
