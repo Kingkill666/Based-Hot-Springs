@@ -19821,6 +19821,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Rosses Point, County Sligo, Ireland",
+  website: "rossespointseaweedbaths.com",
+  detailedDescription: "Rosses Point Seaweed Baths is a seaweed bathhouse in Rosses Point, offering traditional heated seaweed soaks with Atlantic views in County Sligo, Ireland. This authentic destination offers visitors a traditional therapeutic experience with heated seaweed baths and coastal charm in the beautiful Atlantic setting. The traditional bathhouse's therapeutic approach and coastal location create a special destination for those seeking authentic Irish seaweed therapy with stunning Atlantic views.",
+  location: "Located in Rosses Point, County Sligo, Ireland, approximately 5 miles west of Sligo Town on the Atlantic coast. The seaweed bathhouse is situated at 10 feet elevation with stunning views of the Atlantic Ocean and Rosses Point Beach.",
+  directions: "From Sligo Town, take R292 west to Rosses Point. From Galway, take N17 north to R292 west to Rosses Point. The seaweed bathhouse is easily accessible year-round.",
+  accessibilityDetails: "Rosses Point Seaweed Baths is accessible year-round with traditional seaweed bathhouse facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and wellness. The coastal setting provides a peaceful environment for visitors seeking authentic Irish seaweed therapy.",
+  hotSpringDetails: "The seaweed bathhouse features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide traditional Irish seaweed therapy. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The bathhouse offers traditional Irish seaweed therapy to complement the therapeutic experience.",
+  tips: "Reservations essential for seaweed bath treatments. The seaweed bathhouse emphasizes authentic Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Rosses Point Beach and Benbulben attractions. The coastal setting offers a traditional and therapeutic seaweed bath experience. The traditional treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "greystones-seaweed-baths",
@@ -19841,6 +19850,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.1,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Greystones, County Wicklow, Ireland",
+  website: "greystonesseaweedbaths.com",
+  detailedDescription: "Greystones Seaweed Baths is a modern spa in Greystones offering heated seaweed baths and wellness treatments on the east coast of County Wicklow, Ireland. This contemporary destination offers visitors a sophisticated therapeutic experience with modern seaweed baths and coastal wellness services in the beautiful east coast setting. The modern spa's therapeutic approach and coastal location create a special destination for those seeking Irish seaweed therapy on the Garden of Ireland coast.",
+  location: "Located in Greystones, County Wicklow, Ireland, approximately 30 miles south of Dublin on the east coast. The modern spa is situated at 10 feet elevation with stunning views of the Irish Sea and Greystones Beach.",
+  directions: "From Dublin, take M50 south to N11 south to Greystones. From Bray, take N11 north to Greystones. The modern spa is easily accessible year-round.",
+  accessibilityDetails: "Greystones Seaweed Baths is accessible year-round with modern spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and coastal wellness. The coastal setting provides a peaceful environment for visitors seeking modern Irish seaweed therapy.",
+  hotSpringDetails: "The modern spa features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Irish Sea seaweed and provide modern wellness treatments. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers modern Irish seaweed therapy to complement the wellness experience.",
+  tips: "Reservations essential for seaweed bath treatments. The modern spa emphasizes Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Greystones Beach and Bray Head attractions. The coastal setting offers a modern and therapeutic seaweed bath experience. The wellness treatments provide exceptional therapeutic benefits from Irish Sea seaweed.",
 },
 {
   id: "clonmel-mineral-springs",
@@ -19861,6 +19879,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.3,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Clonmel, County Tipperary, Ireland",
+  website: "N/A",
+  detailedDescription: "Clonmel Mineral Springs is a historic mineral springs in Clonmel, once known for their healing properties in County Tipperary, Ireland. This historic destination offers visitors a glimpse into Ireland's mineral spring heritage with therapeutic mineral waters and rural charm in the beautiful County Tipperary countryside. The historic springs' cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's mineral spring history in the Premier County.",
+  location: "Located in Clonmel, County Tipperary, Ireland, approximately 20 miles southwest of Waterford in the River Suir Valley. The historic mineral springs are situated at 30 feet elevation with views of the surrounding countryside and River Suir.",
+  directions: "From Waterford, take N24 west to Clonmel. From Limerick, take M7 east to N24 east to Clonmel. The historic mineral springs are easily accessible year-round.",
+  accessibilityDetails: "Clonmel Mineral Springs is accessible year-round with historic mineral spring facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's mineral spring heritage.",
+  hotSpringDetails: "The historic mineral springs feature therapeutic waters with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spring development. The location offers opportunities to learn about Ireland's mineral spring culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic mineral springs operate year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to River Suir and Slievenamon attractions. The historic setting offers a unique glimpse into Ireland's mineral spring heritage and rural culture. The mineral waters provide exceptional therapeutic benefits.",
 },
 {
   id: "wexford-seaweed-baths",
@@ -19881,6 +19908,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Wexford, County Wexford, Ireland",
+  website: "wexfordseaweedbaths.com",
+  detailedDescription: "Wexford Seaweed Baths is a modern spa in Wexford offering heated seaweed baths and wellness treatments in County Wexford, Ireland. This contemporary destination offers visitors a sophisticated therapeutic experience with modern seaweed baths and coastal wellness services in the beautiful Wexford setting. The modern spa's therapeutic approach and coastal location create a special destination for those seeking Irish seaweed therapy in the Model County.",
+  location: "Located in Wexford, County Wexford, Ireland, approximately 80 miles south of Dublin on the southeast coast. The modern spa is situated at 10 feet elevation with stunning views of Wexford Harbour and the Irish Sea.",
+  directions: "From Dublin, take M11 south to N11 south to Wexford. From Waterford, take N25 east to Wexford. The modern spa is easily accessible year-round.",
+  accessibilityDetails: "Wexford Seaweed Baths is accessible year-round with modern spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and coastal wellness. The coastal setting provides a peaceful environment for visitors seeking modern Irish seaweed therapy.",
+  hotSpringDetails: "The modern spa features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Irish Sea seaweed and provide modern wellness treatments. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The spa offers modern Irish seaweed therapy to complement the wellness experience.",
+  tips: "Reservations essential for seaweed bath treatments. The modern spa emphasizes Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Wexford Harbour and Curracloe Beach attractions. The coastal setting offers a modern and therapeutic seaweed bath experience. The wellness treatments provide exceptional therapeutic benefits from Irish Sea seaweed.",
 },
 {
   id: "drogheda-mineral-springs",
