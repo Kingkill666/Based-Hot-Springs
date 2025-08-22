@@ -15042,6 +15042,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "281 Centennial St, Glenwood Springs, CO 81601",
+    website: "ironmountainhotsprings.com",
+    detailedDescription: "Iron Mountain Hot Springs is a modern hot springs resort featuring 16 naturally heated soaking pools, a family pool, and stunning river views in Glenwood Springs, Colorado. This contemporary destination offers visitors a luxurious hot springs experience with pools of varying temperatures, spa services, and beautiful Colorado River views. The resort combines therapeutic mineral soaking with modern amenities in the heart of the Colorado Rockies.",
+    location: "Located in Glenwood Springs, Colorado, approximately 160 miles west of Denver along the Colorado River. The resort is situated at 5,761 feet elevation in the beautiful Roaring Fork Valley.",
+    directions: "From Denver, take I-70 west to Glenwood Springs (exit 116). From Grand Junction, take I-70 east to Glenwood Springs. The resort is located on Centennial Street in downtown Glenwood Springs, easily accessible from the interstate.",
+    accessibilityDetails: "Iron Mountain Hot Springs is fully accessible year-round with paved parking and comprehensive resort facilities. The property offers accessible accommodations, pool access with lifts and ramps, accessible spa facilities, and ADA-compliant pathways throughout the resort.",
+    hotSpringDetails: "The resort features 16 naturally heated soaking pools with temperatures ranging from 98-108°F. The mineral water is rich in sodium and iron and flows from natural geothermal sources. Pool options include various soaking pools, a family pool, and pools with Colorado River views. The pools are designed with different temperatures to accommodate all preferences, from therapeutic soaking to family-friendly swimming.",
+    tips: "Reservations recommended for spa treatments and highly recommended during peak seasons. The resort offers day passes and various spa packages. Best visited year-round with each season offering different mountain experiences. Swimming suits required. The location provides excellent access to Glenwood Springs attractions and Colorado River activities. The 16 different pools offer unique experiences with varying temperatures and views. The resort is perfect for families with dedicated family pools and amenities.",
   },
   {
     id: "joyful-journey-hot-springs-co",
@@ -15070,6 +15079,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "28640 County Rd 58EE, Moffat, CO 81143",
+    website: "joyfuljourneyhotsprings.com",
+    detailedDescription: "Joyful Journey Hot Springs is a wellness retreat featuring natural hot springs pools, spa services, comfortable lodging, and spectacular mountain views in Moffat, Colorado. This peaceful destination combines therapeutic mineral soaking with holistic wellness experiences in the beautiful San Luis Valley. The retreat's serene atmosphere and comprehensive wellness offerings create a perfect environment for relaxation, healing, and spiritual renewal.",
+    location: "Located in Moffat, Colorado, approximately 220 miles south of Denver in the scenic San Luis Valley. The retreat is situated at 7,700 feet elevation with panoramic views of the Sangre de Cristo Mountains.",
+    directions: "From Denver, take US-285 south through the San Luis Valley to Moffat. From Colorado Springs, take US-160 west to US-285 south. The retreat is well-marked and accessible via paved roads year-round.",
+    accessibilityDetails: "Joyful Journey Hot Springs is accessible year-round with paved parking and comprehensive retreat facilities. The wellness center offers accessible accommodations, pool access features, and spa facilities designed for all guests. The high-altitude mountain setting provides a peaceful and accessible environment for wellness activities.",
+    hotSpringDetails: "The retreat features multiple natural hot springs pools with temperatures ranging from 98-108°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking pools, therapy pools, and meditation pools. The high-altitude setting provides stunning mountain views while soaking in the therapeutic mineral waters.",
+    tips: "Reservations essential for accommodations and spa treatments. The retreat offers comprehensive wellness packages including yoga, massage, and holistic healing. Best visited year-round with each season offering different high-altitude mountain experiences. Swimming suits required. The location provides excellent access to San Luis Valley attractions and outdoor activities. The wellness focus makes it perfect for visitors seeking holistic healing and spiritual experiences. The high-altitude setting offers exceptional stargazing opportunities.",
   },
   {
     id: "juniper-hot-springs-co",
@@ -15097,6 +15115,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Juniper Hot Springs, Lay, CO 81625",
+    website: "N/A",
+    detailedDescription: "Juniper Hot Springs is a historic, rustic hot springs destination featuring natural pools and camping near the small town of Lay, Colorado. This authentic hot springs experience offers visitors a peaceful retreat with therapeutic mineral soaking in a beautiful rural setting along the Yampa River. The rustic atmosphere and seasonal operation create a special destination for those seeking a traditional hot springs experience.",
+    location: "Located near Lay, Colorado, approximately 50 miles west of Craig in the scenic Yampa River valley. The hot springs are situated at 6,200 feet elevation in a rural setting surrounded by rolling hills and the Yampa River.",
+    directions: "From Craig, take US-40 west for approximately 30 miles, then take local roads toward Lay. From Steamboat Springs, take US-40 west. The hot springs are accessible via local roads and are well-marked in the Lay area.",
+    accessibilityDetails: "Juniper Hot Springs is accessible via local roads during the summer season. The rustic facility offers basic amenities and camping facilities. The natural pools may have limited accessibility features due to their historic and rustic nature. Visitors should be prepared for a more primitive hot springs experience.",
+    hotSpringDetails: "The hot springs feature historic, rustic pools with temperatures ranging from 98-108°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools maintain their historic character with natural stone and rustic construction. The rural setting provides a peaceful and authentic hot springs experience along the Yampa River.",
+    tips: "This is a clothing optional location. The facility operates seasonally during summer months. Reservations recommended for camping during peak season. The rustic setting offers a traditional hot springs experience. Best visited during summer when the facility is open and weather is favorable. The location provides excellent opportunities for fishing on the Yampa River and exploring rural Colorado. Bring all necessary supplies as amenities are limited.",
   },
   {
     id: "merrifield-hot-springs-co",
