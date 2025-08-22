@@ -7100,6 +7100,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Zion Canyon Hot Springs, Springdale, UT 84767",
+    website: "N/A",
+    detailedDescription: "Zion Canyon Hot Springs is a natural hot springs located near Springdale, Utah, featuring natural pools with temperatures of 100-104°F, national park proximity, and natural setting. This natural hot springs offers visitors a peaceful soaking experience with excellent opportunities for national park exploration and natural appreciation in the beautiful Zion National Park setting. The natural location and national park backdrop create an ideal hot springs destination.",
+    location: "Located near Springdale, Utah, near Zion National Park approximately 300 miles south of Salt Lake City. The hot springs are situated at 3,900 feet elevation in the national park region.",
+    directions: "From Salt Lake City, take local roads south to Springdale, then follow local roads to the hot springs. The natural location is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Zion Canyon Hot Springs is easily accessible with good road access and parking available. The natural location offers basic facilities but no services. The natural pools provide accessible soaking options in the national park setting.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The national park setting provides beautiful Zion Canyon views while soaking.",
+    tips: "This is a clothing optional location. The hot springs are free to access. The natural location provides excellent opportunities for national park exploration and natural appreciation. The location offers natural soaking opportunities. Best visited during spring and fall to avoid extreme temperatures. The location provides easy access to nearby attractions including Zion National Park. This is one of Utah's premier natural hot springs destinations with unparalleled national park setting.",
   },
   // TEXAS HOT SPRINGS (new additions)
   {
@@ -7207,6 +7216,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Boquillas Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Boquillas Hot Springs, Big Bend National Park, TX 79834",
+    website: "N/A",
+    detailedDescription: "Boquillas Hot Springs is a historic hot spring located near Boquillas del Carmen, Texas, featuring natural pools with temperatures of 105°F, historic setting, and hiking required access. This historic hot spring offers visitors a unique soaking experience with excellent opportunities for historic appreciation and natural exploration in the beautiful Big Bend National Park setting. The historic location and national park backdrop create an ideal hot springs destination.",
+    location: "Located near Boquillas del Carmen, Texas, in Big Bend National Park approximately 100 miles south of Marathon. The hot spring is situated at 1,850 feet elevation in the national park region.",
+    directions: "From the park's main entrance, follow the main park road to the Boquillas area. A moderate hike is required to reach the hot spring. The exact route requires detailed planning and hiking skills. National park entry fee required.",
+    accessibilityDetails: "Boquillas Hot Springs requires moderate hike access through national park terrain. The historic location has basic facilities but no services. Hiking skills and emergency preparedness are recommended. The natural pool provides accessible soaking options in the national park setting.",
+    hotSpringDetails: "The hot spring features a natural pool with temperatures of 105°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The national park setting provides beautiful Rio Grande views while soaking.",
+    tips: "This is a clothing optional location. The hot spring requires park entry fee for access. The historic location provides excellent opportunities for historic appreciation and national park exploration. The location offers natural soaking opportunities. Best visited during fall to spring to avoid extreme temperatures. The location provides easy access to nearby attractions including Rio Grande and Big Bend National Park. This is one of Texas's premier historic hot spring destinations with unparalleled national park setting.",
   },
   {
     id: "chinati-hot-springs-tx",
@@ -7272,6 +7290,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Kingston Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Kingston Hot Springs, Kingston, TX 79763",
+    website: "N/A",
+    detailedDescription: "Kingston Hot Springs is a natural undeveloped hot spring located in Kingston, Texas, featuring natural pools with temperatures of 100-104°F, primitive setting, and mountain views. This primitive hot spring offers visitors a wilderness soaking experience with excellent opportunities for mountain exploration and natural appreciation in the beautiful Davis Mountains setting. The primitive location and mountain backdrop create an ideal hot springs destination.",
+    location: "Located in Kingston, Texas, in the Davis Mountains region approximately 200 miles southeast of El Paso. The hot spring is situated at 4,200 feet elevation in the mountain region.",
+    directions: "From El Paso, take local roads southeast to Kingston, then follow local roads to the hot spring. The primitive location requires careful planning and wilderness navigation skills. The exact route requires detailed planning and backcountry skills.",
+    accessibilityDetails: "Kingston Hot Springs requires difficult access through primitive wilderness terrain, making it one of Texas's more challenging hot springs to reach. The primitive location has basic camping facilities but no services. Backcountry skills and emergency preparedness are essential. Only experienced wilderness travelers should attempt to visit.",
+    hotSpringDetails: "The hot spring features natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The mountain setting provides beautiful Davis Mountains views while soaking.",
+    tips: "This is a clothing optional location. The hot spring is free to access. The primitive location provides excellent opportunities for mountain exploration and natural appreciation. The location offers primitive camping opportunities. Best visited during spring and fall to avoid extreme temperatures. The location provides easy access to nearby attractions including Davis Mountains State Park. This is one of Texas's premier primitive hot spring destinations with unparalleled mountain setting.",
   },
   {
     id: "krause-hot-springs-tx",
@@ -7300,6 +7327,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Krause Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Krause Hot Springs, Spicewood, TX 78669",
+    website: "krausesprings.com",
+    detailedDescription: "Krause Hot Springs is a popular spring-fed swimming hole located in Spicewood, Texas, featuring natural pools with temperatures of 68-70°F, waterfalls, and lush surroundings. This popular swimming hole offers visitors a refreshing soaking experience with excellent opportunities for waterfall viewing and natural appreciation in the beautiful Texas Hill Country setting. The lush location and waterfall backdrop create an ideal hot springs destination.",
+    location: "Located in Spicewood, Texas, in the Texas Hill Country approximately 30 miles northwest of Austin. The swimming hole is situated at 800 feet elevation in the hill country region.",
+    directions: "From Austin, take local roads northwest to Spicewood, then follow local roads to the swimming hole. The popular facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Krause Hot Springs is easily accessible with good road access and parking available. The popular facility offers accessible accommodations and facilities with comprehensive swimming services. The natural pools provide accessible soaking options in the lush setting.",
+    hotSpringDetails: "The swimming hole features natural pools with temperatures ranging from 68-70°F, providing comfortable soaking temperatures. The mineral water is rich in calcium and magnesium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The lush setting provides beautiful waterfall views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The facility offers comprehensive swimming packages including natural soaking, camping, and accommodations. Swimming suits are required. The popular facility provides a refreshing experience in the beautiful Texas Hill Country setting. Best visited during spring and summer with each season offering different hill country experiences. The location provides easy access to nearby attractions including Lake Travis and Spicewood. This is one of Texas's premier popular swimming hole destinations with unparalleled waterfall and lush setting.",
   },
   {
     id: "langford-hot-springs-tx",
@@ -7328,6 +7364,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Langford Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Langford Hot Springs, Big Bend National Park, TX 79834",
+    website: "N/A",
+    detailedDescription: "Langford Hot Springs is a historic hot spring located in Big Bend National Park, Texas, featuring natural pools with temperatures of 105°F, historic setting, and river views. This historic hot spring offers visitors a unique soaking experience with excellent opportunities for historic appreciation and river viewing in the beautiful Big Bend National Park setting. The historic location and national park backdrop create an ideal hot springs destination.",
+    location: "Located in Big Bend National Park, Texas, along the Rio Grande approximately 100 miles south of Marathon. The hot spring is situated at 1,850 feet elevation in the national park region.",
+    directions: "From the park's main entrance, follow the main park road to the Hot Springs Historic District. The historic location is easily accessible by car with parking available for visitors. National park entry fee required.",
+    accessibilityDetails: "Langford Hot Springs is easily accessible with good road access and parking available. The historic location offers basic facilities but no services. The natural pool provides accessible soaking options in the national park setting.",
+    hotSpringDetails: "The hot spring features a natural pool with temperatures of 105°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The national park setting provides beautiful Rio Grande views while soaking.",
+    tips: "This is a clothing optional location. The hot spring requires park entry fee for access. The historic location provides excellent opportunities for historic appreciation and national park exploration. The location offers natural soaking opportunities. Best visited during fall to spring to avoid extreme temperatures. The location provides easy access to nearby attractions including Rio Grande and Big Bend National Park. This is one of Texas's premier historic hot spring destinations with unparalleled national park setting.",
   },
   {
     id: "ruidosa-hot-springs-tx",
@@ -7467,6 +7512,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Alvord Hot Springs, Fields, OR 97710",
+    website: "N/A",
+    detailedDescription: "Alvord Hot Springs is a remote hot springs located near Fields, Oregon, featuring rustic pools with temperatures of 100-112°F, desert views, and remote setting. This remote hot springs offers visitors a wilderness soaking experience with excellent opportunities for desert exploration and natural appreciation in the beautiful Alvord Desert setting. The remote location and desert backdrop create an ideal hot springs destination.",
+    location: "Located near Fields, Oregon, in the Alvord Desert approximately 200 miles southeast of Bend. The hot springs are situated at 4,030 feet elevation in the desert region.",
+    directions: "From Bend, take local roads southeast to Fields, then follow local roads to the hot springs. The remote location requires careful planning and wilderness navigation skills. The exact route requires detailed planning and backcountry skills.",
+    accessibilityDetails: "Alvord Hot Springs requires moderate access through remote desert terrain. The remote location has basic camping facilities but limited services. Backcountry skills and emergency preparedness are recommended. The rustic pools provide accessible soaking options in the desert setting.",
+    hotSpringDetails: "The hot springs feature rustic pools with temperatures ranging from 100-112°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and silica and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The desert setting provides beautiful Alvord Desert views while soaking.",
+    tips: "This is a clothing optional location. The hot springs require paid access. The remote location provides excellent opportunities for desert exploration and natural appreciation. The location offers camping opportunities. Best visited during spring and fall to avoid extreme temperatures. The location provides easy access to nearby attractions including Steens Mountain and Alvord Desert. This is one of Oregon's premier remote hot springs destinations with unparalleled desert setting.",
   },
   // NORTH CAROLINA HOT SPRINGS (new additions)
   {
@@ -7496,6 +7550,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "broadwing farm cabins.jpg",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Broadwing Farm Cabins, Hot Springs, NC 28743",
+    website: "broadwingfarm.com",
+    detailedDescription: "Broadwing Farm Cabins is a charming cabin rental facility located in Hot Springs, North Carolina, featuring private hot tubs filled with natural mineral water with temperatures of 100-104°F, mountain views, and cabin accommodations. This family-friendly facility offers visitors a comfortable soaking experience with excellent opportunities for mountain exploration and natural appreciation in the beautiful Appalachian Mountains setting. The cabin location and mountain backdrop create an ideal hot springs destination.",
+    location: "Located in Hot Springs, North Carolina, in the Appalachian Mountains approximately 30 miles northwest of Asheville. The cabins are situated at 1,340 feet elevation in the mountain region.",
+    directions: "From Asheville, take local roads northwest to Hot Springs, then follow local roads to the cabins. The family-friendly facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Broadwing Farm Cabins is easily accessible with good road access and parking available. The family-friendly facility offers accessible accommodations and facilities with comprehensive cabin services. The private hot tubs provide accessible soaking options in the mountain setting.",
+    hotSpringDetails: "The facility features private hot tubs with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in calcium and magnesium and flows from natural geothermal sources. Tub sizes vary and can accommodate 2-4 people. The mountain setting provides beautiful Appalachian Mountains views while soaking.",
+    tips: "Reservations are required for all cabin stays. The facility offers comprehensive cabin packages including private hot tubs, accommodations, and mountain access. Swimming suits are optional in private hot tubs. The family-friendly facility provides a comfortable experience in the beautiful Appalachian Mountains setting. Best visited year-round with each season offering different mountain experiences. The location provides easy access to nearby attractions including Appalachian Trail and Hot Springs. This is one of North Carolina's premier cabin rental destinations with unparalleled mountain setting.",
   },
   {
     id: "hot-springs-resort-and-spa-nc",
@@ -7524,6 +7587,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "hot springs resort and spa NC.jpg",
     rating: 4.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Hot Springs Resort and Spa, Hot Springs, NC 28743",
+    website: "hotspringsresortandspa.com",
+    detailedDescription: "Hot Springs Resort and Spa is a premier resort and spa facility located in Hot Springs, North Carolina, featuring mineral hot tubs with temperatures of 102-104°F, spa services, and resort accommodations along the French Broad River. This luxury facility offers visitors a premium soaking experience with excellent opportunities for spa treatments and river viewing in the beautiful Appalachian Mountains setting. The resort location and river backdrop create an ideal hot springs destination.",
+    location: "Located in Hot Springs, North Carolina, along the French Broad River in the Appalachian Mountains approximately 30 miles northwest of Asheville. The resort is situated at 1,340 feet elevation in the mountain region.",
+    directions: "From Asheville, take local roads northwest to Hot Springs, then follow local roads to the resort. The luxury facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Hot Springs Resort and Spa is easily accessible with good road access and parking available. The luxury facility offers accessible accommodations and facilities with comprehensive resort and spa services. The mineral hot tubs provide accessible soaking options in the river setting.",
+    hotSpringDetails: "The resort features mineral hot tubs with temperatures ranging from 102-104°F, providing comfortable soaking temperatures. The mineral water is rich in calcium and magnesium and flows from natural geothermal sources. Tub sizes vary and can accommodate 2-6 people. The river setting provides beautiful French Broad River views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive spa packages including mineral hot tubs, spa treatments, accommodations, and river access. Swimming suits are required in public areas. The luxury facility provides a premium experience in the beautiful Appalachian Mountains setting. Best visited year-round with each season offering different mountain and river experiences. The location provides easy access to nearby attractions including Appalachian Trail and French Broad River. This is one of North Carolina's premier resort and spa destinations with unparalleled river setting.",
   },
   // NEW YORK HOT SPRINGS (new additions)
   {
@@ -7552,6 +7624,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Medbery Inn and Spa.jpg",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Medbery Inn and Spa, Ballston Spa, NY 12020",
+    website: "medberyinn.com",
+    detailedDescription: "Medbery Inn and Spa is a historic inn and spa facility located in Ballston Spa, New York, featuring mineral baths with temperatures of 90-104°F, spa services, and inn accommodations. This historic facility offers visitors a traditional soaking experience with excellent opportunities for spa treatments and historic appreciation in the beautiful Saratoga region setting. The historic location and spa backdrop create an ideal hot springs destination.",
+    location: "Located in Ballston Spa, New York, in the Saratoga region approximately 20 miles north of Albany. The inn is situated at 305 feet elevation in the historic region.",
+    directions: "From Albany, take local roads north to Ballston Spa, then follow local roads to the inn. The historic facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Medbery Inn and Spa is easily accessible with good road access and parking available. The historic facility offers accessible accommodations and facilities with comprehensive inn and spa services. The mineral baths provide accessible soaking options in the historic setting.",
+    hotSpringDetails: "The inn features mineral baths with temperatures ranging from 90-104°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Bath sizes vary and can accommodate 1-2 people. The historic setting provides beautiful Saratoga region views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The inn offers comprehensive spa packages including mineral baths, spa treatments, accommodations, and historic access. Swimming suits are required in public areas. The historic facility provides a traditional experience in the beautiful Saratoga region setting. Best visited year-round with each season offering different historic experiences. The location provides easy access to nearby attractions including Saratoga Springs and Ballston Spa. This is one of New York's premier historic inn and spa destinations with unparalleled historic setting.",
   },
   {
     id: "peerless-mineral-water-pool-ny",
@@ -7579,6 +7660,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Peerless Mineral Water Pool.jpg",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Peerless Mineral Water Pool, Saratoga Spa State Park, Saratoga Springs, NY 12866",
+    website: "parks.ny.gov/parks/saratogaspa",
+    detailedDescription: "Peerless Mineral Water Pool is a large public mineral water pool located in Saratoga Spa State Park, Saratoga Springs, New York, featuring natural mineral water with temperatures of 70-85°F, family-friendly setting, and public access. This family-friendly facility offers visitors a refreshing soaking experience with excellent opportunities for family recreation and natural appreciation in the beautiful Saratoga Spa State Park setting. The public location and park backdrop create an ideal hot springs destination.",
+    location: "Located in Saratoga Spa State Park, Saratoga Springs, New York, approximately 20 miles north of Albany. The pool is situated at 305 feet elevation in the state park region.",
+    directions: "From Albany, take local roads north to Saratoga Springs, then follow signs to Saratoga Spa State Park. The family-friendly facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Peerless Mineral Water Pool is easily accessible with good road access and parking available. The family-friendly facility offers accessible accommodations and facilities with comprehensive public services. The mineral water pool provides accessible soaking options in the park setting.",
+    hotSpringDetails: "The pool features natural mineral water with temperatures ranging from 70-85°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Pool sizes are large and can accommodate many people. The park setting provides beautiful Saratoga Spa State Park views while soaking.",
+    tips: "The pool is open seasonally during summer months. The facility offers comprehensive public packages including mineral water swimming, family recreation, and park access. Swimming suits are required. The family-friendly facility provides a refreshing experience in the beautiful Saratoga Spa State Park setting. Best visited during summer with the seasonal operation providing optimal weather conditions. The location provides easy access to nearby attractions including Saratoga Spa State Park. This is one of New York's premier public mineral water pool destinations with unparalleled park setting.",
   },
   {
     id: "roosevelt-baths-ny",
@@ -7606,6 +7696,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Roosevelt Baths.jpg",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Roosevelt Baths, Saratoga Spa State Park, Saratoga Springs, NY 12866",
+    website: "rooseveltbaths.com",
+    detailedDescription: "Roosevelt Baths is a historic mineral baths and spa facility located in Saratoga Spa State Park, Saratoga Springs, New York, featuring mineral baths with temperatures of 85-98°F, spa services, and historic setting. This historic facility offers visitors a traditional soaking experience with excellent opportunities for spa treatments and historic appreciation in the beautiful Saratoga Spa State Park setting. The historic location and spa backdrop create an ideal hot springs destination.",
+    location: "Located in Saratoga Spa State Park, Saratoga Springs, New York, approximately 20 miles north of Albany. The baths are situated at 305 feet elevation in the state park region.",
+    directions: "From Albany, take local roads north to Saratoga Springs, then follow signs to Saratoga Spa State Park. The historic facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Roosevelt Baths is easily accessible with good road access and parking available. The historic facility offers accessible accommodations and facilities with comprehensive spa services. The mineral baths provide accessible soaking options in the historic setting.",
+    hotSpringDetails: "The baths feature mineral baths with temperatures ranging from 85-98°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Bath sizes vary and can accommodate 1-2 people. The historic setting provides beautiful Saratoga Spa State Park views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The facility offers comprehensive spa packages including mineral baths, spa treatments, and historic access. Swimming suits are required in public areas. The historic facility provides a traditional experience in the beautiful Saratoga Spa State Park setting. Best visited year-round with each season offering different historic experiences. The location provides easy access to nearby attractions including Saratoga Spa State Park. This is one of New York's premier historic mineral baths destinations with unparalleled historic setting.",
   },
   {
     id: "saratoga-turf-and-spa-motel-ny",
@@ -7633,6 +7732,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Saratoga Turf and Spa Motel.jpg",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Saratoga Turf and Spa Motel, Saratoga Springs, NY 12866",
+    website: "saratogaturfandspa.com",
+    detailedDescription: "Saratoga Turf and Spa Motel is a family-friendly motel facility located in Saratoga Springs, New York, featuring mineral water pool with temperatures of 85-98°F, motel accommodations, and family-friendly setting. This family-friendly facility offers visitors a comfortable soaking experience with excellent opportunities for family recreation and natural appreciation in the beautiful Saratoga region setting. The motel location and family backdrop create an ideal hot springs destination.",
+    location: "Located in Saratoga Springs, New York, approximately 20 miles north of Albany. The motel is situated at 305 feet elevation in the Saratoga region.",
+    directions: "From Albany, take local roads north to Saratoga Springs, then follow local roads to the motel. The family-friendly facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Saratoga Turf and Spa Motel is easily accessible with good road access and parking available. The family-friendly facility offers accessible accommodations and facilities with comprehensive motel services. The mineral water pool provides accessible soaking options in the family setting.",
+    hotSpringDetails: "The motel features a mineral water pool with temperatures ranging from 85-98°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Pool sizes are moderate and can accommodate several people. The family setting provides beautiful Saratoga region views while soaking.",
+    tips: "Reservations are recommended, especially during peak tourist season. The motel offers comprehensive family packages including mineral water pool, accommodations, and family access. Swimming suits are required. The family-friendly facility provides a comfortable experience in the beautiful Saratoga region setting. Best visited during summer with the seasonal operation providing optimal weather conditions. The location provides easy access to nearby attractions including Saratoga Spa State Park. This is one of New York's premier family-friendly motel destinations with unparalleled family setting.",
   },
   {
     id: "saratoga-spa-state-park-ny",
@@ -7661,6 +7769,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Saratoga Spa State Park.jpeg",
     rating: 4.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Saratoga Spa State Park, Saratoga Springs, NY 12866",
+    website: "parks.ny.gov/parks/saratogaspa",
+    detailedDescription: "Saratoga Spa State Park is a premier state park facility located in Saratoga Springs, New York, featuring multiple mineral springs with temperatures of 70-85°F, historic bathhouses, and park setting. This premier facility offers visitors a comprehensive soaking experience with excellent opportunities for historic appreciation and natural exploration in the beautiful Saratoga region setting. The park location and historic backdrop create an ideal hot springs destination.",
+    location: "Located in Saratoga Springs, New York, approximately 20 miles north of Albany. The park is situated at 305 feet elevation in the Saratoga region.",
+    directions: "From Albany, take local roads north to Saratoga Springs, then follow signs to Saratoga Spa State Park. The premier facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Saratoga Spa State Park is easily accessible with good road access and parking available. The premier facility offers accessible accommodations and facilities with comprehensive park services. The multiple mineral springs provide accessible soaking options in the historic setting.",
+    hotSpringDetails: "The park features multiple mineral springs with temperatures ranging from 70-85°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Spring sizes vary and can accommodate many people. The historic setting provides beautiful Saratoga region views while soaking.",
+    tips: "The park is open seasonally during summer months. The facility offers comprehensive park packages including multiple mineral springs, historic bathhouses, and park access. Swimming suits are required. The premier facility provides a comprehensive experience in the beautiful Saratoga region setting. Best visited during summer with the seasonal operation providing optimal weather conditions. The location provides easy access to nearby attractions including Saratoga Springs. This is one of New York's premier state park destinations with unparalleled historic setting.",
   },
   {
     id: "victoria-mineral-water-pool-ny",
@@ -7688,6 +7805,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "Victoria Mineral Water Pool.jpeg",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Victoria Mineral Water Pool, Saratoga Springs, NY 12866",
+    website: "N/A",
+    detailedDescription: "Victoria Mineral Water Pool is a historic mineral water pool located in Saratoga Springs, New York, featuring natural mineral water with temperatures of 70-85°F, historic setting, and family-friendly access. This historic facility offers visitors a traditional soaking experience with excellent opportunities for historic appreciation and family recreation in the beautiful Saratoga region setting. The historic location and family backdrop create an ideal hot springs destination.",
+    location: "Located in Saratoga Springs, New York, approximately 20 miles north of Albany. The pool is situated at 305 feet elevation in the historic region.",
+    directions: "From Albany, take local roads north to Saratoga Springs, then follow local roads to the pool. The historic facility is easily accessible by car with parking available for visitors.",
+    accessibilityDetails: "Victoria Mineral Water Pool is easily accessible with good road access and parking available. The historic facility offers accessible accommodations and facilities with comprehensive family services. The mineral water pool provides accessible soaking options in the historic setting.",
+    hotSpringDetails: "The pool features natural mineral water with temperatures ranging from 70-85°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Pool sizes are moderate and can accommodate several people. The historic setting provides beautiful Saratoga region views while soaking.",
+    tips: "The pool is open seasonally during summer months. The facility offers comprehensive family packages including mineral water pool, family recreation, and historic access. Swimming suits are required. The historic facility provides a traditional experience in the beautiful Saratoga region setting. Best visited during summer with the seasonal operation providing optimal weather conditions. The location provides easy access to nearby attractions including Saratoga Spa State Park. This is one of New York's premier historic mineral water pool destinations with unparalleled historic setting.",
   },
   // NEW MEXICO HOT SPRINGS (new additions)
   {
