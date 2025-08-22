@@ -18594,6 +18594,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "31652 CA-79, Warner Springs, CA 92086",
+    website: "warnerspringsranch.com",
+    detailedDescription: "Warner Springs Ranch is a historic ranch resort featuring a hot springs pool, golf, and lodging in Warner Springs, California. This iconic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking combined with historic ranch activities in the beautiful Cleveland National Forest. The historic ranch's authentic atmosphere and comprehensive amenities create a special and memorable hot springs retreat.",
+    location: "Located in Warner Springs, California, approximately 80 miles northeast of San Diego in the Cleveland National Forest. The historic ranch is situated at 3,140 feet elevation with stunning views of the surrounding mountains and forest landscape.",
+    directions: "From San Diego, take I-15 north to CA-79 north to Warner Springs. From Los Angeles, take I-15 south to CA-79 north to Warner Springs. The historic ranch is easily accessible via paved roads year-round.",
+    accessibilityDetails: "Warner Springs Ranch is accessible year-round with comprehensive historic ranch facilities. The property offers accessible accommodations, pool areas, golf facilities, and dining options designed for guest comfort. The historic setting provides a peaceful environment for visitors seeking an authentic ranch hot springs experience.",
+    hotSpringDetails: "The historic ranch features a hot springs pool with temperatures ranging from 100-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The historic ranch setting provides an authentic environment for enjoying the therapeutic mineral waters. The ranch offers golf, dining, and lodging to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and golf tee times. The historic ranch emphasizes authentic ranch experiences and outdoor activities. Best visited year-round with seasonal mountain temperatures. Swimming suits required. The location provides excellent access to Warner Springs attractions and Cleveland National Forest recreation. The historic ranch setting offers an authentic and memorable hot springs experience. The golf and dining provide exceptional ranch amenities.",
   },
   {
     id: "whitmore-pool-hot-springs-ca",
@@ -18622,6 +18631,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Whitmore Pool Hot Springs, Mammoth Lakes, CA 93546",
+    website: "N/A",
+    detailedDescription: "Whitmore Pool Hot Springs is a public swimming pool fed by hot springs water near Mammoth Lakes, California. This accessible destination offers visitors a community-focused hot springs experience with therapeutic mineral soaking combined with public swimming facilities in the beautiful Sierra Nevada mountains. The public pool's community atmosphere and accessible amenities create a special and inclusive hot springs experience.",
+    location: "Located near Mammoth Lakes, California, approximately 300 miles east of San Francisco in the Sierra Nevada mountains. The public pool is situated at 7,120 feet elevation with stunning views of the surrounding mountains and alpine landscape.",
+    directions: "From San Francisco, take I-80 east to US-395 north to Mammoth Lakes. From Los Angeles, take US-395 north to Mammoth Lakes. The public pool is easily accessible via paved roads during summer months.",
+    accessibilityDetails: "Whitmore Pool Hot Springs operates seasonally during summer months with public pool facilities. The property offers accessible pool areas and basic amenities designed for guest comfort and community access. The public setting provides a welcoming environment for visitors seeking an accessible hot springs experience.",
+    hotSpringDetails: "The public pool features hot springs-fed water with temperatures ranging from 100-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The public setting provides a community environment for enjoying the therapeutic mineral waters. The public pool offers swimming opportunities during summer months.",
+    tips: "The public pool operates seasonally during summer months. The community-focused facility emphasizes accessibility and public swimming. Best visited during summer when weather is favorable. Swimming suits required. The location provides excellent access to Mammoth Lakes attractions and Sierra Nevada recreation. The public setting offers an accessible and inclusive hot springs experience. The swimming facilities provide additional community recreation opportunities.",
   },
   {
     id: "willett-hot-springs-ca",
@@ -18650,6 +18668,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Willett Hot Springs, Ojai, CA 93023",
+    website: "N/A",
+    detailedDescription: "Willett Hot Springs features a remote, primitive hot springs pool in the Los Padres National Forest near Ojai, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a beautiful forest setting. The remote nature and primitive location create a special destination for those seeking an authentic, natural hot springs experience in the Los Padres wilderness.",
+    location: "Located near Ojai, California, approximately 80 miles northwest of Los Angeles in the Los Padres National Forest. The hot springs are situated at 800 feet elevation with stunning views of the surrounding forest and mountain landscape.",
+    directions: "From Los Angeles, take US-101 north to CA-33 north to Ojai. From Santa Barbara, take CA-150 east to Ojai. The hot springs require a long, difficult hike to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Willett Hot Springs requires a long, difficult hike to access. The forest terrain may be challenging for many visitors. The springs are not wheelchair accessible due to the remote location and natural forest terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature a remote, primitive pool with temperatures ranging from 100-105°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pool is formed by natural rock formations in the scenic forest setting. The remote location provides a peaceful and authentic hot springs experience in Los Padres wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during spring and fall months. The remote forest setting requires self-sufficiency and excellent hiking ability. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during spring and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring the Los Padres National Forest and Ojai area. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "wonder-valley-hot-springs-ca",
@@ -18678,6 +18705,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Wonder Valley Hot Springs, Twentynine Palms, CA 92277",
+    website: "wondervalleyhotsprings.com",
+    detailedDescription: "Wonder Valley Hot Springs is a boutique retreat featuring private hot springs pools and desert views near Twentynine Palms, California. This intimate destination offers visitors a personalized hot springs experience with therapeutic mineral soaking combined with desert scenery in the beautiful California desert. The boutique retreat's private setting and desert views create a special and romantic hot springs retreat.",
+    location: "Located near Twentynine Palms, California, approximately 150 miles east of Los Angeles in the California desert. The boutique retreat is situated at 1,800 feet elevation with stunning views of the surrounding desert landscape and nearby Joshua Tree National Park.",
+    directions: "From Los Angeles, take I-10 east to Twentynine Palms. From Palm Springs, take CA-62 east to Twentynine Palms. The intimate boutique retreat is easily accessible via paved roads year-round.",
+    accessibilityDetails: "Wonder Valley Hot Springs is accessible year-round with boutique retreat facilities. The property offers accessible accommodations, private pool areas, and basic amenities designed for guest comfort and privacy. The desert setting provides a peaceful environment for visitors seeking a personalized hot springs experience.",
+    hotSpringDetails: "The boutique retreat features private hot springs pools with temperatures ranging from 100-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The private setting provides an intimate environment for enjoying the therapeutic mineral waters. The boutique retreat's desert views and Joshua Tree setting complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and private pool sessions. The intimate boutique retreat emphasizes privacy and desert experiences. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Twentynine Palms attractions and Joshua Tree National Park. The private setting offers a romantic and intimate hot springs experience. The desert views provide exceptional Joshua Tree ambiance.",
   },
   {
     id: "woodys-hot-spring-ca",
