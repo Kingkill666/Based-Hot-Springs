@@ -20983,6 +20983,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Yamanouchi, Nagano Prefecture 381-0401, Japan",
+  website: "yudanaka-onsen.com",
+  detailedDescription: "Yudanaka Onsen is a historic hot spring town near the snow monkeys of Jigokudani, with many traditional inns in Nagano Prefecture, Japan. This historic destination offers visitors a traditional onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Nagano setting. The historic town's traditional approach and snow monkey location create a special destination for those seeking a historic Japanese onsen experience near the famous snow monkeys.",
+  location: "Located in Yamanouchi, Nagano Prefecture, Japan, in the mountains of central Honshu approximately 150 miles northwest of Tokyo. The historic hot spring town is situated at 2,100 feet elevation with stunning views of the surrounding mountains and access to the snow monkeys.",
+  directions: "From Tokyo, take the JR Hokuriku Shinkansen to Nagano Station, then take local trains to Yudanaka Station. From Nagano, take the JR Iiyama Line to Yudanaka. The historic town is easily accessible by public transportation.",
+  accessibilityDetails: "Yudanaka Onsen is accessible year-round with traditional inn facilities and accommodations for visitors with varying mobility needs. The town offers accessible traditional accommodations and scenic viewpoints. The mountainous location provides a peaceful environment perfect for historic Japanese onsen therapy.",
+  hotSpringDetails: "The historic town features traditional hot spring baths with temperatures ranging from 104-140°F. The mineral water is alkaline and flows from natural geothermal sources. The town offers many traditional inns with authentic Japanese architecture and access to the snow monkeys. The water flows continuously from the spring source and provides therapeutic benefits.",
+  tips: "Reservations recommended for traditional inn stays, especially during winter when the snow monkeys are most active. The town is best visited in winter for the beautiful snowy scenery and snow monkey viewing. The location provides excellent access to Jigokudani Monkey Park and mountain hiking. Swimming suits not required in traditional onsen. The snow monkey atmosphere creates a unique and historic Japanese onsen experience.",
 },
 {
   id: "kawayu-onsen",
@@ -21061,6 +21070,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Yonezawa, Yamagata Prefecture 992-1471, Japan",
+  website: "shirabu-onsen.com",
+  detailedDescription: "Shirabu Onsen is a secluded mountain hot spring with rustic inns and snowy landscapes in Yamagata Prefecture, Japan. This secluded destination offers visitors a peaceful mountain onsen experience with therapeutic sulfur waters and authentic Japanese hospitality in the beautiful Yamagata setting. The secluded area's rustic approach and mountain location create a special destination for those seeking a secluded Japanese onsen experience with snowy landscapes.",
+  location: "Located in Yonezawa, Yamagata Prefecture, Japan, in the mountains of northern Honshu approximately 200 miles north of Tokyo. The secluded mountain hot spring is situated at 2,500 feet elevation with stunning views of Mount Azuma and snowy landscapes.",
+  directions: "From Tokyo, take the JR Yamagata Shinkansen to Yonezawa Station, then take a bus to Shirabu Onsen. From Sendai, take the JR Yamagata Shinkansen to Yonezawa, then transfer to the onsen. The secluded mountain onsen is accessible by public transportation.",
+  accessibilityDetails: "Shirabu Onsen is accessible year-round with rustic inn facilities and accommodations for visitors with varying mobility needs. The area offers accessible mountain accommodations and scenic viewpoints. The mountainous location provides a peaceful environment perfect for secluded Japanese onsen therapy.",
+  hotSpringDetails: "The secluded onsen features mountain hot spring baths with temperatures ranging from 104-140°F. The mineral water is rich in sulfur and flows from natural geothermal sources. The area offers rustic inns with traditional architecture and snowy landscapes. The water flows continuously from the spring source and provides therapeutic benefits.",
+  tips: "Reservations recommended for rustic inn stays, especially during winter when the snowy landscapes are most beautiful. The area is best visited in winter for the beautiful snowy scenery and mountain tranquility. The location provides excellent access to Mount Azuma and mountain hiking. Swimming suits not required in traditional onsen. The snowy atmosphere creates a magical secluded mountain experience.",
 },
 {
   id: "sukayu-onsen",
