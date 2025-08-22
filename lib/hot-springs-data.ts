@@ -21380,6 +21380,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "220 Park Street, Thermopolis, WY 82443",
+  website: "wyoparks.wyo.gov",
+  detailedDescription: "Hot Springs State Park is home to the world's largest mineral hot spring, featuring multiple pools, a beautiful state park setting, and the famous Rainbow Terraces. The springs flow at an incredible 18,600 gallons per minute and have been used for therapeutic purposes for centuries. The park offers visitors a unique opportunity to experience the world's largest hot spring in a beautiful natural setting with modern amenities and historic significance.",
+  location: "Located in Thermopolis, Wyoming, approximately 130 miles southeast of Cody in the Big Horn Basin. The state park is situated in a beautiful valley surrounded by the Big Horn Mountains and Wind River Canyon.",
+  directions: "From Cody, take US-14A south to US-20, then follow US-20 east to Thermopolis. From Casper, take US-26 west to US-20, then follow US-20 west to Thermopolis. The state park is easily accessible and well-marked.",
+  accessibilityDetails: "Hot Springs State Park is fully accessible year-round with paved parking, accessible facilities, and accommodations. The park facilities and modern spa amenities are designed to accommodate visitors of all mobility levels. The park offers a welcoming environment for visitors seeking therapeutic experiences.",
+  hotSpringDetails: "The world's largest hot spring features multiple pools with temperatures ranging from 104-135°F. The mineral water is rich in calcium, magnesium, sulfate, sodium, and chloride and flows at 18,600 gallons per minute from natural geothermal sources. The park includes the famous Rainbow Terraces, formed by mineral deposits, and offers both public soaking areas and private spa facilities. The water flows continuously from the spring source.",
+  tips: "Open year-round with no admission fee to the state park. Swimming suits required in public areas. The park offers lodging, camping, dining, and spa services. Best visited year-round, with each season offering different experiences. The historic significance and therapeutic properties make this a unique destination. The area provides opportunities to experience the world's largest hot spring and enjoy modern spa treatments. The Rainbow Terraces are a must-see natural wonder.",
 },
 {
   id: "saratoga-hot-springs-wy",
@@ -21435,6 +21444,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Kirkham Hot Springs, Lowman, ID 83637",
+  website: "N/A",
+  detailedDescription: "Kirkham Hot Springs is a popular natural hot spring destination along the scenic Payette River, featuring multiple pools with varying temperatures. The springs are easily accessible and offer stunning river views in the heart of Idaho's beautiful wilderness. The natural rock pools are fed by geothermal springs and provide visitors with a perfect opportunity to soak in therapeutic mineral water while surrounded by the beauty of the Payette River and Boise National Forest.",
+  location: "Located near Lowman, Idaho, approximately 60 miles northeast of Boise in the Boise National Forest. The hot springs are situated along the Payette River at 4,200 feet elevation.",
+  directions: "From Boise, take ID-21 north to Lowman, then follow signs to Kirkham Hot Springs. The springs are located along the Payette River and are easily accessible by car. Parking is available near the springs.",
+  accessibilityDetails: "Kirkham Hot Springs is accessible year-round with parking available near the springs. The natural pools may require some walking on uneven terrain. The remote location requires visitors to be prepared for wilderness conditions. The area offers camping options for overnight stays.",
+  hotSpringDetails: "The hot springs feature multiple natural rock pools with temperatures ranging from 90-120°F. The mineral water is rich in sodium, chloride, and sulfate and flows from natural geothermal sources. The pools are situated along the Payette River and offer stunning river views. The water flows continuously from the spring source and the pools can accommodate multiple visitors.",
+  tips: "Open year-round with no admission fee. Clothing optional. The springs are popular, especially during peak seasons. The area offers camping options for overnight stays. Best visited year-round, with each season offering different experiences. The area provides excellent opportunities for wildlife viewing, photography, and experiencing the solitude of Idaho's wilderness. The Payette River offers additional recreational opportunities including fishing and rafting.",
 },
 {
   id: "heise-hot-springs-id",
