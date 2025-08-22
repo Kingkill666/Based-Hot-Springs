@@ -5765,6 +5765,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Crowley Hot Springs, Mammoth Lakes, CA 93546",
+    website: "N/A",
+    detailedDescription: "Crowley Hot Springs is a natural hot springs destination located near Crowley Lake in the Eastern Sierra region of California, featuring therapeutic mineral pools with stunning mountain views and excellent fishing access. Situated at 6,900 feet elevation, these high-altitude hot springs offer visitors a unique alpine soaking experience surrounded by the majestic Eastern Sierra peaks. The combination of natural hot springs and world-class fishing makes this a perfect destination for outdoor enthusiasts.",
+    location: "Located near Crowley Lake, California, approximately 20 miles south of Mammoth Lakes in the Eastern Sierra region. The hot springs are situated at 6,900 feet elevation with spectacular views of the Eastern Sierra mountain range.",
+    directions: "From Mammoth Lakes, take US-395 south for approximately 20 miles to Crowley Lake. From Bishop, take US-395 north. The hot springs are accessible via well-marked dirt roads from the Crowley Lake area. High-clearance vehicles recommended for some access roads.",
+    accessibilityDetails: "Crowley Hot Springs is easily accessible year-round with good road access and parking available. The hot springs are located in a remote area with basic camping facilities. The natural pools are easily accessible with minimal walking required. The high-altitude location may affect some visitors.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures in a high-altitude setting. The mineral water is rich in sulfur, calcium, magnesium, and boron and flows from natural geothermal sources. The pools vary in size and are formed by natural rock formations. The high-altitude setting provides crisp mountain air and spectacular Eastern Sierra views while soaking.",
+    tips: "This is a clothing optional location. Best visited year-round with each season offering different mountain experiences. Bring plenty of water and supplies as there are limited services in the remote location. The location provides excellent access to Crowley Lake fishing and Eastern Sierra hiking. The high-altitude setting requires acclimation for some visitors. The area offers excellent opportunities for wildlife viewing and experiencing the Eastern Sierra wilderness. Practice Leave No Trace principles to preserve this pristine alpine environment.",
   },
   {
     id: "delights-hot-springs",
@@ -5799,6 +5808,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Delights Hot Springs, Tecopa, CA 92389",
+    website: "N/A",
+    detailedDescription: "Delights Hot Springs is a desert hot springs destination located near Death Valley in Tecopa, California, featuring natural mineral pools and exceptional stargazing opportunities in a remote desert setting. Situated at 1,400 feet elevation in the Mojave Desert, these hot springs offer visitors a peaceful desert retreat with therapeutic mineral soaking and some of the darkest skies in California for stargazing. The remote location and proximity to Death Valley create a unique desert hot springs experience.",
+    location: "Located in Tecopa, California, approximately 15 miles southeast of Death Valley National Park in the remote Mojave Desert. The hot springs are situated at 1,400 feet elevation surrounded by stark desert landscapes and distant mountain ranges.",
+    directions: "From Death Valley, take CA-127 south to Tecopa Hot Springs Road. From Las Vegas, take I-15 south to CA-127 north. The hot springs are accessible via well-marked roads in the Tecopa area. The remote location requires careful navigation.",
+    accessibilityDetails: "Delights Hot Springs is easily accessible year-round with good road access and parking available. The hot springs offer accommodations and camping facilities. The natural pools are easily accessible with minimal walking required. The desert location provides a peaceful and remote environment perfect for relaxation.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures in a desert setting. The mineral water is rich in sulfur, calcium, magnesium, and boron and flows from natural geothermal sources. The pools vary in size and are formed by natural rock formations. The desert setting provides warm, dry air and spectacular stargazing opportunities while soaking.",
+    tips: "Best visited October through April when desert temperatures are most comfortable. Reservations recommended for accommodations and camping. The location provides excellent access to Death Valley National Park and China Ranch. The desert setting offers some of California's best stargazing opportunities. Bring plenty of water and sun protection for desert activities. The remote location provides excellent opportunities for experiencing the solitude of the Mojave Desert. Swimming suits required. The area offers unique desert wildlife viewing and photography opportunities.",
   },
   {
     id: "delonegha-hot-springs",
@@ -5837,6 +5855,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Delonegha Hot Springs, Kernville, CA 93238",
+    website: "N/A",
+    detailedDescription: "Delonegha Hot Springs is a remote wilderness hot springs destination located in Sequoia National Forest near Kernville, California, featuring natural rock pools in a pristine forest setting. Situated at 3,200 feet elevation, these secluded hot springs offer visitors a true backcountry experience requiring strenuous hiking access. The combination of natural rock pools and pristine forest environment creates one of California's most authentic wilderness hot springs experiences.",
+    location: "Located near Kernville, California, in the remote Sequoia National Forest approximately 30 miles northeast of Bakersfield. The hot springs are situated at 3,200 feet elevation in a beautiful forest setting surrounded by the Kern River and Lake Isabella area.",
+    directions: "From Kernville, take local roads to reach the trailhead for Delonegha Hot Springs. The hot springs require strenuous hiking access through Sequoia National Forest. The exact route requires careful navigation and may require local knowledge or GPS coordinates.",
+    accessibilityDetails: "Delonegha Hot Springs requires strenuous hiking access through Sequoia National Forest. The remote wilderness location has no facilities or services. The natural rock pools are accessible only after challenging hiking. This is a true wilderness experience requiring excellent physical condition and proper preparation.",
+    hotSpringDetails: "The hot springs feature natural rock pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures in a pristine forest setting. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources. The pools are formed by natural rock formations and vary in size. The forest setting provides beautiful natural surroundings and complete wilderness immersion.",
+    tips: "This is a clothing optional location. Best visited May through October when weather conditions allow safe hiking access. The strenuous hike requires excellent physical condition and proper hiking equipment. Bring plenty of water and supplies as there are no services in the wilderness location. Be prepared for primitive conditions - no restrooms or facilities available. The remote location offers excellent opportunities for experiencing the solitude of Sequoia National Forest. Practice Leave No Trace principles to preserve this pristine wilderness environment. The challenging access ensures a truly secluded and authentic hot springs experience.",
   },
   {
     id: "desert-hot-springs-inn",
@@ -5875,6 +5902,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Desert Hot Springs Inn, Desert Hot Springs, CA 92240",
+    website: "N/A",
+    detailedDescription: "Desert Hot Springs Inn is a classic desert inn featuring natural mineral hot springs and authentic retro charm from the 1950s era. Located in Desert Hot Springs, California, this historic inn offers guests a nostalgic desert retreat experience with therapeutic mineral soaking and vintage mid-century modern aesthetics. The inn's retro charm and natural mineral waters create a unique blend of historic desert hospitality and therapeutic relaxation.",
+    location: "Located in Desert Hot Springs, California, approximately 8 miles north of Palm Springs in the scenic Coachella Valley. The inn is situated at 1,200 feet elevation with panoramic views of the surrounding desert mountains and valley.",
+    directions: "From Palm Springs, take Indian Canyon Drive north to Desert Hot Springs. From Los Angeles, take I-10 east to exit 123 for Desert Hot Springs. The inn is easily accessible from major highways and well-marked within the city.",
+    accessibilityDetails: "Desert Hot Springs Inn is easily accessible year-round with paved parking and facilities designed to accommodate guests with varying mobility needs. The historic inn offers accessible accommodations and hot springs areas. The retro desert setting provides a peaceful and welcoming environment perfect for relaxation.",
+    hotSpringDetails: "The inn features natural mineral hot springs with temperatures ranging from 98-108°F. The geothermal water is rich in sulfur, calcium, magnesium, and potassium minerals known for their therapeutic properties. The inn offers various soaking options including private pools and spa treatments. The mineral-rich water flows from natural underground sources unique to the Desert Hot Springs area.",
+    tips: "Reservations recommended for accommodations and spa treatments, especially during peak season (October-May). The inn offers authentic 1950s retro charm and mid-century modern aesthetics. Best visited October through May when desert temperatures are most comfortable. Swimming suits required. The location provides easy access to Palm Springs attractions and Joshua Tree National Park. The retro setting offers a unique nostalgic desert experience. The inn's restaurant serves classic desert fare perfect after soaking.",
   },
   {
     id: "17",
