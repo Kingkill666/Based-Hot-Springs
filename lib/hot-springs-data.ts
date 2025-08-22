@@ -19502,6 +19502,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Salthill, County Galway, Ireland",
+  website: "N/A",
+  detailedDescription: "Salthill Spa is a historic seaside spa in Salthill, once known for its mineral-rich waters and Victorian bathing culture in County Galway, Ireland. This historic destination offers visitors a glimpse into Ireland's seaside spa heritage with therapeutic mineral waters and Victorian charm in the beautiful Galway Bay setting. The historic spa's cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's Victorian bathing culture.",
+  location: "Located in Salthill, County Galway, Ireland, approximately 2 miles west of Galway City on the Galway Bay coast. The historic seaside spa is situated at 10 feet elevation with stunning views of Galway Bay and the Atlantic Ocean.",
+  directions: "From Galway City, take R336 west to Salthill. From Connemara, take R336 east to Salthill. The historic seaside spa is easily accessible year-round.",
+  accessibilityDetails: "Salthill Spa is accessible year-round with historic seaside spa facilities. The property offers accessible viewing areas and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's Victorian bathing heritage.",
+  hotSpringDetails: "The historic seaside spa features mineral-rich waters with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved Victorian bathing development. The location offers opportunities to learn about Ireland's Victorian bathing culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic seaside spa operates year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and Victorian bathing practices. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to Salthill Beach and Galway City attractions. The historic setting offers a unique glimpse into Ireland's Victorian bathing heritage and seaside culture. The mineral waters provide exceptional therapeutic benefits.",
 },
 {
   id: "bundoran-seaweed-baths",
@@ -19522,6 +19531,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.2,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Bundoran, County Donegal, Ireland",
+  website: "bundoranseaweedbaths.com",
+  detailedDescription: "Bundoran Seaweed Baths is a traditional seaweed bathhouse offering therapeutic heated seaweed soaks on the Atlantic coast of County Donegal, Ireland. This authentic destination offers visitors a traditional therapeutic experience with heated seaweed baths and coastal charm in the beautiful Donegal Bay setting. The traditional bathhouse's therapeutic approach and coastal location create a special destination for those seeking authentic Irish seaweed therapy in the Wild Atlantic Way.",
+  location: "Located in Bundoran, County Donegal, Ireland, approximately 20 miles southwest of Donegal Town on the Atlantic coast. The traditional seaweed bathhouse is situated at 10 feet elevation with stunning views of the Atlantic Ocean and Donegal Bay.",
+  directions: "From Donegal Town, take N15 southwest to Bundoran. From Sligo, take N15 northeast to Bundoran. The traditional seaweed bathhouse is easily accessible year-round.",
+  accessibilityDetails: "Bundoran Seaweed Baths is accessible year-round with traditional seaweed bathhouse facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and wellness. The coastal setting provides a peaceful environment for visitors seeking authentic Irish seaweed therapy.",
+  hotSpringDetails: "The traditional seaweed bathhouse features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide traditional Irish seaweed therapy. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The bathhouse offers traditional Irish seaweed therapy to complement the therapeutic experience.",
+  tips: "Reservations essential for seaweed bath treatments. The traditional seaweed bathhouse emphasizes authentic Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Bundoran Beach and Donegal Bay attractions. The coastal setting offers a traditional and therapeutic seaweed bath experience. The traditional treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "burren-wellness-centre",
@@ -19542,6 +19560,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.1,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Ballyvaughan, County Clare, Ireland",
+  website: "burrenwellness.com",
+  detailedDescription: "Burren Wellness Centre is a wellness center offering spa treatments and mineral baths in the scenic Burren region of County Clare, Ireland. This unique destination offers visitors a holistic wellness experience with spa treatments and mineral baths in the beautiful limestone landscape of The Burren. The wellness center's holistic approach and scenic location create a special destination for those seeking wellness treatments in Ireland's unique karst landscape.",
+  location: "Located in Ballyvaughan, County Clare, Ireland, approximately 30 miles northwest of Ennis in the scenic Burren region. The wellness center is situated at 20 feet elevation with stunning views of the limestone landscape and Atlantic coast.",
+  directions: "From Ennis, take N67 northwest to Ballyvaughan. From Galway, take N67 southeast to Ballyvaughan. The wellness center is easily accessible year-round.",
+  accessibilityDetails: "Burren Wellness Centre is accessible year-round with wellness center facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and holistic wellness. The scenic setting provides a peaceful environment for visitors seeking wellness treatments in The Burren.",
+  hotSpringDetails: "The wellness center features mineral baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in magnesium and provide holistic wellness treatments. The scenic setting provides a unique environment for enjoying the therapeutic mineral baths. The center offers comprehensive wellness treatments to complement the therapeutic experience.",
+  tips: "Reservations essential for wellness treatments and mineral baths. The wellness center emphasizes holistic wellness and therapeutic treatments. Best visited year-round for wellness benefits and scenic experiences. The location provides excellent access to The Burren and Aillwee Cave attractions. The scenic setting offers a unique and therapeutic wellness experience. The holistic treatments provide exceptional therapeutic benefits in The Burren landscape.",
 },
 {
   id: "kilkee-seaweed-baths",
@@ -19562,6 +19589,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kilkee, County Clare, Ireland",
+  website: "kilkeeseaweedbaths.com",
+  detailedDescription: "Kilkee Seaweed Baths is a traditional seaweed bathhouse on the Atlantic coast of County Clare, Ireland, offering therapeutic soaks and relaxation. This authentic destination offers visitors a traditional therapeutic experience with heated seaweed baths and coastal charm in the beautiful Atlantic setting. The traditional bathhouse's therapeutic approach and coastal location create a special destination for those seeking authentic Irish seaweed therapy on the Wild Atlantic Way.",
+  location: "Located in Kilkee, County Clare, Ireland, approximately 30 miles west of Ennis on the Atlantic coast. The traditional seaweed bathhouse is situated at 10 feet elevation with stunning views of the Atlantic Ocean and Kilkee Beach.",
+  directions: "From Ennis, take N68 west to Kilkee. From Limerick, take N69 west to N68 west to Kilkee. The traditional seaweed bathhouse is easily accessible year-round.",
+  accessibilityDetails: "Kilkee Seaweed Baths is accessible year-round with traditional seaweed bathhouse facilities. The property offers accessible treatment areas, bath facilities, and therapeutic services designed for guest comfort and wellness. The coastal setting provides a peaceful environment for visitors seeking authentic Irish seaweed therapy.",
+  hotSpringDetails: "The traditional seaweed bathhouse features heated seaweed baths with temperatures ranging from 70-100°F. The therapeutic baths are rich in iodine and magnesium from Atlantic seaweed and provide traditional Irish seaweed therapy. The coastal setting provides a unique environment for enjoying the therapeutic seaweed baths. The bathhouse offers traditional Irish seaweed therapy to complement the therapeutic experience.",
+  tips: "Reservations essential for seaweed bath treatments. The traditional seaweed bathhouse emphasizes authentic Irish seaweed therapy and coastal wellness. Best visited year-round for therapeutic benefits and coastal experiences. The location provides excellent access to Kilkee Beach and Loop Head attractions. The coastal setting offers a traditional and therapeutic seaweed bath experience. The traditional treatments provide exceptional therapeutic benefits from Atlantic seaweed.",
 },
 {
   id: "ballybofey-mineral-springs",
