@@ -20663,6 +20663,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Zao Onsen, Yamagata Prefecture, Japan",
+  website: "zao-onsen.com",
+  detailedDescription: "Zao Onsen is a famous ski and hot spring resort, known for its sulfurous waters and 'ice monster' trees in winter in Yamagata Prefecture, Japan. This seasonal destination offers visitors a winter onsen experience with therapeutic sulfur waters and authentic Japanese hospitality in the beautiful Yamagata setting. The seasonal resort's winter approach and ice monster location create a special destination for those seeking a winter Japanese onsen experience with famous ice monsters.",
+  location: "Located in Yamagata, Yamagata Prefecture, Japan, in the mountains of northern Honshu approximately 200 miles north of Tokyo. The famous ski and hot spring resort is situated at 2,700 feet elevation with stunning views of the surrounding mountains and famous ice monster trees.",
+  directions: "From Tokyo, take the JR Yamagata Shinkansen to Yamagata Station then transfer to a bus to Zao Onsen. From Sendai, take the JR Yamagata Shinkansen to Yamagata then transfer to Zao. The famous resort is easily accessible year-round.",
+  accessibilityDetails: "Zao Onsen is accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and seasonal enjoyment. The mountain setting provides a peaceful environment for visitors seeking a winter Japanese onsen experience with ice monsters.",
+  hotSpringDetails: "The famous resort features sulfurous hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in sulfur minerals and flow from natural geothermal sources. The mountain setting provides a unique environment for enjoying traditional Japanese onsen baths with ice monster views. The resort offers comprehensive spa services and traditional accommodations to complement the seasonal experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The famous resort emphasizes traditional Japanese onsen culture and seasonal practices. Best visited in winter for therapeutic benefits and ice monster experiences. The location provides excellent access to Zao Ski Resort and Juhyo (Ice Monsters) attractions. The mountain setting offers a winter and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural sulfur waters.",
 },
 {
   id: "tamatsukuri-onsen",
@@ -20683,6 +20692,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Tamatsukuri Onsen, Matsue, Shimane Prefecture, Japan",
+  website: "tamatsukuri-onsen.com",
+  detailedDescription: "Tamatsukuri Onsen is a historic hot spring town along the Tamayu River, famous for its beautifying waters in Shimane Prefecture, Japan. This historic destination offers visitors a beautifying onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Shimane setting. The historic town's beautifying approach and river location create a special destination for those seeking a beautifying Japanese onsen experience in a historic town setting.",
+  location: "Located in Matsue, Shimane Prefecture, Japan, in the western part of Honshu approximately 300 miles west of Osaka. The historic hot spring town is situated at 100 feet elevation with stunning views of the Tamayu River and Matsue Castle.",
+  directions: "From Osaka, take the JR Limited Express to Matsue Station then transfer to a bus to Tamatsukuri Onsen. From Hiroshima, take the JR Sanin Line to Matsue then transfer to the onsen. The historic town is easily accessible year-round.",
+  accessibilityDetails: "Tamatsukuri Onsen is accessible year-round with comprehensive town facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and historic enjoyment. The river setting provides a peaceful environment for visitors seeking a beautifying Japanese onsen experience in a historic town.",
+  hotSpringDetails: "The historic town features beautifying hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The river setting provides a unique environment for enjoying traditional Japanese onsen baths with beautifying properties. The town offers comprehensive spa services and traditional accommodations to complement the historic experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The historic town emphasizes traditional Japanese onsen culture and beautifying practices. Best visited year-round for therapeutic benefits and beautifying experiences. The location provides excellent access to Tamatsukuri Shrine and Matsue Castle attractions. The river setting offers a beautifying and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "misasa-onsen",
@@ -20703,6 +20721,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.4,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Misasa Onsen, Tottori Prefecture, Japan",
+  website: "misasa-onsen.com",
+  detailedDescription: "Misasa Onsen is a radium-rich hot spring town, known for its healing properties and riverside baths in Tottori Prefecture, Japan. This healing destination offers visitors a therapeutic onsen experience with radium-rich waters and authentic Japanese hospitality in the beautiful Tottori setting. The healing town's radium approach and riverside location create a special destination for those seeking a healing Japanese onsen experience with radium-rich waters.",
+  location: "Located in Misasa, Tottori Prefecture, Japan, in the western part of Honshu approximately 250 miles west of Osaka. The radium-rich hot spring town is situated at 600 feet elevation with stunning views of the surrounding mountains and Mitokusan Sanbutsu-ji Temple.",
+  directions: "From Osaka, take the JR Limited Express to Tottori Station then transfer to a bus to Misasa Onsen. From Hiroshima, take the JR Sanin Line to Tottori then transfer to the onsen. The healing town is easily accessible year-round.",
+  accessibilityDetails: "Misasa Onsen is accessible year-round with comprehensive town facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and healing enjoyment. The riverside setting provides a peaceful environment for visitors seeking a healing Japanese onsen experience with radium-rich waters.",
+  hotSpringDetails: "The healing town features radium-rich hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in radium minerals and flow from natural geothermal sources. The riverside setting provides a unique environment for enjoying traditional Japanese onsen baths with healing properties. The town offers comprehensive spa services and traditional accommodations to complement the healing experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The healing town emphasizes traditional Japanese onsen culture and healing practices. Best visited year-round for therapeutic benefits and healing experiences. The location provides excellent access to Mitokusan Sanbutsu-ji Temple attractions. The riverside setting offers a healing and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural radium-rich waters.",
 },
 {
   id: "kinugawa-onsen",
