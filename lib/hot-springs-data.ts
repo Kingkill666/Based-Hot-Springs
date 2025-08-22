@@ -18742,6 +18742,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Woody's Hot Spring, Bishop, CA 93514",
+    website: "N/A",
+    detailedDescription: "Woody's Hot Spring features a primitive, remote hot springs pool near Bishop, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a beautiful mountain setting. The primitive nature and remote location create a special destination for those seeking an authentic, natural hot springs experience in the Owens Valley.",
+    location: "Located near Bishop, California, approximately 300 miles east of San Francisco in the Owens Valley. The hot springs are situated at 4,150 feet elevation with stunning views of the surrounding mountains and valley landscape.",
+    directions: "From San Francisco, take I-80 east to US-395 north to Bishop. From Los Angeles, take US-395 north to Bishop. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Woody's Hot Spring requires moderate hiking to access. The mountain terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural mountain terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature a primitive, natural pool with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pool is formed by natural rock formations in the scenic mountain setting. The primitive location provides a peaceful and authentic hot springs experience in Owens Valley wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during spring and fall months. The primitive mountain setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during spring and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring the Owens Valley and Bishop area. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "zzyzx-hot-springs-ca",
@@ -18770,6 +18779,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 3.8,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Zzyzx Hot Springs, Zzyzx, CA 92364",
+    website: "N/A",
+    detailedDescription: "Zzyzx Hot Springs is a historic, abandoned hot springs site in the Mojave Desert, now part of the Desert Studies Center. This unique destination offers visitors a glimpse into the past with its abandoned hot springs facilities in the beautiful California desert. The historic nature and abandoned location create a special destination for those seeking to explore the history of hot springs development in the Mojave Desert.",
+    location: "Located in Zzyzx, California, approximately 200 miles northeast of Los Angeles in the Mojave Desert. The abandoned hot springs site is situated at 930 feet elevation with views of the surrounding desert landscape and Mojave National Preserve.",
+    directions: "From Los Angeles, take I-15 north to Baker, then take Zzyzx Road to the Desert Studies Center. From Las Vegas, take I-15 south to Baker, then take Zzyzx Road to the site. The historic location requires moderate hiking to access from the nearest road.",
+    accessibilityDetails: "Zzyzx Hot Springs requires moderate hiking to access the abandoned site. The desert terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the abandoned location and natural desert terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The abandoned hot springs site features historic facilities that were once used for therapeutic mineral soaking. The mineral water is rich in sodium and flows from natural geothermal sources. The historic setting provides a unique environment for exploring the abandoned hot springs development. The location offers opportunities to learn about the history of hot springs in the Mojave Desert.",
+    tips: "This is a clothing optional hot spring site. The facility operates seasonally during spring and fall months. The abandoned desert setting requires self-sufficiency and respect for historic preservation. Bring plenty of water, food, and appropriate gear for desert exploration. Best visited during spring and fall when temperatures are more moderate. The location provides excellent opportunities for exploring the Mojave National Preserve and learning about desert hot springs history. Respect the historic environment and practice Leave No Trace principles.",
   },
   {
     id: "arlington-hotel-ar",
