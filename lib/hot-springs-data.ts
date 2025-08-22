@@ -19162,6 +19162,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/Quinn's Hot Springs.jpg",
     rating: 4.9,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "190 Quinn's Hot Springs Rd, Paradise, MT 59856",
+    website: "quinnshotsprings.com",
+    detailedDescription: "Quinn's Hot Springs is a premier resort with multiple pools, luxury lodging, and riverside views in Paradise, Montana. This iconic destination offers visitors a sophisticated hot springs experience with therapeutic mineral soaking combined with luxury accommodations in the beautiful Clark Fork River Valley. The resort's elegant atmosphere and comprehensive amenities create a special and memorable hot springs retreat.",
+    location: "Located in Paradise, Montana, approximately 60 miles northeast of Missoula in the Clark Fork River Valley. The resort is situated at 2,700 feet elevation with stunning views of the surrounding mountains and Clark Fork River.",
+    directions: "From Missoula, take I-90 east to MT-135 north to Paradise. From Kalispell, take US-93 south to MT-135 north to Paradise. The resort is located on Quinn's Hot Springs Road and is easily accessible year-round.",
+    accessibilityDetails: "Quinn's Hot Springs is fully accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, pool areas, spa facilities, and ADA-compliant pathways throughout the resort. The luxury setting ensures broad accessibility for all guests.",
+    hotSpringDetails: "The resort features multiple mineral pools with temperatures ranging from 100-106°F. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Pool options include various soaking areas and luxury spa facilities. The riverside setting provides an elegant environment for enjoying the therapeutic mineral waters. The resort's spa services and dining options complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The resort offers comprehensive luxury packages and fine dining experiences. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Clark Fork River recreation and Paradise attractions. The luxury resort setting offers an elegant and memorable hot springs experience. The spa services and dining provide exceptional amenities.",
   },
   //IRELAND HOT SPRINGS
 {
@@ -19183,6 +19192,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.0,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Lisdoonvarna, County Clare, Ireland",
+  website: "N/A",
+  detailedDescription: "Lisdoonvarna Spa Wells is a historic Victorian spa town famous for its mineral-rich wells, once a major health resort in Ireland. This iconic destination offers visitors a glimpse into Ireland's spa heritage with therapeutic mineral waters and Victorian charm in the beautiful County Clare countryside. The historic town's cultural significance and therapeutic waters create a special destination for those seeking to explore Ireland's spa traditions.",
+  location: "Located in Lisdoonvarna, County Clare, Ireland, approximately 30 miles northwest of Limerick in the Burren region. The historic spa town is situated at 200 feet elevation with views of the surrounding limestone landscape and Atlantic coast.",
+  directions: "From Limerick, take N18 west to N67 north to Lisdoonvarna. From Galway, take N67 south to Lisdoonvarna. The historic spa town is easily accessible year-round.",
+  accessibilityDetails: "Lisdoonvarna Spa Wells is accessible year-round with historic spa town facilities. The property offers accessible viewing areas, spa facilities, and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's spa heritage.",
+  hotSpringDetails: "The historic spa town features mineral wells with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and magnesium and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved spa development. The location offers opportunities to learn about Ireland's spa culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic spa town operates year-round with seasonal festivals and cultural events. The cultural site emphasizes historical preservation and therapeutic traditions. Best visited spring to fall for optimal weather and cultural experiences. The location provides excellent access to The Burren and Cliffs of Moher attractions. The historic setting offers a unique glimpse into Ireland's spa heritage and Victorian culture. The mineral wells provide exceptional therapeutic benefits.",
 },
 {
   id: "kilcullen-bathhouse",
@@ -19203,6 +19221,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 3.8,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Kilcullen, County Kildare, Ireland",
+  website: "N/A",
+  detailedDescription: "Kilcullen Bathhouse is a historic bathhouse in Kilcullen, County Kildare, known for its mineral-rich waters and 19th-century spa culture. This historic destination offers visitors a glimpse into Ireland's bathhouse heritage with therapeutic mineral waters and Victorian charm in the beautiful County Kildare countryside. The historic bathhouse's cultural significance and therapeutic traditions create a special destination for those seeking to explore Ireland's spa history.",
+  location: "Located in Kilcullen, County Kildare, Ireland, approximately 30 miles southwest of Dublin in the River Liffey Valley. The historic bathhouse is situated at 200 feet elevation with views of the surrounding countryside and River Liffey.",
+  directions: "From Dublin, take N7 southwest to N9 south to Kilcullen. From Waterford, take N9 north to Kilcullen. The historic bathhouse is easily accessible year-round.",
+  accessibilityDetails: "Kilcullen Bathhouse is accessible year-round with historic bathhouse facilities. The property offers accessible viewing areas, bath facilities, and cultural amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking to explore Ireland's bathhouse heritage.",
+  hotSpringDetails: "The historic bathhouse features mineral baths with temperatures ranging from 60-70°F. The mineral water is rich in sulfur and flows from natural mineral sources. The historic setting provides a unique environment for exploring the preserved bathhouse development. The location offers opportunities to learn about Ireland's bathhouse culture and enjoy the therapeutic mineral waters.",
+  tips: "The historic bathhouse operates year-round with cultural preservation and therapeutic traditions. The cultural site emphasizes historical preservation and therapeutic practices. Best visited year-round for cultural experiences and therapeutic benefits. The location provides excellent access to River Liffey and Curragh Racecourse attractions. The historic setting offers a unique glimpse into Ireland's bathhouse heritage and 19th-century culture. The mineral baths provide exceptional therapeutic benefits.",
 },
 {
   id: "enfield-spa",
