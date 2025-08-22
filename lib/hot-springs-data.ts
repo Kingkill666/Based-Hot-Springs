@@ -20113,6 +20113,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Dogo Onsen, Matsuyama, Ehime Prefecture, Japan",
+  website: "dogo-onsen.com",
+  detailedDescription: "Dogo Onsen is one of Japan's oldest hot springs, with a historic bathhouse said to inspire Studio Ghibli's Spirited Away in Ehime Prefecture, Japan. This iconic destination offers visitors a historic onsen experience with therapeutic alkaline waters and traditional Japanese bathhouse culture in the beautiful Matsuyama setting. The historic bathhouse's cultural significance and therapeutic traditions create a special destination for those seeking authentic Japanese onsen heritage.",
+  location: "Located in Matsuyama, Ehime Prefecture, Japan, on the northwestern coast of Shikoku Island. The historic hot spring bathhouse is situated at 50 feet elevation with views of Matsuyama Castle and the surrounding city.",
+  directions: "From Matsuyama Station, take the Botchan Train or tram to Dogo Onsen Station. From Osaka, take JR trains to Matsuyama then transfer to Dogo Onsen. The historic bathhouse is easily accessible year-round.",
+  accessibilityDetails: "Dogo Onsen is accessible year-round with comprehensive bathhouse facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and cultural enrichment. The historic setting provides a peaceful environment for visitors seeking authentic Japanese onsen culture.",
+  hotSpringDetails: "The historic bathhouse features traditional hot spring baths with temperatures ranging from 98-108°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The historic setting provides a unique environment for enjoying traditional Japanese onsen baths. The bathhouse offers comprehensive spa services and traditional accommodations to complement the onsen experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The historic bathhouse emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and cultural experiences. The location provides excellent access to Matsuyama Castle and Botchan Train attractions. The historic setting offers an authentic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "ehimeero-onsen",
@@ -20133,6 +20142,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Ehimeero Onsen, Ehime, Ehime Prefecture, Japan",
+  website: "ehimeero-onsen.com",
+  detailedDescription: "Ehimeero Onsen is a relaxing onsen in Ehime Prefecture, known for its mineral-rich waters and tranquil setting in Japan. This peaceful destination offers visitors a serene onsen experience with therapeutic alkaline waters and traditional Japanese hospitality in the beautiful Ehime setting. The tranquil onsen's therapeutic approach and peaceful location create a special destination for those seeking a relaxing Japanese onsen experience.",
+  location: "Located in Ehime, Ehime Prefecture, Japan, on the northwestern coast of Shikoku Island near Matsuyama. The relaxing hot spring onsen is situated at 50 feet elevation with views of the surrounding countryside and city.",
+  directions: "From Matsuyama Station, take local transportation to Ehimeero Onsen. From Osaka, take JR trains to Matsuyama then transfer to Ehimeero. The relaxing onsen is easily accessible year-round.",
+  accessibilityDetails: "Ehimeero Onsen is accessible year-round with comprehensive onsen facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and relaxation. The tranquil setting provides a peaceful environment for visitors seeking a relaxing Japanese onsen experience.",
+  hotSpringDetails: "The relaxing onsen features traditional hot spring baths with temperatures ranging from 98-108°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The tranquil setting provides a unique environment for enjoying traditional Japanese onsen baths. The onsen offers comprehensive spa services and traditional accommodations to complement the relaxing experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The relaxing onsen emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and relaxation experiences. The location provides excellent access to Dogo Onsen and Matsuyama attractions. The tranquil setting offers a relaxing and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "gora-onsen",
@@ -20153,6 +20171,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Gora Onsen, Hakone, Kanagawa Prefecture, Japan",
+  website: "gora-onsen.com",
+  detailedDescription: "Gora Onsen is a popular hot spring area in Hakone, known for its variety of baths and scenic mountain views in Kanagawa Prefecture, Japan. This scenic destination offers visitors a diverse onsen experience with therapeutic mineral waters and spectacular mountain scenery in the beautiful Hakone setting. The popular resort's variety of baths and scenic location create a special destination for those seeking a comprehensive Japanese onsen experience.",
+  location: "Located in Hakone, Kanagawa Prefecture, Japan, approximately 80 miles southwest of Tokyo in the Hakone mountain region. The popular hot spring resort is situated at 1,800 feet elevation with stunning views of Mount Fuji and the surrounding mountains.",
+  directions: "From Tokyo, take the Odakyu Romance Car to Hakone-Yumoto Station, then transfer to the Hakone Tozan Railway to Gora Station. The popular resort is easily accessible year-round.",
+  accessibilityDetails: "Gora Onsen is accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and scenic enjoyment. The mountain setting provides a peaceful environment for visitors seeking a scenic Japanese onsen experience.",
+  hotSpringDetails: "The popular resort features a variety of hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in sulfur and alkaline minerals and flow from natural geothermal sources. The mountain setting provides a unique environment for enjoying traditional Japanese onsen baths. The resort offers comprehensive spa services and traditional accommodations to complement the onsen experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The popular resort emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and scenic experiences. The location provides excellent access to Hakone Open-Air Museum and Owakudani attractions. The mountain setting offers a scenic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural geothermal waters.",
 },
 {
   id: "hakone-onsen",
