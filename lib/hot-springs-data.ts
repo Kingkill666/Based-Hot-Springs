@@ -7005,6 +7005,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Meadow Hot Springs, Meadow, UT 84655",
+    website: "N/A",
+    detailedDescription: "Meadow Hot Springs is a beautiful natural hot springs destination featuring three large, clear natural pools in a scenic meadow setting near Meadow, Utah. These pristine hot springs offer visitors a peaceful soaking experience with crystal-clear water and stunning mountain views. The meadow location provides a serene and picturesque environment perfect for relaxation and therapeutic mineral soaking.",
+    location: "Located near Meadow, Utah, approximately 20 miles southwest of Fillmore in the scenic Sevier Valley. The hot springs are situated at 5,100 feet elevation in a beautiful meadow surrounded by mountain ranges.",
+    directions: "From Fillmore, take local roads southwest to Meadow, then follow local roads to the hot springs. From Beaver, take local roads north to Meadow. The hot springs are accessible via well-marked dirt roads from the Meadow area.",
+    accessibilityDetails: "Meadow Hot Springs is easily accessible year-round with good road access and parking available. The meadow location provides easy access to the natural pools. The area has no formal facilities but offers a peaceful and natural environment for soaking.",
+    hotSpringDetails: "The hot springs feature three large, clear natural pools with temperatures ranging from 100-106°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The pools are crystal clear and vary in size, accommodating multiple visitors. The meadow setting provides beautiful mountain views and a peaceful atmosphere while soaking.",
+    tips: "This is a clothing optional location. Best visited during spring and fall when temperatures are moderate. The meadow location provides excellent opportunities for wildlife viewing and photography. Bring plenty of water and supplies as there are no facilities in the area. The crystal-clear water makes this one of Utah's most beautiful hot springs destinations. The area offers excellent stargazing opportunities. Swimming suits recommended. Practice Leave No Trace principles to preserve this pristine meadow environment.",
   },
   {
     id: "monroe-hot-springs-ut",
@@ -7033,6 +7042,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Monroe Hot Springs, Monroe, UT 84754",
+    website: "N/A",
+    detailedDescription: "Monroe Hot Springs is a natural hot springs resort located in the scenic Sevier Valley near Monroe, Utah, offering visitors a comfortable and accessible hot springs experience with resort amenities. This family-friendly destination combines natural mineral soaking with modern accommodations and camping facilities, making it perfect for both day visitors and overnight guests seeking therapeutic relaxation in the beautiful Utah countryside.",
+    location: "Located in Monroe, Utah, in the scenic Sevier Valley approximately 150 miles south of Salt Lake City. The hot springs are situated at 5,400 feet elevation surrounded by the beautiful Sevier Valley and mountain ranges.",
+    directions: "From Salt Lake City, take I-15 south to Nephi, then take US-50 south to Delta, then local roads to Monroe. From Cedar City, take US-50 north to Delta, then local roads to Monroe. The resort is well-marked and accessible year-round.",
+    accessibilityDetails: "Monroe Hot Springs is easily accessible year-round with paved road access and comprehensive resort facilities. The resort offers accessible accommodations, camping facilities, and hot springs areas. The family-friendly environment provides a welcoming atmosphere for all guests.",
+    hotSpringDetails: "The resort features natural hot springs with temperatures ranging from 104-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The resort offers various soaking options including natural pools and resort facilities. The mineral-rich water provides therapeutic benefits in a comfortable resort setting.",
+    tips: "Reservations recommended for accommodations and camping, especially during peak seasons. The resort offers both lodging and camping options for overnight stays. Best visited year-round with each season offering different experiences. Swimming suits required. The location provides excellent access to Sevier Valley attractions and outdoor activities. The resort setting offers a comfortable and family-friendly hot springs experience. The area provides opportunities for exploring the scenic Sevier Valley.",
   },
   {
     id: "mystic-hot-springs-ut",
@@ -7062,6 +7080,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Mystic Hot Springs, Monroe, UT 84754",
+    website: "mystichotsprings.com",
+    detailedDescription: "Mystic Hot Springs is a unique and eclectic hot springs resort located in Monroe, Utah, featuring vintage buses and bathtubs for soaking in natural mineral water. This one-of-a-kind destination offers visitors a truly unique hot springs experience combining retro charm with therapeutic mineral soaking. The resort's creative approach to hot springs facilities creates an unforgettable and Instagram-worthy soaking experience in the beautiful Sevier Valley.",
+    location: "Located in Monroe, Utah, in the scenic Sevier Valley approximately 150 miles south of Salt Lake City. The hot springs are situated at 5,400 feet elevation surrounded by the beautiful Sevier Valley and mountain ranges.",
+    directions: "From Salt Lake City, take I-15 south to Nephi, then take US-50 south to Delta, then local roads to Monroe. From Cedar City, take US-50 north to Delta, then local roads to Monroe. The resort is well-marked and accessible year-round.",
+    accessibilityDetails: "Mystic Hot Springs is easily accessible year-round with paved road access and unique resort facilities. The resort offers accessible accommodations, camping facilities, and creative hot springs areas. The eclectic environment provides a welcoming atmosphere for guests seeking unique experiences.",
+    hotSpringDetails: "The resort features natural hot springs with temperatures ranging from 99-110°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The unique soaking options include vintage buses converted into soaking tubs and traditional bathtubs. The creative facilities provide a one-of-a-kind soaking experience.",
+    tips: "Reservations recommended for accommodations and camping, especially during peak seasons. The resort offers both lodging and camping options for overnight stays. The vintage buses and bathtubs provide unique photo opportunities. Best visited year-round with each season offering different experiences. Swimming suits required. The location provides excellent access to Sevier Valley attractions. The resort's creative approach makes it perfect for those seeking unique hot springs experiences. The area provides opportunities for exploring the scenic Sevier Valley.",
   },
   {
     id: "ogden-hot-springs-ut",
