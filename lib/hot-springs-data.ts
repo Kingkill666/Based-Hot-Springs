@@ -20574,6 +20574,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Toyako Onsen, Hokkaido, Japan",
+  website: "toyako-onsen.com",
+  detailedDescription: "Toyako Onsen is a lakeside hot spring resort with views of Lake Toya and Mount Usu in Hokkaido, Japan. This scenic destination offers visitors a lakeside onsen experience with therapeutic alkaline waters and authentic Japanese hospitality in the beautiful Hokkaido setting. The lakeside resort's scenic approach and lake location create a special destination for those seeking a lakeside Japanese onsen experience with Mount Usu views.",
+  location: "Located in Toyako, Hokkaido, Japan, on Japan's northernmost island approximately 50 miles southwest of Sapporo. The lakeside hot spring resort is situated at 300 feet elevation with stunning views of Lake Toya and Mount Usu.",
+  directions: "From Sapporo, take the JR Limited Express to Toya Station. From Hakodate, take the JR Limited Express to Toya Station. The lakeside resort is easily accessible year-round.",
+  accessibilityDetails: "Toyako Onsen is accessible year-round with comprehensive lakeside facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and lakeside enjoyment. The scenic setting provides a peaceful environment for visitors seeking a lakeside Japanese onsen experience with Mount Usu views.",
+  hotSpringDetails: "The lakeside resort features scenic hot spring baths with temperatures ranging from 104-140°F. The therapeutic waters are rich in alkaline minerals and flow from natural geothermal sources. The lakeside setting provides a unique environment for enjoying traditional Japanese onsen baths with Lake Toya views. The resort offers comprehensive spa services and traditional accommodations to complement the scenic experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The lakeside resort emphasizes traditional Japanese onsen culture and therapeutic practices. Best visited year-round for therapeutic benefits and scenic experiences. The location provides excellent access to Lake Toya and Mount Usu attractions. The lakeside setting offers a scenic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural alkaline waters.",
 },
 {
   id: "urami-ga-taki-onsen",
