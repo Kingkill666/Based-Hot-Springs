@@ -10143,6 +10143,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.8,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Middle Fork Hot Springs, Gila Wilderness, NM 88038",
+    website: "N/A",
+    detailedDescription: "Middle Fork Hot Springs is a remote riverside hot springs facility located in the Gila Wilderness, New Mexico, featuring natural pools with temperatures of 100-104°F, riverside setting, and wilderness hiking access. This remote destination offers visitors an authentic wilderness hot springs experience with excellent opportunities for hiking, camping, and riverside recreation in the beautiful Gila Wilderness. The remote location and wilderness setting create a perfect destination for adventurous hot springs enthusiasts.",
+    location: "Located in the Gila Wilderness, New Mexico, approximately 100 miles northwest of Silver City in the pristine wilderness area. The remote hot springs is situated at 4,600 feet elevation along a river with beautiful wilderness views and access to Gila Cliff Dwellings.",
+    directions: "From Silver City, take NM-15 north to Gila, then follow wilderness trails to reach Middle Fork Hot Springs. The remote location requires a difficult hike through the Gila Wilderness. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Middle Fork Hot Springs requires difficult access through wilderness terrain with basic camping facilities. The remote location has no parking or restrooms. The wilderness setting requires complete self-sufficiency and proper preparation for backcountry conditions. This is a true wilderness experience requiring advanced planning.",
+    hotSpringDetails: "The remote facility features riverside natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are formed naturally along the river and vary in size. The wilderness setting provides pristine Gila Wilderness views while soaking.",
+    tips: "This is a clothing optional location. The remote location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall to avoid dangerous summer heat and winter conditions. The wilderness location offers excellent opportunities for hiking, camping, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Gila Wilderness activities and Gila Cliff Dwellings. The difficult hike provides excellent opportunities for wilderness photography and nature appreciation.",
   },
   {
     id: "mothership-hot-springs-nm",
@@ -10208,6 +10217,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Montezuma Hot Springs, Las Vegas, NM 87701",
+    website: "N/A",
+    detailedDescription: "Montezuma Hot Springs is a historic free hot springs facility located in Las Vegas, New Mexico, featuring public pools with temperatures of 95-120°F, riverside setting, and historic charm along the beautiful Gallinas River. This historic destination offers visitors a free and accessible hot springs experience with excellent opportunities for public soaking, historic appreciation, and riverside recreation in the scenic New Mexico landscape. The historic setting and riverside backdrop create a perfect destination for community soaking and natural healing.",
+    location: "Located in Las Vegas, New Mexico, approximately 60 miles east of Santa Fe in the scenic mountain region. The historic hot springs is situated at 6,900 feet elevation along the Gallinas River with beautiful mountain views and access to United World College.",
+    directions: "From Santa Fe, take I-25 north to Las Vegas, then follow local roads to Montezuma Hot Springs. From Albuquerque, take I-25 north to Las Vegas. The historic facility is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Montezuma Hot Springs is easily accessible year-round with basic parking facilities and public access. The historic facility offers free public pools with no formal amenities. The riverside setting provides natural access to hot springs soaking and mountain recreation.",
+    hotSpringDetails: "The historic facility features public pools with temperatures ranging from 95-120°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The public pools are open to all visitors and vary in size. The riverside setting provides beautiful Gallinas River and mountain views while soaking.",
+    tips: "This is a clothing optional location. The historic facility is free to access and open to the public year-round. Best visited during spring and fall when temperatures are ideal for outdoor soaking. The riverside location offers excellent opportunities for community soaking and historic appreciation. The location provides access to Las Vegas attractions and United World College. The historic setting offers authentic charm combined with therapeutic mineral benefits. The public pools provide excellent opportunities for social interaction and community building.",
   },
   {
     id: "ojo-caliente-hot-springs-nm",
@@ -10492,6 +10510,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Spence Hot Springs, Jemez Springs, NM 87025",
+    website: "N/A",
+    detailedDescription: "Spence Hot Springs is a popular natural hillside hot springs facility located in Jemez Springs, New Mexico, featuring natural pools with temperatures of 97-100°F, hillside setting, and scenic hiking access. This popular destination offers visitors an authentic natural hot springs experience with excellent opportunities for hiking, mountain appreciation, and natural soaking in the beautiful Jemez Mountains. The natural setting and hillside backdrop create a perfect destination for nature enthusiasts and outdoor adventurers.",
+    location: "Located in Jemez Springs, New Mexico, in the Jemez Mountains approximately 50 miles northwest of Albuquerque. The natural hot springs is situated at 7,200 feet elevation on a hillside with beautiful mountain views and easy access to Jemez Falls.",
+    directions: "From Albuquerque, take NM-550 north to San Ysidro, then take NM-4 west to Jemez Springs. The natural facility requires a short hike from the parking area. The exact route requires detailed planning and hiking skills.",
+    accessibilityDetails: "Spence Hot Springs requires moderate access through hillside terrain with basic parking facilities. The natural location has parking but no restrooms or services. The hillside setting requires self-sufficiency and proper preparation for outdoor conditions. This is a natural outdoor experience requiring planning.",
+    hotSpringDetails: "The natural facility features hillside pools with temperatures ranging from 97-100°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are formed naturally on the hillside and vary in size. The hillside setting provides beautiful Jemez Mountains views while soaking.",
+    tips: "This is a clothing optional location. The natural location requires self-sufficiency - bring all necessary supplies including water, food, and hiking gear. Best visited during spring and fall when temperatures are ideal for outdoor soaking. The hillside location offers excellent opportunities for hiking, photography, and natural exploration. Practice Leave No Trace principles to preserve this pristine natural environment. The location provides access to Jemez Springs attractions and Jemez Falls. The short hike provides excellent opportunities for mountain photography and nature appreciation.",
   },
   {
     id: "stagecoach-hot-springs-nm",
