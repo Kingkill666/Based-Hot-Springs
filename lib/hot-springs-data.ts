@@ -2278,6 +2278,15 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Verde River", "Sedona", "Montezuma Castle"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Verde River Area, Camp Verde, AZ 86322",
+    website: "N/A",
+    detailedDescription: "Verde Hot Springs are scenic riverside hot springs located along the beautiful Verde River near Camp Verde, Arizona, featuring natural pools with temperatures of 95-105°F surrounded by lush riparian forest with excellent bird watching and river access. These natural hot springs offer visitors a unique combination of therapeutic mineral soaking and outdoor recreation in one of Arizona's most beautiful river environments. The riparian forest setting provides shade and abundant wildlife viewing opportunities.",
+    location: "Located along the Verde River near Camp Verde, Arizona, approximately 90 miles north of Phoenix in the scenic Verde Valley. The hot springs are situated at 3,200 feet elevation in the riparian forest region.",
+    directions: "From Phoenix, take I-17 north to Camp Verde, then follow local roads to the Verde River area. Access requires a short hike from the parking area to reach the riverside hot springs. The trail is well-marked and suitable for most visitors.",
+    accessibilityDetails: "Verde Hot Springs requires a short hike from the parking area to reach the riverside location. The trail is generally easy and suitable for most visitors. The area has no facilities or services. The riverside location may require careful navigation around water features.",
+    hotSpringDetails: "The hot springs feature natural riverside pools with temperatures ranging from 95-105°F, providing comfortable soaking temperatures. The pools are formed naturally along the Verde River bank and filled with mineral-rich water containing sulfur, calcium, and iron. Pool depths vary from 2-4 feet and can accommodate several people. The riparian forest setting provides shade and natural beauty while soaking.",
+    tips: "Bring water, snacks, and supplies as there are no facilities. The riparian forest setting provides excellent bird watching opportunities throughout the year. River access allows for cooling off in the Verde River. Best visited year-round with each season offering different experiences. The area offers excellent photography opportunities and wildlife viewing. Practice Leave No Trace principles to preserve this beautiful riverside environment. The location provides easy access to nearby attractions including Sedona and Montezuma Castle National Monument.",
   },
   {
     id: "boy-scout-hot-springs-az",
@@ -2312,6 +2321,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Gila Mountains, Gila Bend, AZ 85337",
+    website: "N/A",
+    detailedDescription: "Boy Scout Hot Springs are remote desert hot springs located in the rugged Gila Mountains near Gila Bend, Arizona, featuring natural pools with temperatures of 100-115°F accessible by 4WD vehicle and short hike. These natural hot springs offer visitors an authentic desert wilderness experience in rugged desert terrain with excellent stargazing opportunities. The remote setting provides complete solitude and a true backcountry desert experience.",
+    location: "Located in the Gila Mountains near Gila Bend, Arizona, approximately 80 miles southwest of Phoenix in the rugged desert mountains. The hot springs are situated at 800 feet elevation in the desert wilderness.",
+    directions: "From Phoenix, take I-8 west toward Gila Bend, then follow local desert roads requiring 4WD vehicle access. The exact route requires detailed local knowledge and GPS coordinates. A short hike is required from the vehicle to reach the hot springs.",
+    accessibilityDetails: "Boy Scout Hot Springs requires 4WD vehicle access and a short hike, making it one of Arizona's more challenging hot springs to reach. The wilderness location has no facilities or services. Desert navigation skills and emergency preparedness are essential. Only experienced desert travelers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural desert pools with temperatures ranging from 100-115°F, providing comfortable soaking temperatures. The pools are undeveloped and formed naturally by geothermal activity in the desert terrain. Pool sizes vary but typically accommodate 4-8 people and range from 2-4 feet deep. The mineral-rich water contains sulfur, sodium, and magnesium. The remote desert setting provides complete solitude with expansive views of the Gila Mountains.",
+    tips: "This is a clothing optional location. Bring extensive supplies including extra water, food, emergency equipment, and navigation tools. Inform others of travel plans and expected return times. Best visited during cooler months (October-April) to avoid dangerous desert heat. Summer visits can be life-threatening due to extreme temperatures. The remote location offers excellent stargazing opportunities and complete solitude. Practice strict Leave No Trace principles to preserve this pristine desert environment. Dispersed camping may be possible but requires complete self-sufficiency. This is one of Arizona's most remote and challenging hot springs destinations.",
   },
   {
     id: "buckhorn-baths",
@@ -2346,6 +2364,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Mesa, AZ 85201",
+    website: "N/A",
+    detailedDescription: "Buckhorn Baths is a historic mineral baths facility located in the Phoenix area near Mesa, Arizona, offering therapeutic soaking in natural mineral water with temperatures of 98-106°F. This family-friendly facility combines historic charm with modern amenities, providing visitors with a convenient and comfortable way to experience therapeutic mineral soaking in the heart of the Phoenix metropolitan area. The facility's historic atmosphere and therapeutic mineral waters create a unique urban hot springs experience.",
+    location: "Located in Mesa, Arizona, in the Phoenix metropolitan area approximately 20 miles east of downtown Phoenix. The facility is situated at 1,200 feet elevation in the urban desert setting.",
+    directions: "From Phoenix, take US-60 east to Mesa, then follow local roads to the Buckhorn Baths facility. The facility is easily accessible by car with ample parking available. The location provides convenient access to all Phoenix area amenities.",
+    accessibilityDetails: "Buckhorn Baths is easily accessible in the Phoenix metropolitan area with good road access and parking available. The facility offers accessible accommodations and modern amenities. The urban location provides convenient access to all services and facilities.",
+    hotSpringDetails: "The facility features therapeutic mineral baths with temperatures ranging from 98-106°F, providing comfortable soaking temperatures. The mineral water is rich in lithium, sodium, and sulfur and flows from natural geothermal sources. The facility offers both individual and group soaking options with modern spa facilities and amenities.",
+    tips: "Reservations are recommended, especially during peak tourist season. The facility offers spa services and modern amenities. Swimming suits are required. The family-friendly atmosphere makes this suitable for visitors of all ages. The urban location provides easy access to Phoenix area attractions and amenities. Best visited year-round with each season offering different experiences in the desert climate. The facility combines historic charm with modern comfort for a unique urban hot springs experience.",
   },
   {
     id: "dankworth-ponds",
@@ -2380,6 +2407,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 3.8,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Safford, AZ 85546",
+    website: "N/A",
+    detailedDescription: "Dankworth Ponds are natural warm water ponds located in southeastern Arizona near Safford, featuring multiple pools with temperatures of 95-102°F in a beautiful desert grassland setting. These natural ponds are popular with locals for relaxation and offer visitors a peaceful escape into the desert landscape with varying temperature pools to suit different preferences. The desert grassland setting provides a unique backdrop for soaking in the warm mineral waters.",
+    location: "Located near Safford, Arizona, in southeastern Arizona approximately 150 miles east of Phoenix. The ponds are situated at 2,900 feet elevation in the desert grassland region.",
+    directions: "From Phoenix, take US-60 east toward Globe, then continue east to Safford. Follow local roads to reach the Dankworth Ponds area. The ponds are easily accessible by car with parking available.",
+    accessibilityDetails: "Dankworth Ponds are easily accessible with good road access and parking available. The area has no facilities or services. The natural ponds are easily accessible once you reach the site. The desert grassland setting provides a peaceful environment for soaking.",
+    hotSpringDetails: "The ponds feature multiple natural warm water pools with temperatures ranging from 95-102°F, providing comfortable soaking temperatures. The pools are formed naturally by geothermal activity and contain calcium, magnesium, and sulfur minerals. Pool sizes vary and can accommodate several people. The varying temperatures allow visitors to find their preferred comfort level.",
+    tips: "Bring water, snacks, and supplies as there are no facilities. The multiple pools with varying temperatures allow visitors to find their preferred comfort level. The desert grassland setting provides a peaceful environment for relaxation. Best visited year-round with each season offering different experiences in the desert climate. The area offers excellent opportunities for wildlife viewing and experiencing the desert landscape. Practice Leave No Trace principles to preserve this natural environment. The location provides easy access to nearby attractions including Mount Graham and the Gila River.",
   },
   {
     id: "essence-of-tranquility",
