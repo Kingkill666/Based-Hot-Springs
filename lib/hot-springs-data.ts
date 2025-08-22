@@ -21551,6 +21551,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Saratoga Hot Springs, Saratoga, WY 82331",
+  website: "saratogahotsprings.com",
+  detailedDescription: "Saratoga Hot Springs is a natural hot spring destination in the beautiful Snowy Range, featuring a free public pool and private soaking options. The springs are known for their therapeutic properties and have been used for healing purposes for generations. The town of Saratoga offers a perfect blend of natural hot spring therapy and modern amenities, making it an ideal destination for visitors seeking both relaxation and outdoor recreation in the heart of Wyoming's mountain wilderness.",
+  location: "Located in Saratoga, Wyoming, approximately 50 miles west of Laramie in the Snowy Range of southeastern Wyoming. The hot springs are situated at 6,800 feet elevation surrounded by the Medicine Bow National Forest.",
+  directions: "From Laramie, take US-287 west to Saratoga. From Rawlins, take US-287 east to Saratoga. The hot springs are easily accessible in the town center and well-marked with visitor information.",
+  accessibilityDetails: "Saratoga Hot Springs is fully accessible year-round with paved parking, accessible facilities, and accommodations. The public pool and private soaking facilities are designed to accommodate visitors of all mobility levels. The town offers a welcoming environment for visitors seeking therapeutic experiences.",
+  hotSpringDetails: "The hot springs feature a free public pool with temperatures ranging from 110-120°F. The mineral water is rich in sodium, chloride, sulfate, and calcium and flows from natural geothermal sources. The facility offers both a public pool and private soaking options. The water flows continuously from the spring source and provides therapeutic benefits.",
+  tips: "Open year-round with no admission fee for the public pool. Swimming suits required in public areas. The town offers lodging, dining, and spa services. Best visited year-round, with each season offering different experiences. The therapeutic properties and free access make this a unique destination. The area provides opportunities to experience natural hot spring therapy and enjoy outdoor recreation in the Snowy Range. The Medicine Bow National Forest offers excellent hiking and wildlife viewing opportunities.",
 },
 // ENHANCED IDAHO HOT SPRINGS
 {
