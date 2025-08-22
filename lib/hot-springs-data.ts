@@ -17409,6 +17409,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Las Cruces Hot Springs, Santa Barbara, CA 93105",
+    website: "N/A",
+    detailedDescription: "Las Cruces Hot Springs features primitive, remote hot springs pools in the Santa Ynez Mountains near Santa Barbara, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a beautiful mountain setting. The primitive nature and remote location create a special destination for those seeking an authentic, natural hot springs experience in the Santa Barbara backcountry.",
+    location: "Located near Santa Barbara, California, approximately 100 miles northwest of Los Angeles in the Santa Ynez Mountains. The hot springs are situated at 400 feet elevation with stunning views of the surrounding mountain landscape and Santa Barbara coastline.",
+    directions: "From Los Angeles, take US-101 north to Santa Barbara, then take mountain roads to the hot springs. From Santa Barbara, take mountain roads to access the primitive location. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Las Cruces Hot Springs requires moderate hiking to access. The mountain terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural mountain terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations in the Santa Ynez Mountains. The primitive location provides a peaceful and authentic hot springs experience in Santa Barbara wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during spring and fall months. The primitive mountain setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during spring and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring the Santa Ynez Mountains and Santa Barbara backcountry. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "lido-palms-hot-springs-ca",
@@ -17437,6 +17446,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "66840 4th St, Desert Hot Springs, CA 92241",
+    website: "lidopalmshotsprings.com",
+    detailedDescription: "Lido Palms Hot Springs is a boutique hotel and spa featuring a mineral water pool with a wellness focus in Desert Hot Springs, California. This intimate destination offers visitors a rejuvenating hot springs experience with therapeutic mineral soaking combined with wellness services in the beautiful California desert. The boutique hotel's wellness approach and healing atmosphere create a special and restorative hot springs retreat.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The hotel is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the hotel. The boutique property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Lido Palms Hot Springs is accessible year-round with boutique hotel facilities. The property offers accessible accommodations, pool areas, and spa facilities designed for guest comfort and wellness. The healing setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The hotel features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The wellness-focused setting provides a healing environment for enjoying the therapeutic mineral waters. The boutique hotel offers spa services to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The boutique hotel emphasizes wellness and healing. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The wellness setting offers a healing and rejuvenating hot springs experience. The spa services provide additional therapeutic benefits.",
   },
   {
     id: "meadowlark-country-house-ca",
@@ -17465,6 +17483,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "601 Petrified Forest Rd, Calistoga, CA 94515",
+    website: "meadowlarkcountryhouse.com",
+    detailedDescription: "Meadowlark Country House and Resort is a boutique country house and resort featuring mineral pools and spa services in Calistoga, California. This charming destination offers visitors a sophisticated hot springs experience with therapeutic mineral soaking combined with luxury amenities in the heart of Napa Valley wine country. The boutique resort's elegant atmosphere and comprehensive spa services create a special and memorable hot springs retreat.",
+    location: "Located in Calistoga, California, approximately 75 miles north of San Francisco in the Napa Valley. The resort is situated at 348 feet elevation with stunning views of the surrounding vineyards and wine country landscape.",
+    directions: "From San Francisco, take US-101 north to CA-37 east to CA-121 north to Calistoga. From Sacramento, take I-80 west to CA-12 west to Calistoga. The boutique resort is located on Petrified Forest Road and is easily accessible year-round.",
+    accessibilityDetails: "Meadowlark Country House and Resort is fully accessible year-round with comprehensive boutique resort facilities. The property offers accessible accommodations, pool access with lifts and ramps, accessible spa facilities, and ADA-compliant pathways throughout the resort. The luxury setting ensures broad accessibility for all guests.",
+    hotSpringDetails: "The resort features mineral pools with temperatures ranging from 96-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking areas and luxury spa facilities. The elegant resort setting provides a sophisticated environment for enjoying the therapeutic mineral waters. The resort's spa services complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The boutique resort offers comprehensive luxury packages and spa experiences. Best visited year-round with consistent wine country temperatures. Swimming suits required. The location provides excellent access to Calistoga attractions and Napa Valley wine tours. The luxury resort setting offers a sophisticated and memorable hot springs experience. The spa services provide exceptional therapeutic benefits.",
   },
   {
     id: "miracle-hot-springs-ca",
