@@ -20964,6 +20964,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: true,
+  // Enhanced detailed information
+  address: "Sukayu Onsen, Aomori Prefecture, Japan",
+  website: "sukayu-onsen.com",
+  detailedDescription: "Sukayu Onsen is a famous hot spring in the Hakkoda Mountains, known for its large mixed-gender bath in Aomori Prefecture, Japan. This famous destination offers visitors a mixed-gender onsen experience with therapeutic sulfur waters and authentic Japanese hospitality in the beautiful Hakkoda setting. The famous onsen's mixed-gender approach and mountain location create a special destination for those seeking a famous Japanese onsen experience with a large mixed-gender bath.",
+  location: "Located in Aomori, Aomori Prefecture, Japan, in the northernmost part of Honshu approximately 400 miles north of Tokyo. The famous hot spring is situated at 2,800 feet elevation with stunning views of the Hakkoda Mountains and surrounding wilderness.",
+  directions: "From Tokyo, take the JR Tohoku Shinkansen to Aomori Station then transfer to a bus to Sukayu Onsen. From Sendai, take the JR Tohoku Shinkansen to Aomori then transfer to the onsen. The famous onsen is easily accessible year-round.",
+  accessibilityDetails: "Sukayu Onsen is accessible year-round with comprehensive onsen facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and mixed-gender enjoyment. The mountain setting provides a peaceful environment for visitors seeking a famous Japanese onsen experience with a large mixed-gender bath.",
+  hotSpringDetails: "The famous onsen features a large mixed-gender hot spring bath with temperatures ranging from 104-140°F. The therapeutic waters are rich in sulfur minerals and flow from natural geothermal sources. The mountain setting provides a unique environment for enjoying traditional Japanese onsen baths in a large mixed-gender setting. The onsen offers comprehensive spa services and traditional accommodations to complement the famous experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The famous onsen emphasizes traditional Japanese onsen culture and mixed-gender practices. Best visited in winter for therapeutic benefits and mountain experiences. The location provides excellent access to Hakkoda Mountains attractions. The mountain setting offers a famous and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural sulfur waters.",
 },
 {
   id: "unzen-onsen",
@@ -20984,6 +20993,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Unzen Onsen, Nagasaki Prefecture, Japan",
+  website: "unzen-onsen.com",
+  detailedDescription: "Unzen Onsen is a historic hot spring resort in the Unzen volcanic area, famous for its steaming hells in Nagasaki Prefecture, Japan. This historic destination offers visitors a volcanic onsen experience with therapeutic sulfur waters and authentic Japanese hospitality in the beautiful Unzen setting. The historic resort's volcanic approach and steaming hells location create a special destination for those seeking a historic Japanese onsen experience in a volcanic area.",
+  location: "Located in Unzen, Nagasaki Prefecture, Japan, in the Unzen volcanic area approximately 300 miles southwest of Osaka. The historic hot spring resort is situated at 2,100 feet elevation with stunning views of Mount Unzen and the steaming hells.",
+  directions: "From Osaka, take the JR Limited Express to Nagasaki Station then transfer to a bus to Unzen Onsen. From Fukuoka, take the JR Kyushu Shinkansen to Nagasaki then transfer to the resort. The historic resort is easily accessible year-round.",
+  accessibilityDetails: "Unzen Onsen is accessible year-round with comprehensive resort facilities. The property offers accessible accommodations, bath areas, spa facilities, and traditional amenities designed for guest comfort and volcanic enjoyment. The mountain setting provides a peaceful environment for visitors seeking a historic Japanese onsen experience in a volcanic area.",
+  hotSpringDetails: "The historic resort features volcanic hot spring baths with temperatures ranging from 104-185°F. The therapeutic waters are rich in sulfur minerals and flow from natural geothermal sources. The volcanic setting provides a unique environment for enjoying traditional Japanese onsen baths near steaming hells. The resort offers comprehensive spa services and traditional accommodations to complement the historic volcanic experience.",
+  tips: "Reservations essential for accommodations and spa treatments. The historic resort emphasizes traditional Japanese onsen culture and volcanic practices. Best visited year-round for therapeutic benefits and volcanic experiences. The location provides excellent access to Unzen Jigoku and Mount Unzen attractions. The volcanic setting offers a historic and therapeutic Japanese onsen experience. The traditional treatments provide exceptional therapeutic benefits from natural sulfur waters.",
 },
 {
   id: "yudanaka-onsen",
