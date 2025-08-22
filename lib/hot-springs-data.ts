@@ -21625,6 +21625,15 @@ export const hotSpringsData: HotSpring[] = [
   image: "Rudas Baths.jpg",
   rating: 4.7,
   clothingOptional: false,
+  // Enhanced detailed information
+  address: "Döbrentei tér 9, 1013 Budapest, Hungary",
+  website: "rudasfurdo.hu",
+  detailedDescription: "Rudas Baths are historic Turkish-style baths dating from the 16th century, featuring an octagonal pool under a 10-meter cupola. The baths have gender-separated days and offer traditional thermal bathing experiences. This magnificent thermal bath complex represents one of the finest examples of Turkish bath architecture in Budapest and provides visitors with an authentic traditional thermal bathing experience in a historic setting.",
+  location: "Located in Budapest, Hungary, at the foot of Gellért Hill approximately 1 mile south of the city center. The baths are situated in a historic area near the Danube River at 400 feet elevation.",
+  directions: "From Budapest city center, take the M4 metro line to Szent Gellért tér station. From Liberty Bridge, walk south to the baths. The facility is easily accessible by public transportation and well-marked.",
+  accessibilityDetails: "Rudas Baths is fully accessible year-round with paved parking, accessible facilities, and accommodations. The historic bath complex and modern spa amenities are designed to accommodate visitors of all mobility levels. The facility offers a welcoming environment for visitors seeking traditional thermal bathing experiences.",
+  hotSpringDetails: "The thermal baths feature an octagonal pool with temperatures ranging from 61-108°F. The mineral water is rich in sulfate, calcium, magnesium, bicarbonate, and fluoride and flows from natural geothermal sources. The facility includes traditional Turkish-style baths with gender-separated days. The water flows continuously from the spring source and the facility offers various medical treatments and spa services.",
+  tips: "Open year-round with varying seasonal hours. Admission fees apply. Swimming suits required. The baths have gender-separated days. Best visited year-round, with each season offering different experiences. The historic significance and traditional Turkish architecture make this a unique destination. The area provides opportunities to experience Budapest's famous thermal bath culture and enjoy traditional Turkish bathing. The Gellért Hill location offers beautiful views of the Danube River and city.",
 },
 {
   id: "lukacs-baths-hu",
