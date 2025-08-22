@@ -2582,6 +2582,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Safford, AZ 85546",
+    website: "N/A",
+    detailedDescription: "Hot Well Dunes Hot Springs are unique hot springs surrounded by sand dunes in southeastern Arizona near Safford, featuring natural artesian well pools with temperatures of 106-118°F in a surreal desert landscape. These natural hot springs offer visitors a truly unique desert experience with soaking in natural pools created by an artesian well, surrounded by beautiful sand dunes. The surreal desert landscape and artesian well create one of Arizona's most distinctive hot springs destinations.",
+    location: "Located near Safford, Arizona, in southeastern Arizona approximately 150 miles east of Phoenix. The hot springs are situated at 2,700 feet elevation in the sand dunes region.",
+    directions: "From Phoenix, take US-60 east toward Globe, then continue east to Safford. Follow local roads to reach the Hot Well Dunes area. The hot springs are easily accessible by car with parking available.",
+    accessibilityDetails: "Hot Well Dunes Hot Springs are easily accessible with good road access and parking available. The area has no facilities or services. The natural pools are easily accessible once you reach the site. The sand dunes setting provides a unique desert environment for soaking.",
+    hotSpringDetails: "The hot springs feature natural artesian well pools with temperatures ranging from 106-118°F, providing comfortable soaking temperatures. The pools are created by natural artesian wells and contain sulfur, sodium, and magnesium minerals. Pool sizes vary and can accommodate several people. The sand dunes setting provides a unique backdrop for soaking in the natural pools.",
+    tips: "This is a clothing optional location. Bring water, snacks, and supplies as there are no facilities. The sand dunes setting provides a unique desert experience for soaking. Best visited during cooler months (October-April) to avoid dangerous desert heat. Summer visits can be life-threatening due to extreme temperatures. The area offers excellent opportunities for experiencing the surreal sand dunes landscape. Practice Leave No Trace principles to preserve this unique desert environment. The location provides easy access to nearby attractions including the Gila River and Mount Graham. This is one of Arizona's most unique hot springs destinations with its artesian well and sand dunes setting.",
   },
   {
     id: "indian-hot-springs",
@@ -2616,6 +2625,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Clifton, AZ 85533",
+    website: "N/A",
+    detailedDescription: "Indian Hot Springs are historic hot springs with significant cultural importance to local Native American tribes, located near Clifton, Arizona, featuring natural pools with temperatures of 100-112°F in a mountainous desert setting. These culturally significant hot springs offer visitors a unique opportunity to experience natural mineral soaking while learning about the rich Native American history and cultural significance of the area. The mountainous desert setting and cultural heritage create a meaningful hot springs experience.",
+    location: "Located near Clifton, Arizona, in southeastern Arizona approximately 200 miles east of Phoenix. The hot springs are situated at 3,500 feet elevation in the mountainous desert region.",
+    directions: "From Phoenix, take US-60 east toward Globe, then continue east to Clifton. Follow local roads to reach the Indian Hot Springs area. The hot springs require a moderate hike to access.",
+    accessibilityDetails: "Indian Hot Springs requires a moderate hike to reach the natural pools. The area has no facilities or services. The mountainous desert setting may require careful navigation. The cultural significance of the site requires respectful behavior and appreciation for Native American heritage.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-112°F, providing comfortable soaking temperatures. The pools are formed naturally by geothermal activity and contain sulfur, calcium, and iron minerals. Pool sizes vary and can accommodate several people. The mountainous desert setting provides a beautiful backdrop for soaking.",
+    tips: "Bring water, snacks, and supplies as there are no facilities. The cultural significance requires respectful behavior and appreciation for Native American heritage. The mountainous desert setting provides excellent opportunities for experiencing the natural landscape. Best visited year-round with each season offering different experiences. The area offers excellent opportunities for learning about Native American history and culture. Practice Leave No Trace principles to preserve this culturally significant site. The location provides easy access to nearby attractions including Coronado National Forest and the Gila River. This is one of Arizona's most culturally significant hot springs destinations.",
   },
   {
     id: "kachina-mineral-spa",
@@ -2650,6 +2668,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Desert Hot Springs, CA 92241",
+    website: "N/A",
+    detailedDescription: "Kachina Mineral Spa is a modern spa facility featuring natural mineral hot springs with therapeutic properties, located in Desert Hot Springs, California, offering temperatures of 98-108°F and full-service wellness treatments. This comprehensive spa facility combines natural mineral hot springs with modern wellness treatments, providing visitors with a complete relaxation and therapeutic experience in the beautiful Coachella Valley. The modern amenities and therapeutic mineral waters create an ideal wellness destination.",
+    location: "Located in Desert Hot Springs, California, in the Coachella Valley approximately 20 miles north of Palm Springs. The spa is situated at 1,200 feet elevation in the desert valley region.",
+    directions: "From Palm Springs, take CA-111 north to Desert Hot Springs, then follow local roads to the Kachina Mineral Spa. The modern facility is easily accessible by car with parking available.",
+    accessibilityDetails: "Kachina Mineral Spa is easily accessible with good road access and parking available. The modern spa facility offers accessible accommodations and facilities with comprehensive wellness services. The spa staff provides assistance to ensure all guests can enjoy the hot springs and wellness treatments.",
+    hotSpringDetails: "The spa features natural mineral hot springs with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in lithium, sodium, and potassium and flows from natural geothermal sources. The spa offers both indoor and outdoor soaking options with comprehensive wellness facilities and therapeutic treatments.",
+    tips: "Reservations are recommended, especially during peak tourist season. The spa offers comprehensive wellness packages including therapeutic treatments, dining, and accommodations. Swimming suits are required. The modern facility provides a complete wellness experience. Best visited during cooler months (October-May) when desert weather is most pleasant. The spa offers guided wellness activities, therapeutic treatments, and fine dining. The location provides easy access to nearby attractions including Palm Springs and Joshua Tree National Park. This is one of the Coachella Valley's premier wellness destinations.",
   },
   {
     id: "kaiser-warm-springs",
