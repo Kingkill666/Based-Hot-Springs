@@ -4343,6 +4343,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Paso Robles Hot Springs, Paso Robles, CA 93446",
+    website: "pasorobleshotsprings.com",
+    detailedDescription: "Paso Robles Hot Springs is a wine country hot springs located in Paso Robles, California, featuring mineral pools with temperatures of 98-104°F, comprehensive spa treatments, and Paso Robles wine region access. This wine country hot springs offers visitors a luxurious hot springs experience with excellent opportunities for relaxation and wine tasting in the beautiful Central Coast setting. The wine country location and spa treatments create an ideal hot springs destination.",
+    location: "Located in Paso Robles, California, in the Central Coast wine region approximately 200 miles north of Los Angeles. The hot springs are situated at 700 feet elevation in the wine country region.",
+    directions: "From Los Angeles, take US-101 north to Paso Robles, then follow local roads to the hot springs. The wine country facility is easily accessible by car with parking available for guests.",
+    accessibilityDetails: "Paso Robles Hot Springs is easily accessible with good road access and parking available. The wine country facility offers accessible accommodations and facilities with comprehensive wellness services. The mineral pools provide accessible soaking options in the wine country setting.",
+    hotSpringDetails: "The hot springs feature mineral pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and potassium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The wine country setting provides beautiful views while soaking.",
+    tips: "Reservations are recommended, especially during peak wine country seasons. The facility offers comprehensive wellness packages including mineral soaking, spa treatments, and wine region access. Swimming suits are required. The wine country facility provides a complete wellness experience in the beautiful Paso Robles wine region. Best visited year-round with each season offering different wine country experiences. The location provides easy access to nearby attractions including Paso Robles wineries and Hearst Castle. This is one of California's premier wine country hot springs destinations with unparalleled wine region access.",
   },
   {
     id: "remington-hot-springs",
@@ -4381,6 +4390,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Remington Hot Springs, Kernville, CA 93238",
+    website: "N/A",
+    detailedDescription: "Remington Hot Springs is a riverside hot springs located along the Kern River near Kernville, California, featuring natural rock pools with temperatures of 98-108°F and Sierra Nevada mountain views. These riverside hot springs offer visitors a unique soaking experience with excellent opportunities for river recreation and mountain viewing in the beautiful Sierra Nevada setting. The riverside location and mountain backdrop create an ideal hot springs destination.",
+    location: "Located along the Kern River near Kernville, California, in the Sierra Nevada approximately 150 miles north of Los Angeles. The hot springs are situated at 2,600 feet elevation along the river.",
+    directions: "From Los Angeles, take local roads north to Kernville, then follow local roads to the Kern River. The riverside hot springs are easily accessible by car with parking available near the pools.",
+    accessibilityDetails: "Remington Hot Springs is easily accessible with good road access and parking available. The riverside location offers accessible soaking options with stunning mountain views. The natural rock pools provide easy access to multiple temperature pools.",
+    hotSpringDetails: "The hot springs feature natural rock pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and iron and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The Sierra Nevada setting provides spectacular mountain views while soaking.",
+    tips: "The hot springs are free to access. The riverside location provides excellent opportunities for river recreation and photography. The location offers multiple temperature pools for different soaking preferences. Best visited year-round with each season offering different river and mountain experiences. The location provides easy access to nearby attractions including Kern River and Lake Isabella. This is one of California's premier riverside hot springs destinations with unparalleled mountain views.",
   },
   {
     id: "saline-valley-hot-springs",
@@ -4423,6 +4441,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Saline Valley Hot Springs, Lone Pine, CA 93545",
+    website: "N/A",
+    detailedDescription: "Saline Valley Hot Springs is a remote Death Valley area hot springs located near Lone Pine, California, featuring natural pools with temperatures of 98-108°F, clothing-optional soaking, and desert wilderness setting. These remote hot springs offer visitors a true wilderness experience with excellent opportunities for solitude and natural immersion in the beautiful desert setting. The remote location and desert wilderness create one of California's most authentic hot springs experiences.",
+    location: "Located near Lone Pine, California, in the Death Valley area approximately 200 miles northeast of Los Angeles. The hot springs are situated at 1,900 feet elevation in the desert wilderness.",
+    directions: "From Los Angeles, take local roads northeast to Lone Pine, then follow remote desert roads to the hot springs. A challenging drive is required to reach the hot springs. The exact route requires detailed planning and desert navigation skills.",
+    accessibilityDetails: "Saline Valley Hot Springs requires a challenging drive through remote desert areas, making it one of California's most difficult hot springs to reach. The wilderness location has no facilities or services. Desert navigation skills and emergency preparedness are essential. Only experienced desert travelers should attempt to visit.",
+    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 98-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, calcium, magnesium, and boron and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The desert wilderness setting provides beautiful views while soaking.",
+    tips: "This is a clothing optional location. Bring extensive supplies including extra water, food, emergency equipment, and navigation tools. The challenging drive requires excellent vehicle condition and desert experience. Best visited during cooler months (October through April) to avoid dangerous desert heat. The wilderness location provides excellent opportunities for solitude and natural immersion. Practice Leave No Trace principles to preserve this pristine desert environment. This is one of California's most remote and authentic hot springs destinations.",
   },
   {
     id: "slates-hot-springs",
