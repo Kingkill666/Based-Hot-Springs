@@ -18298,6 +18298,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Squaw Bath Hot Springs, Bridgeport, CA 93517",
+    website: "N/A",
+    detailedDescription: "Squaw Bath Hot Springs features primitive, remote hot springs pools near Bridgeport, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a beautiful mountain setting. The primitive nature and remote location create a special destination for those seeking an authentic, natural hot springs experience in the Sierra Nevada mountains.",
+    location: "Located near Bridgeport, California, approximately 200 miles east of San Francisco in the Sierra Nevada mountains. The hot springs are situated at 7,000 feet elevation with stunning views of the surrounding mountains and alpine landscape.",
+    directions: "From San Francisco, take I-80 east to US-395 north to Bridgeport. From Reno, take US-395 south to Bridgeport. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Squaw Bath Hot Springs requires moderate hiking to access. The mountain terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural mountain terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations in the scenic mountain setting. The primitive location provides a peaceful and authentic hot springs experience in Sierra Nevada wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during summer and fall months. The primitive mountain setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during summer and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring the Sierra Nevada mountains and Bridgeport area. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "stewart-mineral-hot-springs-ca",
@@ -18326,6 +18335,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "4617 Stewart Springs Rd, Weed, CA 96094",
+    website: "stewartmineralsprings.com",
+    detailedDescription: "Stewart Mineral Hot Springs is a retreat center featuring mineral hot springs baths, sauna, and lodging near Weed, California. This comprehensive destination offers visitors a therapeutic hot springs experience with mineral soaking combined with wellness services in the beautiful Mount Shasta region. The retreat center's comprehensive amenities and mountain setting create a special and restorative hot springs retreat.",
+    location: "Located near Weed, California, approximately 300 miles north of San Francisco in the Mount Shasta region. The retreat center is situated at 3,500 feet elevation with stunning views of Mount Shasta and the surrounding mountain landscape.",
+    directions: "From San Francisco, take I-5 north to Weed. From Portland, take I-5 south to Weed. The comprehensive retreat center is located on Stewart Springs Road and is easily accessible year-round.",
+    accessibilityDetails: "Stewart Mineral Hot Springs is accessible year-round with comprehensive retreat center facilities. The property offers accessible accommodations, bath areas, sauna facilities, and spa services designed for guest comfort and wellness. The mountain setting provides a peaceful environment for visitors seeking a therapeutic hot springs experience.",
+    hotSpringDetails: "The retreat center features mineral hot springs baths with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. Bath options include various soaking areas and sauna facilities. The mountain setting provides a therapeutic environment for enjoying the mineral waters. The retreat center offers comprehensive spa services and lodging.",
+    tips: "Reservations essential for accommodations and spa treatments. The retreat center emphasizes therapeutic wellness and mountain experiences. Best visited year-round with seasonal mountain temperatures. Clothing optional in designated areas. The location provides excellent access to Mount Shasta attractions and outdoor recreation. The comprehensive setting offers a therapeutic and restorative hot springs experience. The spa services and lodging provide exceptional mountain wellness amenities.",
   },
   {
     id: "surprise-valley-hot-springs-ca",
@@ -18354,6 +18372,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Surprise Valley Hot Springs, Cedarville, CA 96104",
+    website: "surprisevalleyhotsprings.com",
+    detailedDescription: "Surprise Valley Hot Springs is a resort featuring private hot springs tubs and mountain views in Cedarville, California. This intimate destination offers visitors a personalized hot springs experience with therapeutic mineral soaking combined with mountain scenery in the beautiful Warner Mountains. The resort's private setting and mountain views create a special and romantic hot springs retreat.",
+    location: "Located in Cedarville, California, approximately 400 miles northeast of San Francisco in the Warner Mountains. The resort is situated at 4,700 feet elevation with stunning views of the surrounding mountains and alpine landscape.",
+    directions: "From San Francisco, take I-80 east to US-395 north to Cedarville. From Reno, take US-395 north to Cedarville. The intimate resort is easily accessible via paved roads year-round.",
+    accessibilityDetails: "Surprise Valley Hot Springs is accessible year-round with resort facilities. The property offers accessible accommodations, private tub areas, and basic amenities designed for guest comfort and privacy. The mountain setting provides a peaceful environment for visitors seeking a personalized hot springs experience.",
+    hotSpringDetails: "The resort features private hot springs tubs with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The private setting provides an intimate environment for enjoying the therapeutic mineral waters. The resort's mountain views and alpine setting complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and private tub sessions. The intimate resort emphasizes privacy and mountain experiences. Best visited year-round with seasonal mountain temperatures. Swimming suits required. The location provides excellent access to Cedarville attractions and Warner Mountains recreation. The private setting offers a romantic and intimate hot springs experience. The mountain views provide exceptional alpine ambiance.",
   },
   {
     id: "tecopa-mud-hot-springs-ca",
@@ -18382,6 +18409,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Tecopa Mud Hot Springs, Tecopa, CA 92389",
+    website: "N/A",
+    detailedDescription: "Tecopa Mud Hot Springs features natural mud-bottomed hot springs pools in Tecopa, California. This unique destination offers visitors a distinctive hot springs experience with therapeutic mineral soaking combined with natural mud treatments in the beautiful California desert. The natural mud-bottomed pools and skin treatment focus create a special and therapeutic hot springs retreat.",
+    location: "Located in Tecopa, California, approximately 200 miles northeast of Los Angeles in the California desert. The hot springs are situated at 1,320 feet elevation with views of the surrounding desert landscape and nearby Death Valley National Park.",
+    directions: "From Los Angeles, take I-15 north to Baker, then take CA-127 north to Tecopa. From Las Vegas, take I-15 south to Baker, then take CA-127 north to Tecopa. The natural hot springs are easily accessible via paved roads year-round.",
+    accessibilityDetails: "Tecopa Mud Hot Springs is accessible year-round with natural facilities. The property offers basic camping facilities and natural pool areas designed for guest comfort. The natural setting provides a peaceful environment for visitors seeking a therapeutic hot springs experience.",
+    hotSpringDetails: "The hot springs feature natural mud-bottomed pools with temperatures ranging from 102-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The natural mud-bottomed setting provides a therapeutic environment for enjoying the mineral waters and skin treatments. The natural location offers camping opportunities.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during fall to spring months. The natural desert setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during fall to spring when temperatures are more moderate. The location provides excellent opportunities for exploring Death Valley National Park and the surrounding desert. The natural mud treatments provide exceptional skin therapy benefits.",
   },
   {
     id: "the-o-hot-springs-ca",
