@@ -18446,6 +18446,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "12689 Reposo Way, Desert Hot Springs, CA 92240",
+    website: "theospa.com",
+    detailedDescription: "The O Spa is a boutique spa hotel featuring a mineral water pool and wellness focus in Desert Hot Springs, California. This intimate destination offers visitors a rejuvenating hot springs experience with therapeutic mineral soaking combined with wellness services in the beautiful California desert. The boutique hotel's wellness approach and healing atmosphere create a special and restorative hot springs retreat.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The boutique hotel is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the boutique hotel. The intimate property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "The O Spa is accessible year-round with boutique hotel facilities. The property offers accessible accommodations, pool areas, and spa facilities designed for guest comfort and wellness. The healing setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The boutique hotel features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The wellness-focused setting provides a healing environment for enjoying the therapeutic mineral waters. The boutique hotel offers spa services to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The boutique hotel emphasizes wellness and healing. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The wellness setting offers a healing and rejuvenating hot springs experience. The spa services provide additional therapeutic benefits.",
   },
   {
     id: "turtle-back-mesa-hot-springs-ca",
@@ -18474,6 +18483,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "12689 Reposo Way, Desert Hot Springs, CA 92240",
+    website: "turtlebackmesa.com",
+    detailedDescription: "Turtle Back Mesa Hot Springs is a boutique retreat featuring a mineral water pool and wellness focus in Desert Hot Springs, California. This intimate destination offers visitors a rejuvenating hot springs experience with therapeutic mineral soaking combined with wellness services in the beautiful California desert. The boutique retreat's wellness approach and healing atmosphere create a special and restorative hot springs retreat.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The boutique retreat is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the boutique retreat. The intimate property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Turtle Back Mesa Hot Springs is accessible year-round with boutique retreat facilities. The property offers accessible accommodations, pool areas, and spa facilities designed for guest comfort and wellness. The healing setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The boutique retreat features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The wellness-focused setting provides a healing environment for enjoying the therapeutic mineral waters. The boutique retreat offers spa services to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The boutique retreat emphasizes wellness and healing. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The wellness setting offers a healing and rejuvenating hot springs experience. The spa services provide additional therapeutic benefits.",
   },
   {
     id: "tuscan-hot-springs-ca",
@@ -18502,6 +18520,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "12689 Reposo Way, Desert Hot Springs, CA 92240",
+    website: "tuscanhotsprings.com",
+    detailedDescription: "Tuscan Hot Springs is a boutique hotel and spa featuring a mineral water pool and wellness focus in Desert Hot Springs, California. This intimate destination offers visitors a rejuvenating hot springs experience with therapeutic mineral soaking combined with wellness services in the beautiful California desert. The boutique hotel's wellness approach and healing atmosphere create a special and restorative hot springs retreat.",
+    location: "Located in Desert Hot Springs, California, approximately 120 miles east of Los Angeles in the Coachella Valley. The boutique hotel is situated at 1,076 feet elevation with views of the surrounding desert landscape and nearby mountains.",
+    directions: "From Los Angeles, take I-10 east to Desert Hot Springs. From Palm Springs, take Dillon Road east to the boutique hotel. The intimate property is well-marked and easily accessible via paved roads year-round.",
+    accessibilityDetails: "Tuscan Hot Springs is accessible year-round with boutique hotel facilities. The property offers accessible accommodations, pool areas, and spa facilities designed for guest comfort and wellness. The healing setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
+    hotSpringDetails: "The boutique hotel features a mineral water pool with temperatures ranging from 98-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. The wellness-focused setting provides a healing environment for enjoying the therapeutic mineral waters. The boutique hotel offers spa services to complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The boutique hotel emphasizes wellness and healing. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Palm Springs attractions and Joshua Tree National Park. The wellness setting offers a healing and rejuvenating hot springs experience. The spa services provide additional therapeutic benefits.",
   },
   {
     id: "upvalley-hot-springs-ca",
@@ -18530,6 +18557,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "1865 Lincoln Ave, Calistoga, CA 94515",
+    website: "upvalleyinn.com",
+    detailedDescription: "UpValley Inn and Hot Springs is a modern hotel featuring geothermal mineral pools and spa in Calistoga, California. This contemporary destination offers visitors a sophisticated hot springs experience with therapeutic mineral soaking combined with modern amenities in the heart of Napa Valley wine country. The modern hotel's elegant atmosphere and comprehensive spa services create a special and memorable hot springs retreat.",
+    location: "Located in Calistoga, California, approximately 75 miles north of San Francisco in the Napa Valley. The modern hotel is situated at 348 feet elevation with stunning views of the surrounding vineyards and wine country landscape.",
+    directions: "From San Francisco, take US-101 north to CA-37 east to CA-121 north to Calistoga. From Sacramento, take I-80 west to CA-12 west to Calistoga. The modern hotel is located on Lincoln Avenue and is easily accessible year-round.",
+    accessibilityDetails: "UpValley Inn and Hot Springs is fully accessible year-round with comprehensive modern hotel facilities. The property offers accessible accommodations, pool access with lifts and ramps, accessible spa facilities, and ADA-compliant pathways throughout the hotel. The luxury setting ensures broad accessibility for all guests.",
+    hotSpringDetails: "The modern hotel features geothermal mineral pools with temperatures ranging from 96-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking areas and luxury spa facilities. The modern setting provides a sophisticated environment for enjoying the therapeutic mineral waters. The hotel's spa services and dining options complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The modern hotel offers comprehensive luxury packages and dining experiences. Best visited year-round with consistent wine country temperatures. Swimming suits required. The location provides excellent access to Calistoga attractions and Napa Valley wine tours. The modern hotel setting offers a sophisticated and memorable hot springs experience. The spa services and dining provide exceptional amenities.",
   },
   {
     id: "warner-hot-springs-ca",
