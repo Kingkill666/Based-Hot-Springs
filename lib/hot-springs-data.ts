@@ -17078,6 +17078,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Hunt Hot Springs, Big Bend, CA 96011",
+    website: "N/A",
+    detailedDescription: "Hunt Hot Springs features primitive, riverside hot springs pools along the Pit River near Big Bend, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a beautiful river setting. The primitive nature and riverside location create a special destination for those seeking an authentic, natural hot springs experience in Northern California's wilderness.",
+    location: "Located near Big Bend, California, approximately 250 miles north of San Francisco in Northern California. The hot springs are situated at 1,800 feet elevation with stunning views of the Pit River and surrounding mountain landscape.",
+    directions: "From San Francisco, take I-80 east to CA-89 north to Big Bend. From Redding, take CA-299 east to Big Bend. The hot springs require moderate hiking to access from the nearest road. Follow established trails and be prepared for primitive conditions.",
+    accessibilityDetails: "Hunt Hot Springs requires moderate hiking to access. The riverside terrain may be challenging for some visitors. The springs are not wheelchair accessible due to the primitive location and natural river terrain. Visitors should be prepared for primitive conditions and seasonal access.",
+    hotSpringDetails: "The hot springs feature primitive, natural pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed by natural rock formations along the Pit River. The primitive location provides a peaceful and authentic hot springs experience in Northern California wilderness.",
+    tips: "This is a clothing optional hot spring. The facility operates seasonally during spring and fall months. The primitive riverside setting requires self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. Best visited during spring and fall when access is easier and weather is favorable. The location provides excellent opportunities for exploring the Pit River and surrounding wilderness. Respect the natural environment and practice Leave No Trace principles.",
   },
   {
     id: "indian-hot-springs-ca",
@@ -17105,6 +17114,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Indian Hot Springs, Niland, CA 92257",
+    website: "indianhotsprings.com",
+    detailedDescription: "Indian Hot Springs is a historic, rustic hot springs facility featuring pools and camping near Niland, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a historic desert setting. The rustic atmosphere and historic character create a special destination for those seeking an authentic, traditional hot springs experience in the California desert.",
+    location: "Located near Niland, California, approximately 150 miles southeast of Los Angeles in the Imperial Valley. The facility is situated at -180 feet elevation (below sea level) with views of the surrounding desert landscape and nearby Salton Sea.",
+    directions: "From Los Angeles, take I-10 east to CA-111 south to Niland. From San Diego, take I-8 east to CA-111 north to Niland. The historic facility is well-marked and accessible via paved roads year-round.",
+    accessibilityDetails: "Indian Hot Springs operates seasonally during fall to spring months with rustic facility amenities. The property offers basic amenities including restrooms, parking, and camping areas. The historic setting provides a traditional environment for visitors seeking an authentic hot springs experience.",
+    hotSpringDetails: "The facility features historic hot springs pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The rustic setting provides a traditional environment for enjoying the therapeutic mineral waters. The facility offers camping options for overnight stays.",
+    tips: "This is a clothing optional facility. The facility operates seasonally during fall to spring months when temperatures are moderate. Best visited during fall to spring when desert temperatures are comfortable. Reservations recommended for camping. The location provides excellent access to Niland attractions and Salton Sea activities. The historic setting offers a traditional and authentic hot springs experience. The rustic atmosphere provides a unique desert hot springs experience.",
   },
   {
     id: "jacumba-hot-springs-ca",
@@ -17133,6 +17151,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "44664 Old Highway 80, Jacumba, CA 91934",
+    website: "jacumbahotsprings.com",
+    detailedDescription: "Jacumba Hot Springs is a historic resort and spa featuring mineral pools and lodging in Jacumba, California. This iconic destination offers visitors a comprehensive hot springs experience with therapeutic mineral soaking combined with historic charm in the beautiful Anza-Borrego Desert. The historic resort's authentic atmosphere and comprehensive amenities create a special and memorable hot springs retreat.",
+    location: "Located in Jacumba, California, approximately 80 miles east of San Diego in the Anza-Borrego Desert region. The resort is situated at 2,760 feet elevation with stunning views of the surrounding desert landscape and nearby mountains.",
+    directions: "From San Diego, take I-8 east to Jacumba. From El Centro, take I-8 west to Jacumba. The historic resort is located on Old Highway 80 and is easily accessible year-round.",
+    accessibilityDetails: "Jacumba Hot Springs is accessible year-round with comprehensive resort facilities. The historic property offers accessible accommodations, pool areas, spa facilities, and dining options designed for guest comfort. The resort setting provides a welcoming environment for visitors seeking a complete hot springs experience.",
+    hotSpringDetails: "The resort features mineral pools with temperatures ranging from 100-104°F. The mineral water is rich in sodium and flows from natural geothermal sources. Pool options include various soaking areas and spa facilities. The historic setting provides an authentic environment for enjoying the therapeutic mineral waters. The resort's dining options complement the hot springs experience.",
+    tips: "Reservations essential for accommodations and spa treatments. The historic resort offers comprehensive packages and dining experiences. Best visited year-round with consistent desert temperatures. Swimming suits required. The location provides excellent access to Anza-Borrego Desert attractions and Jacumba activities. The historic resort setting offers an authentic and memorable hot springs experience. The dining options provide exceptional culinary experiences.",
   },
   {
     id: "keough-hot-springs-ca",
