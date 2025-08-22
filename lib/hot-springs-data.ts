@@ -7240,6 +7240,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 3.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Stinky Hot Springs, Fillmore, UT 84631",
+    website: "N/A",
+    detailedDescription: "Stinky Hot Springs is a small, natural hot spring located near Fillmore, Utah, featuring therapeutic mineral waters with temperatures of 100-104°F and a distinctive sulfur smell that gives the springs their memorable name. This natural hot spring offers visitors an authentic and rustic soaking experience in the beautiful Utah countryside. The strong sulfur smell is characteristic of the therapeutic mineral content and creates a unique hot springs experience.",
+    location: "Located near Fillmore, Utah, approximately 150 miles south of Salt Lake City in the scenic Sevier Valley. The hot springs are situated at 5,100 feet elevation in the rural Utah landscape.",
+    directions: "From Salt Lake City, take I-15 south to Nephi, then take US-50 south to Fillmore. From Cedar City, take US-50 north to Fillmore. Follow local roads from Fillmore to reach the hot springs area. The springs are accessible via well-marked local roads.",
+    accessibilityDetails: "Stinky Hot Springs is easily accessible year-round with good road access and parking available. The natural setting provides easy access to the small hot spring pool. The area has no formal facilities but offers a peaceful and natural environment for soaking.",
+    hotSpringDetails: "The hot spring features a small, natural pool with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The pool is small and intimate, perfect for a few people at a time. The distinctive sulfur smell is characteristic of the therapeutic mineral content.",
+    tips: "This is a clothing optional location. The strong sulfur smell is normal and characteristic of these therapeutic springs. Best visited during spring and fall when temperatures are moderate. Bring plenty of water and supplies as there are no facilities in the area. The small pool provides an intimate soaking experience. Swimming suits recommended. Practice Leave No Trace principles to preserve this natural hot spring environment. The location provides excellent opportunities for experiencing authentic Utah hot springs.",
   },
   {
     id: "udy-hot-springs-ut",
@@ -7268,6 +7277,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 3.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Udy Hot Springs, Honeyville, UT 84314",
+    website: "N/A (Closed)",
+    detailedDescription: "Udy Hot Springs is a historic hot springs resort that is now closed, located near Honeyville, Utah, featuring extremely hot mineral waters with temperatures of 120-134°F. This historic resort was once a popular destination for therapeutic mineral soaking in the beautiful Utah countryside. While currently closed, the site represents an important part of Utah's hot springs heritage and history.",
+    location: "Located near Honeyville, Utah, approximately 60 miles north of Salt Lake City in the scenic Cache Valley. The historic resort was situated at 4,300 feet elevation in the rural Utah landscape.",
+    directions: "From Salt Lake City, take I-15 north to Brigham City, then take local roads to Honeyville. The historic resort site is located near Crystal Hot Springs. Note that the resort is currently closed and not accessible to the public.",
+    accessibilityDetails: "Udy Hot Springs is currently closed and not accessible to the public. The historic resort site represents an important part of Utah's hot springs heritage but is not available for visits. The site serves as a reminder of the region's rich hot springs history.",
+    hotSpringDetails: "The historic resort featured extremely hot mineral waters with temperatures ranging from 120-134°F, providing very hot therapeutic soaking experiences. The mineral water was rich in sulfur and flowed from natural geothermal sources. The resort offered various soaking options and accommodations during its operational period.",
+    tips: "This historic resort is currently closed and not accessible to the public. The site represents an important part of Utah's hot springs heritage and history. Visitors interested in hot springs in the area should consider nearby Crystal Hot Springs which remains operational. The historic significance of the site is preserved in local history and hot springs heritage.",
   },
   {
     id: "veyo-pool-hot-springs-ut",
@@ -7297,6 +7315,15 @@ export const hotSpringsData: HotSpring[] = [
       "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Veyo Pool Hot Springs, Veyo, UT 84782",
+    website: "veyopool.com",
+    detailedDescription: "Veyo Pool Hot Springs is a family-friendly hot spring pool and resort located in a scenic canyon near Veyo, Utah, featuring comfortable mineral waters with temperatures of 96-100°F and comprehensive resort amenities. This family-oriented destination offers visitors a comfortable and accessible hot springs experience with resort accommodations, camping facilities, and recreational activities in the beautiful Pine Valley Mountains setting. The resort's combination of natural hot springs and family-friendly amenities creates a perfect destination for visitors of all ages.",
+    location: "Located in Veyo, Utah, approximately 300 miles south of Salt Lake City in the scenic Pine Valley Mountains region. The resort is situated at 4,200 feet elevation in a beautiful canyon setting surrounded by the Pine Valley Mountains.",
+    directions: "From Salt Lake City, take I-15 south to St. George, then take local roads to Veyo. From Las Vegas, take I-15 north to St. George, then local roads to Veyo. The resort is well-marked and accessible year-round from major highways.",
+    accessibilityDetails: "Veyo Pool Hot Springs is easily accessible year-round with paved road access and comprehensive resort facilities. The resort offers accessible accommodations, camping facilities, and hot springs areas. The family-friendly environment provides a welcoming atmosphere for all guests.",
+    hotSpringDetails: "The resort features a comfortable hot spring pool with temperatures ranging from 96-100°F, providing pleasant soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The resort offers a large pool area with resort amenities and comfortable soaking options. The mineral-rich water provides therapeutic benefits in a family-friendly setting.",
+    tips: "Reservations recommended for accommodations and camping, especially during peak seasons. The resort offers both lodging and camping options for overnight stays. Swimming suits required. Best visited year-round with each season offering different experiences. The location provides excellent access to Pine Valley Mountains attractions and outdoor activities. The resort setting offers a comfortable and family-friendly hot springs experience. The area provides opportunities for exploring the scenic canyon and mountain region.",
   },
   {
     id: "zion-canyon-hot-springs-ut",
