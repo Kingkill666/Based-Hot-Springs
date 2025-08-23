@@ -118,23 +118,23 @@ export default function BasedSprings() {
 
       <div className="relative z-10">
         {/* Header */}
-        <header className="bg-[#E0713B] backdrop-blur-md border-b border-orange-200/50 sticky top-0 z-50 shadow-lg">
+        <header className="bg-white/90 backdrop-blur-md border-b border-blue-200/50 sticky top-0 z-50 shadow-lg">
           <div className="max-w-7xl mx-auto px-4 py-4">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
-                <div className="w-10 h-10 bg-white/20 rounded-xl flex items-center justify-center shadow-lg">
+                <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center shadow-lg">
                   <Droplets className="w-6 h-6 text-white" />
                 </div>
                 <div>
-                  <h1 className="text-2xl font-serif font-bold text-white">Based Springs</h1>
-                  <p className="text-sm text-white/80">Complete US Hot Springs Database</p>
+                  <h1 className="text-2xl font-serif font-bold text-gray-900">Based Springs</h1>
+                  <p className="text-sm text-blue-600">Complete US Hot Springs Database</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
-                <Badge variant="secondary" className="bg-white/20 text-white text-lg px-3 py-1 shadow-sm">
+                <Badge variant="secondary" className="bg-blue-100 text-blue-700 text-lg px-3 py-1 shadow-sm">
                   {hotSpringsData.length} Springs
                 </Badge>
-                <Badge variant="outline" className="text-sm bg-white/20 text-white border-white/30">
+                <Badge variant="outline" className="text-sm bg-white/80">
                   {states.length} US States
                 </Badge>
               </div>
@@ -800,7 +800,7 @@ export default function BasedSprings() {
 
               <div className="text-center mt-4">
                 <p className="text-sm">
-                  Built for Farcaster • Find your next thermal adventure with ease
+                  Find your next thermal adventure with ease
                 </p>
               </div>
             </div>
