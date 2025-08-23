@@ -27,7 +27,7 @@ export default function BasedSprings() {
   const springsPerPage = 12
 
   const filteredSprings = useMemo(() => {
-    const filtered = hotSpringsData.filter((spring) => {
+    let filtered = hotSpringsData.filter((spring) => {
       const matchesSearch =
         spring.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
         spring.state.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -40,6 +40,11 @@ export default function BasedSprings() {
 
       return matchesSearch && matchesState && matchesCountry
     })
+
+    // For the first 10 pages, only show US hot springs
+    if (currentPage <= 10) {
+      filtered = filtered.filter((spring) => spring.country === "United States")
+    }
 
     // Sort the filtered results
     filtered.sort((a, b) => {
@@ -58,7 +63,7 @@ export default function BasedSprings() {
     })
 
     return filtered
-  }, [searchTerm, selectedState, selectedCountry, sortBy])
+  }, [searchTerm, selectedState, selectedCountry, sortBy, currentPage])
 
   const totalPages = Math.ceil(filteredSprings.length / springsPerPage)
   const paginatedSprings = filteredSprings.slice((currentPage - 1) * springsPerPage, currentPage * springsPerPage)
