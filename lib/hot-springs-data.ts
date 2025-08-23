@@ -13769,6 +13769,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Sacajawea Hot Springs, Lowman, ID 83637",
+    website: "N/A",
+    detailedDescription: "Sacajawea Hot Springs is a natural riverside hot springs facility located along the beautiful South Fork Payette River near Lowman, Idaho, featuring natural pools with temperatures of 100-110°F and stunning riverside setting. This natural destination offers visitors an authentic hot springs experience with excellent opportunities for riverside recreation, camping, and natural exploration in the beautiful Idaho landscape. The natural setting and riverside backdrop create a perfect destination for outdoor enthusiasts and nature lovers.",
+    location: "Located along the South Fork Payette River near Lowman, Idaho, approximately 40 miles northeast of Boise in the scenic Boise National Forest region. The natural facility is situated at 4,000 feet elevation with beautiful forest views and access to the South Fork Payette River.",
+    directions: "From Boise, take ID-21 northeast toward Lowman, then follow local roads to the natural facility. The riverside setting is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Sacajawea Hot Springs requires easy access through forested terrain with basic parking facilities. The natural location has parking but no restrooms or services. The riverside setting requires self-sufficiency and proper preparation for outdoor conditions. This is a natural outdoor experience requiring planning.",
+    hotSpringDetails: "The natural facility features riverside pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally along the South Fork Payette River and vary in size. The riverside setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location. The natural location requires self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall when temperatures are ideal for outdoor activities. The riverside location offers excellent opportunities for camping, fishing, and natural exploration. Practice Leave No Trace principles to preserve this pristine natural environment. The location provides access to Lowman attractions and Boise National Forest activities. The riverside setting provides excellent opportunities for photography and nature appreciation.",
   },
   {
     id: "samuels-hot-springs-id",
@@ -13796,6 +13805,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Samuel's Hot Springs, Salmon, ID 83467",
+    website: "N/A",
+    detailedDescription: "Samuel's Hot Springs is a remote primitive hot springs facility located near Salmon, Idaho, featuring natural pools with temperatures of 100-110°F and accessed through challenging terrain. This remote destination offers visitors an authentic hot springs experience with excellent opportunities for wilderness exploration, primitive camping, and natural recreation in the beautiful Idaho landscape. The remote setting and valley backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located near Salmon, Idaho, approximately 30 miles northwest of Salmon in the remote Lemhi Valley region. The primitive facility is situated at 6,200 feet elevation with beautiful valley views and access to the Lemhi Valley.",
+    directions: "From Salmon, take local roads northwest toward the remote location. The primitive facility requires difficult access through remote wilderness terrain. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Samuel's Hot Springs requires difficult access through remote wilderness terrain with no parking or restroom facilities. The primitive location has no services and requires complete self-sufficiency. The remote setting requires extensive preparation and wilderness navigation skills. This is a seasonal facility open during summer months.",
+    hotSpringDetails: "The primitive facility features natural wilderness pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally in the wilderness and vary in size. The wilderness setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location and seasonal facility open during summer months. The primitive location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during summer when access is possible. The wilderness location offers excellent opportunities for primitive camping, hiking, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Salmon attractions and Lemhi Valley activities. The remote setting provides excellent opportunities for solitude and wilderness appreciation.",
   },
   {
     id: "sawtooth-hot-springs-id",
@@ -13824,6 +13842,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Sawtooth Hot Springs, Stanley, ID 83278",
+    website: "N/A",
+    detailedDescription: "Sawtooth Hot Springs is a natural riverside hot springs facility located near Stanley, Idaho, featuring natural pools with temperatures of 100-110°F and stunning mountain views. This natural destination offers visitors an authentic hot springs experience with excellent opportunities for riverside recreation, camping, and mountain exploration in the beautiful Idaho landscape. The natural setting and mountain backdrop create a perfect destination for outdoor enthusiasts and nature lovers.",
+    location: "Located near Stanley, Idaho, approximately 60 miles north of Ketchum in the scenic Sawtooth Mountains region. The natural facility is situated at 6,300 feet elevation with beautiful mountain views and access to the Sawtooth Mountains.",
+    directions: "From Ketchum, take ID-75 north toward Stanley, then follow local roads to the natural facility. The mountain facility requires moderate access through scenic terrain. The exact route requires detailed planning and mountain navigation skills.",
+    accessibilityDetails: "Sawtooth Hot Springs requires moderate access through mountain terrain with no parking or restroom facilities. The natural location has no services and requires self-sufficiency. The mountain setting requires proper preparation and outdoor navigation skills. This is a natural outdoor experience requiring planning.",
+    hotSpringDetails: "The natural facility features riverside pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally along the river and vary in size. The mountain setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location. The natural location requires self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall when temperatures are ideal for outdoor activities. The mountain location offers excellent opportunities for camping, hiking, and natural exploration. Practice Leave No Trace principles to preserve this pristine natural environment. The location provides access to Stanley attractions and Sawtooth Mountains activities. The mountain setting provides excellent opportunities for photography and nature appreciation.",
   },
   {
     id: "south-fork-hot-springs-id",
@@ -13852,6 +13879,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "South Fork Hot Springs, Garden Valley, ID 83622",
+    website: "N/A",
+    detailedDescription: "South Fork Hot Springs is a remote riverside hot springs facility located along the beautiful South Fork Payette River near Garden Valley, Idaho, featuring natural pools with temperatures of 100-110°F and stunning riverside setting. This remote destination offers visitors an authentic hot springs experience with excellent opportunities for riverside recreation, primitive camping, and natural exploration in the beautiful Idaho landscape. The remote setting and riverside backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located along the South Fork Payette River near Garden Valley, Idaho, approximately 50 miles northeast of Boise in the scenic river region. The remote facility is situated at 4,000 feet elevation with beautiful river views and access to the South Fork Payette River.",
+    directions: "From Boise, take ID-21 northeast toward Garden Valley, then follow local roads to the remote facility. The riverside setting requires difficult access through remote terrain. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "South Fork Hot Springs requires difficult access through remote wilderness terrain with no parking or restroom facilities. The remote location has no services and requires complete self-sufficiency. The remote setting requires extensive preparation and wilderness navigation skills. This is a seasonal facility open during summer months.",
+    hotSpringDetails: "The remote facility features riverside pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally along the South Fork Payette River and vary in size. The riverside setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location and seasonal facility open during summer months. The remote location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during summer when access is possible. The riverside location offers excellent opportunities for primitive camping, fishing, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Garden Valley attractions and South Fork Payette River activities. The remote setting provides excellent opportunities for solitude and wilderness appreciation.",
   },
   {
     id: "sunbeam-hot-springs-id",
