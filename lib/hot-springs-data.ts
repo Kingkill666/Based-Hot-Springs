@@ -13438,6 +13438,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Red River Hot Springs, Elk City, ID 83525",
+    website: "redriverhotsprings.com",
+    detailedDescription: "Red River Hot Springs is a rustic hot springs resort located near Elk City, Idaho, featuring a natural pool with temperatures of 100-106°F, comfortable cabins, and camping facilities. This rustic establishment offers visitors an authentic hot springs experience with excellent opportunities for rustic lodging, camping, and natural exploration in the beautiful Idaho landscape. The rustic setting and river backdrop create a perfect destination for outdoor enthusiasts and nature lovers.",
+    location: "Located near Elk City, Idaho, approximately 80 miles southeast of Grangeville in the scenic Red River region. The rustic resort is situated at 4,200 feet elevation with beautiful river views and access to the Red River.",
+    directions: "From Grangeville, take local roads southeast toward Elk City, then follow local roads to the rustic resort. The rustic facility is accessible from major highways with clear signage.",
+    accessibilityDetails: "Red River Hot Springs is easily accessible year-round with full rustic resort facilities and accommodations designed for outdoor enthusiasts. The establishment offers accessible pool facilities, comfortable cabins, and camping options. The rustic resort setting provides welcoming access to hot springs soaking and river recreation.",
+    hotSpringDetails: "The rustic resort features a natural pool with temperatures ranging from 100-106°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pool is large enough for groups and families. The river setting provides beautiful Idaho views while soaking.",
+    tips: "Reservations recommended for cabins and camping, especially during peak summer seasons. The rustic resort offers comprehensive packages including hot springs access, comfortable lodging, and camping facilities. Swimming suits required. The location provides excellent access to Elk City attractions and Red River activities. Best visited during summer when temperatures are perfect for outdoor activities. The rustic setting offers authentic charm combined with therapeutic mineral benefits.",
   },
   {
     id: "riverdale-resort-hot-springs-id",
@@ -13466,6 +13475,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Riverdale Resort Hot Springs, Preston, ID 83263",
+    website: "riverdaleresort.com",
+    detailedDescription: "Riverdale Resort Hot Springs is a family-friendly hot springs resort located near Preston, Idaho, featuring multiple pools with temperatures of 100-104°F, exciting water slides, and camping facilities. This family resort offers visitors a comprehensive hot springs experience with excellent opportunities for family recreation, water activities, and camping in the beautiful Idaho landscape. The family-friendly setting and river backdrop create a perfect destination for family hot springs experiences.",
+    location: "Located near Preston, Idaho, approximately 20 miles north of Logan, Utah in the scenic Bear River region. The family resort is situated at 4,700 feet elevation with beautiful river views and access to the Bear River.",
+    directions: "From Logan, Utah, take US-91 north toward Preston, then follow local roads to the family resort. From Idaho Falls, take US-91 south to Preston. The family resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Riverdale Resort Hot Springs is easily accessible during summer months with full family resort facilities and accommodations designed for families. The establishment offers accessible pool facilities, water slides, camping options, and restaurant services. The family resort setting provides welcoming access to hot springs soaking and river recreation.",
+    hotSpringDetails: "The family resort features multiple pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools vary in size and can accommodate families and groups. The river setting provides beautiful Idaho views while soaking.",
+    tips: "This is a seasonal facility open during summer months. Reservations recommended for camping, especially during peak family seasons. The family resort offers comprehensive packages including hot springs access, water slides, camping facilities, and restaurant services. Swimming suits required. The location provides excellent access to Bear River activities and Preston attractions. Best visited during summer when temperatures are perfect for outdoor activities. The family-friendly setting offers authentic comfort combined with therapeutic mineral benefits.",
   },
   {
     id: "riverside-inn-hot-springs-id",
@@ -13494,6 +13512,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Riverside Inn & Hot Springs, Lava Hot Springs, ID 83246",
+    website: "riversideinnhotsprings.com",
+    detailedDescription: "Riverside Inn & Hot Springs is a historic inn located in the charming town of Lava Hot Springs, Idaho, featuring private hot mineral baths with temperatures of 102-112°F and comfortable lodging. This historic establishment offers visitors a unique hot springs experience with excellent opportunities for private soaking, spa treatments, and relaxation in the beautiful Idaho landscape. The historic setting and riverside backdrop create a perfect destination for intimate hot springs experiences.",
+    location: "Located in Lava Hot Springs, Idaho, approximately 50 miles southeast of Pocatello in the scenic Portneuf River region. The historic inn is situated at 5,200 feet elevation with beautiful river views and access to the Portneuf River.",
+    directions: "From Pocatello, take I-15 south to Lava Hot Springs, then follow local roads to the historic inn. From Idaho Falls, take I-15 north to Lava Hot Springs. The historic inn is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Riverside Inn & Hot Springs is easily accessible year-round with full historic inn facilities and accommodations designed for intimate guests. The establishment offers accessible private bath facilities, comfortable lodging, and spa services. The historic inn setting provides welcoming access to hot springs soaking and spa treatments.",
+    hotSpringDetails: "The historic inn features private hot mineral baths with temperatures ranging from 102-112°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The private baths offer intimate soaking experiences in the historic setting. The riverside setting provides beautiful Idaho views while soaking.",
+    tips: "Reservations recommended for private baths and accommodations, especially during peak seasons. The historic inn offers comprehensive packages including private soaking access, comfortable lodging, and spa services. Swimming suits required. The location provides excellent access to Lava Hot Springs attractions and Portneuf River activities. Best visited year-round with each season offering different experiences. The historic setting offers authentic charm combined with therapeutic mineral benefits.",
   },
   {
     id: "rocky-canyon-hot-springs-id",
@@ -13522,6 +13549,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Rocky Canyon Hot Springs, Banks, ID 83602",
+    website: "N/A",
+    detailedDescription: "Rocky Canyon Hot Springs is a remote terraced hot springs facility located along the beautiful Middle Fork Payette River near Banks, Idaho, featuring terraced pools with temperatures of 100-110°F and stunning riverside setting. This remote destination offers visitors an authentic hot springs experience with excellent opportunities for primitive camping, river exploration, and natural recreation in the beautiful Idaho landscape. The remote setting and riverside backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located along the Middle Fork Payette River near Banks, Idaho, approximately 30 miles northeast of Boise in the scenic Payette River region. The remote facility is situated at 4,000 feet elevation with beautiful river views and access to the Middle Fork Payette River.",
+    directions: "From Boise, take ID-21 northeast toward Banks, then follow local roads to the remote facility. The terraced facility requires difficult access through remote wilderness terrain. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Rocky Canyon Hot Springs requires difficult access through remote wilderness terrain with no parking or restroom facilities. The remote location has no services and requires complete self-sufficiency. The remote setting requires extensive preparation and wilderness navigation skills. This is a seasonal facility open during summer months.",
+    hotSpringDetails: "The remote facility features terraced riverside pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The terraced pools are formed naturally along the Middle Fork Payette River and vary in size. The riverside setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location and seasonal facility open during summer months. The remote location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during summer when access is possible. The riverside location offers excellent opportunities for primitive camping, fishing, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Banks attractions and Middle Fork Payette River activities. The remote setting provides excellent opportunities for solitude and wilderness appreciation.",
   },
   {
     id: "roystone-hot-springs-id",
