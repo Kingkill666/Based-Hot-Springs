@@ -41,8 +41,8 @@ export default function BasedSprings() {
       return matchesSearch && matchesState && matchesCountry
     })
 
-    // For the first 10 pages, only show US hot springs
-    if (currentPage <= 10) {
+    // For the first 10 pages, only show US hot springs UNLESS a specific country is selected
+    if (currentPage <= 10 && selectedCountry === "all") {
       filtered = filtered.filter((spring) => spring.country === "United States")
     }
 
