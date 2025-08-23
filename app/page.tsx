@@ -156,7 +156,7 @@ export default function BasedSprings() {
             </div>
 
             {/* Search and Filter Controls */}
-            <div className="bg-[#E0713B]/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-8 mt-5">
+            <div className="bg-[#768240]/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-8 mt-5">
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
                 <div className="relative">
                   <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
@@ -167,7 +167,7 @@ export default function BasedSprings() {
                       setSearchTerm(e.target.value)
                       setCurrentPage(1)
                     }}
-                    className="pl-10 bg-white/90"
+                    className="pl-10 bg-white/90 text-black font-bold text-lg"
                   />
                 </div>
 
@@ -177,7 +177,7 @@ export default function BasedSprings() {
                     setSelectedState(e.target.value)
                     setCurrentPage(1)
                   }}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm"
+                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
                 >
                   <option value="all">All US States ({states.length})</option>
                   {stateStats.map(({ state, count }: { state: string; count: number }) => (
@@ -193,7 +193,7 @@ export default function BasedSprings() {
                     setSelectedCountry(e.target.value)
                     setCurrentPage(1)
                   }}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm"
+                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
                 >
                   <option value="all">All Countries ({countries.length})</option>
                   {countries.map((country) => (
@@ -206,7 +206,7 @@ export default function BasedSprings() {
                 <select
                   value={sortBy}
                   onChange={(e) => setSortBy(e.target.value as "name" | "rating" | "temperature")}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm"
+                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
                 >
                   <option value="rating">Sort by Rating</option>
                   <option value="name">Sort by Name</option>
@@ -215,10 +215,10 @@ export default function BasedSprings() {
               </div>
 
               <div className="flex items-center justify-between">
-                <p className="text-sm text-gray-600">
+                <p className="text-lg text-black font-bold">
                   Showing {filteredSprings.length} of {hotSpringsData.length} hot springs
                   {(selectedState !== "all" || searchTerm) && (
-                    <Button variant="link" onClick={resetFilters} className="ml-2 text-blue-600 p-0 h-auto">
+                    <Button variant="link" onClick={resetFilters} className="ml-2 text-black font-bold p-0 h-auto text-lg">
                       Clear filters
                     </Button>
                   )}
@@ -231,11 +231,11 @@ export default function BasedSprings() {
                       size="sm"
                       onClick={() => setCurrentPage(Math.max(1, currentPage - 1))}
                       disabled={currentPage === 1}
-                      className="bg-white/80"
+                      className="bg-white/80 text-black font-bold text-lg"
                     >
                       Previous
                     </Button>
-                    <span className="text-sm text-gray-600">
+                    <span className="text-lg text-black font-bold">
                       Page {currentPage} of {totalPages}
                     </span>
                     <Button
@@ -243,7 +243,7 @@ export default function BasedSprings() {
                       size="sm"
                       onClick={() => setCurrentPage(Math.min(totalPages, currentPage + 1))}
                       disabled={currentPage === totalPages}
-                      className="bg-white/80"
+                      className="bg-white/80 text-black font-bold text-lg"
                     >
                       Next
                     </Button>
