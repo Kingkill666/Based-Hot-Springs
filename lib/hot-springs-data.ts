@@ -14100,6 +14100,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Trinity Hot Springs, Featherville, ID 83633",
+    website: "trinityhotsprings.com",
+    detailedDescription: "Trinity Hot Springs is an eco-resort facility located near Featherville, Idaho, featuring a natural pool with temperatures of 100-110°F, comfortable lodging, and comprehensive wellness center. This eco-resort establishment offers visitors a sustainable hot springs experience with excellent opportunities for wellness treatments, relaxation, and eco-friendly amenities in the beautiful Idaho landscape. The eco-resort setting and forest backdrop create a perfect destination for wellness seekers and environmentally conscious travelers.",
+    location: "Located near Featherville, Idaho, approximately 60 miles northeast of Boise in the scenic Boise National Forest region. The eco-resort facility is situated at 4,200 feet elevation with beautiful forest views and access to the Boise National Forest.",
+    directions: "From Boise, take ID-21 northeast toward Featherville, then follow local roads to the eco-resort facility. The resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Trinity Hot Springs is easily accessible year-round with full eco-resort facilities and accommodations designed for wellness seekers. The establishment offers accessible pool facilities, comfortable lodging, comprehensive wellness center, and restaurant services. The eco-resort setting provides welcoming access to hot springs soaking and wellness treatments.",
+    hotSpringDetails: "The eco-resort facility features a natural pool with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pool is complemented by wellness center facilities. The forest setting provides beautiful Idaho views while soaking.",
+    tips: "Reservations recommended for lodging and wellness treatments, especially during peak wellness seasons. The eco-resort offers comprehensive packages including hot springs access, comfortable lodging, wellness center treatments, and restaurant services. Swimming suits required. The location provides excellent access to Boise National Forest activities and Featherville attractions. Best visited year-round with each season offering different wellness experiences. The eco-resort setting offers authentic sustainability combined with therapeutic mineral benefits.",
   },
   {
     id: "twin-springs-resort-id",
@@ -14128,6 +14137,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Twin Springs Resort, Boise County, ID 83631",
+    website: "twinspringsresort.com",
+    detailedDescription: "Twin Springs Resort is a remote rustic resort facility located in Boise County, Idaho, featuring natural pools with temperatures of 100-104°F and comfortable cabins. This rustic establishment offers visitors an authentic hot springs experience with excellent opportunities for rustic recreation, cabin lodging, and natural exploration in the beautiful Idaho landscape. The rustic setting and river backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located in Boise County, Idaho, approximately 50 miles northeast of Boise in the scenic Boise River region. The rustic facility is situated at 3,900 feet elevation with beautiful river views and access to the Boise River.",
+    directions: "From Boise, take ID-21 northeast toward Boise County, then follow local roads to the rustic facility. The remote resort requires moderate access through scenic terrain. The exact route requires detailed planning and river navigation skills.",
+    accessibilityDetails: "Twin Springs Resort requires moderate access through remote terrain with basic facilities and accommodations designed for rustic experiences. The establishment offers accessible pool facilities, comfortable cabins, and basic services. The rustic setting provides welcoming access to hot springs soaking and river recreation. This is a seasonal facility open during summer months.",
+    hotSpringDetails: "The rustic facility features natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are large enough for groups and families. The river setting provides beautiful Idaho views while soaking.",
+    tips: "This is a seasonal facility open during summer months. Reservations recommended for cabins, especially during peak rustic seasons. The remote resort offers comprehensive packages including hot springs access, comfortable cabin lodging, and basic services. Swimming suits required. The location provides excellent access to Boise River activities and Boise County attractions. Best visited during summer when temperatures are perfect for outdoor activities. The rustic setting offers authentic charm combined with therapeutic mineral benefits.",
   },
   {
     id: "vulcan-hot-springs-id",
@@ -14156,6 +14174,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 3.7,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Vulcan Hot Springs, Cascade, ID 83611",
+    website: "N/A",
+    detailedDescription: "Vulcan Hot Springs is an extremely hot remote natural source facility located near Cascade, Idaho, featuring natural geothermal sources with temperatures of 120-190°F that are not safe for soaking. This remote destination offers visitors a unique geothermal experience with excellent opportunities for natural observation, camping, and wilderness exploration in the beautiful Idaho landscape. The remote setting and river backdrop create a perfect destination for geothermal enthusiasts and wilderness adventurers.",
+    location: "Located near Cascade, Idaho, approximately 80 miles north of Boise in the remote Payette River region. The remote facility is situated at 4,200 feet elevation with beautiful river views and access to the Payette River.",
+    directions: "From Boise, take ID-55 north toward Cascade, then follow local roads to the remote facility. The natural source requires difficult access through remote wilderness terrain. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Vulcan Hot Springs requires difficult access through remote wilderness terrain with no parking or restroom facilities. The remote location has no services and requires complete self-sufficiency. The remote setting requires extensive preparation and wilderness navigation skills. This is a seasonal facility open during summer months. IMPORTANT: These springs are extremely hot and not safe for soaking.",
+    hotSpringDetails: "The remote facility features extremely hot natural geothermal sources with temperatures ranging from 120-190°F, which are far too hot for safe soaking. The natural mineral water is rich in sodium and flows from natural geothermal sources. The sources are for observation only and should not be approached for soaking. The remote setting provides beautiful Idaho views while observing the geothermal activity.",
+    tips: "WARNING: These springs are extremely hot and NOT safe for soaking. This location is for observation and geothermal study only. The remote location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during summer when access is possible. The wilderness location offers excellent opportunities for primitive camping, hiking, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Cascade attractions and Payette River activities. The remote setting provides excellent opportunities for geothermal observation and wilderness appreciation.",
   },
   {
     id: "warfield-hot-springs-id",
@@ -14183,6 +14210,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Warfield Hot Springs, Ketchum, ID 83340",
+    website: "N/A",
+    detailedDescription: "Warfield Hot Springs is a primitive riverside hot springs facility located near Ketchum, Idaho, featuring natural pools with temperatures of 100-113°F and stunning riverside setting. This primitive destination offers visitors an authentic hot springs experience with excellent opportunities for riverside recreation, primitive camping, and natural exploration in the beautiful Idaho landscape. The primitive setting and forest backdrop create a perfect destination for outdoor enthusiasts and nature lovers.",
+    location: "Located near Ketchum, Idaho, approximately 20 miles north of Ketchum in the scenic Sawtooth National Forest region. The primitive facility is situated at 5,900 feet elevation with beautiful forest views and access to the Sawtooth National Forest.",
+    directions: "From Ketchum, take local roads north toward the primitive facility. The riverside setting requires moderate access through forested terrain. The exact route requires detailed planning and forest navigation skills.",
+    accessibilityDetails: "Warfield Hot Springs requires moderate access through forested terrain with no parking or restroom facilities. The primitive location has no services and requires complete self-sufficiency. The forest setting requires proper preparation and outdoor navigation skills. This is a primitive outdoor experience requiring planning.",
+    hotSpringDetails: "The primitive facility features riverside pools with temperatures ranging from 100-113°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally along the river and vary in size. The forest setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location. The primitive location requires self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall when temperatures are ideal for outdoor activities. The riverside location offers excellent opportunities for primitive camping, fishing, and natural exploration. Practice Leave No Trace principles to preserve this pristine natural environment. The location provides access to Ketchum attractions and Sawtooth National Forest activities. The primitive setting provides excellent opportunities for photography and nature appreciation.",
   },
   {
     id: "warm-lake-id",
