@@ -12119,6 +12119,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.1,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Basin Creek Hot Springs, Salmon, ID 83467",
+    website: "N/A",
+    detailedDescription: "Basin Creek Hot Springs is a remote, primitive hot springs facility located along the beautiful Basin Creek near Salmon, Idaho, featuring natural pools with temperatures of 100-110°F and stunning creekside setting. This remote destination offers visitors an authentic hot springs experience with excellent opportunities for primitive camping, creek exploration, and natural recreation in the beautiful Idaho landscape. The remote setting and creekside backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located along Basin Creek near Salmon, Idaho, approximately 30 miles northwest of Salmon in the remote wilderness region. The primitive facility is situated at 5,200 feet elevation with beautiful creek views and access to Basin Creek.",
+    directions: "From Salmon, take local roads northwest toward Basin Creek area. The primitive facility requires difficult access through remote wilderness terrain. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Basin Creek Hot Springs requires difficult access through remote wilderness terrain with no parking or restroom facilities. The primitive location has no services and requires complete self-sufficiency. The remote setting requires extensive preparation and wilderness navigation skills. This is a seasonal facility open during summer months.",
+    hotSpringDetails: "The primitive facility features natural creekside pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally along Basin Creek and vary in size. The creekside setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location and seasonal facility open during summer months. The primitive location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during summer when access is possible. The creekside location offers excellent opportunities for primitive camping, fishing, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Basin Creek activities and Salmon attractions. The remote setting provides excellent opportunities for solitude and wilderness appreciation.",
   },
   {
     id: "bear-lake-hot-springs-id",
@@ -12147,6 +12156,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Bear Lake Hot Springs, St. Charles, ID 83272",
+    website: "bearlakehotsprings.com",
+    detailedDescription: "Bear Lake Hot Springs is a family-friendly resort located on the beautiful shore of Bear Lake near St. Charles, Idaho, featuring hot springs pools with temperatures of 100-104°F, exciting water slides, and camping facilities. This family resort offers visitors a comprehensive hot springs experience with excellent opportunities for family recreation, water activities, and lake exploration in the beautiful Idaho landscape. The family-friendly setting and lake backdrop create a perfect destination for family hot springs experiences.",
+    location: "Located on the shore of Bear Lake near St. Charles, Idaho, approximately 50 miles north of Logan, Utah in the scenic Bear Lake region. The family resort is situated at 5,923 feet elevation with beautiful lake views and access to Bear Lake.",
+    directions: "From Logan, Utah, take US-89 north toward Bear Lake, then follow local roads to the family resort. From Idaho Falls, take US-30 east to Bear Lake area. The family resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Bear Lake Hot Springs is easily accessible during summer months with full family resort facilities and accommodations designed for families. The establishment offers accessible pool facilities, water slides, camping options, and restaurant services. The family resort setting provides welcoming access to hot springs soaking and lake recreation.",
+    hotSpringDetails: "The family resort features hot springs pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools vary in size and can accommodate families and groups. The lake setting provides beautiful Idaho views while soaking.",
+    tips: "This is a seasonal facility open during summer months. Reservations recommended for camping, especially during peak family seasons. The family resort offers comprehensive packages including hot springs access, water slides, camping facilities, and restaurant services. Swimming suits required. The location provides excellent access to Bear Lake activities and Minnetonka Cave. Best visited during summer when temperatures are perfect for outdoor activities. The family-friendly setting offers authentic comfort combined with therapeutic mineral benefits.",
   },
   {
     id: "boat-box-hot-springs-id",
@@ -12175,6 +12193,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.7,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Boat Box Hot Springs, Stanley, ID 83278",
+    website: "N/A",
+    detailedDescription: "Boat Box Hot Springs is an iconic riverside hot springs facility located along the beautiful Salmon River near Stanley, Idaho, featuring a unique hot springs tub with temperatures of 110-120°F and stunning riverside setting. This iconic destination offers visitors an authentic hot springs experience with excellent opportunities for riverside recreation, scenic views, and natural exploration in the beautiful Idaho landscape. The iconic setting and riverside backdrop create a perfect destination for hot springs enthusiasts and nature lovers.",
+    location: "Located along the Salmon River near Stanley, Idaho, approximately 60 miles north of Ketchum in the scenic Stanley region. The iconic facility is situated at 6,200 feet elevation with beautiful river views and access to the Salmon River.",
+    directions: "From Ketchum, take ID-75 north toward Stanley, then follow local roads to the iconic facility. From Boise, take ID-21 north to Stanley. The iconic facility is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Boat Box Hot Springs requires easy access through riverside terrain with basic parking facilities. The iconic location has parking but no restrooms or services. The riverside setting requires self-sufficiency and proper preparation for outdoor conditions. This is an iconic outdoor experience requiring planning.",
+    hotSpringDetails: "The iconic facility features a unique riverside tub with temperatures ranging from 110-120°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The tub is uniquely positioned along the Salmon River and provides intimate soaking experiences. The riverside setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location. The iconic location requires self-sufficiency - bring all necessary supplies including water, food, and towels. Best visited during spring and fall when temperatures are ideal for outdoor activities. The riverside location offers excellent opportunities for photography, fishing, and natural exploration. Practice Leave No Trace principles to preserve this iconic natural environment. The location provides access to Salmon River activities and Stanley attractions. The riverside setting provides excellent opportunities for scenic photography and nature appreciation.",
   },
   {
     id: "bonneville-hot-springs-id",
@@ -12203,6 +12230,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Bonneville Hot Springs, Lowman, ID 83637",
+    website: "N/A",
+    detailedDescription: "Bonneville Hot Springs is a natural riverside hot springs facility located near Lowman, Idaho, featuring natural pools with temperatures of 100-115°F, a rustic bathhouse, and stunning riverside setting. This natural destination offers visitors an authentic hot springs experience with excellent opportunities for riverside recreation, camping, and natural exploration in the beautiful Idaho landscape. The natural setting and riverside backdrop create a perfect destination for outdoor enthusiasts and nature lovers.",
+    location: "Located near Lowman, Idaho, approximately 40 miles northeast of Boise in the scenic Boise National Forest region. The natural facility is situated at 4,000 feet elevation with beautiful forest views and access to the Boise National Forest.",
+    directions: "From Boise, take ID-21 northeast toward Lowman, then follow local roads to the natural facility. The riverside setting is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Bonneville Hot Springs requires easy access through forested terrain with full facilities including parking, restrooms, and camping. The natural location has comprehensive services and provides welcoming access to hot springs soaking and forest recreation. This is a year-round facility with seasonal variations.",
+    hotSpringDetails: "The natural facility features riverside pools with temperatures ranging from 100-115°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally along the river and vary in size. The riverside setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location. The natural location requires self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall when temperatures are ideal for outdoor activities. The riverside location offers excellent opportunities for camping, fishing, and natural exploration. Practice Leave No Trace principles to preserve this pristine natural environment. The location provides access to Lowman attractions and Boise National Forest activities. The riverside setting provides excellent opportunities for photography and nature appreciation.",
   },
   {
     id: "burgdorf-hot-springs-id",
