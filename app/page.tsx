@@ -470,12 +470,11 @@ export default function BasedSprings() {
                   </div>
 
                   <Tabs defaultValue="overview" className="w-full">
-                    <TabsList className="grid w-full grid-cols-5 bg-blue-50/80">
+                    <TabsList className="grid w-full grid-cols-4 bg-blue-50/80">
                       <TabsTrigger value="overview">Overview</TabsTrigger>
                       <TabsTrigger value="location">Location</TabsTrigger>
                       <TabsTrigger value="details">Details</TabsTrigger>
                       <TabsTrigger value="facilities">Facilities</TabsTrigger>
-                      <TabsTrigger value="planning">Planning</TabsTrigger>
                     </TabsList>
 
                     <TabsContent value="overview" className="mt-6">
