@@ -11861,6 +11861,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Ritter Hot Springs, Ritter, OR 97836",
+    website: "ritterhotsprings.com",
+    detailedDescription: "Ritter Hot Springs is a historic hot springs resort located in the scenic canyon near Ritter, Oregon, featuring a natural hot springs pool, comfortable cabins, and camping facilities. This historic establishment offers visitors a peaceful retreat with excellent opportunities for soaking, relaxation, and canyon exploration in the beautiful Oregon landscape. The historic setting and canyon backdrop create a perfect destination for family-friendly hot springs experiences.",
+    location: "Located in Ritter, Oregon, approximately 50 miles southeast of Pendleton in the scenic canyon region. The historic resort is situated at 1,800 feet elevation with beautiful canyon views and access to the John Day River.",
+    directions: "From Pendleton, take OR-395 south toward Ritter, then follow local roads to the historic resort. From John Day, take OR-395 north to Ritter. The historic resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Ritter Hot Springs is easily accessible year-round with full resort facilities and accommodations designed for families. The establishment offers accessible pool facilities, comfortable cabins, and camping options. The resort setting provides welcoming access to hot springs soaking and canyon recreation.",
+    hotSpringDetails: "The historic resort features a natural hot springs pool with temperatures ranging from 100-106°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pool is large enough for families and groups. The canyon setting provides beautiful Oregon views while soaking.",
+    tips: "Reservations recommended for cabins and camping, especially during peak summer seasons. The historic resort offers comprehensive packages including hot springs access, comfortable lodging, and camping facilities. Swimming suits required. The location provides excellent access to Ritter attractions and John Day River activities. Best visited during summer when temperatures are perfect for outdoor activities. The historic setting offers authentic charm combined with therapeutic mineral benefits.",
   },
   {
     id: "snively-hot-springs-or",
@@ -11888,6 +11897,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.3,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Snively Hot Springs, Owyhee River, OR 97914",
+    website: "N/A",
+    detailedDescription: "Snively Hot Springs is a natural riverside hot springs facility located along the beautiful Owyhee River in Oregon, featuring a natural pool with temperatures of 100-110°F and stunning riverside setting. This natural destination offers visitors an authentic hot springs experience with excellent opportunities for riverside recreation, camping, and natural exploration in the beautiful Oregon landscape. The natural setting and riverside backdrop create a perfect destination for outdoor enthusiasts and nature lovers.",
+    location: "Located along the Owyhee River in Oregon, approximately 80 miles southeast of Ontario in the scenic river region. The natural hot springs is situated at 2,200 feet elevation with beautiful river views and access to Owyhee Reservoir.",
+    directions: "From Ontario, take local roads southeast toward the Owyhee River area. The natural facility requires some exploration along the river to locate. The exact route requires detailed planning and river navigation skills.",
+    accessibilityDetails: "Snively Hot Springs requires easy access through riverside terrain with basic parking facilities. The natural location has parking but no restrooms or services. The riverside setting requires self-sufficiency and proper preparation for outdoor conditions. This is a natural outdoor experience requiring planning.",
+    hotSpringDetails: "The natural facility features a riverside pool with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pool is formed naturally along the Owyhee River and varies in size. The riverside setting provides beautiful river views while soaking.",
+    tips: "This is a clothing optional location. The natural location requires self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall when temperatures are ideal for outdoor activities. The riverside location offers excellent opportunities for camping, fishing, and natural exploration. Practice Leave No Trace principles to preserve this pristine natural environment. The location provides access to Owyhee River activities and Owyhee Reservoir. The riverside setting provides excellent opportunities for photography and nature appreciation.",
   },
   {
     id: "summer-lake-hot-springs-or",
@@ -11916,6 +11934,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Summer Lake Hot Springs, Paisley, OR 97636",
+    website: "summerlakehotsprings.com",
+    detailedDescription: "Summer Lake Hot Springs is a beautiful resort located near Paisley, Oregon, featuring both indoor and outdoor hot springs pools with temperatures of 106-113°F, comfortable cabins, and camping facilities. This resort offers visitors a comprehensive hot springs experience with excellent opportunities for soaking, relaxation, and outdoor recreation in the beautiful Oregon landscape. The resort setting and lake backdrop create a perfect destination for year-round hot springs experiences.",
+    location: "Located near Paisley, Oregon, approximately 80 miles northwest of Lakeview in the scenic Summer Lake region. The resort is situated at 4,200 feet elevation with beautiful lake views and access to Summer Lake.",
+    directions: "From Lakeview, take OR-31 northwest toward Paisley, then follow local roads to the resort. From Bend, take OR-31 southeast toward Paisley. The resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Summer Lake Hot Springs is easily accessible year-round with full resort facilities and accommodations designed for all visitors. The establishment offers accessible indoor and outdoor pool facilities, comfortable cabins, and camping options. The resort setting provides welcoming access to hot springs soaking and lake recreation.",
+    hotSpringDetails: "The resort features both indoor and outdoor hot springs pools with temperatures ranging from 106-113°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools vary in size and can accommodate groups. The lake setting provides beautiful Oregon views while soaking.",
+    tips: "Reservations recommended for cabins and camping, especially during peak seasons. The resort offers comprehensive packages including hot springs access, comfortable lodging, and camping facilities. Swimming suits required. The location provides excellent access to Summer Lake activities and Paisley attractions. Best visited year-round with each season offering different experiences. The resort setting offers authentic comfort combined with therapeutic mineral benefits.",
   },
   {
     id: "willow-creek-hot-springs-or",
