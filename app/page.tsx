@@ -800,7 +800,7 @@ export default function BasedSprings() {
 
               <div className="text-center mt-4">
                 <p className="text-sm">
-                  Find your next thermal adventure with ease
+                  Find your next thermal adventure with ease.
                 </p>
               </div>
             </div>
