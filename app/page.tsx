@@ -479,7 +479,11 @@ export default function BasedSprings() {
                     </TabsList>
 
                     <TabsContent value="overview" className="mt-6">
-                      <p className="text-gray-700 mb-6 text-lg leading-relaxed">{selectedSpring.description}</p>
+                      {selectedSpring.detailedDescription ? (
+                        <p className="text-gray-700 mb-6 text-lg leading-relaxed">{selectedSpring.detailedDescription}</p>
+                      ) : (
+                        <p className="text-gray-700 mb-6 text-lg leading-relaxed">{selectedSpring.description}</p>
+                      )}
 
                       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
                         <div className="text-center p-4 bg-orange-50/80 backdrop-blur-sm rounded-lg border border-orange-200/50">
@@ -525,6 +529,24 @@ export default function BasedSprings() {
                           ))}
                         </div>
                       </div>
+
+                      {selectedSpring.website && selectedSpring.website !== "N/A" && (
+                        <div className="mt-6">
+                          <h4 className="font-semibold mb-3 text-lg">Website</h4>
+                          <Button
+                            variant="outline"
+                            className="bg-blue-50/80 text-blue-700 backdrop-blur-sm"
+                            onClick={() => {
+                              const url = selectedSpring.website.startsWith('http') 
+                                ? selectedSpring.website 
+                                : `https://${selectedSpring.website}`;
+                              window.open(url, "_blank")
+                            }}
+                          >
+                            Visit Website
+                          </Button>
+                        </div>
+                      )}
                     </TabsContent>
 
                     {/* Location Tab */}
@@ -557,10 +579,17 @@ export default function BasedSprings() {
                         <div>
                           <h4 className="font-semibold mb-3 text-lg">Address & Location</h4>
                           <div className="space-y-2">
-                            <p className="font-medium">
-                              {selectedSpring.city}, {selectedSpring.state}
-                            </p>
+                            {selectedSpring.address ? (
+                              <p className="font-medium">{selectedSpring.address}</p>
+                            ) : (
+                              <p className="font-medium">
+                                {selectedSpring.city}, {selectedSpring.state}
+                              </p>
+                            )}
                             <p>Elevation: {selectedSpring.elevation?.toLocaleString()} ft</p>
+                            {selectedSpring.location && (
+                              <p className="text-gray-600 text-sm mt-2">{selectedSpring.location}</p>
+                            )}
                           </div>
                         </div>
 
@@ -577,6 +606,42 @@ export default function BasedSprings() {
                                   {attraction}
                                 </Badge>
                               ))}
+                            </div>
+                          </div>
+                        )}
+
+                        {selectedSpring.directions && (
+                          <div>
+                            <h4 className="font-semibold mb-3 text-lg">Directions</h4>
+                            <div className="bg-gray-50/80 backdrop-blur-sm p-4 rounded-lg border border-gray-200/50">
+                              <p className="text-gray-700">{selectedSpring.directions}</p>
+                            </div>
+                          </div>
+                        )}
+
+                        {selectedSpring.accessibilityDetails && (
+                          <div>
+                            <h4 className="font-semibold mb-3 text-lg">Accessibility Details</h4>
+                            <div className="bg-gray-50/80 backdrop-blur-sm p-4 rounded-lg border border-gray-200/50">
+                              <p className="text-gray-700">{selectedSpring.accessibilityDetails}</p>
+                            </div>
+                          </div>
+                        )}
+
+                        {selectedSpring.hotSpringDetails && (
+                          <div>
+                            <h4 className="font-semibold mb-3 text-lg">Hot Spring Details</h4>
+                            <div className="bg-blue-50/80 backdrop-blur-sm p-4 rounded-lg border border-blue-200/50">
+                              <p className="text-gray-700">{selectedSpring.hotSpringDetails}</p>
+                            </div>
+                          </div>
+                        )}
+
+                        {selectedSpring.tips && (
+                          <div>
+                            <h4 className="font-semibold mb-3 text-lg">Visitor Tips</h4>
+                            <div className="bg-green-50/80 backdrop-blur-sm p-4 rounded-lg border border-green-200/50">
+                              <p className="text-gray-700">{selectedSpring.tips}</p>
                             </div>
                           </div>
                         )}
