@@ -156,7 +156,7 @@ export default function BasedSprings() {
               </h2>
               <p className="text-xl max-w-4xl mx-auto drop-shadow-sm">
                 The most comprehensive database of hot springs across America.
-                detailed descriptions, temperatures, facilities, and everything you need for your next thermal adventure.
+                Detailed descriptions, temperatures, facilities, and everything you need for your next thermal adventure.
               </p>
             </div>
 
