@@ -14247,6 +14247,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Warm Lake, Cascade, ID 83611",
+    website: "warmlake.com",
+    detailedDescription: "Warm Lake is a natural hot springs resort area located on the beautiful shore of Warm Lake near Cascade, Idaho, featuring natural pools with temperatures of 100-104°F and comprehensive resort facilities. This lakeside establishment offers visitors a complete hot springs experience with excellent opportunities for lakeside recreation, resort amenities, and natural exploration in the beautiful Idaho landscape. The lakeside setting and forest backdrop create a perfect destination for families and outdoor enthusiasts.",
+    location: "Located on the shore of Warm Lake near Cascade, Idaho, approximately 80 miles north of Boise in the scenic Payette National Forest region. The resort area is situated at 4,200 feet elevation with beautiful lake views and access to the Payette National Forest.",
+    directions: "From Boise, take ID-55 north toward Cascade, then follow local roads to the resort area. The lakeside facility is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Warm Lake is easily accessible during summer months with full resort facilities and accommodations designed for families. The establishment offers accessible pool facilities, comfortable lodging, camping options, and restaurant services. The lakeside setting provides welcoming access to hot springs soaking and lake recreation.",
+    hotSpringDetails: "The resort area features natural lakeside pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are large enough for families and groups. The lakeside setting provides beautiful Idaho views while soaking.",
+    tips: "This is a seasonal facility open during summer months. Reservations recommended for lodging and camping, especially during peak family seasons. The resort area offers comprehensive packages including hot springs access, comfortable lodging, camping facilities, and restaurant services. Swimming suits required. The location provides excellent access to Warm Lake activities and Payette National Forest attractions. Best visited during summer when temperatures are perfect for outdoor activities. The lakeside setting offers authentic comfort combined with therapeutic mineral benefits.",
   },
   {
     id: "weir-creek-hot-springs-id",
@@ -14275,6 +14284,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Weir Creek Hot Springs, Lowell, ID 83531",
+    website: "N/A",
+    detailedDescription: "Weir Creek Hot Springs is a remote natural hot springs facility located near Lowell, Idaho, featuring natural pools with temperatures of 100-112°F and accessed by a short hike. This remote destination offers visitors an authentic hot springs experience with excellent opportunities for wilderness hiking, primitive camping, and natural exploration in the beautiful Idaho landscape. The remote setting and river backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located near Lowell, Idaho, approximately 50 miles northwest of Grangeville in the remote Lochsa River region. The remote facility is situated at 3,400 feet elevation with beautiful river views and access to the Lochsa River.",
+    directions: "From Grangeville, take local roads northwest toward Lowell, then follow hiking trails to the remote facility. The natural facility requires a short hike through remote wilderness terrain. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Weir Creek Hot Springs requires moderate access through remote wilderness terrain with no parking or restroom facilities. The remote location has no services and requires complete self-sufficiency. The remote setting requires proper preparation and wilderness navigation skills. This is a seasonal facility open during summer months.",
+    hotSpringDetails: "The remote facility features natural wilderness pools with temperatures ranging from 100-112°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally in the wilderness and vary in size. The wilderness setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location and seasonal facility open during summer months. The remote location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during summer when access is possible. The wilderness location offers excellent opportunities for primitive camping, hiking, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Lowell attractions and Lochsa River activities. The remote setting provides excellent opportunities for solitude and wilderness appreciation.",
   },
   {
     id: "wild-rose-hot-springs-id",
@@ -14302,6 +14320,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Wild Rose Hot Springs, Bruneau, ID 83604",
+    website: "N/A",
+    detailedDescription: "Wild Rose Hot Springs is a primitive remote hot springs facility located near Bruneau, Idaho, featuring natural pools with temperatures of 100-110°F and accessed through challenging terrain. This primitive destination offers visitors an authentic hot springs experience with excellent opportunities for wilderness exploration, primitive camping, and natural recreation in the beautiful Idaho landscape. The primitive setting and dunes backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located near Bruneau, Idaho, approximately 60 miles southeast of Boise in the remote Bruneau Dunes State Park region. The primitive facility is situated at 2,600 feet elevation with beautiful dunes views and access to the Bruneau Dunes State Park.",
+    directions: "From Boise, take local roads southeast toward Bruneau, then follow primitive trails to the remote facility. The primitive facility requires difficult access through remote wilderness terrain. The exact route requires detailed planning and wilderness navigation skills.",
+    accessibilityDetails: "Wild Rose Hot Springs requires difficult access through remote wilderness terrain with no parking or restroom facilities. The primitive location has no services and requires complete self-sufficiency. The remote setting requires extensive preparation and wilderness navigation skills. This is a seasonal facility open during spring and fall months.",
+    hotSpringDetails: "The primitive facility features natural wilderness pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally in the wilderness and vary in size. The wilderness setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location and seasonal facility open during spring and fall months. The primitive location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall when temperatures are ideal for outdoor activities. The wilderness location offers excellent opportunities for primitive camping, hiking, and natural exploration. Practice Leave No Trace principles to preserve this pristine wilderness environment. The location provides access to Bruneau attractions and Bruneau Dunes State Park activities. The primitive setting provides excellent opportunities for solitude and wilderness appreciation.",
   },
   {
     id: "zims-hot-springs-id",
@@ -14330,6 +14357,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.2,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Zim's Hot Springs, New Meadows, ID 83654",
+    website: "zimshotsprings.com",
+    detailedDescription: "Zim's Hot Springs is a family-friendly hot springs resort facility located near New Meadows, Idaho, featuring natural pools with temperatures of 100-106°F and comprehensive RV park facilities. This family resort offers visitors a complete hot springs experience with excellent opportunities for family recreation, RV camping, and outdoor activities in the beautiful Idaho landscape. The family-friendly setting and river backdrop create a perfect destination for families and outdoor enthusiasts.",
+    location: "Located near New Meadows, Idaho, approximately 80 miles north of Boise in the scenic Little Salmon River region. The family resort is situated at 3,900 feet elevation with beautiful river views and access to the Little Salmon River.",
+    directions: "From Boise, take ID-55 north toward New Meadows, then follow local roads to the family resort. The resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Zim's Hot Springs is easily accessible year-round with full family resort facilities and accommodations designed for families. The establishment offers accessible pool facilities, RV park, camping options, and basic services. The family resort setting provides welcoming access to hot springs soaking and river recreation.",
+    hotSpringDetails: "The family resort features natural pools with temperatures ranging from 100-106°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are large enough for families and groups. The river setting provides beautiful Idaho views while soaking.",
+    tips: "Reservations recommended for RV sites and camping, especially during peak family seasons. The family resort offers comprehensive packages including hot springs access, RV facilities, camping accommodations, and basic services. Swimming suits required. The location provides excellent access to Little Salmon River activities and New Meadows attractions. Best visited year-round with each season offering different experiences. The family-friendly setting offers authentic comfort combined with therapeutic mineral benefits.",
   },
   {
     id: "astoria-hot-springs-wy",
