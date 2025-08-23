@@ -11971,6 +11971,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Willow Creek Hot Springs, Denio, OR 97712",
+    website: "N/A",
+    detailedDescription: "Willow Creek Hot Springs is a remote natural hot springs pool located in the high desert near Denio, Oregon, featuring a natural pool with temperatures of 102-104°F and stunning desert setting. This remote destination offers visitors an authentic hot springs experience with excellent opportunities for desert exploration, camping, and natural recreation in the beautiful Oregon landscape. The remote setting and desert backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located near Denio, Oregon, approximately 100 miles southeast of Burns in the high desert region. The natural hot springs is situated at 4,200 feet elevation with beautiful desert views and access to Alvord Desert.",
+    directions: "From Burns, take OR-78 southeast toward Denio, then follow local roads to the remote location. The natural facility requires some exploration in the desert to locate. The exact route requires detailed planning and desert navigation skills.",
+    accessibilityDetails: "Willow Creek Hot Springs requires moderate access through desert terrain with basic parking facilities. The remote location has parking but no restrooms or services. The desert setting requires self-sufficiency and proper preparation for outdoor conditions. This is a remote outdoor experience requiring planning.",
+    hotSpringDetails: "The remote facility features a natural desert pool with temperatures ranging from 102-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pool is formed naturally in the desert and varies in size. The desert setting provides beautiful Oregon views while soaking.",
+    tips: "This is a clothing optional location. The remote location requires self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall when temperatures are ideal for desert activities. The desert location offers excellent opportunities for camping, stargazing, and natural exploration. Practice Leave No Trace principles to preserve this pristine desert environment. The location provides access to Denio attractions and Alvord Desert activities. The desert setting provides excellent opportunities for photography and solitude.",
   },
   {
     id: "aura-soma-lava-id",
@@ -11999,6 +12008,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.5,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Aura Soma Lava, Lava Hot Springs, ID 83246",
+    website: "aurasomalava.com",
+    detailedDescription: "Aura Soma Lava is a boutique hot springs resort located in the charming town of Lava Hot Springs, Idaho, featuring luxurious soaking pools with temperatures of 102-112°F, comprehensive spa services, and comfortable lodging. This boutique establishment offers visitors a premium hot springs experience with excellent opportunities for relaxation, spa treatments, and wellness in the beautiful Idaho landscape. The boutique setting and spa focus create a perfect destination for luxury hot springs experiences.",
+    location: "Located in Lava Hot Springs, Idaho, approximately 50 miles southeast of Pocatello in the scenic Portneuf River region. The boutique resort is situated at 5,200 feet elevation with beautiful mountain views and access to the Portneuf River.",
+    directions: "From Pocatello, take I-15 south to Lava Hot Springs, then follow local roads to the boutique resort. From Idaho Falls, take I-15 north to Lava Hot Springs. The boutique resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Aura Soma Lava is easily accessible year-round with full boutique resort facilities and accommodations designed for luxury guests. The establishment offers accessible soaking pools, comprehensive spa services, and comfortable lodging. The boutique setting provides welcoming access to hot springs soaking and spa treatments.",
+    hotSpringDetails: "The boutique resort features luxurious soaking pools with temperatures ranging from 102-112°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and potassium and flows from natural geothermal sources. The soaking pools offer intimate experiences in the boutique setting. The mountain setting provides beautiful Idaho views while soaking.",
+    tips: "Reservations recommended for spa treatments and accommodations, especially during peak seasons. The boutique resort offers comprehensive packages including soaking access, spa services, and comfortable lodging. Swimming suits required. The location provides excellent access to Lava Hot Springs attractions and Portneuf River activities. Best visited year-round with each season offering different spa experiences. The boutique setting offers authentic luxury combined with therapeutic mineral benefits.",
   },
   {
     id: "banbury-hot-springs-id",
@@ -12027,6 +12045,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Banbury Hot Springs, Buhl, ID 83316",
+    website: "banburyhotsprings.com",
+    detailedDescription: "Banbury Hot Springs is a family-friendly hot springs resort located near Buhl, Idaho, featuring multiple pools with temperatures of 100-106°F, camping facilities, and river access. This family resort offers visitors a comprehensive hot springs experience with excellent opportunities for family recreation, camping, and river activities in the beautiful Idaho landscape. The family-friendly setting and river access create a perfect destination for family hot springs experiences.",
+    location: "Located near Buhl, Idaho, approximately 20 miles west of Twin Falls in the scenic Snake River region. The family resort is situated at 3,400 feet elevation with beautiful river views and access to the Snake River.",
+    directions: "From Twin Falls, take US-30 west toward Buhl, then follow local roads to the family resort. From Boise, take I-84 east to Twin Falls, then US-30 west to Buhl. The family resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Banbury Hot Springs is easily accessible year-round with full family resort facilities and accommodations designed for families. The establishment offers accessible pool facilities, camping options, and river access. The family resort setting provides welcoming access to hot springs soaking and river recreation.",
+    hotSpringDetails: "The family resort features multiple pools with temperatures ranging from 100-106°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools vary in size and can accommodate families and groups. The river setting provides beautiful Idaho views while soaking.",
+    tips: "Reservations recommended for camping, especially during peak family seasons. The family resort offers comprehensive packages including hot springs access, camping facilities, and river activities. Swimming suits required. The location provides excellent access to Snake River activities and Miracle Hot Springs. Best visited year-round with each season offering different family experiences. The family-friendly setting offers authentic comfort combined with therapeutic mineral benefits.",
   },
   {
     id: "baumgartner-hot-springs-id",
@@ -12055,6 +12082,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Baumgartner Hot Springs, Pine, ID 83647",
+    website: "baumgartnerhotsprings.com",
+    detailedDescription: "Baumgartner Hot Springs is a natural hot springs facility located in a forested campground setting along the beautiful South Fork Boise River near Pine, Idaho, featuring a natural pool with temperatures of 100-110°F and stunning forest setting. This natural destination offers visitors an authentic hot springs experience with excellent opportunities for camping, forest recreation, and natural exploration in the beautiful Idaho landscape. The natural setting and forest backdrop create a perfect destination for outdoor enthusiasts and nature lovers.",
+    location: "Located near Pine, Idaho, approximately 30 miles northeast of Boise in the scenic Sawtooth National Forest region. The natural facility is situated at 4,200 feet elevation with beautiful forest views and access to the South Fork Boise River.",
+    directions: "From Boise, take ID-21 northeast toward Pine, then follow local roads to the natural facility. The campground setting is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Baumgartner Hot Springs requires easy access through forested terrain with full campground facilities. The natural location has parking, restrooms, and camping facilities. The forest setting provides welcoming access to hot springs soaking and forest recreation. This is a seasonal facility open during summer months.",
+    hotSpringDetails: "The natural facility features a forested pool with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pool is formed naturally in the forest setting and varies in size. The forest setting provides beautiful Idaho views while soaking.",
+    tips: "This is a seasonal facility open during summer months. Reservations recommended for camping, especially during peak summer seasons. The natural location requires self-sufficiency - bring all necessary supplies including water, food, and camping gear. Swimming suits required. The forest location offers excellent opportunities for camping, hiking, and natural exploration. Practice Leave No Trace principles to preserve this pristine forest environment. The location provides access to South Fork Boise River activities and Sawtooth National Forest recreation. The forest setting provides excellent opportunities for photography and nature appreciation.",
   },
   {
     id: "basin-creek-hot-springs-id",
