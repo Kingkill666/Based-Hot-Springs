@@ -118,7 +118,7 @@ export default function BasedSprings() {
 
       <div className="relative z-10">
         {/* Header */}
-        <header className="bg-white/90 backdrop-blur-md border-b border-blue-200/50 sticky top-0 z-50 shadow-lg">
+        <header className="bg-[#D1E8D1]/90 backdrop-blur-md border-b border-blue-200/50 sticky top-0 z-50 shadow-lg">
           <div className="max-w-7xl mx-auto px-6 py-6">
             <div className="flex items-center justify-between">
               {/* Left side: Logo and Title */}
