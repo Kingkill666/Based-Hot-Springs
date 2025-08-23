@@ -12267,6 +12267,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.6,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Burgdorf Hot Springs, McCall, ID 83638",
+    website: "burgdorfhotsprings.com",
+    detailedDescription: "Burgdorf Hot Springs is a historic hot springs resort located near McCall, Idaho, featuring a large pool with temperatures of 100-113°F, rustic cabins, and winter snowmobile access. This historic establishment offers visitors a unique hot springs experience with excellent opportunities for winter recreation, rustic lodging, and natural exploration in the beautiful Idaho landscape. The historic setting and mountain backdrop create a perfect destination for seasonal hot springs experiences.",
+    location: "Located near McCall, Idaho, approximately 100 miles north of Boise in the scenic Payette National Forest region. The historic resort is situated at 6,100 feet elevation with beautiful mountain views and access to the Payette National Forest.",
+    directions: "From Boise, take ID-55 north toward McCall, then follow local roads to the historic resort. From McCall, take local roads to the historic facility. The historic resort is accessible by snowmobile during winter months.",
+    accessibilityDetails: "Burgdorf Hot Springs requires moderate access through mountain terrain with full resort facilities and accommodations designed for seasonal guests. The establishment offers accessible pool facilities, rustic cabins, and seasonal access. The historic resort setting provides welcoming access to hot springs soaking and mountain recreation.",
+    hotSpringDetails: "The historic resort features a large pool with temperatures ranging from 100-113°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pool is large enough for groups and families. The mountain setting provides beautiful Idaho views while soaking.",
+    tips: "This is a seasonal facility open during winter and summer months. Reservations recommended for rustic cabins, especially during peak seasons. The historic resort offers comprehensive packages including hot springs access, rustic lodging, and seasonal activities. Swimming suits required. The location provides excellent access to McCall attractions and Payette National Forest activities. Best visited during winter for snowmobile access or summer for mountain activities. The historic setting offers authentic charm combined with therapeutic mineral benefits.",
   },
   {
     id: "challis-hot-springs-id",
@@ -12295,6 +12304,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.4,
     clothingOptional: false,
+    // Enhanced detailed information
+    address: "Challis Hot Springs, Challis, ID 83226",
+    website: "challishotsprings.com",
+    detailedDescription: "Challis Hot Springs is a family-owned hot springs resort located along the beautiful Salmon River near Challis, Idaho, featuring multiple pools with temperatures of 100-105°F, camping facilities, and RV sites. This family resort offers visitors a comprehensive hot springs experience with excellent opportunities for family recreation, camping, and river activities in the beautiful Idaho landscape. The family-owned setting and river backdrop create a perfect destination for family hot springs experiences.",
+    location: "Located along the Salmon River near Challis, Idaho, approximately 50 miles northwest of Idaho Falls in the scenic Salmon River region. The family resort is situated at 5,000 feet elevation with beautiful river views and access to the Salmon River.",
+    directions: "From Idaho Falls, take US-93 north toward Challis, then follow local roads to the family resort. From Boise, take ID-21 north to Challis. The family resort is easily accessible from major highways with clear signage.",
+    accessibilityDetails: "Challis Hot Springs is easily accessible year-round with full family resort facilities and accommodations designed for families. The establishment offers accessible pool facilities, camping options, RV sites, and river access. The family resort setting provides welcoming access to hot springs soaking and river recreation.",
+    hotSpringDetails: "The family resort features multiple pools with temperatures ranging from 100-105°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools vary in size and can accommodate families and groups. The river setting provides beautiful Idaho views while soaking.",
+    tips: "Reservations recommended for camping and RV sites, especially during peak family seasons. The family resort offers comprehensive packages including hot springs access, camping facilities, and RV accommodations. Swimming suits required. The location provides excellent access to Salmon River activities and Challis attractions. Best visited year-round with each season offering different family experiences. The family-owned setting offers authentic comfort combined with therapeutic mineral benefits.",
   },
   {
     id: "chattanooga-hot-springs-id",
@@ -12322,6 +12340,15 @@ export const hotSpringsData: HotSpring[] = [
     image: "/placeholder.svg?height=300&width=400",
     rating: 4.0,
     clothingOptional: true,
+    // Enhanced detailed information
+    address: "Chattanooga Hot Springs, Challis, ID 83226",
+    website: "N/A",
+    detailedDescription: "Chattanooga Hot Springs is a primitive riverside hot springs facility located near Challis, Idaho, featuring natural pools with temperatures of 100-110°F and stunning riverside setting. This primitive destination offers visitors an authentic hot springs experience with excellent opportunities for primitive camping, river exploration, and natural recreation in the beautiful Idaho landscape. The primitive setting and riverside backdrop create a perfect destination for outdoor enthusiasts and solitude seekers.",
+    location: "Located near Challis, Idaho, approximately 5 miles northwest of Challis in the scenic Salmon River region. The primitive facility is situated at 5,100 feet elevation with beautiful river views and access to the Salmon River.",
+    directions: "From Challis, take local roads northwest toward the Salmon River area. The primitive facility requires moderate access through riverside terrain. The exact route requires detailed planning and river navigation skills.",
+    accessibilityDetails: "Chattanooga Hot Springs requires moderate access through riverside terrain with no parking or restroom facilities. The primitive location has no services and requires complete self-sufficiency. The riverside setting requires proper preparation and outdoor navigation skills. This is a primitive outdoor experience requiring planning.",
+    hotSpringDetails: "The primitive facility features natural riverside pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and flows from natural geothermal sources. The pools are formed naturally along the Salmon River and vary in size. The riverside setting provides beautiful Idaho views while soaking.",
+    tips: "This is a clothing optional location. The primitive location requires complete self-sufficiency - bring all necessary supplies including water, food, and camping gear. Best visited during spring and fall when temperatures are ideal for outdoor activities. The riverside location offers excellent opportunities for primitive camping, fishing, and natural exploration. Practice Leave No Trace principles to preserve this pristine natural environment. The location provides access to Challis attractions and Salmon River activities. The riverside setting provides excellent opportunities for solitude and wilderness appreciation.",
   },
   {
     id: "cove-creek-hot-springs-id",
