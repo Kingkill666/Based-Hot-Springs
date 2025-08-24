@@ -15,11 +15,34 @@ const dmSans = DM_Sans({
   variable: "--font-dm-sans",
 })
 
+const frame = {
+  version: "1",
+  imageUrl: "https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app/Mono_Hot_Springs_Background.jpg",
+  button: {
+    title: "Explore Hot Springs",
+    action: {
+      type: "launch_frame",
+      name: "Based Springs",
+      url: "https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app",
+      splashImageUrl: "https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app/placeholder-logo.png",
+      splashBackgroundColor: "#D1E8D1"
+    }
+  }
+}
+
 export const metadata: Metadata = {
-  title: "Based Springs - Based Hot Springs Guide",
+  title: "Based Springs - Complete US Hot Springs Database",
   description:
     "Discover the healing waters across the United States. Your comprehensive guide to hot springs with GPS coordinates, detailed descriptions, and everything you need for your next adventure.",
   generator: "v0.app",
+  openGraph: {
+    title: "Based Springs - Complete US Hot Springs Database",
+    description: "Discover the healing waters across the United States. Your comprehensive guide to hot springs with GPS coordinates, detailed descriptions, and everything you need for your next adventure.",
+    images: ["https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app/Mono_Hot_Springs_Background.jpg"],
+  },
+  other: {
+    "fc:miniapp": JSON.stringify(frame)
+  }
 }
 
 export default function RootLayout({

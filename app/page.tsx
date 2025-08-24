@@ -12,11 +12,54 @@ import { hotSpringsData, type HotSpring, countries } from "@/lib/hot-springs-dat
 
 export default function BasedSprings() {
   useEffect(() => {
-    if (typeof window !== "undefined" && sdk?.actions?.ready) {
-      sdk.actions.ready();
-    }
+    const initializeSDK = async () => {
+      try {
+        if (typeof window !== "undefined" && sdk?.actions?.ready) {
+          await sdk.actions.ready();
+          console.log("Farcaster Mini App SDK initialized successfully");
+        }
+      } catch (error) {
+        console.error("Failed to initialize Farcaster Mini App SDK:", error);
+      }
+    };
+
+    initializeSDK();
   }, []);
-  // TODO: Call sdk.actions.ready() here when the Farcaster Mini Apps SDK is available
+
+  const connectWallet = async () => {
+    try {
+      setIsConnecting(true);
+      // Note: Wallet connection is handled by the Farcaster client
+      // Users can connect their wallet through the Farcaster interface
+      console.log("Wallet connection is handled by the Farcaster client");
+    } catch (error) {
+      console.error("Failed to connect wallet:", error);
+    } finally {
+      setIsConnecting(false);
+    }
+  };
+
+  const shareSpring = async (spring: HotSpring) => {
+    try {
+      const shareText = `Check out ${spring.name} in ${spring.city}, ${spring.state}! 🌊✨\n\nTemperature: ${spring.temperature?.min && spring.temperature?.max ? Math.round((spring.temperature.min + spring.temperature.max) / 2) : "N/A"}°F\nRating: ⭐ ${spring.rating}/5\n\nDiscover more hot springs at Based Springs!`;
+      
+      // Use the built-in share functionality
+      if (navigator.share) {
+        await navigator.share({
+          title: `${spring.name} - Based Springs`,
+          text: shareText,
+          url: `https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app?spring=${spring.id}`
+        });
+      } else {
+        // Fallback: copy to clipboard
+        const shareUrl = `https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app?spring=${spring.id}`;
+        await navigator.clipboard.writeText(`${shareText}\n\n${shareUrl}`);
+        alert("Share text copied to clipboard!");
+      }
+    } catch (error) {
+      console.error("Failed to share:", error);
+    }
+  };
 
   const [searchTerm, setSearchTerm] = useState("")
   const [selectedState, setSelectedState] = useState("all")
@@ -25,6 +68,8 @@ export default function BasedSprings() {
   const [currentPage, setCurrentPage] = useState(1)
   const [sortBy, setSortBy] = useState<"name" | "rating" | "temperature">("rating")
   const springsPerPage = 12
+  const [userAddress, setUserAddress] = useState<string | null>(null)
+  const [isConnecting, setIsConnecting] = useState(false)
 
   const filteredSprings = useMemo(() => {
     let filtered = hotSpringsData.filter((spring) => {
@@ -357,7 +402,7 @@ export default function BasedSprings() {
                     </div>
                   </div>
 
-                  <div className="flex flex-wrap gap-1">
+                  <div className="flex flex-wrap gap-1 mb-3">
                     {spring.features.slice(0, 2).map((feature, index) => (
                       <Badge key={index} variant="outline" className="text-xs bg-blue-50 text-blue-700">
                         {feature}
@@ -368,6 +413,20 @@ export default function BasedSprings() {
                         +{spring.features.length - 2}
                       </Badge>
                     )}
+                  </div>
+                  
+                  <div className="flex justify-between items-center">
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      className="text-xs bg-blue-50 text-blue-700 hover:bg-blue-100"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        shareSpring(spring);
+                      }}
+                    >
+                      Share
+                    </Button>
                   </div>
                 </CardContent>
               </Card>
@@ -546,10 +605,12 @@ export default function BasedSprings() {
                             variant="outline"
                             className="bg-blue-50/80 text-blue-700 backdrop-blur-sm"
                             onClick={() => {
-                              const url = selectedSpring.website.startsWith('http') 
-                                ? selectedSpring.website 
-                                : `https://${selectedSpring.website}`;
-                              window.open(url, "_blank")
+                              if (selectedSpring.website) {
+                                const url = selectedSpring.website.startsWith('http') 
+                                  ? selectedSpring.website 
+                                  : `https://${selectedSpring.website}`;
+                                window.open(url, "_blank")
+                              }
                             }}
                           >
                             Visit Website
@@ -756,6 +817,20 @@ export default function BasedSprings() {
                       </div>
                     </TabsContent>
                   </Tabs>
+                  
+                  {/* Share Button */}
+                  <div className="p-6 border-t border-gray-200/50">
+                    <div className="flex justify-center">
+                      <Button
+                        variant="outline"
+                        size="lg"
+                        className="bg-blue-50/80 text-blue-700 backdrop-blur-sm hover:bg-blue-100"
+                        onClick={() => shareSpring(selectedSpring)}
+                      >
+                        Share {selectedSpring.name}
+                      </Button>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

@@ -1,0 +1,73 @@
+{
+  "name": "Based Hot Springs",
+  "iconUrl": "https://based-hot-springs.vercel.app/icon.png",
+  "subtitle": "Discover the America's best hot springs",
+  "description": "Explore thousands of hot springs worldwide with detailed information, ratings, and features. Find your next relaxing destination with our comprehensive guide to natural thermal springs across the United States, Japan, Ireland, and more.",
+  "primaryCategory": "travel",
+  "screenshotUrls": [
+    "https://based-hot-springs.vercel.app/screenshot1.png",
+    "https://based-hot-springs.vercel.app/screenshot2.png",
+    "https://based-hot-springs.vercel.app/screenshot3.png"
+  ],
+  "imageUrl": "https://based-hot-springs.vercel.app/image.png",
+  "heroImageUrl": "https://based-hot-springs.vercel.app/hero.png",
+  "splashImageUrl": "https://based-hot-springs.vercel.app/splash.png",
+  "splashBackgroundColor": "#6200EA",
+  "tags": [
+    "hot springs",
+    "travel",
+    "wellness",
+    "nature",
+    "relaxation",
+    "geothermal"
+  ],
+  "tagline": "Discover, Explore & Relax in Nature's Hot Springs",
+  "buttonTitle": "Based Hot Springs Guide",
+  "ogTitle": "Based Hot Springs – Your Global Hot Springs Guide",
+  "ogDescription": "Discover thousands of hot springs worldwide with detailed information, ratings, and features. Find your next relaxing destination.",
+  "ogImageUrl": "https://based-hot-springs.vercel.app/og-image.png",
+  "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+this+amazing+hot+springs+guide!+🌊🔥",
+  "homeUrl": "https://based-hot-springs.vercel.app",
+  "webhookUrl": "https://based-hot-springs.vercel.app/api/webhook",
+  "version": "1.0.0",
+  "author": "Based Hot Springs Team",
+  "repository": "https://github.com/Kingkill666/Based-Hot-Springs",
+  "keywords": [
+    "hot springs",
+    "thermal baths",
+    "onsen",
+    "wellness",
+    "travel guide",
+    "nature",
+    "geothermal",
+    "relaxation",
+    "outdoor",
+    "spa"
+  ],
+  "features": [
+    "Search and filter thousands of hot springs",
+    "International coverage (US, Japan, Ireland, and more)",
+    "Detailed information including temperature, ratings, and features",
+    "Beautiful modern UI with responsive design",
+    "Share on Farcaster integration",
+    "State and country-based filtering",
+    "Sort by name, rating, or temperature",
+    "Comprehensive hot spring database"
+  ],
+  "supportedRegions": [
+    "United States",
+    "Japan", 
+    "Ireland",
+    "Hungary",
+    "Iceland",
+    "New Zealand",
+    "Canada"
+  ],
+  "technologies": [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Farcaster Mini App SDK"
+  ]
+}
