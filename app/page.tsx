@@ -163,53 +163,58 @@ export default function BasedSprings() {
 
       <div className="relative z-10">
         {/* Header */}
-        <header className="bg-[#D1E8D1]/90 backdrop-blur-md border-b border-blue-200/50 sticky top-0 z-50 shadow-lg">
-          <div className="max-w-7xl mx-auto px-6 py-6">
+        <header className="bg-[#D1E8D1]/95 backdrop-blur-md border-b border-blue-200/50 sticky top-0 z-50 shadow-lg">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3 sm:py-4">
             <div className="flex items-center justify-between">
               {/* Left side: Logo and Title */}
-              <div className="flex items-center gap-4">
-                <div className="w-14 h-14 bg-gradient-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center shadow-lg">
-                  <Droplets className="w-8 h-8 text-white" />
+              <div className="flex items-center gap-2 sm:gap-4">
+                <div className="w-10 h-10 sm:w-14 sm:h-14 bg-gradient-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center shadow-lg">
+                  <Droplets className="w-5 h-5 sm:w-8 sm:h-8 text-white" />
                 </div>
-                <h1 className="text-4xl font-bold text-black">Based Springs</h1>
+                <div className="flex flex-col sm:flex-row sm:items-center sm:gap-4">
+                  <h1 className="text-xl sm:text-3xl md:text-4xl font-bold text-black leading-tight">Based Springs</h1>
+                  <p className="text-xs sm:text-sm text-blue-600 font-medium sm:hidden">Hot Springs Guide</p>
+                </div>
               </div>
               
-              {/* Center: Subtitle */}
-              <div className="flex-1 text-center">
-                <p className="text-xl text-blue-600 font-medium">Complete US Hot Springs Database</p>
+              {/* Center: Subtitle - Hidden on mobile */}
+              <div className="hidden sm:flex flex-1 text-center">
+                <p className="text-lg sm:text-xl text-blue-600 font-medium">Complete US Hot Springs Database</p>
               </div>
               
-              {/* Right side: Stats tabs */}
-              <div className="flex items-center gap-4">
-                <div className="bg-blue-100 text-blue-700 text-xl font-bold px-6 py-3 rounded-lg shadow-sm min-w-[140px] text-center">
-                  {hotSpringsData.length} Springs
+              {/* Right side: Stats tabs - Responsive */}
+              <div className="flex items-center gap-2 sm:gap-4">
+                <div className="bg-blue-100 text-blue-700 text-sm sm:text-xl font-bold px-3 sm:px-6 py-2 sm:py-3 rounded-lg shadow-sm min-w-[80px] sm:min-w-[140px] text-center">
+                  {hotSpringsData.length}
+                  <span className="hidden sm:inline"> Springs</span>
                 </div>
-                <div className="bg-white/80 text-black text-xl font-bold px-6 py-3 rounded-lg shadow-sm border border-gray-300 min-w-[140px] text-center">
-                  {states.length} US States
+                <div className="bg-white/80 text-black text-sm sm:text-xl font-bold px-3 sm:px-6 py-2 sm:py-3 rounded-lg shadow-sm border border-gray-300 min-w-[80px] sm:min-w-[140px] text-center">
+                  {states.length}
+                  <span className="hidden sm:inline"> States</span>
                 </div>
               </div>
             </div>
           </div>
         </header>
 
-        <main className="max-w-7xl mx-auto px-4 py-8">
+        <main className="max-w-7xl mx-auto px-4 py-4 sm:py-8">
           {/* Hero Section */}
-          <div className="text-center mb-12">
-            <div className="bg-[#0052FF] text-white rounded-2xl px-8 py-6 inline-block shadow-2xl border-4 border-white max-w-5xl mx-auto">
-              <h2 className="text-4xl md:text-6xl font-serif font-bold mb-4 drop-shadow-lg">
+          <div className="text-center mb-8 sm:mb-12">
+            <div className="bg-[#0052FF] text-white rounded-xl sm:rounded-2xl px-4 sm:px-8 py-4 sm:py-6 inline-block shadow-2xl border-2 sm:border-4 border-white max-w-5xl mx-auto">
+              <h2 className="text-2xl sm:text-4xl md:text-6xl font-serif font-bold mb-3 sm:mb-4 drop-shadow-lg leading-tight">
                 Every Hot Spring in America
               </h2>
-              <p className="text-xl max-w-4xl mx-auto drop-shadow-sm">
+              <p className="text-sm sm:text-xl max-w-4xl mx-auto drop-shadow-sm leading-relaxed">
                 The most comprehensive database of hot springs across America.
                 Detailed descriptions, temperatures, facilities, and everything you need for your next thermal adventure.
               </p>
             </div>
 
             {/* Search and Filter Controls */}
-            <div className="bg-[#D1E8D1]/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-8 mt-5">
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
+            <div className="bg-[#D1E8D1]/95 backdrop-blur-sm rounded-xl sm:rounded-2xl p-4 sm:p-6 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-6 sm:mb-8 mt-4 sm:mt-5">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-4">
                 <div className="relative">
-                  <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
+                  <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4 sm:w-5 sm:h-5" />
                   <Input
                     placeholder="Search springs, cities, features..."
                     value={searchTerm}
@@ -217,7 +222,7 @@ export default function BasedSprings() {
                       setSearchTerm(e.target.value)
                       setCurrentPage(1)
                     }}
-                    className="pl-10 bg-white/90 text-black font-bold text-lg"
+                    className="pl-9 sm:pl-10 bg-white/90 text-black font-bold text-base sm:text-lg h-12 sm:h-auto"
                   />
                 </div>
 
@@ -227,7 +232,7 @@ export default function BasedSprings() {
                     setSelectedState(e.target.value)
                     setCurrentPage(1)
                   }}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
+                  className="px-3 sm:px-4 py-3 sm:py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-base sm:text-lg h-12 sm:h-auto"
                 >
                   <option value="all">All US States ({states.length})</option>
                   {stateStats.map(({ state, count }: { state: string; count: number }) => (
@@ -243,7 +248,7 @@ export default function BasedSprings() {
                     setSelectedCountry(e.target.value)
                     setCurrentPage(1)
                   }}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
+                  className="px-3 sm:px-4 py-3 sm:py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-base sm:text-lg h-12 sm:h-auto"
                 >
                   <option value="all">All Countries ({countries.length})</option>
                   {countries.map((country) => (
@@ -256,7 +261,7 @@ export default function BasedSprings() {
                 <select
                   value={sortBy}
                   onChange={(e) => setSortBy(e.target.value as "name" | "rating" | "temperature")}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
+                  className="px-3 sm:px-4 py-3 sm:py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-base sm:text-lg h-12 sm:h-auto"
                 >
                   <option value="rating">Sort by Rating</option>
                   <option value="name">Sort by Name</option>
@@ -264,28 +269,28 @@ export default function BasedSprings() {
                 </select>
               </div>
 
-              <div className="flex items-center justify-between">
-                <p className="text-lg text-black font-bold">
+              <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 sm:gap-0">
+                <p className="text-sm sm:text-lg text-black font-bold text-center sm:text-left">
                   Showing {filteredSprings.length} of {hotSpringsData.length} hot springs
                   {(selectedState !== "all" || searchTerm) && (
-                    <Button variant="link" onClick={resetFilters} className="ml-2 text-black font-bold p-0 h-auto text-lg">
+                    <Button variant="link" onClick={resetFilters} className="ml-2 text-black font-bold p-0 h-auto text-sm sm:text-lg">
                       Clear filters
                     </Button>
                   )}
                 </p>
 
                 {totalPages > 1 && (
-                  <div className="flex items-center gap-2">
+                  <div className="flex items-center justify-center sm:justify-end gap-2">
                     <Button
                       variant="outline"
                       size="sm"
                       onClick={() => setCurrentPage(Math.max(1, currentPage - 1))}
                       disabled={currentPage === 1}
-                      className="bg-white/80 text-black font-bold text-lg"
+                      className="bg-white/80 text-black font-bold text-sm sm:text-lg px-3 sm:px-4"
                     >
                       Previous
                     </Button>
-                    <span className="text-lg text-black font-bold">
+                    <span className="text-sm sm:text-lg text-black font-bold">
                       Page {currentPage} of {totalPages}
                     </span>
                     <Button
@@ -293,7 +298,7 @@ export default function BasedSprings() {
                       size="sm"
                       onClick={() => setCurrentPage(Math.min(totalPages, currentPage + 1))}
                       disabled={currentPage === totalPages}
-                      className="bg-white/80 text-black font-bold text-lg"
+                      className="bg-white/80 text-black font-bold text-sm sm:text-lg px-3 sm:px-4"
                     >
                       Next
                     </Button>
@@ -316,21 +321,21 @@ export default function BasedSprings() {
           </div>
 
           {/* Springs Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-12">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 mb-8 sm:mb-12">
             {paginatedSprings.map((spring) => (
               <Card
                 key={spring.id}
-                className="group hover:shadow-2xl transition-all duration-300 cursor-pointer border-blue-200/50 hover:border-blue-400/50 overflow-hidden bg-white/95 backdrop-blur-sm hover:scale-105"
+                className="group hover:shadow-2xl transition-all duration-300 cursor-pointer border-blue-200/50 hover:border-blue-400/50 overflow-hidden bg-white/95 backdrop-blur-sm hover:scale-105 active:scale-95 touch-manipulation"
                 onClick={() => setSelectedSpring(spring)}
               >
                 <div className="relative overflow-hidden">
                   <img
                     src={spring.image || "/placeholder.svg?height=300&width=400"}
                     alt={spring.name}
-                    className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
+                    className="w-full h-40 sm:h-48 object-cover group-hover:scale-110 transition-transform duration-300"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
-                  <div className="absolute top-3 right-3 flex gap-2">
+                  <div className="absolute top-2 sm:top-3 right-2 sm:right-3 flex gap-1 sm:gap-2">
                     <Badge className="bg-blue-600/90 backdrop-blur-sm text-white text-xs shadow-lg">
                       <Star className="w-3 h-3 mr-1 fill-current" />
                       {spring.rating}
@@ -344,12 +349,12 @@ export default function BasedSprings() {
                       </Badge>
                     )}
                   </div>
-                  <div className="absolute bottom-3 left-3">
+                  <div className="absolute bottom-2 sm:bottom-3 left-2 sm:left-3">
                     <Badge variant="outline" className="bg-white/90 backdrop-blur-sm text-xs shadow-lg">
                       {spring.state}
                     </Badge>
                   </div>
-                  <div className="absolute bottom-3 right-3">
+                  <div className="absolute bottom-2 sm:bottom-3 right-2 sm:right-3">
                     <Badge className="bg-orange-500/90 backdrop-blur-sm text-white text-xs shadow-lg">
                       <Thermometer className="w-3 h-3 mr-1" />
                       {spring.temperature?.min && spring.temperature?.max
@@ -360,15 +365,15 @@ export default function BasedSprings() {
                   </div>
                 </div>
 
-                <CardHeader className="pb-3">
+                <CardHeader className="pb-2 sm:pb-3">
                   <div className="flex justify-between items-start">
                     <div className="flex-1">
-                      <CardTitle className="font-serif text-lg leading-tight group-hover:text-blue-700 transition-colors">
+                      <CardTitle className="font-serif text-base sm:text-lg leading-tight group-hover:text-blue-700 transition-colors">
                         {spring.name}
                       </CardTitle>
                       <CardDescription className="flex items-center gap-1 mt-1">
-                        <MapPin className="w-4 h-4 flex-shrink-0" />
-                        <span className="truncate">
+                        <MapPin className="w-3 h-3 sm:w-4 sm:h-4 flex-shrink-0" />
+                        <span className="truncate text-xs sm:text-sm">
                           {spring.city}, {spring.state}
                         </span>
                       </CardDescription>
@@ -377,11 +382,11 @@ export default function BasedSprings() {
                 </CardHeader>
 
                 <CardContent className="pt-0">
-                  <p className="text-sm text-gray-600 mb-4 line-clamp-2">{spring.description}</p>
+                  <p className="text-xs sm:text-sm text-gray-600 mb-3 sm:mb-4 line-clamp-2">{spring.description}</p>
 
-                  <div className="grid grid-cols-2 gap-3 mb-4 text-sm">
+                  <div className="grid grid-cols-2 gap-2 sm:gap-3 mb-3 sm:mb-4 text-xs sm:text-sm">
                     <div className="flex items-center gap-1 text-orange-600">
-                      <Thermometer className="w-4 h-4" />
+                      <Thermometer className="w-3 h-3 sm:w-4 sm:h-4" />
                       <span className="font-medium">
                         {spring.temperature?.min && spring.temperature?.max
                           ? Math.round((spring.temperature.min + spring.temperature.max) / 2)
@@ -390,11 +395,11 @@ export default function BasedSprings() {
                       </span>
                     </div>
                     <div className="flex items-center gap-1 text-blue-600">
-                      <Navigation className="w-4 h-4" />
-                      <span className="font-medium">GPS Ready</span>
+                      <Navigation className="w-3 h-3 sm:w-4 sm:h-4" />
+                      <span className="font-medium text-xs">GPS Ready</span>
                     </div>
                     <div className="flex items-center gap-1 text-green-600">
-                      <Clock className="w-4 h-4" />
+                      <Clock className="w-3 h-3 sm:w-4 sm:h-4" />
                       <span className="font-medium text-xs">{spring.accessibility.difficulty}</span>
                     </div>
                     <div className="flex items-center gap-1 text-blue-600">
@@ -415,17 +420,17 @@ export default function BasedSprings() {
                     )}
                   </div>
                   
-                  <div className="flex justify-between items-center">
+                  <div className="flex justify-center sm:justify-between items-center">
                     <Button
                       variant="outline"
                       size="sm"
-                      className="text-xs bg-blue-50 text-blue-700 hover:bg-blue-100"
+                      className="text-xs bg-blue-50 text-blue-700 hover:bg-blue-100 w-full sm:w-auto px-3 py-2"
                       onClick={(e) => {
                         e.stopPropagation();
                         shareSpring(spring);
                       }}
                     >
-                      Share
+                      Share Hot Spring
                     </Button>
                   </div>
                 </CardContent>
@@ -486,52 +491,52 @@ export default function BasedSprings() {
           {/* Detailed View Modal */}
           {selectedSpring && (
             <div
-              className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center p-4 z-50"
+              className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center p-2 sm:p-4 z-50"
               onClick={() => setSelectedSpring(null)}
             >
               <div
-                className="bg-white/95 backdrop-blur-md rounded-xl max-w-5xl w-full max-h-[90vh] overflow-y-auto shadow-2xl border border-blue-200/50"
+                className="bg-white/95 backdrop-blur-md rounded-xl max-w-5xl w-full max-h-[95vh] sm:max-h-[90vh] overflow-y-auto shadow-2xl border border-blue-200/50"
                 onClick={(e) => e.stopPropagation()}
               >
                 <div className="relative">
                   <img
                     src={selectedSpring.image ||"/placeholder.svg?height=400&width=800"}
                     alt={selectedSpring.name}
-                    className="w-full h-64 md:h-80 object-cover rounded-t-xl"
+                    className="w-full h-48 sm:h-64 md:h-80 object-cover rounded-t-xl"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent rounded-t-xl" />
                   <Button
                     variant="outline"
                     size="sm"
-                    className="absolute top-4 right-4 bg-white/90 hover:bg-white backdrop-blur-sm shadow-lg"
+                    className="absolute top-2 sm:top-4 right-2 sm:right-4 bg-white/90 hover:bg-white backdrop-blur-sm shadow-lg w-8 h-8 sm:w-auto sm:h-auto"
                     onClick={() => setSelectedSpring(null)}
                   >
                     ✕
                   </Button>
-                  <div className="absolute bottom-4 left-4 flex gap-2">
-                    <Badge className="bg-blue-600/90 backdrop-blur-sm text-white shadow-lg">
-                      <Star className="w-4 h-4 mr-1 fill-current" />
+                  <div className="absolute bottom-2 sm:bottom-4 left-2 sm:left-4 flex gap-1 sm:gap-2">
+                    <Badge className="bg-blue-600/90 backdrop-blur-sm text-white shadow-lg text-xs">
+                      <Star className="w-3 h-3 sm:w-4 sm:h-4 mr-1 fill-current" />
                       {selectedSpring.rating}
                     </Badge>
-                    <Badge variant="outline" className="bg-white/90 backdrop-blur-sm shadow-lg">
+                    <Badge variant="outline" className="bg-white/90 backdrop-blur-sm shadow-lg text-xs">
                       {selectedSpring.state}
                     </Badge>
                   </div>
                 </div>
 
-                <div className="p-6">
-                  <div className="flex justify-between items-start mb-6">
+                <div className="p-4 sm:p-6">
+                  <div className="flex justify-between items-start mb-4 sm:mb-6">
                     <div>
-                      <h3 className="text-3xl md:text-4xl font-serif font-bold text-gray-900 mb-2">
+                      <h3 className="text-xl sm:text-3xl md:text-4xl font-serif font-bold text-gray-900 mb-2 leading-tight">
                         {selectedSpring.name}
                       </h3>
-                      <p className="text-lg text-blue-600 flex items-center gap-2">
-                        <MapPin className="w-5 h-5" />
+                      <p className="text-sm sm:text-lg text-blue-600 flex items-center gap-2">
+                        <MapPin className="w-4 h-4 sm:w-5 sm:h-5" />
                         {selectedSpring.city}, {selectedSpring.state}
                       </p>
                       {selectedSpring.elevation && (
-                        <p className="text-sm text-gray-600 flex items-center gap-2 mt-1">
-                          <Mountain className="w-4 h-4" />
+                        <p className="text-xs sm:text-sm text-gray-600 flex items-center gap-2 mt-1">
+                          <Mountain className="w-3 h-3 sm:w-4 sm:h-4" />
                           {selectedSpring.elevation.toLocaleString()} ft elevation
                         </p>
                       )}
@@ -540,44 +545,44 @@ export default function BasedSprings() {
 
                   <Tabs defaultValue="overview" className="w-full">
                     <TabsList className="grid w-full grid-cols-4 bg-blue-50/80">
-                      <TabsTrigger value="overview">Overview</TabsTrigger>
-                      <TabsTrigger value="location">Location</TabsTrigger>
-                      <TabsTrigger value="details">Details</TabsTrigger>
-                      <TabsTrigger value="facilities">Facilities</TabsTrigger>
+                      <TabsTrigger value="overview" className="text-xs sm:text-sm">Overview</TabsTrigger>
+                      <TabsTrigger value="location" className="text-xs sm:text-sm">Location</TabsTrigger>
+                      <TabsTrigger value="details" className="text-xs sm:text-sm">Details</TabsTrigger>
+                      <TabsTrigger value="facilities" className="text-xs sm:text-sm">Facilities</TabsTrigger>
                     </TabsList>
 
-                    <TabsContent value="overview" className="mt-6">
+                    <TabsContent value="overview" className="mt-4 sm:mt-6">
                       {selectedSpring.detailedDescription ? (
-                        <p className="text-gray-700 mb-6 text-lg leading-relaxed">{selectedSpring.detailedDescription}</p>
+                        <p className="text-gray-700 mb-4 sm:mb-6 text-sm sm:text-lg leading-relaxed">{selectedSpring.detailedDescription}</p>
                       ) : (
-                        <p className="text-gray-700 mb-6 text-lg leading-relaxed">{selectedSpring.description}</p>
+                        <p className="text-gray-700 mb-4 sm:mb-6 text-sm sm:text-lg leading-relaxed">{selectedSpring.description}</p>
                       )}
 
-                      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-                        <div className="text-center p-4 bg-orange-50/80 backdrop-blur-sm rounded-lg border border-orange-200/50">
-                          <Thermometer className="w-8 h-8 text-orange-600 mx-auto mb-2" />
-                          <p className="text-sm text-gray-600">Average Temp</p>
-                          <p className="font-bold text-lg">
+                      <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 mb-4 sm:mb-6">
+                        <div className="text-center p-3 sm:p-4 bg-orange-50/80 backdrop-blur-sm rounded-lg border border-orange-200/50">
+                          <Thermometer className="w-6 h-6 sm:w-8 sm:h-8 text-orange-600 mx-auto mb-1 sm:mb-2" />
+                          <p className="text-xs sm:text-sm text-gray-600">Average Temp</p>
+                          <p className="font-bold text-sm sm:text-lg">
                             {selectedSpring.temperature?.min && selectedSpring.temperature?.max
                               ? Math.round((selectedSpring.temperature.min + selectedSpring.temperature.max) / 2)
                               : "N/A"}
                             °F
                           </p>
                         </div>
-                        <div className="text-center p-4 bg-blue-50/80 backdrop-blur-sm rounded-lg border border-blue-200/50">
-                          <Clock className="w-8 h-8 text-blue-600 mx-auto mb-2" />
-                          <p className="text-sm text-gray-600">Access</p>
-                          <p className="font-semibold text-sm">{selectedSpring.accessibility.difficulty}</p>
+                        <div className="text-center p-3 sm:p-4 bg-blue-50/80 backdrop-blur-sm rounded-lg border border-blue-200/50">
+                          <Clock className="w-6 h-6 sm:w-8 sm:h-8 text-blue-600 mx-auto mb-1 sm:mb-2" />
+                          <p className="text-xs sm:text-sm text-gray-600">Access</p>
+                          <p className="font-semibold text-xs sm:text-sm">{selectedSpring.accessibility.difficulty}</p>
                         </div>
-                        <div className="text-center p-4 bg-green-50/80 backdrop-blur-sm rounded-lg border border-green-200/50">
-                          <MapPin className="w-8 h-8 text-green-600 mx-auto mb-2" />
-                          <p className="text-sm text-gray-600">Public Access</p>
-                          <p className="font-semibold">N/A</p>
+                        <div className="text-center p-3 sm:p-4 bg-green-50/80 backdrop-blur-sm rounded-lg border border-green-200/50">
+                          <MapPin className="w-6 h-6 sm:w-8 sm:h-8 text-green-600 mx-auto mb-1 sm:mb-2" />
+                          <p className="text-xs sm:text-sm text-gray-600">Public Access</p>
+                          <p className="font-semibold text-xs sm:text-sm">N/A</p>
                         </div>
-                        <div className="text-center p-4 bg-blue-50/80 backdrop-blur-sm rounded-lg border border-blue-200/50">
-                          <Star className="w-8 h-8 text-blue-600 mx-auto mb-2" />
-                          <p className="text-sm text-gray-600">Entry Fee</p>
-                          <p className="font-semibold">
+                        <div className="text-center p-3 sm:p-4 bg-blue-50/80 backdrop-blur-sm rounded-lg border border-blue-200/50">
+                          <Star className="w-6 h-6 sm:w-8 sm:h-8 text-blue-600 mx-auto mb-1 sm:mb-2" />
+                          <p className="text-xs sm:text-sm text-gray-600">Entry Fee</p>
+                          <p className="font-semibold text-xs sm:text-sm">
                             {selectedSpring.accessibility.fee !== "Free" ? "Required" : "Free"}
                           </p>
                         </div>
@@ -819,12 +824,12 @@ export default function BasedSprings() {
                   </Tabs>
                   
                   {/* Share Button */}
-                  <div className="p-6 border-t border-gray-200/50">
+                  <div className="p-4 sm:p-6 border-t border-gray-200/50">
                     <div className="flex justify-center">
                       <Button
                         variant="outline"
                         size="lg"
-                        className="bg-blue-50/80 text-blue-700 backdrop-blur-sm hover:bg-blue-100"
+                        className="bg-blue-50/80 text-blue-700 backdrop-blur-sm hover:bg-blue-100 w-full sm:w-auto px-6 py-3"
                         onClick={() => shareSpring(selectedSpring)}
                       >
                         Share {selectedSpring.name}
