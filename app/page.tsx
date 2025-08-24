@@ -14,7 +14,7 @@ export default function BasedSprings() {
   useEffect(() => {
     const initializeSDK = async () => {
       try {
-        if (typeof window !== "undefined" && sdk?.actions?.ready) {
+    if (typeof window !== "undefined" && sdk?.actions?.ready) {
           await sdk.actions.ready();
           console.log("Farcaster Mini App SDK initialized successfully");
         }
@@ -86,8 +86,8 @@ export default function BasedSprings() {
       return matchesSearch && matchesState && matchesCountry
     })
 
-    // For the first 10 pages, only show US hot springs UNLESS a specific country is selected
-    if (currentPage <= 10 && selectedCountry === "all") {
+    // Only show US hot springs by default unless a specific country is selected
+    if (selectedCountry === "all") {
       filtered = filtered.filter((spring) => spring.country === "United States")
     }
 
@@ -110,8 +110,7 @@ export default function BasedSprings() {
     return filtered
   }, [searchTerm, selectedState, selectedCountry, sortBy, currentPage])
 
-  const totalPages = Math.ceil(filteredSprings.length / springsPerPage)
-  const paginatedSprings = filteredSprings.slice((currentPage - 1) * springsPerPage, currentPage * springsPerPage)
+
 
   const resetFilters = () => {
     setSearchTerm("")
@@ -119,6 +118,9 @@ export default function BasedSprings() {
     setSelectedCountry("all")
     setCurrentPage(1)
   }
+
+  const totalPages = Math.ceil(filteredSprings.length / springsPerPage)
+  const paginatedSprings = filteredSprings.slice((currentPage - 1) * springsPerPage, currentPage * springsPerPage)
 
   // Derive unique sorted list of US states only from the data
   const states = useMemo(() => {
@@ -206,9 +208,9 @@ export default function BasedSprings() {
             </div>
 
             {/* Search and Filter Controls */}
-            <div className="bg-[#D1E8D1]/95 backdrop-blur-sm rounded-2xl p-4 sm:p-6 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-6 sm:mb-8 mt-4 sm:mt-5">
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-4">
-                <div className="relative">
+            <div className="bg-[#D1E8D1]/95 backdrop-blur-sm rounded-2xl p-3 sm:p-4 shadow-xl border border-blue-200/50 max-w-5xl mx-auto mb-6 sm:mb-8 mt-4 sm:mt-5">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 justify-items-center">
+                <div className="relative w-full max-w-xs">
                   <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
                   <Input
                     placeholder="Search springs, cities, features..."
@@ -217,7 +219,7 @@ export default function BasedSprings() {
                       setSearchTerm(e.target.value)
                       setCurrentPage(1)
                     }}
-                    className="pl-10 bg-white/90 text-black font-bold text-lg"
+                    className="w-full h-12 pl-10 bg-white/90 text-black font-bold text-lg rounded-lg border border-gray-300"
                   />
                 </div>
 
@@ -227,7 +229,7 @@ export default function BasedSprings() {
                     setSelectedState(e.target.value)
                     setCurrentPage(1)
                   }}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
+                  className="w-full max-w-xs h-12 px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
                 >
                   <option value="all">All US States ({states.length})</option>
                   {stateStats.map(({ state, count }: { state: string; count: number }) => (
@@ -243,7 +245,7 @@ export default function BasedSprings() {
                     setSelectedCountry(e.target.value)
                     setCurrentPage(1)
                   }}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
+                  className="w-full max-w-xs h-12 px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
                 >
                   <option value="all">All Countries ({countries.length})</option>
                   {countries.map((country) => (
@@ -256,7 +258,7 @@ export default function BasedSprings() {
                 <select
                   value={sortBy}
                   onChange={(e) => setSortBy(e.target.value as "name" | "rating" | "temperature")}
-                  className="px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
+                  className="w-full max-w-xs h-12 px-4 py-2 border border-gray-300 rounded-lg bg-white/90 backdrop-blur-sm text-black font-bold text-lg"
                 >
                   <option value="rating">Sort by Rating</option>
                   <option value="name">Sort by Name</option>
@@ -264,59 +266,15 @@ export default function BasedSprings() {
                 </select>
               </div>
 
-              <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-                <p className="text-base sm:text-lg text-black font-bold text-center sm:text-left">
-                  Showing {filteredSprings.length} of {hotSpringsData.length} hot springs
-                  {(selectedState !== "all" || searchTerm) && (
-                    <Button variant="link" onClick={resetFilters} className="ml-2 text-black font-bold p-0 h-auto text-base sm:text-lg">
-                      Clear filters
-                    </Button>
-                  )}
-                </p>
 
-                {totalPages > 1 && (
-                  <div className="flex items-center gap-2">
-                    <Button
-                      variant="outline"
-                      size="sm"
-                      onClick={() => setCurrentPage(Math.max(1, currentPage - 1))}
-                      disabled={currentPage === 1}
-                      className="bg-white/80 text-black font-bold text-sm sm:text-lg"
-                    >
-                      Previous
-                    </Button>
-                    <span className="text-sm sm:text-lg text-black font-bold">
-                      Page {currentPage} of {totalPages}
-                    </span>
-                    <Button
-                      variant="outline"
-                      size="sm"
-                      onClick={() => setCurrentPage(Math.min(totalPages, currentPage + 1))}
-                      disabled={currentPage === totalPages}
-                      className="bg-white/80 text-black font-bold text-sm sm:text-lg"
-                    >
-                      Next
-                    </Button>
-                  </div>
-                )}
-              </div>
             </div>
-            {/* Share on Farcaster Button */}
-            <div className="flex justify-center mt-4">
-              <a
-                href="https://warpcast.com/~/compose?text=Check%20out%20Based%20Hot%20Springs%20Guide!%20https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <Button variant="secondary" size="lg" style={{ backgroundColor: '#8A63D2', color: 'white' }}>
-                  Share on Farcaster
-                </Button>
-              </a>
-            </div>
+
+
+
           </div>
 
           {/* Springs Grid */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 mb-8 sm:mb-12">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 mb-5">
             {paginatedSprings.map((spring) => (
               <Card
                 key={spring.id}
@@ -433,9 +391,9 @@ export default function BasedSprings() {
             ))}
           </div>
 
-          {/* Pagination */}
+          {/* Bottom Pagination Controls */}
           {totalPages > 1 && (
-            <div className="flex justify-center items-center gap-2 sm:gap-4 mb-8 sm:mb-12">
+            <div className="flex justify-center items-center gap-2 sm:gap-4 mb-5">
               <Button
                 variant="outline"
                 onClick={() => setCurrentPage(Math.max(1, currentPage - 1))}
@@ -606,10 +564,10 @@ export default function BasedSprings() {
                             className="bg-blue-50/80 text-blue-700 backdrop-blur-sm text-sm sm:text-base"
                             onClick={() => {
                               if (selectedSpring.website) {
-                                const url = selectedSpring.website.startsWith('http') 
-                                  ? selectedSpring.website 
-                                  : `https://${selectedSpring.website}`;
-                                window.open(url, "_blank")
+                              const url = selectedSpring.website.startsWith('http') 
+                                ? selectedSpring.website 
+                                : `https://${selectedSpring.website}`;
+                              window.open(url, "_blank")
                               }
                             }}
                           >
