@@ -1,4 +1,12 @@
 {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEwMTM0OTEsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgyNTdDYmU4OTk2ODQ5NUMzYUU4QzgxQmNjQjhCRTdmMjU3Q0Q1ZjY2In0",
+    "payload": "eyJkb21haW4iOiJiYXNlZC1ob3Qtc3ByaW5ncy52ZXJjZWwuYXBwIn0",
+    "signature": "v6VfeoBoabQp6dXb5LBGeGQmzjCbNCje9yM0HBK/dTVi3+s87kHFyUl6GF89mf3LXoiR957Xc2Od8QZ202bcihw="
+  },
+  "baseBuilder": {
+    "allowedAddresses": ["0x86D895E4E8C0d9C8e8a92d499eC5Aa323afEc537"]
+  },
   "frame": {
     "version": "1",
     "name": "Based Springs",

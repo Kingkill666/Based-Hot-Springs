@@ -1,12 +1,19 @@
 {
+  "accountAssociation": {
+    "account": "0x86D895E4E8C0d9C8e8a92d499eC5Aa323afEc537",
+    "signature": "YOUR_SIGNATURE_HERE"
+  },
   "frame": {
     "version": "1",
     "name": "Based Springs",
-    "iconUrl": "https://your-deployment-domain.com/placeholder-logo.png",
-    "homeUrl": "https://your-deployment-domain.com",
-    "imageUrl": "https://your-deployment-domain.com/Mono_Hot_Springs_Background.jpg",
+    "iconUrl": "https://based-hot-springs.vercel.app/placeholder-logo.png",
+    "homeUrl": "https://based-hot-springs.vercel.app",
+    "imageUrl": "https://based-hot-springs.vercel.app/Mono_Hot_Springs_Background.jpg",
     "buttonTitle": "Explore Hot Springs",
-    "splashImageUrl": "https://your-deployment-domain.com/placeholder-logo.png",
+    "splashImageUrl": "https://based-hot-springs.vercel.app/placeholder-logo.png",
     "splashBackgroundColor": "#D1E8D1"
+  },
+  "baseBuilder": {
+    "allowedAddresses": ["0x86D895E4E8C0d9C8e8a92d499eC5Aa323afEc537"]
   }
 }
