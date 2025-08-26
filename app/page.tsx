@@ -14,16 +14,33 @@ export default function BasedSprings() {
   useEffect(() => {
     const initializeSDK = async () => {
       try {
-    if (typeof window !== "undefined" && sdk?.actions?.ready) {
+        // Wait a bit for the SDK to be fully loaded
+        await new Promise(resolve => setTimeout(resolve, 100));
+        
+        if (typeof window !== "undefined" && sdk?.actions?.ready) {
           await sdk.actions.ready();
           console.log("Farcaster Mini App SDK initialized successfully");
+        } else {
+          console.warn("Farcaster SDK not available or ready method not found");
         }
       } catch (error) {
         console.error("Failed to initialize Farcaster Mini App SDK:", error);
       }
     };
 
+    // Try to initialize immediately
     initializeSDK();
+    
+    // Also try again after a longer delay as a fallback
+    const fallbackTimer = setTimeout(() => {
+      if (typeof window !== "undefined" && sdk?.actions?.ready) {
+        sdk.actions.ready().catch(error => {
+          console.error("Fallback SDK initialization failed:", error);
+        });
+      }
+    }, 1000);
+
+    return () => clearTimeout(fallbackTimer);
   }, []);
 
   const connectWallet = async () => {
