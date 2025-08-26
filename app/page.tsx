@@ -11,32 +11,37 @@ import { MapPin, Thermometer, Clock, Star, Search, Navigation, Droplets, Mountai
 import { hotSpringsData, type HotSpring, countries } from "@/lib/hot-springs-data"
 
 export default function BasedSprings() {
+  // Immediate SDK ready call (most aggressive approach)
+  useEffect(() => {
+    console.log("[BasedSprings] AGGRESSIVE sdk.actions.ready() call");
+    try {
+      if (sdk?.actions?.ready) {
+        sdk.actions.ready();
+        console.log("✅ AGGRESSIVE sdk.actions.ready() called");
+      }
+    } catch (error) {
+      console.error("❌ AGGRESSIVE sdk.actions.ready() failed:", error);
+    }
+  }, []);
+
   // Farcaster Mini App SDK: Remove splash screen when ready
   useEffect(() => {
     console.log("[BasedSprings] About to call sdk.actions.ready()");
     
     const initializeSDK = async () => {
       try {
-        // Check if we're in a Farcaster environment
-        const isInFarcaster = window.location.href.includes('farcaster') || 
-                             window.location.href.includes('warpcast') ||
-                             window.location.href.includes('miniapp') ||
-                             window.farcaster ||
-                             window.farcasterSdk ||
-                             (window as any).Warpcast;
-
-        if (!isInFarcaster) {
-          console.log('🌐 Not in Farcaster mini app environment');
-          return;
-        }
-
-        console.log('🎮 Farcaster mini app environment detected');
+        console.log('🔍 Checking Farcaster environment...');
+        console.log('📍 Current URL:', window.location.href);
+        console.log('🔧 SDK available:', !!sdk);
+        console.log('🔧 SDK actions available:', !!sdk?.actions);
+        console.log('🔧 SDK ready method available:', !!sdk?.actions?.ready);
 
         if (typeof window !== "undefined" && sdk?.actions?.ready) {
+          console.log('🎯 Calling sdk.actions.ready()...');
           await sdk.actions.ready();
           console.log("✅ Farcaster Mini App SDK ready() called successfully");
         } else {
-          console.warn("⚠️ sdk.actions.ready() unavailable");
+          console.warn("⚠️ sdk.actions.ready() unavailable - SDK:", !!sdk, "Actions:", !!sdk?.actions, "Ready:", !!sdk?.actions?.ready);
         }
       } catch (error) {
         console.error("❌ Failed to call sdk.actions.ready():", error);
@@ -53,6 +58,19 @@ export default function BasedSprings() {
       sdk.actions.ready().catch(error => {
         console.error("❌ Fallback sdk.actions.ready() failed:", error);
       });
+    }
+  }, []);
+
+  // Third attempt - immediate call without async
+  useEffect(() => {
+    console.log("[BasedSprings] Immediate sdk.actions.ready() call");
+    if (typeof window !== "undefined" && sdk?.actions?.ready) {
+      try {
+        sdk.actions.ready();
+        console.log("✅ Immediate sdk.actions.ready() called");
+      } catch (error) {
+        console.error("❌ Immediate sdk.actions.ready() failed:", error);
+      }
     }
   }, []);
 
