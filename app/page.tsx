@@ -11,24 +11,49 @@ import { MapPin, Thermometer, Clock, Star, Search, Navigation, Droplets, Mountai
 import { hotSpringsData, type HotSpring, countries } from "@/lib/hot-springs-data"
 
 export default function BasedSprings() {
+  // Farcaster Mini App SDK: Remove splash screen when ready
   useEffect(() => {
+    console.log("[BasedSprings] About to call sdk.actions.ready()");
+    
     const initializeSDK = async () => {
       try {
         // Check if we're in a Farcaster environment
+        const isInFarcaster = window.location.href.includes('farcaster') || 
+                             window.location.href.includes('warpcast') ||
+                             window.location.href.includes('miniapp') ||
+                             window.farcaster ||
+                             window.farcasterSdk ||
+                             (window as any).Warpcast;
+
+        if (!isInFarcaster) {
+          console.log('🌐 Not in Farcaster mini app environment');
+          return;
+        }
+
+        console.log('🎮 Farcaster mini app environment detected');
+
         if (typeof window !== "undefined" && sdk?.actions?.ready) {
-          // Call ready() immediately when the component mounts
           await sdk.actions.ready();
-          console.log("Farcaster Mini App SDK ready() called successfully");
+          console.log("✅ Farcaster Mini App SDK ready() called successfully");
         } else {
-          console.log("Not in Farcaster environment or SDK not available");
+          console.warn("⚠️ sdk.actions.ready() unavailable");
         }
       } catch (error) {
-        console.error("Failed to call sdk.actions.ready():", error);
+        console.error("❌ Failed to call sdk.actions.ready():", error);
       }
     };
 
-    // Call ready() as soon as the component mounts
     initializeSDK();
+  }, []);
+
+  // Additional SDK ready call as fallback (like Pizza-Party)
+  useEffect(() => {
+    console.log("[BasedSprings] Fallback sdk.actions.ready() call");
+    if (typeof window !== "undefined" && sdk?.actions?.ready) {
+      sdk.actions.ready().catch(error => {
+        console.error("❌ Fallback sdk.actions.ready() failed:", error);
+      });
+    }
   }, []);
 
   const connectWallet = async () => {
