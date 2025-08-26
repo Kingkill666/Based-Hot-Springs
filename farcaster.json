@@ -6,11 +6,11 @@
   "frame": {
     "version": "1",
     "name": "Based Springs",
-    "iconUrl": "https://based-hot-springs.vercel.app/placeholder-logo.png",
+    "iconUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
     "homeUrl": "https://based-hot-springs.vercel.app",
-    "imageUrl": "https://based-hot-springs.vercel.app/Mono_Hot_Springs_Background.jpg",
+    "imageUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
     "buttonTitle": "Explore Hot Springs",
-    "splashImageUrl": "https://based-hot-springs.vercel.app/placeholder-logo.png",
+    "splashImageUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
     "splashBackgroundColor": "#D1E8D1"
   },
   "baseBuilder": {

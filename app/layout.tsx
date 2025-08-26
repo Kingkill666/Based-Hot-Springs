@@ -17,14 +17,14 @@ const dmSans = DM_Sans({
 
 const frame = {
   version: "1",
-  imageUrl: "https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app/Mono_Hot_Springs_Background.jpg",
+  imageUrl: "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
   button: {
     title: "Explore Hot Springs",
     action: {
       type: "launch_frame",
       name: "Based Springs",
-      url: "https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app",
-      splashImageUrl: "https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app/placeholder-logo.png",
+      url: "https://based-hot-springs.vercel.app",
+      splashImageUrl: "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
       splashBackgroundColor: "#D1E8D1"
     }
   }

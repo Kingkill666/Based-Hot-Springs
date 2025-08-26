@@ -11,8 +11,8 @@
     "version": "1",
     "name": "Based Springs",
     "iconUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
-    "homeUrl": "https://based-hot-springs.vercel.app/",
-    "imageUrl": "https://your-deployment-domain.com/Mono_Hot_Springs_Background.jpg",
+    "homeUrl": "https://based-hot-springs.vercel.app",
+    "imageUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
     "buttonTitle": "Explore Hot Springs",
     "splashImageUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
     "splashBackgroundColor": "#D1E8D1"
