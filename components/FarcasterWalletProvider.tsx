@@ -1,9 +1,9 @@
 "use client";
 
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
-import { createConfig, configureChains, WagmiConfig } from 'wagmi';
+import { createConfig, WagmiConfig } from 'wagmi';
 import { mainnet } from 'wagmi/chains';
-import { publicProvider } from 'wagmi/providers/public';
+import { http } from 'wagmi/transport';
 import { FarcasterConnector } from '@farcaster/frame-wagmi-connector';
 
 interface FarcasterWalletContextType {
@@ -20,26 +20,17 @@ const FarcasterWalletContext = createContext<FarcasterWalletContextType>({
   error: null,
 });
 
-// Configure chains and providers
-const { chains, publicClient, webSocketPublicClient } = configureChains(
-  [mainnet],
-  [publicProvider()]
-);
-
 // Create wagmi config with Farcaster connector
 const config = createConfig({
-  autoConnect: true,
+  chains: [mainnet],
+  transports: {
+    [mainnet.id]: http(),
+  },
   connectors: [
     new FarcasterConnector({
-      chains,
-      options: {
-        // Auto-connect to Farcaster wallet
-        autoConnect: true,
-      },
+      chains: [mainnet],
     }),
   ],
-  publicClient,
-  webSocketPublicClient,
 });
 
 export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) => {
@@ -57,8 +48,8 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
         const isInFarcaster = window.location.href.includes('farcaster') || 
                              window.location.href.includes('warpcast') ||
                              window.location.href.includes('miniapp') ||
-                             window.farcaster ||
-                             window.farcasterSdk ||
+                             (window as any).farcaster ||
+                             (window as any).farcasterSdk ||
                              (window as any).Warpcast;
 
         if (!isInFarcaster) {
@@ -73,10 +64,10 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
         // We'll check the connection status after a short delay
         setTimeout(() => {
           // Check if wallet is connected
-          if (window.ethereum && window.ethereum.selectedAddress) {
-            setAddress(window.ethereum.selectedAddress);
+          if ((window as any).ethereum && (window as any).ethereum.selectedAddress) {
+            setAddress((window as any).ethereum.selectedAddress);
             setIsConnected(true);
-            console.log('✅ Farcaster wallet connected:', window.ethereum.selectedAddress);
+            console.log('✅ Farcaster wallet connected:', (window as any).ethereum.selectedAddress);
           } else {
             console.log('⚠️ No Farcaster wallet detected');
           }
