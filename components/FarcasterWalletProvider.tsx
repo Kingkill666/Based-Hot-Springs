@@ -51,26 +51,81 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
         console.log('🎮 Farcaster environment detected:', isInFarcaster);
 
         // Check for wallet connection with multiple attempts
-        const checkWallet = () => {
-          // Check multiple ways the wallet might be available
-          const walletAddress = (window as any).ethereum?.selectedAddress || 
+        const checkWallet = async () => {
+          try {
+            // First, try to get existing wallet connection
+            let walletAddress = (window as any).ethereum?.selectedAddress || 
                                (window as any).farcaster?.user?.address ||
                                (window as any).Warpcast?.user?.address ||
                                (window as any).farcasterSdk?.user?.address ||
                                (window as any).ethereum?.accounts?.[0] ||
                                (window as any).ethereum?.address;
-          
-          console.log('🔍 Wallet address found:', walletAddress);
-          
-          if (walletAddress) {
-            setAddress(walletAddress);
-            setIsConnected(true);
-            console.log('✅ Farcaster wallet connected:', walletAddress);
-            setIsLoading(false);
-          } else {
-            console.log('⚠️ No Farcaster wallet detected yet, retrying...');
+            
+            console.log('🔍 Initial wallet check:', walletAddress);
+            
+            if (walletAddress) {
+              setAddress(walletAddress);
+              setIsConnected(true);
+              console.log('✅ Farcaster wallet already connected:', walletAddress);
+              setIsLoading(false);
+              return;
+            }
+
+            // If no wallet found, try to request connection
+            console.log('🔗 Requesting wallet connection...');
+            
+            // Try to request accounts from ethereum provider
+            if ((window as any).ethereum) {
+              try {
+                const accounts = await (window as any).ethereum.request({ 
+                  method: 'eth_requestAccounts' 
+                });
+                console.log('📋 Requested accounts:', accounts);
+                
+                if (accounts && accounts.length > 0) {
+                  walletAddress = accounts[0];
+                  setAddress(walletAddress);
+                  setIsConnected(true);
+                  console.log('✅ Wallet connected via request:', walletAddress);
+                  setIsLoading(false);
+                  return;
+                }
+              } catch (requestError) {
+                console.log('⚠️ eth_requestAccounts failed:', requestError);
+              }
+            }
+
+            // Try Farcaster SDK wallet connection
+            if ((window as any).farcasterSdk?.wallet) {
+              try {
+                const provider = (window as any).farcasterSdk.wallet.getEthereumProvider();
+                if (provider) {
+                  const accounts = await provider.request({ 
+                    method: 'eth_requestAccounts' 
+                  });
+                  console.log('📋 Farcaster SDK accounts:', accounts);
+                  
+                  if (accounts && accounts.length > 0) {
+                    walletAddress = accounts[0];
+                    setAddress(walletAddress);
+                    setIsConnected(true);
+                    console.log('✅ Farcaster SDK wallet connected:', walletAddress);
+                    setIsLoading(false);
+                    return;
+                  }
+                }
+              } catch (sdkError) {
+                console.log('⚠️ Farcaster SDK wallet request failed:', sdkError);
+              }
+            }
+
+            console.log('⚠️ No wallet connection available, retrying...');
             // Retry after a delay
-            setTimeout(checkWallet, 2000);
+            setTimeout(checkWallet, 3000);
+            
+          } catch (error) {
+            console.error('❌ Error in checkWallet:', error);
+            setTimeout(checkWallet, 3000);
           }
         };
 
@@ -102,9 +157,42 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
     checkConnection();
   }, []);
 
-  const connect = () => {
+  const connect = async () => {
     console.log('🔗 Connect wallet called');
-    // In a real implementation, this would trigger wallet connection
+    setIsLoading(true);
+    
+    try {
+      // Try to request wallet connection
+      if ((window as any).ethereum) {
+        const accounts = await (window as any).ethereum.request({ 
+          method: 'eth_requestAccounts' 
+        });
+        
+        if (accounts && accounts.length > 0) {
+          setAddress(accounts[0]);
+          setIsConnected(true);
+          console.log('✅ Wallet connected via manual request:', accounts[0]);
+        }
+      } else if ((window as any).farcasterSdk?.wallet) {
+        const provider = (window as any).farcasterSdk.wallet.getEthereumProvider();
+        if (provider) {
+          const accounts = await provider.request({ 
+            method: 'eth_requestAccounts' 
+          });
+          
+          if (accounts && accounts.length > 0) {
+            setAddress(accounts[0]);
+            setIsConnected(true);
+            console.log('✅ Farcaster SDK wallet connected via manual request:', accounts[0]);
+          }
+        }
+      }
+    } catch (error) {
+      console.error('❌ Manual wallet connection failed:', error);
+      setError('Failed to connect wallet');
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (

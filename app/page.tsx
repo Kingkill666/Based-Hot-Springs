@@ -12,7 +12,7 @@ import { hotSpringsData, type HotSpring, countries } from "@/lib/hot-springs-dat
 import { useFarcasterWallet } from "@/components/FarcasterWalletProvider"
 
 export default function BasedSprings() {
-  const { address, isConnected, isLoading, error } = useFarcasterWallet();
+  const { address, isConnected, isLoading, error, connect } = useFarcasterWallet();
 
   // Debug wallet connection
   useEffect(() => {
@@ -219,14 +219,30 @@ export default function BasedSprings() {
                 </span>
               )}
               {!isLoading && !isConnected && (
-                <span className="text-gray-600 font-mono text-sm">
-                  ⚠️ No wallet connected
-                </span>
+                <div className="flex items-center gap-2">
+                  <span className="text-gray-600 font-mono text-sm">
+                    ⚠️ No wallet connected
+                  </span>
+                  <button
+                    onClick={connect}
+                    className="text-blue-600 font-mono text-sm underline hover:text-blue-800"
+                  >
+                    Connect
+                  </button>
+                </div>
               )}
               {error && (
-                <span className="text-red-600 font-mono text-sm">
-                  ❌ {error}
-                </span>
+                <div className="flex items-center gap-2">
+                  <span className="text-red-600 font-mono text-sm">
+                    ❌ {error}
+                  </span>
+                  <button
+                    onClick={connect}
+                    className="text-blue-600 font-mono text-sm underline hover:text-blue-800"
+                  >
+                    Retry
+                  </button>
+                </div>
               )}
             </div>
           </div>
