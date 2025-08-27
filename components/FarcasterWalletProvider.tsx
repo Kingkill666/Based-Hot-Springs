@@ -3,8 +3,6 @@
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import { createConfig, WagmiConfig } from 'wagmi';
 import { mainnet } from 'wagmi/chains';
-import { http } from 'wagmi/transport';
-import { FarcasterConnector } from '@farcaster/frame-wagmi-connector';
 
 interface FarcasterWalletContextType {
   address: string | null;
@@ -20,17 +18,10 @@ const FarcasterWalletContext = createContext<FarcasterWalletContextType>({
   error: null,
 });
 
-// Create wagmi config with Farcaster connector
+// Create wagmi config with basic setup for Farcaster
 const config = createConfig({
   chains: [mainnet],
-  transports: {
-    [mainnet.id]: http(),
-  },
-  connectors: [
-    new FarcasterConnector({
-      chains: [mainnet],
-    }),
-  ],
+  connectors: [],
 });
 
 export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) => {
@@ -60,8 +51,7 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
 
         console.log('🎮 Farcaster environment detected');
 
-        // The FarcasterConnector will automatically handle the connection
-        // We'll check the connection status after a short delay
+        // Check for Farcaster wallet connection
         setTimeout(() => {
           // Check if wallet is connected
           if ((window as any).ethereum && (window as any).ethereum.selectedAddress) {
