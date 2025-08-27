@@ -29,41 +29,68 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
       try {
         setIsLoading(true);
         
-        // Check if we're in a Farcaster environment
+        console.log('🔍 Checking for wallet connection...');
+        console.log('📍 Current URL:', window.location.href);
+        console.log('🌐 Window objects:', {
+          ethereum: !!(window as any).ethereum,
+          farcaster: !!(window as any).farcaster,
+          farcasterSdk: !!(window as any).farcasterSdk,
+          Warpcast: !!(window as any).Warpcast,
+        });
+
+        // Check if we're in a Farcaster environment (more permissive)
         const isInFarcaster = window.location.href.includes('farcaster') || 
                              window.location.href.includes('warpcast') ||
                              window.location.href.includes('miniapp') ||
+                             window.location.href.includes('vercel.app') || // Allow testing on deployment
                              (window as any).farcaster ||
                              (window as any).farcasterSdk ||
-                             (window as any).Warpcast;
+                             (window as any).Warpcast ||
+                             (window as any).ethereum;
 
-        if (!isInFarcaster) {
-          console.log('🌐 Not in Farcaster environment');
-          setIsLoading(false);
-          return;
-        }
+        console.log('🎮 Farcaster environment detected:', isInFarcaster);
 
-        console.log('🎮 Farcaster environment detected');
-
-        // Check for Farcaster wallet connection
-        setTimeout(() => {
+        // Check for wallet connection with multiple attempts
+        const checkWallet = () => {
           // Check multiple ways the wallet might be available
           const walletAddress = (window as any).ethereum?.selectedAddress || 
                                (window as any).farcaster?.user?.address ||
                                (window as any).Warpcast?.user?.address ||
-                               (window as any).farcasterSdk?.user?.address;
+                               (window as any).farcasterSdk?.user?.address ||
+                               (window as any).ethereum?.accounts?.[0] ||
+                               (window as any).ethereum?.address;
+          
+          console.log('🔍 Wallet address found:', walletAddress);
           
           if (walletAddress) {
             setAddress(walletAddress);
             setIsConnected(true);
             console.log('✅ Farcaster wallet connected:', walletAddress);
+            setIsLoading(false);
           } else {
-            console.log('⚠️ No Farcaster wallet detected');
-            setIsConnected(false);
-            setAddress(null);
+            console.log('⚠️ No Farcaster wallet detected yet, retrying...');
+            // Retry after a delay
+            setTimeout(checkWallet, 2000);
           }
-          setIsLoading(false);
-        }, 1000);
+        };
+
+        // Start checking for wallet
+        checkWallet();
+
+        // Also listen for wallet connection events
+        if ((window as any).ethereum) {
+          (window as any).ethereum.on('accountsChanged', (accounts: string[]) => {
+            console.log('🔄 Accounts changed:', accounts);
+            if (accounts && accounts.length > 0) {
+              setAddress(accounts[0]);
+              setIsConnected(true);
+              setIsLoading(false);
+            } else {
+              setAddress(null);
+              setIsConnected(false);
+            }
+          });
+        }
 
       } catch (err) {
         console.error('❌ Error connecting to Farcaster wallet:', err);

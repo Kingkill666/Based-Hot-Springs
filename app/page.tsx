@@ -14,6 +14,18 @@ import { useFarcasterWallet } from "@/components/FarcasterWalletProvider"
 export default function BasedSprings() {
   const { address, isConnected, isLoading, error } = useFarcasterWallet();
 
+  // Debug wallet connection
+  useEffect(() => {
+    console.log('🔍 [BasedSprings] Wallet state:', {
+      address,
+      isConnected,
+      isLoading,
+      error,
+      hasAddress: !!address,
+      addressLength: address?.length
+    });
+  }, [address, isConnected, isLoading, error]);
+
   // Farcaster Mini App SDK: Remove splash screen when ready
   useEffect(() => {
     console.log("[BasedSprings] About to call sdk.actions.ready()");
@@ -196,9 +208,24 @@ export default function BasedSprings() {
 
             {/* Wallet Address Display - Simple red text like in the image */}
             <div className="flex justify-center mt-3">
-              {isConnected && address && (
+              {isLoading && (
+                <span className="text-blue-600 font-mono text-sm">
+                  🔍 Connecting wallet...
+                </span>
+              )}
+              {!isLoading && isConnected && address && (
                 <span className="text-red-600 font-mono text-sm">
                   {address.slice(0, 6)}...{address.slice(-4)}
+                </span>
+              )}
+              {!isLoading && !isConnected && (
+                <span className="text-gray-600 font-mono text-sm">
+                  ⚠️ No wallet connected
+                </span>
+              )}
+              {error && (
+                <span className="text-red-600 font-mono text-sm">
+                  ❌ {error}
                 </span>
               )}
             </div>
