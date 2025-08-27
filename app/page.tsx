@@ -1,6 +1,6 @@
 "use client"
 
-import { sdk } from "@farcaster/miniapp-sdk";
+// Removed problematic Farcaster SDK import to fix build errors
 import { useEffect, useState, useMemo } from "react"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -14,66 +14,17 @@ import { useFarcasterWallet } from "@/components/FarcasterWalletProvider"
 export default function BasedSprings() {
   const { address, isConnected, isLoading, error } = useFarcasterWallet();
 
-  // Immediate SDK ready call (most aggressive approach)
+  // Farcaster environment detection (simplified)
   useEffect(() => {
-    console.log("[BasedSprings] AGGRESSIVE sdk.actions.ready() call");
-    try {
-      if (sdk?.actions?.ready) {
-        sdk.actions.ready();
-        console.log("✅ AGGRESSIVE sdk.actions.ready() called");
-      }
-    } catch (error) {
-      console.error("❌ AGGRESSIVE sdk.actions.ready() failed:", error);
-    }
-  }, []);
-
-  // Farcaster Mini App SDK: Remove splash screen when ready
-  useEffect(() => {
-    console.log("[BasedSprings] About to call sdk.actions.ready()");
+    console.log("[BasedSprings] Checking Farcaster environment...");
+    const isInFarcaster = window.location.href.includes('farcaster') || 
+                         window.location.href.includes('warpcast') ||
+                         window.location.href.includes('miniapp');
     
-    const initializeSDK = async () => {
-      try {
-        console.log('🔍 Checking Farcaster environment...');
-        console.log('📍 Current URL:', window.location.href);
-        console.log('🔧 SDK available:', !!sdk);
-        console.log('🔧 SDK actions available:', !!sdk?.actions);
-        console.log('🔧 SDK ready method available:', !!sdk?.actions?.ready);
-
-        if (typeof window !== "undefined" && sdk?.actions?.ready) {
-          console.log('🎯 Calling sdk.actions.ready()...');
-          await sdk.actions.ready();
-          console.log("✅ Farcaster Mini App SDK ready() called successfully");
-        } else {
-          console.warn("⚠️ sdk.actions.ready() unavailable - SDK:", !!sdk, "Actions:", !!sdk?.actions, "Ready:", !!sdk?.actions?.ready);
-        }
-      } catch (error) {
-        console.error("❌ Failed to call sdk.actions.ready():", error);
-      }
-    };
-
-    initializeSDK();
-  }, []);
-
-  // Additional SDK ready call as fallback (like Pizza-Party)
-  useEffect(() => {
-    console.log("[BasedSprings] Fallback sdk.actions.ready() call");
-    if (typeof window !== "undefined" && sdk?.actions?.ready) {
-      sdk.actions.ready().catch(error => {
-        console.error("❌ Fallback sdk.actions.ready() failed:", error);
-      });
-    }
-  }, []);
-
-  // Third attempt - immediate call without async
-  useEffect(() => {
-    console.log("[BasedSprings] Immediate sdk.actions.ready() call");
-    if (typeof window !== "undefined" && sdk?.actions?.ready) {
-      try {
-        sdk.actions.ready();
-        console.log("✅ Immediate sdk.actions.ready() called");
-      } catch (error) {
-        console.error("❌ Immediate sdk.actions.ready() failed:", error);
-      }
+    if (isInFarcaster) {
+      console.log("🎮 Farcaster environment detected");
+    } else {
+      console.log("🌐 Regular browser environment");
     }
   }, []);
 
