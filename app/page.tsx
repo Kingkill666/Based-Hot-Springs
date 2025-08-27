@@ -230,26 +230,12 @@ export default function BasedSprings() {
               </div>
             </div>
 
-            {/* Wallet Address Display - Moved outside the flex container */}
+            {/* Wallet Address Display - Simple red text like in the image */}
             <div className="flex justify-center mt-3">
               {isConnected && address && (
-                <div className="flex items-center justify-center gap-2 bg-green-50 border border-green-200 rounded-lg px-3 py-2">
-                  <Wallet className="w-4 h-4 text-green-600" />
-                  <span className="text-sm text-green-700 font-medium">
-                    {address.slice(0, 6)}...{address.slice(-4)}
-                  </span>
-                </div>
-              )}
-              {isLoading && (
-                <div className="flex items-center justify-center gap-2 bg-blue-50 border border-blue-200 rounded-lg px-3 py-2">
-                  <div className="w-4 h-4 border-2 border-blue-600 border-t-transparent rounded-full animate-spin"></div>
-                  <span className="text-sm text-blue-600 font-medium">Connecting wallet...</span>
-                </div>
-              )}
-              {error && (
-                <div className="flex items-center justify-center gap-2 bg-red-50 border border-red-200 rounded-lg px-3 py-2">
-                  <span className="text-sm text-red-600 font-medium">Wallet connection failed</span>
-                </div>
+                <span className="text-red-600 font-mono text-sm">
+                  {address.slice(0, 6)}...{address.slice(-4)}
+                </span>
               )}
             </div>
           </div>
