@@ -11,6 +11,7 @@
     "prebuild": "npm run check-duplicates"
   },
   "dependencies": {
+    "@farcaster/frame-wagmi-connector": "^1.0.0",
     "@farcaster/miniapp-sdk": "^0.1.9",
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "1.2.2",
@@ -61,6 +62,8 @@
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.9",
+    "viem": "^2.36.0",
+    "wagmi": "^2.16.8",
     "zod": "3.25.67"
   },
   "devDependencies": {

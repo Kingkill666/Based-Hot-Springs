@@ -7,10 +7,13 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { MapPin, Thermometer, Clock, Star, Search, Navigation, Droplets, Mountain, TreePine, Waves } from "lucide-react"
+import { MapPin, Thermometer, Clock, Star, Search, Navigation, Droplets, Mountain, TreePine, Waves, Wallet } from "lucide-react"
 import { hotSpringsData, type HotSpring, countries } from "@/lib/hot-springs-data"
+import { useFarcasterWallet } from "@/components/FarcasterWalletProvider"
 
 export default function BasedSprings() {
+  const { address, isConnected, isLoading, error } = useFarcasterWallet();
+
   // Immediate SDK ready call (most aggressive approach)
   useEffect(() => {
     console.log("[BasedSprings] AGGRESSIVE sdk.actions.ready() call");
@@ -74,18 +77,7 @@ export default function BasedSprings() {
     }
   }, []);
 
-  const connectWallet = async () => {
-    try {
-      setIsConnecting(true);
-      // Note: Wallet connection is handled by the Farcaster client
-      // Users can connect their wallet through the Farcaster interface
-      console.log("Wallet connection is handled by the Farcaster client");
-    } catch (error) {
-      console.error("Failed to connect wallet:", error);
-    } finally {
-      setIsConnecting(false);
-    }
-  };
+
 
   const shareSpring = async (spring: HotSpring) => {
     try {
@@ -116,8 +108,6 @@ export default function BasedSprings() {
   const [currentPage, setCurrentPage] = useState(1)
   const [sortBy, setSortBy] = useState<"name" | "rating" | "temperature">("rating")
   const springsPerPage = 12
-  const [userAddress, setUserAddress] = useState<string | null>(null)
-  const [isConnecting, setIsConnecting] = useState(false)
 
   const filteredSprings = useMemo(() => {
     let filtered = hotSpringsData.filter((spring) => {
@@ -238,6 +228,27 @@ export default function BasedSprings() {
                   {states.length} US States
                 </div>
               </div>
+
+              {/* Wallet Address Display */}
+              {isConnected && address && (
+                <div className="flex items-center justify-center gap-2 mt-3">
+                  <Wallet className="w-4 h-4 text-green-600" />
+                  <span className="text-sm text-green-700 font-medium">
+                    {address.slice(0, 6)}...{address.slice(-4)}
+                  </span>
+                </div>
+              )}
+              {isLoading && (
+                <div className="flex items-center justify-center gap-2 mt-3">
+                  <div className="w-4 h-4 border-2 border-blue-600 border-t-transparent rounded-full animate-spin"></div>
+                  <span className="text-sm text-blue-600 font-medium">Connecting wallet...</span>
+                </div>
+              )}
+              {error && (
+                <div className="flex items-center justify-center gap-2 mt-3">
+                  <span className="text-sm text-red-600 font-medium">Wallet connection failed</span>
+                </div>
+              )}
             </div>
           </div>
         </header>
