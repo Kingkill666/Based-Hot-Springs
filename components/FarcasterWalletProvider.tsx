@@ -36,11 +36,7 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
                              (window as any).Warpcast;
 
         if (!isInFarcaster) {
-          console.log('🌐 Not in Farcaster environment - showing demo wallet');
-          // Show a demo wallet address even outside Farcaster for testing
-          setAddress('0xf521...c455d');
-          setIsConnected(true);
-          setError(null);
+          console.log('🌐 Not in Farcaster environment');
           setIsLoading(false);
           return;
         }
@@ -59,15 +55,12 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
             setAddress(walletAddress);
             setIsConnected(true);
             console.log('✅ Farcaster wallet connected:', walletAddress);
-          } else {
-            console.log('⚠️ No Farcaster wallet detected');
-            // For testing, let's simulate a connection in Farcaster environment
-            if (isInFarcaster) {
-              console.log('🧪 Simulating wallet connection for testing...');
-              setAddress('0x1234...5678');
-              setIsConnected(true);
+                      } else {
+              console.log('⚠️ No Farcaster wallet detected');
+              // Don't show any wallet if none is detected
+              setIsConnected(false);
+              setAddress(null);
             }
-          }
           setIsLoading(false);
         }, 1000);
 
