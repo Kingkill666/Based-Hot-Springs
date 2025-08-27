@@ -1,7 +1,7 @@
 "use client"
 
-// Removed problematic Farcaster SDK import to fix build errors
 import { useEffect, useState, useMemo } from "react"
+import { sdk } from "@farcaster/miniapp-sdk";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
@@ -14,18 +14,31 @@ import { useFarcasterWallet } from "@/components/FarcasterWalletProvider"
 export default function BasedSprings() {
   const { address, isConnected, isLoading, error } = useFarcasterWallet();
 
-  // Farcaster environment detection (simplified)
+  // Farcaster Mini App SDK: Remove splash screen when ready
   useEffect(() => {
-    console.log("[BasedSprings] Checking Farcaster environment...");
-    const isInFarcaster = window.location.href.includes('farcaster') || 
-                         window.location.href.includes('warpcast') ||
-                         window.location.href.includes('miniapp');
+    console.log("[BasedSprings] About to call sdk.actions.ready()");
     
-    if (isInFarcaster) {
-      console.log("🎮 Farcaster environment detected");
-    } else {
-      console.log("🌐 Regular browser environment");
-    }
+    const initializeSDK = async () => {
+      try {
+        console.log('🔍 Checking Farcaster environment...');
+        console.log('📍 Current URL:', window.location.href);
+        console.log('🔧 SDK available:', !!sdk);
+        console.log('🔧 SDK actions available:', !!sdk?.actions);
+        console.log('🔧 SDK ready method available:', !!sdk?.actions?.ready);
+
+        if (typeof window !== "undefined" && sdk?.actions?.ready) {
+          console.log('🎯 Calling sdk.actions.ready()...');
+          await sdk.actions.ready();
+          console.log("✅ Farcaster Mini App SDK ready() called successfully");
+        } else {
+          console.warn("⚠️ sdk.actions.ready() unavailable - SDK:", !!sdk, "Actions:", !!sdk?.actions, "Ready:", !!sdk?.actions?.ready);
+        }
+      } catch (error) {
+        console.error("❌ Failed to call sdk.actions.ready():", error);
+      }
+    };
+
+    initializeSDK();
   }, []);
 
 
