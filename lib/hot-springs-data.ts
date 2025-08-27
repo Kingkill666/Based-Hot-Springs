@@ -3499,7 +3499,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Travertine Hot Springs.jpeg",
     rating: 4.6,
     minerals: ["Calcium carbonate", "Sulfur", "Magnesium"],
     nearbyAttractions: [
@@ -4051,7 +4051,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Boron", "Lithium", "Magnesium"],
     nearbyAttractions: ["Clear Lake", "Napa Valley", "Cache Creek"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Wilbur Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -4517,7 +4517,7 @@ export const hotSpringsData: HotSpring[] = [
       "Owens Valley",
     ],
     bestTimeToVisit: "October through April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Saline Valley Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -4564,7 +4564,7 @@ export const hotSpringsData: HotSpring[] = [
       "Julia Pfeiffer Burns State Park",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Slates Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -4927,7 +4927,7 @@ export const hotSpringsData: HotSpring[] = [
       "Anderson Valley",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Orr Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5329,7 +5329,7 @@ export const hotSpringsData: HotSpring[] = [
       "Silver Divide",
     ],
     bestTimeToVisit: "July-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Fish Creek Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5375,7 +5375,7 @@ export const hotSpringsData: HotSpring[] = [
       "Silver Pass",
     ],
     bestTimeToVisit: "July-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Iva Bell Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5832,7 +5832,7 @@ export const hotSpringsData: HotSpring[] = [
       "Lake Isabella",
     ],
     bestTimeToVisit: "May through October",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Delonegha Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17393,7 +17393,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lassen Volcanic National Park", "Chester"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Drakesbad Guest Ranch.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17430,7 +17430,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Doctor Wilkinson's Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17541,7 +17541,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/El Morocco Inn and Spa Resort.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17763,7 +17763,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Death Valley National Park", "Furnace Creek"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Furnace Creek Inn Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19167,7 +19167,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Sierraville", "Tahoe National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sierra Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19278,7 +19278,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Solage Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
