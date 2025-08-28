@@ -221,13 +221,13 @@ export default function BasedSprings() {
               {!isLoading && !isConnected && (
                 <div className="flex items-center gap-2">
                   <span className="text-gray-600 font-mono text-sm">
-                    ⚠️ No wallet connected
+                    ⚠️ Not signed in to Farcaster
                   </span>
                   <button
                     onClick={connect}
                     className="text-blue-600 font-mono text-sm underline hover:text-blue-800"
                   >
-                    Connect
+                    Sign in to Farcaster
                   </button>
                 </div>
               )}
