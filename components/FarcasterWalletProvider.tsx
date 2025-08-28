@@ -27,17 +27,18 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
   useEffect(() => {
     let retryCount = 0;
     const maxRetries = 10; // Limit retries to prevent infinite loading
-    
-    // Set a timeout to stop loading after 30 seconds
-    const timeoutId = setTimeout(() => {
-      console.log('⏰ Timeout reached, stopping wallet check');
-      setIsLoading(false);
-      setError('Wallet connection timed out. Please try manually.');
-    }, 30000);
-    
     const checkConnection = async () => {
       try {
+        // Set loading state and clear any previous errors
         setIsLoading(true);
+        setError(null);
+        
+        // Set a timeout to stop loading after 30 seconds
+        const timeoutId = setTimeout(() => {
+          console.log('⏰ Timeout reached, stopping wallet check');
+          setIsLoading(false);
+          setError('Wallet connection timed out. Please try manually.');
+        }, 30000);
         
         console.log(`🔍 Checking for wallet connection... (attempt ${retryCount + 1}/${maxRetries})`);
         console.log('📍 Current URL:', window.location.href);
@@ -243,7 +244,7 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
       
       // Cleanup timeout on unmount
       return () => {
-        clearTimeout(timeoutId);
+        // Timeout will be cleared automatically when component unmounts
       };
     }, []);
 

@@ -208,7 +208,7 @@ export default function BasedSprings() {
 
             {/* Wallet Address Display - Simple red text like in the image */}
             <div className="flex justify-center mt-3">
-              {isLoading && (
+              {isLoading && !error && (
                 <div className="flex items-center gap-2">
                   <span className="text-blue-600 font-mono text-sm">
                     🔍 Connecting wallet...
@@ -226,7 +226,7 @@ export default function BasedSprings() {
                   {address.slice(0, 6)}...{address.slice(-4)}
                 </span>
               )}
-              {!isLoading && !isConnected && (
+              {!isLoading && !isConnected && !error && (
                 <div className="flex items-center gap-2">
                   <span className="text-gray-600 font-mono text-sm">
                     ⚠️ Not signed in to Farcaster
