@@ -29,13 +29,21 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
     setError(null);
     
     try {
-      // Use the Farcaster SDK wallet provider
-      const sdk = (window as any).farcasterSdk;
-      if (!sdk?.wallet) {
-        throw new Error('Farcaster SDK wallet not available');
+      console.log('🔗 Connecting to Farcaster wallet...');
+      
+      // Import and initialize the Farcaster SDK
+      const { sdk } = await import('@farcaster/frame-sdk');
+      
+      // Ensure SDK is ready
+      await sdk.actions.ready();
+      
+      // Get wallet provider
+      const provider = await sdk.wallet.getEthereumProvider();
+      if (!provider) {
+        throw new Error('Wallet provider not available');
       }
-
-      const provider = sdk.wallet.getEthereumProvider();
+      
+      // Request wallet connection
       const accounts = await provider.request({ 
         method: 'eth_requestAccounts' 
       });
@@ -56,28 +64,47 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
   };
 
   useEffect(() => {
-    // Check if already connected
-    const checkConnection = async () => {
+    // Initialize Farcaster SDK and check wallet connection
+    const initializeSDK = async () => {
       try {
-        const sdk = (window as any).farcasterSdk;
-        if (sdk?.wallet) {
-          const provider = sdk.wallet.getEthereumProvider();
-          const accounts = await provider.request({ method: 'eth_accounts' });
-          
-          if (accounts && accounts.length > 0) {
-            setAddress(accounts[0]);
-            setIsConnected(true);
-            console.log('✅ Already connected to Farcaster wallet:', accounts[0]);
-          }
+        console.log('🔧 Initializing Farcaster SDK...');
+        
+        // Import and initialize the Farcaster SDK
+        const { sdk } = await import('@farcaster/frame-sdk');
+        
+        // Wait for SDK to be ready
+        console.log('⏳ Waiting for SDK to be ready...');
+        await sdk.actions.ready();
+        console.log('✅ SDK ready');
+        
+        // Verify wallet availability
+        const provider = await sdk.wallet.getEthereumProvider();
+        if (!provider) {
+          throw new Error('Wallet provider not available');
         }
+        
+        console.log('✅ Wallet provider available');
+        
+        // Check if already connected
+        const accounts = await provider.request({ method: 'eth_accounts' });
+        
+        if (accounts && accounts.length > 0) {
+          setAddress(accounts[0]);
+          setIsConnected(true);
+          console.log('✅ Already connected to Farcaster wallet:', accounts[0]);
+        } else {
+          console.log('ℹ️ No existing wallet connection');
+        }
+        
       } catch (err) {
-        console.log('No existing wallet connection');
+        console.error('❌ SDK initialization failed:', err);
+        setError(err instanceof Error ? err.message : 'Failed to initialize Farcaster SDK');
       } finally {
         setIsLoading(false);
       }
     };
 
-    checkConnection();
+    initializeSDK();
   }, []);
 
   return (
