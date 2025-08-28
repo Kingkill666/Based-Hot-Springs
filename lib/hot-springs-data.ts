@@ -18130,13 +18130,13 @@ export const hotSpringsData: HotSpring[] = [
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
-    address: "Indian Hot Springs, Niland, CA 92257",
+    address: "1712 Lincoln Ave, Calistoga, CA 94515",
     website: "indianhotsprings.com",
-    detailedDescription: "Indian Hot Springs is a historic, rustic hot springs facility featuring pools and camping near Niland, California. This authentic destination offers visitors a traditional hot springs experience with therapeutic mineral soaking in a historic desert setting. The rustic atmosphere and historic character create a special destination for those seeking an authentic, traditional hot springs experience in the California desert.",
+    detailedDescription: "Indian Springs is located in the famous hot spring city of Calistoga. The resort boasts two outdoor hot springs fed pools and pond on 17 beautiful acres. Indian Springs has overnight accommodations that include cottages, bungalows, and houses. They offer dining and a full spa service. The resort features four thermal geysers on the property that supply the resort with a constant stream of mineral water from a depth of 4,000 feet. The source temperature is 230 degrees. The water flows into the geyser pond, or holding tanks, and is then cooled slightly before it is sent to the Mineral Pool and Buddha Pond. Indian has two pools that include the Adult Pool and Mineral Pool ranging from 92–102 degrees. The Main Pool is an Olympic-sized mineral pool built in 1913, and one of the largest pools in California. The Adult Pool is smaller, quieter, and more intimate—and kept at a cooler temperature than the mineral pool. The Buddha Pond is a tranquil refuge where guests can relax before or after treatments. The enclosed, private area features a geyser-fed meditation pond, palm trees, gardens and outdoor fireplace lounge. The water is treated and bathing suits are required. The spa has a mud bath where the mud is sterilized between each guest's use with 230-degree mineral water and new mud is added continuously.",
     location: "Located near Niland, California, approximately 150 miles southeast of Los Angeles in the Imperial Valley. The facility is situated at -180 feet elevation (below sea level) with views of the surrounding desert landscape and nearby Salton Sea.",
-    directions: "From Los Angeles, take I-10 east to CA-111 south to Niland. From San Diego, take I-8 east to CA-111 north to Niland. The historic facility is well-marked and accessible via paved roads year-round.",
-    accessibilityDetails: "Indian Hot Springs operates seasonally during fall to spring months with rustic facility amenities. The property offers basic amenities including restrooms, parking, and camping areas. The historic setting provides a traditional environment for visitors seeking an authentic hot springs experience.",
-    hotSpringDetails: "The facility features historic hot springs pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The rustic setting provides a traditional environment for enjoying the therapeutic mineral waters. The facility offers camping options for overnight stays.",
+          directions: "From San Francisco California take US-101 to Mark West Springs Rd in Sonoma County. Take exit 494 from US-101 (54 min, 55.6 mi). Follow Mark West Springs Rd, Porter Creek Rd and Petrified Forest Rd to your destination in Calistoga (27 min, 16.0 mi) to Indian Springs Calistoga. From San Francisco California it is 75 miles or about an hour and 40 minutes to drive to the hot springs.",
+          accessibilityDetails: "Indian Springs is very accessible. You can drive up to the hot springs resort. It is an easy walk around the property. Indian is handicap accessible. Indian Springs has accommodations comprised of historic cottages, bungalows, and Mission Revival–style houses spread out across the 17 acres. Indian Springs pools are open till midnight for overnight guests. Pool visitors must have a spa treatment or resort accommodations booked on the day of their visit. No exceptions are made for children. Indian provides a robe and slippers for spa guests. The Indian Spa has mud baths and mineral waters to traditional facials and soothing massage, and the restorative spa treatments are world-renowned.",
+          hotSpringDetails: "Indian Springs is fortunate to have four thermal geysers on the property that supply the resort with a constant stream of mineral water. The mineral water comes from a depth of 4,000 feet. The temperature of the source is 230 degrees. The water is piped and flows into the geyser pond, or holding tanks, and is then cooled slightly before it is sent to the Mineral Pool and Buddha Pond. Indian has two pools that include the Adult Pool and Mineral Pool. Our pools range from 92–102 degrees. The Main Pool is typically ten degrees warmer than the Adult Pool. The Main Pool is an Olympic-sized mineral pool built in 1913, and one of the largest pools in California. The Adult Pool is smaller, quieter, and more intimate—and kept at a cooler temperature than our mineral pool. The Buddha Pond is a tranquil refuge where guests can relax before or after treatments. The enclosed, private area features a geyser-fed meditation pond, palm trees, gardens and outdoor fireplace lounge. The water is treated and is not all natural. Clothing is not optional. Bathing suits are required. The spa has a mud bath. The mud is sterilized between each guest's use with 230-degree mineral water and new mud is added continuously.",
     tips: "This is a clothing optional facility. The facility operates seasonally during fall to spring months when temperatures are moderate. Best visited during fall to spring when desert temperatures are comfortable. Reservations recommended for camping. The location provides excellent access to Niland attractions and Salton Sea activities. The historic setting offers a traditional and authentic hot springs experience. The rustic atmosphere provides a unique desert hot springs experience.",
   },
   {
@@ -18311,7 +18311,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Big Bend", "Pit River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kosk Creek Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18384,7 +18384,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lake Isabella", "Kern River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Lake Isabella Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19161,7 +19161,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Shoshone", "Death Valley National Park"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Shoshone Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19346,7 +19346,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bridgeport", "Buckeye Hot Springs"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Squaw Bath Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19790,7 +19790,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bishop", "Owens Valley"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Woody's Hot Spring.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19827,7 +19827,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Zzyzx", "Mojave National Preserve"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Zzyzx Hot Springs.jpg",
     rating: 3.8,
     clothingOptional: true,
     // Enhanced detailed information
