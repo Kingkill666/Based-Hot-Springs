@@ -65,9 +65,17 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
           try {
             console.log('🔍 Checking for Farcaster authentication...');
             
-            // Check if Farcaster SDK is available
-            if (!(window as any).farcasterSdk) {
+            // Check multiple ways Farcaster SDK might be available
+            const sdk = (window as any).farcasterSdk || (window as any).farcaster || (window as any).Warpcast;
+            
+            if (!sdk) {
               console.log('⚠️ Farcaster SDK not available');
+              console.log('🔍 Available objects:', {
+                farcasterSdk: !!(window as any).farcasterSdk,
+                farcaster: !!(window as any).farcaster,
+                Warpcast: !!(window as any).Warpcast,
+                ethereum: !!(window as any).ethereum
+              });
               retryCount++;
               if (retryCount >= maxRetries) {
                 console.log('❌ Max retries reached, stopping wallet check');
@@ -79,18 +87,37 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
               return;
             }
 
-            console.log('✅ Farcaster SDK found');
+            console.log('✅ Farcaster SDK found:', sdk);
 
             // First, check if user is authenticated with Farcaster
             try {
-              const user = await (window as any).farcasterSdk.getCurrentUser();
+              // Try different methods to get current user
+              let user = null;
+              
+              if (sdk.getCurrentUser) {
+                user = await sdk.getCurrentUser();
+              } else if (sdk.user) {
+                user = sdk.user;
+              } else if (sdk.getUser) {
+                user = await sdk.getUser();
+              }
+              
               console.log('👤 Current Farcaster user:', user);
               
-              if (user && user.fid) {
-                console.log('✅ User authenticated with Farcaster, FID:', user.fid);
+              if (user && (user.fid || user.address)) {
+                console.log('✅ User authenticated with Farcaster, FID:', user.fid, 'Address:', user.address);
                 
                 // Now try to get wallet connection
-                const provider = (window as any).farcasterSdk.wallet?.getEthereumProvider();
+                let provider = null;
+                
+                if (sdk.wallet?.getEthereumProvider) {
+                  provider = sdk.wallet.getEthereumProvider();
+                } else if (sdk.getEthereumProvider) {
+                  provider = sdk.getEthereumProvider();
+                } else if ((window as any).ethereum) {
+                  provider = (window as any).ethereum;
+                }
+                
                 if (provider) {
                   try {
                     const accounts = await provider.request({ method: 'eth_accounts' });
@@ -132,13 +159,24 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
                   } catch (walletError) {
                     console.log('⚠️ Wallet provider error:', walletError);
                   }
+                } else {
+                  console.log('⚠️ No wallet provider available');
                 }
               } else {
                 // User not authenticated, need to sign in
                 console.log('🔐 User not authenticated, requesting Farcaster sign-in...');
                 try {
-                  const user = await (window as any).farcasterSdk.signIn();
-                  console.log('✅ Farcaster sign-in successful:', user);
+                  let signInResult = null;
+                  
+                  if (sdk.signIn) {
+                    signInResult = await sdk.signIn();
+                  } else if (sdk.authenticate) {
+                    signInResult = await sdk.authenticate();
+                  } else if (sdk.connect) {
+                    signInResult = await sdk.connect();
+                  }
+                  
+                  console.log('✅ Farcaster sign-in successful:', signInResult);
                   
                   // After sign-in, try wallet connection
                   setTimeout(checkWallet, 1000);
@@ -214,24 +252,53 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
     setIsLoading(true);
     
     try {
-      // Check if Farcaster SDK is available
-      if (!(window as any).farcasterSdk) {
+      // Check multiple ways Farcaster SDK might be available
+      const sdk = (window as any).farcasterSdk || (window as any).farcaster || (window as any).Warpcast;
+      
+      if (!sdk) {
         throw new Error('Farcaster SDK not available');
       }
 
       // First, check if user is authenticated
-      let user = await (window as any).farcasterSdk.getCurrentUser();
+      let user = null;
       
-      if (!user || !user.fid) {
+      if (sdk.getCurrentUser) {
+        user = await sdk.getCurrentUser();
+      } else if (sdk.user) {
+        user = sdk.user;
+      } else if (sdk.getUser) {
+        user = await sdk.getUser();
+      }
+      
+      if (!user || (!user.fid && !user.address)) {
         console.log('🔐 User not authenticated, requesting Farcaster sign-in...');
-        user = await (window as any).farcasterSdk.signIn();
-        console.log('✅ Farcaster sign-in successful:', user);
+        
+        let signInResult = null;
+        if (sdk.signIn) {
+          signInResult = await sdk.signIn();
+        } else if (sdk.authenticate) {
+          signInResult = await sdk.authenticate();
+        } else if (sdk.connect) {
+          signInResult = await sdk.connect();
+        }
+        
+        console.log('✅ Farcaster sign-in successful:', signInResult);
+        user = signInResult;
       } else {
-        console.log('✅ User already authenticated, FID:', user.fid);
+        console.log('✅ User already authenticated, FID:', user.fid, 'Address:', user.address);
       }
 
       // Now connect wallet
-      const provider = (window as any).farcasterSdk.wallet?.getEthereumProvider();
+      let provider = null;
+      
+      if (sdk.wallet?.getEthereumProvider) {
+        provider = sdk.wallet.getEthereumProvider();
+      } else if (sdk.getEthereumProvider) {
+        provider = sdk.getEthereumProvider();
+      } else if ((window as any).ethereum) {
+        provider = (window as any).ethereum;
+      }
+      
       if (!provider) {
         throw new Error('Farcaster wallet provider not available');
       }
