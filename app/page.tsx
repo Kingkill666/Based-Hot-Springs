@@ -209,9 +209,17 @@ export default function BasedSprings() {
             {/* Wallet Address Display - Simple red text like in the image */}
             <div className="flex justify-center mt-3">
               {isLoading && (
-                <span className="text-blue-600 font-mono text-sm">
-                  🔍 Connecting wallet...
-                </span>
+                <div className="flex items-center gap-2">
+                  <span className="text-blue-600 font-mono text-sm">
+                    🔍 Connecting wallet...
+                  </span>
+                  <button
+                    onClick={connect}
+                    className="text-blue-600 font-mono text-sm underline hover:text-blue-800"
+                  >
+                    Connect Now
+                  </button>
+                </div>
               )}
               {!isLoading && isConnected && address && (
                 <span className="text-red-600 font-mono text-sm">

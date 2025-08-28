@@ -25,11 +25,21 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
+    let retryCount = 0;
+    const maxRetries = 10; // Limit retries to prevent infinite loading
+    
+    // Set a timeout to stop loading after 30 seconds
+    const timeoutId = setTimeout(() => {
+      console.log('⏰ Timeout reached, stopping wallet check');
+      setIsLoading(false);
+      setError('Wallet connection timed out. Please try manually.');
+    }, 30000);
+    
     const checkConnection = async () => {
       try {
         setIsLoading(true);
         
-        console.log('🔍 Checking for wallet connection...');
+        console.log(`🔍 Checking for wallet connection... (attempt ${retryCount + 1}/${maxRetries})`);
         console.log('📍 Current URL:', window.location.href);
         console.log('🌐 Window objects:', {
           ethereum: !!(window as any).ethereum,
@@ -58,6 +68,13 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
             // Check if Farcaster SDK is available
             if (!(window as any).farcasterSdk) {
               console.log('⚠️ Farcaster SDK not available');
+              retryCount++;
+              if (retryCount >= maxRetries) {
+                console.log('❌ Max retries reached, stopping wallet check');
+                setIsLoading(false);
+                setError('Farcaster SDK not available after multiple attempts');
+                return;
+              }
               setTimeout(checkWallet, 3000);
               return;
             }
@@ -140,6 +157,13 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
             }
 
             console.log('⚠️ Authentication/wallet not available, retrying...');
+            retryCount++;
+            if (retryCount >= maxRetries) {
+              console.log('❌ Max retries reached, stopping wallet check');
+              setIsLoading(false);
+              setError('Unable to connect to Farcaster wallet after multiple attempts');
+              return;
+            }
             // Retry after a delay
             setTimeout(checkWallet, 3000);
             
@@ -170,15 +194,20 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
           }
         }
 
-      } catch (err) {
-        console.error('❌ Error connecting to Farcaster wallet:', err);
-        setError(err instanceof Error ? err.message : 'Failed to connect wallet');
-        setIsLoading(false);
-      }
-    };
+              } catch (err) {
+          console.error('❌ Error connecting to Farcaster wallet:', err);
+          setError(err instanceof Error ? err.message : 'Failed to connect wallet');
+          setIsLoading(false);
+        }
+      };
 
-    checkConnection();
-  }, []);
+      checkConnection();
+      
+      // Cleanup timeout on unmount
+      return () => {
+        clearTimeout(timeoutId);
+      };
+    }, []);
 
   const connect = async () => {
     console.log('🔗 Connect Farcaster wallet called');
