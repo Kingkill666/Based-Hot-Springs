@@ -66,133 +66,120 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
           try {
             console.log('🔍 Checking for Farcaster authentication...');
             
-            // Check multiple ways Farcaster SDK might be available
-            const sdk = (window as any).farcasterSdk || (window as any).farcaster || (window as any).Warpcast;
+            // Check for Warpcast wallet specifically
+            const warpcast = (window as any).Warpcast;
+            const farcasterSdk = (window as any).farcasterSdk;
             
-            if (!sdk) {
-              console.log('⚠️ Farcaster SDK not available');
-              console.log('🔍 Available objects:', {
-                farcasterSdk: !!(window as any).farcasterSdk,
-                farcaster: !!(window as any).farcaster,
-                Warpcast: !!(window as any).Warpcast,
-                ethereum: !!(window as any).ethereum
-              });
+            console.log('🔍 Checking for Warpcast wallet...');
+            console.log('🔍 Available objects:', {
+              Warpcast: !!warpcast,
+              farcasterSdk: !!farcasterSdk,
+              farcaster: !!(window as any).farcaster,
+              ethereum: !!(window as any).ethereum
+            });
+            
+            if (!warpcast && !farcasterSdk) {
+              console.log('⚠️ Warpcast wallet not available');
               retryCount++;
               if (retryCount >= maxRetries) {
                 console.log('❌ Max retries reached, stopping wallet check');
                 setIsLoading(false);
-                setError('Farcaster SDK not available after multiple attempts');
+                setError('Warpcast wallet not available after multiple attempts');
                 return;
               }
               setTimeout(checkWallet, 3000);
               return;
             }
 
-            console.log('✅ Farcaster SDK found:', sdk);
+            console.log('✅ Warpcast wallet found:', warpcast);
 
-            // First, check if user is authenticated with Farcaster
+            // Try to connect to Warpcast wallet
             try {
-              // Try different methods to get current user
-              let user = null;
+              console.log('🔗 Attempting to connect to Warpcast wallet...');
               
-              if (sdk.getCurrentUser) {
-                user = await sdk.getCurrentUser();
-              } else if (sdk.user) {
-                user = sdk.user;
-              } else if (sdk.getUser) {
-                user = await sdk.getUser();
-              }
-              
-              console.log('👤 Current Farcaster user:', user);
-              
-              if (user && (user.fid || user.address)) {
-                console.log('✅ User authenticated with Farcaster, FID:', user.fid, 'Address:', user.address);
+              // Try Warpcast wallet first
+              if (warpcast && warpcast.wallet) {
+                console.log('🎯 Using Warpcast wallet provider');
                 
-                // Now try to get wallet connection
-                let provider = null;
-                
-                if (sdk.wallet?.getEthereumProvider) {
-                  provider = sdk.wallet.getEthereumProvider();
-                } else if (sdk.getEthereumProvider) {
-                  provider = sdk.getEthereumProvider();
-                } else if ((window as any).ethereum) {
-                  provider = (window as any).ethereum;
-                }
-                
-                if (provider) {
-                  try {
-                    const accounts = await provider.request({ method: 'eth_accounts' });
-                    console.log('📋 Current wallet accounts:', accounts);
+                try {
+                  // Try to get current accounts
+                  const accounts = await warpcast.wallet.request({ method: 'eth_accounts' });
+                  console.log('📋 Current Warpcast wallet accounts:', accounts);
+                  
+                  if (accounts && accounts.length > 0) {
+                    const walletAddress = accounts[0];
+                    setAddress(walletAddress);
+                    setIsConnected(true);
+                    console.log('✅ Warpcast wallet connected:', walletAddress);
+                    setIsLoading(false);
+                    return;
+                  } else {
+                    // Request wallet connection
+                    console.log('🔗 Requesting Warpcast wallet connection...');
+                    const accounts = await warpcast.wallet.request({ 
+                      method: 'eth_requestAccounts' 
+                    });
+                    console.log('📋 Requested Warpcast wallet accounts:', accounts);
                     
                     if (accounts && accounts.length > 0) {
                       const walletAddress = accounts[0];
                       setAddress(walletAddress);
                       setIsConnected(true);
-                      console.log('✅ Farcaster wallet connected:', walletAddress);
+                      console.log('✅ Warpcast wallet connected after request:', walletAddress);
                       setIsLoading(false);
                       return;
-                    } else {
-                      // User is authenticated but wallet not connected
-                      console.log('🔗 User authenticated, requesting wallet connection...');
-                      try {
-                        const accounts = await provider.request({ 
-                          method: 'eth_requestAccounts' 
-                        });
-                        console.log('📋 Requested wallet accounts:', accounts);
-                        
-                        if (accounts && accounts.length > 0) {
-                          const walletAddress = accounts[0];
-                          setAddress(walletAddress);
-                          setIsConnected(true);
-                          console.log('✅ Farcaster wallet connected after request:', walletAddress);
-                          setIsLoading(false);
-                          return;
-                        }
-                      } catch (requestError) {
-                        console.log('⚠️ Wallet request failed:', requestError);
-                        if ((requestError as any).code === 4001) {
-                          console.log('❌ User rejected wallet connection');
-                          setIsLoading(false);
-                          return;
-                        }
-                      }
                     }
-                  } catch (walletError) {
-                    console.log('⚠️ Wallet provider error:', walletError);
                   }
-                } else {
-                  console.log('⚠️ No wallet provider available');
-                }
-              } else {
-                // User not authenticated, need to sign in
-                console.log('🔐 User not authenticated, requesting Farcaster sign-in...');
-                try {
-                  let signInResult = null;
-                  
-                  if (sdk.signIn) {
-                    signInResult = await sdk.signIn();
-                  } else if (sdk.authenticate) {
-                    signInResult = await sdk.authenticate();
-                  } else if (sdk.connect) {
-                    signInResult = await sdk.connect();
-                  }
-                  
-                  console.log('✅ Farcaster sign-in successful:', signInResult);
-                  
-                  // After sign-in, try wallet connection
-                  setTimeout(checkWallet, 1000);
-                  return;
-                } catch (signInError) {
-                  console.log('❌ Farcaster sign-in failed:', signInError);
-                  if ((signInError as any).code === 4001) {
-                    console.log('❌ User rejected Farcaster sign-in');
+                } catch (warpcastError) {
+                  console.log('⚠️ Warpcast wallet error:', warpcastError);
+                  if ((warpcastError as any).code === 4001) {
+                    console.log('❌ User rejected Warpcast wallet connection');
                     setIsLoading(false);
                     return;
                   }
                 }
               }
-            } catch (authError) {
-              console.log('⚠️ Authentication check failed:', authError);
+              
+              // Fallback to Farcaster SDK if Warpcast not available
+              if (farcasterSdk && farcasterSdk.wallet) {
+                console.log('🎯 Using Farcaster SDK wallet provider');
+                
+                try {
+                  const provider = farcasterSdk.wallet.getEthereumProvider();
+                  const accounts = await provider.request({ method: 'eth_accounts' });
+                  console.log('📋 Current Farcaster SDK accounts:', accounts);
+                  
+                  if (accounts && accounts.length > 0) {
+                    const walletAddress = accounts[0];
+                    setAddress(walletAddress);
+                    setIsConnected(true);
+                    console.log('✅ Farcaster SDK wallet connected:', walletAddress);
+                    setIsLoading(false);
+                    return;
+                  } else {
+                    const accounts = await provider.request({ 
+                      method: 'eth_requestAccounts' 
+                    });
+                    console.log('📋 Requested Farcaster SDK accounts:', accounts);
+                    
+                    if (accounts && accounts.length > 0) {
+                      const walletAddress = accounts[0];
+                      setAddress(walletAddress);
+                      setIsConnected(true);
+                      console.log('✅ Farcaster SDK wallet connected after request:', walletAddress);
+                      setIsLoading(false);
+                      return;
+                    }
+                  }
+                } catch (sdkError) {
+                  console.log('⚠️ Farcaster SDK wallet error:', sdkError);
+                }
+              }
+              
+              console.log('⚠️ No wallet connection available');
+              
+            } catch (error) {
+              console.log('❌ Wallet connection failed:', error);
             }
 
             console.log('⚠️ Authentication/wallet not available, retrying...');
@@ -249,78 +236,63 @@ export const FarcasterWalletProvider = ({ children }: { children: ReactNode }) =
     }, []);
 
   const connect = async () => {
-    console.log('🔗 Connect Farcaster wallet called');
+    console.log('🔗 Connect Warpcast wallet called');
     setIsLoading(true);
+    setError(null);
     
     try {
-      // Check multiple ways Farcaster SDK might be available
-      const sdk = (window as any).farcasterSdk || (window as any).farcaster || (window as any).Warpcast;
+      const warpcast = (window as any).Warpcast;
+      const farcasterSdk = (window as any).farcasterSdk;
       
-      if (!sdk) {
-        throw new Error('Farcaster SDK not available');
+      if (!warpcast && !farcasterSdk) {
+        throw new Error('Warpcast wallet not available');
       }
 
-      // First, check if user is authenticated
-      let user = null;
-      
-      if (sdk.getCurrentUser) {
-        user = await sdk.getCurrentUser();
-      } else if (sdk.user) {
-        user = sdk.user;
-      } else if (sdk.getUser) {
-        user = await sdk.getUser();
-      }
-      
-      if (!user || (!user.fid && !user.address)) {
-        console.log('🔐 User not authenticated, requesting Farcaster sign-in...');
+      // Try Warpcast wallet first
+      if (warpcast && warpcast.wallet) {
+        console.log('🎯 Using Warpcast wallet provider');
         
-        let signInResult = null;
-        if (sdk.signIn) {
-          signInResult = await sdk.signIn();
-        } else if (sdk.authenticate) {
-          signInResult = await sdk.authenticate();
-        } else if (sdk.connect) {
-          signInResult = await sdk.connect();
+        const accounts = await warpcast.wallet.request({ 
+          method: 'eth_requestAccounts' 
+        });
+        
+        if (accounts && accounts.length > 0) {
+          setAddress(accounts[0]);
+          setIsConnected(true);
+          console.log('✅ Warpcast wallet connected via manual request:', accounts[0]);
+          return;
+        } else {
+          throw new Error('No accounts returned from Warpcast wallet');
         }
+      }
+      
+      // Fallback to Farcaster SDK
+      if (farcasterSdk && farcasterSdk.wallet) {
+        console.log('🎯 Using Farcaster SDK wallet provider');
         
-        console.log('✅ Farcaster sign-in successful:', signInResult);
-        user = signInResult;
-      } else {
-        console.log('✅ User already authenticated, FID:', user.fid, 'Address:', user.address);
-      }
-
-      // Now connect wallet
-      let provider = null;
-      
-      if (sdk.wallet?.getEthereumProvider) {
-        provider = sdk.wallet.getEthereumProvider();
-      } else if (sdk.getEthereumProvider) {
-        provider = sdk.getEthereumProvider();
-      } else if ((window as any).ethereum) {
-        provider = (window as any).ethereum;
+        const provider = farcasterSdk.wallet.getEthereumProvider();
+        const accounts = await provider.request({ 
+          method: 'eth_requestAccounts' 
+        });
+        
+        if (accounts && accounts.length > 0) {
+          setAddress(accounts[0]);
+          setIsConnected(true);
+          console.log('✅ Farcaster SDK wallet connected via manual request:', accounts[0]);
+          return;
+        } else {
+          throw new Error('No accounts returned from Farcaster SDK wallet');
+        }
       }
       
-      if (!provider) {
-        throw new Error('Farcaster wallet provider not available');
-      }
-
-      const accounts = await provider.request({ 
-        method: 'eth_requestAccounts' 
-      });
+      throw new Error('No wallet provider available');
       
-      if (accounts && accounts.length > 0) {
-        setAddress(accounts[0]);
-        setIsConnected(true);
-        console.log('✅ Farcaster wallet connected via manual request:', accounts[0]);
-      } else {
-        throw new Error('No accounts returned from Farcaster wallet');
-      }
     } catch (error) {
-      console.error('❌ Farcaster connection failed:', error);
+      console.error('❌ Warpcast wallet connection failed:', error);
       if ((error as any).code === 4001) {
-        setError('User rejected Farcaster connection');
+        setError('User rejected Warpcast wallet connection');
       } else {
-        setError('Failed to connect to Farcaster');
+        setError('Failed to connect to Warpcast wallet');
       }
     } finally {
       setIsLoading(false);
