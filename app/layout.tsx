@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Based Springs - Complete US Hot Springs Database",
     description: "Discover the healing waters across the United States. Your comprehensive guide to hot springs with GPS coordinates, detailed descriptions, and everything you need for your next adventure.",
-    images: ["https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app/Mono_Hot_Springs_Background.jpg"],
+    images: ["https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png"],
   },
   other: {
     "fc:miniapp": JSON.stringify(frame)
