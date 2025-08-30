@@ -14,7 +14,7 @@
     "homeUrl": "https://based-hot-springs.vercel.app",
     "imageUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
     "buttonTitle": "Explore Hot Springs",
-    "splashImageUrl": "https://u.cubeupload.com/vmfcoin/fb6BasedSpringsNameLogo.png",
+    "splashImageUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
     "heroImageUrl": "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
     "ogImageUrl": "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
     "primaryCategory": "utility",
@@ -25,11 +25,11 @@
     "description": "Explore thousands of hot springs worldwide with detailed information, ratings, and locations. Find your next thermal adventure.",
     "tagline": "Discover Thermal Wonders",
     "screenshotUrls": [
-      "https://u.cubeupload.com/vmfcoin/BasedSpringsNameLogo.png",
-      "https://u.cubeupload.com/vmfcoin/BasedSpringsNameLogo.png",
-      "https://u.cubeupload.com/vmfcoin/BasedSpringsNameLogo.png"
+      "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
+      "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
+      "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png"
     ],
-    "castShareUrl": "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
+    "castShareUrl": "https://based-hot-springs.vercel.app",
     "splashBackgroundColor": "#D1E8D1"
   }
 }
