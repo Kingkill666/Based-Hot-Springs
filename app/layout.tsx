@@ -19,14 +19,14 @@ const dmSans = DM_Sans({
 
 const frame = {
   version: "1",
-  imageUrl: "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
+  imageUrl: "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
   button: {
     title: "Explore Hot Springs",
     action: {
       type: "launch_frame",
       name: "Based Springs",
       url: "https://based-hot-springs.vercel.app",
-      splashImageUrl: "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
+      splashImageUrl: "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
       splashBackgroundColor: "#D1E8D1"
     }
   }
