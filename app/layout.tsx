@@ -3,6 +3,7 @@ import type { Metadata } from "next"
 import { Space_Grotesk, DM_Sans } from "next/font/google"
 import "./globals.css"
 import { FarcasterWalletProvider } from "@/components/FarcasterWalletProvider"
+import { Toaster } from "sonner"
 
 const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
@@ -56,6 +57,7 @@ export default function RootLayout({
       <body className="font-sans">
         <FarcasterWalletProvider>
           {children}
+          <Toaster />
         </FarcasterWalletProvider>
       </body>
     </html>

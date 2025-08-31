@@ -40,7 +40,7 @@ export function HotSpringCard({ spring, onClick }: HotSpringCardProps) {
         {/* Temperature overlay */}
         <div className="absolute bottom-3 left-3 bg-orange-500/90 backdrop-blur-sm text-white px-2 py-1 rounded-full text-sm font-medium flex items-center gap-1">
           <Thermometer className="w-3 h-3" />
-          {spring.temperature.average}°F
+          {Math.round((spring.temperature.min + spring.temperature.max) / 2)}°F
         </div>
       </div>
 
@@ -52,7 +52,7 @@ export function HotSpringCard({ spring, onClick }: HotSpringCardProps) {
             </h3>
             <div className="flex items-center text-gray-600 text-sm mt-1">
               <MapPin className="w-4 h-4 mr-1" />
-              {spring.location.city}, {spring.state}
+              {spring.city}, {spring.state}
             </div>
           </div>
 
@@ -79,7 +79,7 @@ export function HotSpringCard({ spring, onClick }: HotSpringCardProps) {
             <div className="flex items-center gap-3">
               <div className="flex items-center gap-1">
                 <DollarSign className="w-3 h-3" />
-                {spring.accessibility.fee_required ? "Fee" : "Free"}
+                {spring.accessibility.fee === "Paid" ? "Fee" : "Free"}
               </div>
               <div className="flex items-center gap-1">
                 <Users className="w-3 h-3" />

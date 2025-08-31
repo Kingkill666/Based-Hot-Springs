@@ -10,6 +10,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { MapPin, Thermometer, Clock, Star, Search, Navigation, Droplets, Mountain, TreePine, Waves, Wallet } from "lucide-react"
 import { hotSpringsData, type HotSpring, countries } from "@/lib/hot-springs-data"
 import { useFarcasterWallet } from "@/components/FarcasterWalletProvider"
+import { toast } from "sonner"
 
 export default function BasedSprings() {
   const { address, isConnected, isLoading, error, connect } = useFarcasterWallet();
@@ -57,23 +58,44 @@ export default function BasedSprings() {
 
   const shareSpring = async (spring: HotSpring) => {
     try {
-      const shareText = `Check out ${spring.name} in ${spring.city}, ${spring.state}! 🌊✨\n\nTemperature: ${spring.temperature?.min && spring.temperature?.max ? Math.round((spring.temperature.min + spring.temperature.max) / 2) : "N/A"}°F\nRating: ⭐ ${spring.rating}/5\n\nDiscover more hot springs at Based Springs!`;
+      setIsSharing(true);
+      console.log('🎯 Share button clicked for:', spring.name);
+      console.log('🔧 SDK available:', !!sdk);
+      console.log('🔧 SDK actions available:', !!sdk?.actions);
       
-      // Use the built-in share functionality
-      if (navigator.share) {
+      // Farcaster-specific share message
+      const farcasterShareText = `♨️ Based Springs is the world's first Onchain Hot Spring Guide! Explore every U.S. spring + global gems, all verified onchain. Start your next soak today 👉 [https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs] ��✨`;
+      
+      // Use Farcaster SDK to open compose page
+      if (sdk?.actions?.openUrl) {
+        console.log('🔗 Using Farcaster openUrl for sharing...');
+        const farcasterShareUrl = `https://farcaster.xyz/~/compose?text=${encodeURIComponent(farcasterShareText)}`;
+        await sdk.actions.openUrl(farcasterShareUrl);
+        console.log('✅ Farcaster compose opened successfully');
+        toast.success(`Opened Farcaster compose for sharing!`);
+      } else if (navigator.share) {
+        // Fallback to native share API
+        console.log('📱 Using native share API...');
         await navigator.share({
-          title: `${spring.name} - Based Springs`,
-          text: shareText,
-          url: `https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app?spring=${spring.id}`
+          title: `Based Springs - Hot Spring Guide`,
+          text: farcasterShareText,
+          url: `https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs`
         });
+        console.log('✅ Native share successful');
+        toast.success(`Shared Based Springs successfully!`);
       } else {
-        // Fallback: copy to clipboard
-        const shareUrl = `https://based-hot-springs-8cqsqoqab-vmf-coin.vercel.app?spring=${spring.id}`;
-        await navigator.clipboard.writeText(`${shareText}\n\n${shareUrl}`);
-        alert("Share text copied to clipboard!");
+        // Final fallback: copy to clipboard
+        console.log('📋 Using clipboard fallback...');
+        await navigator.clipboard.writeText(farcasterShareText);
+        toast.success("Farcaster share text copied to clipboard!");
+        console.log('✅ Clipboard fallback successful');
       }
     } catch (error) {
-      console.error("Failed to share:", error);
+      console.error("❌ Failed to share:", error);
+      // Show user-friendly error message
+      toast.error("Unable to share at this time. Please try again.");
+    } finally {
+      setIsSharing(false);
     }
   };
 
@@ -83,6 +105,7 @@ export default function BasedSprings() {
   const [selectedSpring, setSelectedSpring] = useState<HotSpring | null>(null)
   const [currentPage, setCurrentPage] = useState(1)
   const [sortBy, setSortBy] = useState<"name" | "rating" | "temperature">("rating")
+  const [isSharing, setIsSharing] = useState(false)
   const springsPerPage = 12
 
   const filteredSprings = useMemo(() => {
@@ -439,13 +462,14 @@ export default function BasedSprings() {
                     <Button
                       variant="outline"
                       size="sm"
-                      className="text-xs bg-blue-50 text-blue-700 hover:bg-blue-100"
+                      disabled={isSharing}
+                      className="text-xs bg-blue-100 text-blue-800 hover:bg-blue-200 border-blue-300 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 font-medium"
                       onClick={(e) => {
                         e.stopPropagation();
                         shareSpring(spring);
                       }}
                     >
-                      Share
+                      {isSharing ? "Sharing..." : "Share on Farcaster"}
                     </Button>
                   </div>
                 </CardContent>
@@ -844,10 +868,11 @@ export default function BasedSprings() {
                       <Button
                         variant="outline"
                         size="lg"
-                        className="bg-blue-50/80 text-blue-700 backdrop-blur-sm hover:bg-blue-100 text-sm sm:text-base"
+                        disabled={isSharing}
+                        className="bg-blue-100 text-blue-800 backdrop-blur-sm hover:bg-blue-200 text-sm sm:text-base disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 font-medium border-blue-300"
                         onClick={() => shareSpring(selectedSpring)}
                       >
-                        Share {selectedSpring.name}
+                        {isSharing ? "Sharing..." : `Share Based Springs on Farcaster`}
                       </Button>
                     </div>
                   </div>
