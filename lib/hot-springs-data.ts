@@ -66,7 +66,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Goldfield", "Tonopah"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Alkali Hot Springs.jpeg",
   rating: 4.2,
   clothingOptional: true,
   // Enhanced detailed information
@@ -95,7 +95,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Lake Mead", "Hoover Dam"],
   bestTimeToVisit: "October to April",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Arizona Hot Springs.jpeg",
   rating: 4.6,
   clothingOptional: true,
   // Enhanced detailed information
@@ -124,7 +124,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Death Valley National Park"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Bailey's Hot Springs.jpeg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -153,7 +153,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Wells", "Angel Lake"],
   bestTimeToVisit: "Late Spring to Early Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Bishop Creek Hot Springs.jpeg",
   rating: 4.1,
   clothingOptional: true,
   // Enhanced detailed information
@@ -182,7 +182,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Denio", "Sheldon National Wildlife Refuge"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Bog Hot Spring.jpeg",
   rating: 4.3,
   clothingOptional: true,
   // Enhanced detailed information
@@ -211,7 +211,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Lake Mead", "Hoover Dam"],
   bestTimeToVisit: "October to April",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Boy Scout Hot Springs.jpeg",
   rating: 4.0,
   clothingOptional: true,
   // Enhanced detailed information
@@ -240,7 +240,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Kershaw-Ryan State Park"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Caliente Hot Springs.jpeg",
   rating: 3.9,
   clothingOptional: false,
   // Enhanced detailed information
@@ -269,7 +269,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Carson City", "Lake Tahoe"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Carson City Hot Springs Resort.jpeg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -298,7 +298,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Genoa", "Lake Tahoe"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/David Walley's 1862 Hot Springs.jpeg",
   rating: 4.3,
   clothingOptional: false,
   // Enhanced detailed information
@@ -327,7 +327,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Monitor Valley", "Belmont"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Diana's Punchbowl.jpeg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -356,7 +356,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Black Rock Desert", "Gerlach"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Double Hot Springs.jpeg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -414,7 +414,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Fish Lake Valley", "Dyer"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Fish Lake Hot Springs.jpeg",
   rating: 4.4,
   clothingOptional: true,
   // Enhanced detailed information
@@ -443,7 +443,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Paradise Valley"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Hot Springs Ranch.jpeg",
   rating: 3.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -472,7 +472,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Unionville", "Star Peak"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kyle Hot Springs.jpeg",
   rating: 4.0,
   clothingOptional: true,
   // Enhanced detailed information
@@ -501,7 +501,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Paradise Valley"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Paradise Valley Hot Springs.jpeg",
   rating: 3.9,
   clothingOptional: true,
   // Enhanced detailed information
@@ -530,7 +530,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Lake Mead", "Overton"],
   bestTimeToVisit: "Fall to Spring",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Rogers Springs.jpeg",
   rating: 3.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -559,7 +559,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Ruby Valley"],
   bestTimeToVisit: "Late Spring to Early Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ruby Valley Hot Springs.jpeg",
   rating: 4.5,
   clothingOptional: true,
   // Enhanced detailed information
@@ -588,7 +588,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Austin", "Toiyabe Range"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Spencer Hot Springs.jpeg",
   rating: 4.6,
   clothingOptional: true,
   // Enhanced detailed information
@@ -617,7 +617,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Reno"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Steamboat Hot Springs.jpeg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -646,7 +646,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Wells", "Angel Lake"],
   bestTimeToVisit: "Late Spring to Early Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/12 Mile Hot Springs.jpeg",
   rating: 4.4,
   clothingOptional: true,
   // Enhanced detailed information
@@ -675,7 +675,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Black Rock Desert", "Gerlach"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Trego Hot Springs.jpeg",
   rating: 4.0,
   clothingOptional: true,
   // Enhanced detailed information
@@ -704,7 +704,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Warm Springs"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Warm Springs.jpeg",
   rating: 3.5,
   clothingOptional: true,
   // Enhanced detailed information
@@ -741,7 +741,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium", "Sulfate"],
   nearbyAttractions: ["Alamo", "Pahranagat National Wildlife Refuge"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ash Springs.jpeg",
   rating: 4.1,
   clothingOptional: false,
   // Enhanced detailed information
@@ -777,7 +777,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Austin", "Toiyabe Range"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Bartine Hot Springs.jpeg",
   rating: 4.0,
   clothingOptional: true,
   // Enhanced detailed information
@@ -813,7 +813,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium"],
   nearbyAttractions: ["Soldier Meadows", "Black Rock Desert"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Bathtub Spring.jpeg",
   rating: 4.2,
   clothingOptional: true,
   // Enhanced detailed information
@@ -849,7 +849,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium carbonate", "Silica", "Sulfur"],
   nearbyAttractions: ["Black Rock Desert", "Gerlach"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Fly Geyser.jpeg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -885,7 +885,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium"],
   nearbyAttractions: ["Austin", "Toiyabe Range"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Hot Creek Springs and Marsh Area.jpeg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -921,7 +921,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Hyder", "Arizona border"],
   bestTimeToVisit: "Fall to Spring",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Hyder Hot Springs.jpeg",
   rating: 4.1,
   clothingOptional: true,
   // Enhanced detailed information
@@ -957,7 +957,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Jersey Valley", "Battle Mountain"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Jersey Valley Hot Springs.jpeg",
   rating: 4.0,
   clothingOptional: true,
   // Enhanced detailed information
@@ -993,7 +993,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium"],
   nearbyAttractions: ["Panaca", "Cathedral Gorge State Park"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Panaca Warm Springs.jpeg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -1029,7 +1029,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Austin", "Toiyabe Range"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Pott's Ranch Hot Spring.jpeg",
   rating: 3.9,
   clothingOptional: false,
   // Enhanced detailed information
@@ -1065,7 +1065,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Smith Creek", "Battle Mountain"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Rainbow Hot Springs (Smith Creek).jpeg",
   rating: 3.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -1101,7 +1101,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Austin", "Toiyabe Range"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Reese River Hot Springs (Valley of the Moon).jpeg",
   rating: 4.1,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1137,7 +1137,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Soldier Meadows", "Black Rock Desert"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Soldier Meadows Hot Spring System.jpeg",
   rating: 4.3,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1173,7 +1173,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Soldier Meadows", "Black Rock Desert"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Soldier Meadows Hot Creek.jpeg",
   rating: 4.2,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1209,7 +1209,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium"],
   nearbyAttractions: ["Soldier Meadows", "Black Rock Desert"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Soldier Meadows Warm Pond.jpeg",
   rating: 4.1,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1245,7 +1245,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Reno", "Steamboat Hot Springs"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Steamboat Hot Well.jpeg",
   rating: 3.9,
   clothingOptional: false,
   // Enhanced detailed information
@@ -1281,7 +1281,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Virgin Valley", "Black Rock Desert"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Virgin Valley Hot Springs.jpeg",
   rating: 4.2,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1370,7 +1370,7 @@ export const hotSpringsData: HotSpring[] = [
       "Wildlife viewing",
     ],
     bestTimeToVisit: "May-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Tenakee Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1417,7 +1417,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Serpentine Hot Springs.jpeg",
     rating: 4.2,
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: [
@@ -1467,7 +1467,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: true,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Circle Hot Springs.jpeg",
     rating: 4.1,
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: [
@@ -1520,7 +1520,7 @@ export const hotSpringsData: HotSpring[] = [
       "Alaska State Museum",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Alaska Hotel Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1569,7 +1569,7 @@ export const hotSpringsData: HotSpring[] = [
       "Southeast Alaska wilderness",
     ],
     bestTimeToVisit: "May-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Baranof Warm Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1611,7 +1611,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: ["Wrangell", "Chief Shakes Island", "Stikine River"],
     bestTimeToVisit: "June-August",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Chief Shakes Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1653,7 +1653,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["Sitka", "Pacific Ocean", "Sea otter viewing"],
     bestTimeToVisit: "May-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Goddard Hot Spring.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1699,7 +1699,7 @@ export const hotSpringsData: HotSpring[] = [
       "Northern lights",
     ],
     bestTimeToVisit: "Summer months or winter by trail",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hutlinana Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1745,7 +1745,7 @@ export const hotSpringsData: HotSpring[] = [
       "Gates of the Arctic proximity",
     ],
     bestTimeToVisit: "Summer months only",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kanuti River Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1787,7 +1787,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Sodium"],
     nearbyAttractions: ["Ruby village", "Yukon River", "Interior wilderness"],
     bestTimeToVisit: "Summer months",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kilo Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1833,7 +1833,7 @@ export const hotSpringsData: HotSpring[] = [
       "Northern lights viewing",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Manley Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1875,7 +1875,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: ["Nome", "Seward Peninsula", "Gold rush sites"],
     bestTimeToVisit: "Summer months",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Pilgrim Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1921,7 +1921,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coastal wildlife",
     ],
     bestTimeToVisit: "May-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Shelokum Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1967,7 +1967,7 @@ export const hotSpringsData: HotSpring[] = [
       "Winter recreation",
     ],
     bestTimeToVisit: "Winter months for trail access",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Tolovana Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2009,7 +2009,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: ["Baranof Island", "Whale watching", "Coastal fishing"],
     bestTimeToVisit: "May-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Warm Springs Bay.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2055,7 +2055,7 @@ export const hotSpringsData: HotSpring[] = [
       "Wilderness fishing",
     ],
     bestTimeToVisit: "June-August",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/White Sulfur Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2103,7 +2103,7 @@ export const hotSpringsData: HotSpring[] = [
       "Aleutian wildlife",
     ],
     bestTimeToVisit: "Summer months only",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Akutan Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2155,7 +2155,7 @@ export const hotSpringsData: HotSpring[] = [
       "Desert hiking trails",
     ],
     bestTimeToVisit: "October-April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Arizona (Ringbolt) Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -2248,7 +2248,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/El Dorado Hot Springs.jpeg",
     rating: 4.0,
     minerals: ["Sulfur", "Sodium", "Magnesium"],
     nearbyAttractions: ["Sonoran Desert", "Phoenix", "Desert wildlife"],
@@ -2300,7 +2300,7 @@ export const hotSpringsData: HotSpring[] = [
       "Mountain hiking",
     ],
     bestTimeToVisit: "October through April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Tonopah Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2343,7 +2343,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Verde Hot Springs.jpeg",
     rating: 4.3,
     minerals: ["Sulfur", "Calcium", "Iron"],
     nearbyAttractions: ["Verde River", "Sedona", "Montezuma Castle"],
@@ -2389,7 +2389,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Magnesium"],
     nearbyAttractions: ["Gila Mountains", "Sonoran Desert", "Phoenix"],
     bestTimeToVisit: "October-April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Boy Scout Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -2432,7 +2432,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Lithium", "Sodium", "Sulfur"],
     nearbyAttractions: ["Phoenix", "Scottsdale", "Salt River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Buckhorn Baths.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2475,7 +2475,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Calcium", "Magnesium", "Sulfur"],
     nearbyAttractions: ["Mount Graham", "Safford", "Gila River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Dankworth Ponds.jpeg",
     rating: 3.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2518,7 +2518,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Lithium", "Sodium", "Potassium"],
     nearbyAttractions: ["Scottsdale", "Phoenix", "Desert Mountain"],
     bestTimeToVisit: "October-May",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Essence of Tranquility.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2561,7 +2561,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Calcium"],
     nearbyAttractions: ["Mount Graham", "Gila River", "Safford"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Holladay Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2604,7 +2604,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Magnesium"],
     nearbyAttractions: ["Sand dunes", "Gila River", "Mount Graham"],
     bestTimeToVisit: "October-April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hot Well Dunes Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -2647,7 +2647,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Iron"],
     nearbyAttractions: ["Clifton", "Coronado National Forest", "Gila River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Indian Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2690,7 +2690,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Lithium", "Sodium", "Potassium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree", "Coachella Valley"],
     bestTimeToVisit: "October-May",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kachina Mineral Spa.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2733,7 +2733,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Calcium", "Magnesium", "Sulfur"],
     nearbyAttractions: ["Colorado River", "Parker", "Lake Havasu"],
     bestTimeToVisit: "October-April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kaiser Warm Springs.jpeg",
     rating: 3.9,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2780,7 +2780,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Calcium"],
     nearbyAttractions: ["Gila River", "Coronado National Forest", "Clifton"],
     bestTimeToVisit: "October-May",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Little Jamaica Hot Springs.jpeg",
     // Enhanced detailed information
     address: "Clifton, AZ 85533",
     website: "N/A",
@@ -2823,7 +2823,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["Mount Graham", "Safford", "Gila River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Roper Lake State Park Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2870,7 +2870,7 @@ export const hotSpringsData: HotSpring[] = [
       "Historic mining sites",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sheppards Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2917,7 +2917,7 @@ export const hotSpringsData: HotSpring[] = [
       "Canyon hiking trails",
     ],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Pumpkin Spring.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2964,7 +2964,7 @@ export const hotSpringsData: HotSpring[] = [
       "Desert hiking trails",
     ],
     bestTimeToVisit: "October-April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sheep Bridge Hot Spring.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -3010,7 +3010,7 @@ export const hotSpringsData: HotSpring[] = [
       "Lake Ouachita",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hot Springs National Park.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -3053,7 +3053,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: true,
       restaurant: true,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Quapaw Baths and Spa.jpeg",
     rating: 4.6,
     minerals: ["Silica", "Calcium", "Magnesium"],
     nearbyAttractions: [
@@ -3153,7 +3153,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Fordyce Bathhouse.jpeg",
     rating: 4.6,
     minerals: ["Silica", "Calcium", "Magnesium", "Sodium"],
     nearbyAttractions: [
@@ -3203,7 +3203,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: true,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Blanchard Springs.jpeg",
     rating: 4.4,
     minerals: ["Calcium", "Magnesium", "Bicarbonate"],
     nearbyAttractions: [
@@ -3253,7 +3253,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: true,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Blue Spring Heritage Center.jpeg",
     rating: 4.2,
     minerals: ["Calcium", "Magnesium", "Sulfur"],
     nearbyAttractions: [
@@ -3353,7 +3353,7 @@ export const hotSpringsData: HotSpring[] = [
       "Petrified Forest",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Calistoga Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -3453,7 +3453,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: true,
       restaurant: true,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Harbin Hot Springs.jpeg",
     rating: 4.5,
     minerals: ["Sulfur", "Magnesium", "Silica"],
     nearbyAttractions: ["Calistoga", "Napa Valley", "Clear Lake"],
@@ -3554,7 +3554,7 @@ export const hotSpringsData: HotSpring[] = [
       "Salton Sea",
     ],
     bestTimeToVisit: "October through April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Agua Caliente Springs Park.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -3597,7 +3597,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Iron"],
     nearbyAttractions: ["Pismo Beach", "Hearst Castle", "Morro Bay"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Avila Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -3640,7 +3640,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Calcium", "Potassium"],
     nearbyAttractions: ["Hollywood", "Downtown LA", "Griffith Observatory"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Beverly Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -3730,7 +3730,7 @@ export const hotSpringsData: HotSpring[] = [
       "Temecula Wine Country",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Glen Ivy Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -3824,7 +3824,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Potassium"],
     nearbyAttractions: ["Avila Beach", "Pismo Beach", "Hearst Castle"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sycamore Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -3914,7 +3914,7 @@ export const hotSpringsData: HotSpring[] = [
       "China Ranch",
     ],
     bestTimeToVisit: "October through April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Tecopa Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4008,7 +4008,7 @@ export const hotSpringsData: HotSpring[] = [
       "Redwood forests",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Vichy Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4094,7 +4094,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Lithium"],
     nearbyAttractions: ["Salton Sea", "Slab City", "Salvation Mountain"],
     bestTimeToVisit: "October through April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Bashford's Hot Mineral Spa.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4141,7 +4141,7 @@ export const hotSpringsData: HotSpring[] = [
       "Lake Isabella",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/California Hot Springs Resort.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4188,7 +4188,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coachella Valley",
     ],
     bestTimeToVisit: "October through May",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Desert Hot Springs Spa Hotel.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4376,7 +4376,7 @@ export const hotSpringsData: HotSpring[] = [
       "Cleveland National Forest",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Murrieta Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4419,7 +4419,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Potassium"],
     nearbyAttractions: ["Paso Robles wineries", "Hearst Castle", "Morro Bay"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Paso Robles Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4466,7 +4466,7 @@ export const hotSpringsData: HotSpring[] = [
       "Lake Isabella",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Remington Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -4607,7 +4607,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Potassium"],
     nearbyAttractions: ["Ojai Valley", "Los Padres National Forest", "Ventura"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Wheeler Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4654,7 +4654,7 @@ export const hotSpringsData: HotSpring[] = [
       "Santa Clara Valley",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Gilroy Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4701,7 +4701,7 @@ export const hotSpringsData: HotSpring[] = [
       "Salinas Valley",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Paraiso Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4744,7 +4744,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Sodium"],
     nearbyAttractions: ["Sacramento Delta", "Mount Diablo", "Livermore Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Byron Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4791,7 +4791,7 @@ export const hotSpringsData: HotSpring[] = [
       "Yosemite National Park",
     ],
     bestTimeToVisit: "May through October",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Fales Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -4926,7 +4926,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: ["Lake Tahoe", "Toiyabe National Forest", "Carson Pass"],
     bestTimeToVisit: "May-October",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Grover Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4968,7 +4968,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["John Muir Wilderness", "Edison Lake", "Florence Lake"],
     bestTimeToVisit: "June-October",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Mono Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5056,7 +5056,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["Mammoth Lakes", "Devils Postpile", "Owens River"],
     bestTimeToVisit: "May-October",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Wild Willy Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5102,7 +5102,7 @@ export const hotSpringsData: HotSpring[] = [
       "Ansel Adams Wilderness",
     ],
     bestTimeToVisit: "June-October",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hilltop Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5148,7 +5148,7 @@ export const hotSpringsData: HotSpring[] = [
       "Mammoth Lakes Basin",
     ],
     bestTimeToVisit: "May-October",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Pulky Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5194,7 +5194,7 @@ export const hotSpringsData: HotSpring[] = [
       "Convict Lake",
     ],
     bestTimeToVisit: "June-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Shepherd Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5378,7 +5378,7 @@ export const hotSpringsData: HotSpring[] = [
       "Piute Pass",
     ],
     bestTimeToVisit: "July-September",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Blaney Meadows Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5425,7 +5425,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coachella Valley",
     ],
     bestTimeToVisit: "October through May",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Aqua Soleil Hotel.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5472,7 +5472,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coachella Valley",
     ],
     bestTimeToVisit: "October through May",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Azure Palm Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5519,7 +5519,7 @@ export const hotSpringsData: HotSpring[] = [
       "San Francisco Bay Area",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Boyes Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5566,7 +5566,7 @@ export const hotSpringsData: HotSpring[] = [
       "Plumas National Forest",
     ],
     bestTimeToVisit: "May through October",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Campbell Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5609,7 +5609,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Calcium", "Magnesium", "Potassium", "Sodium"],
     nearbyAttractions: ["Carlsbad Beach", "Legoland", "San Diego"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Carlsbad Mineral Water.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5699,7 +5699,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Boron"],
     nearbyAttractions: ["Crowley Lake", "Mammoth Lakes", "Eastern Sierra"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Crowley Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5742,7 +5742,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Boron"],
     nearbyAttractions: ["Death Valley National Park", "Tecopa", "China Ranch"],
     bestTimeToVisit: "October through April",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Delights Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5836,7 +5836,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coachella Valley",
     ],
     bestTimeToVisit: "October through May",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Desert Hot Springs Inn.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5883,7 +5883,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Jerry Johnson Hot Springs.jpeg",
     rating: 4.7,
     minerals: ["Sulfur", "Silica", "Calcium"],
     nearbyAttractions: [
@@ -5935,7 +5935,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: true,
       restaurant: true,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Chico Hot Springs.jpeg",
     rating: 4.4,
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: [
@@ -5985,7 +5985,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Norris Hot Springs.jpeg",
     rating: 4.6,
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["Madison River", "Ennis", "Tobacco Root Mountains"],
@@ -6037,7 +6037,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Black Rock Hot Springs.jpeg",
     rating: 4.3,
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: [
@@ -6099,7 +6099,7 @@ export const hotSpringsData: HotSpring[] = [
       "Timothy Lake",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Bagby Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6146,7 +6146,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Umpqua Hot Springs.jpeg",
     rating: 4.8,
     minerals: ["Sulfur", "Silica", "Calcium"],
     nearbyAttractions: [
@@ -7173,7 +7173,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur"],
     nearbyAttractions: ["Crystal Hot Springs"],
     bestTimeToVisit: "N/A",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Udy Hot Springs.jpeg",
     rating: 3.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9255,7 +9255,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium", "Magnesium"],
     nearbyAttractions: ["Taos", "Rio Grande Gorge Bridge"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Black Rock Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -9366,7 +9366,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Canon Del Rio Inn & Spa.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9403,7 +9403,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Charles Motel and Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9446,7 +9446,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium", "Magnesium"],
     nearbyAttractions: ["City of Rocks State Park", "Deming"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Faywood Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -9483,7 +9483,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Fire Water Lodge Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9520,7 +9520,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Giggling Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9557,7 +9557,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Cliff Dwellings", "Gila Wilderness"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Gila Hot Springs Campground.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9594,7 +9594,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Cliff Dwellings", "Gila Wilderness"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Gila Hot Springs Ranch.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9631,7 +9631,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Cliff Dwellings", "Gila Wilderness"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Gila Hot Springs RV.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9668,7 +9668,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hay-Yo-Kay Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9705,7 +9705,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hoosier Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9742,7 +9742,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hot Springs Glamp Camp.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9779,7 +9779,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Indian Springs Bathhouse.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9816,7 +9816,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Jemez Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9853,7 +9853,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Jemez Springs Bath House.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9890,7 +9890,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Jordan Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -9927,7 +9927,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/La Paloma Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9964,7 +9964,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Lightfeather Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10001,7 +10001,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Taos", "Rio Grande Gorge Bridge"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Manby Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10038,7 +10038,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/McCauley Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10075,7 +10075,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Middle Fork Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10112,7 +10112,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Mothership Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10149,7 +10149,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Las Vegas", "United World College"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Montezuma Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10186,7 +10186,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Lithia", "Iron", "Arsenic", "Soda", "Sodium"],
     nearbyAttractions: ["Ojo Caliente", "Rio Ojo Caliente"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Ojo Caliente Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10223,7 +10223,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Pelican Spa Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10260,7 +10260,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Taos", "Rio Grande Gorge Bridge"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Ponce de Leon Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10303,7 +10303,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Riverbend Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10377,7 +10377,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/San Francisco Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10414,7 +10414,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sierra Grande Lodge.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10451,7 +10451,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Spence Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10488,7 +10488,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Stagecoach Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10525,7 +10525,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sundial Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10562,7 +10562,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sunnyville Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10599,7 +10599,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Santa Fe", "La Cienega"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sunrise Springs Spa.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10640,7 +10640,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Taos Pueblo", "Taos"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Taos Pueblo Tribal Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10721,7 +10721,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Truth Or Consequences Pool.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10758,7 +10758,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Wilderness Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10795,7 +10795,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Wildwood Retreat and Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10832,7 +10832,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: [],
     nearbyAttractions: [],
     bestTimeToVisit: "Unknown",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Ann Arbor Hot Springs.jpeg",
     rating: 0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10869,7 +10869,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Mount Hood National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Austin Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10905,7 +10905,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Steens Mountain"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Antelope Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10942,7 +10942,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pendleton", "Umatilla National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Bar M Ranch.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10979,7 +10979,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["McKenzie River", "Willamette National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Belknap Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11016,7 +11016,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["McKenzie River", "Blue River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Bigelow Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11053,7 +11053,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pendleton", "Umatilla National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Bingham Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11090,7 +11090,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Borax", "Sodium"],
     nearbyAttractions: ["Alvord Desert", "Steens Mountain"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Borax Lake Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11127,7 +11127,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Willamette National Forest", "Detroit Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Breitenbush Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11164,7 +11164,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: [],
     nearbyAttractions: [],
     bestTimeToVisit: "Unknown",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Carey Hot Springs.jpeg",
     rating: 0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11201,7 +11201,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["McKenzie River", "Blue River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Cougar Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11237,7 +11237,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cove", "Grande Ronde Valley"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Cove Warm Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11274,7 +11274,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Burns", "Malheur National Wildlife Refuge"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Crystal Crane Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11311,7 +11311,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["McKenzie River", "Blue River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Deer Creek Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11348,7 +11348,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["La Grande", "Grande Ronde Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Grande Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11385,7 +11385,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Hart Mountain National Antelope Refuge"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hart Mountain Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11422,7 +11422,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["La Grande", "Grande Ronde Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hot Lake Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11459,7 +11459,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lakeview", "Old Perpetual Geyser"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hunter's Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11496,7 +11496,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ashland", "Lithia Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Jackson Wellsprings Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11533,7 +11533,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Malheur River", "Juntura"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Juntura Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11570,7 +11570,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Warm Springs Reservation", "Deschutes River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kah Nee Ta Resort.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11607,7 +11607,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Blue Mountains", "Ukiah"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Lehman Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11644,7 +11644,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Lithia", "Sodium"],
     nearbyAttractions: ["Ashland", "Lithia Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Lithia Hot Springs Resort.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11681,7 +11681,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Willamette National Forest", "Detroit Lake"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Lower Breitenbush Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11718,7 +11718,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Oakridge", "Willamette National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/McCredie Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11755,7 +11755,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Alvord Desert", "Steens Mountain"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Mickey Hot Springs.jpeg",
     rating: 3.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11792,7 +11792,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Paulina Lake", "Newberry Crater"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Paulina Lake Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11829,7 +11829,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ritter", "John Day River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Ritter Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11865,7 +11865,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Owyhee River", "Owyhee Reservoir"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Snively Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11902,7 +11902,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Summer Lake", "Paisley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Summer Lake Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11939,7 +11939,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Denio", "Alvord Desert"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Willow Creek Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11976,7 +11976,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Potassium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Aura Soma Lava.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12013,7 +12013,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Snake River", "Miracle Hot Springs"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Banbury Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12050,7 +12050,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["South Fork Boise River", "Sawtooth National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Baumgartner Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12087,7 +12087,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon", "Basin Creek"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Basin Creek Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12124,7 +12124,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bear Lake", "Minnetonka Cave"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Bear Lake Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12198,7 +12198,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowman", "Boise National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Bonneville Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12235,7 +12235,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["McCall", "Payette National Forest"],
     bestTimeToVisit: "Winter and Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Burgdorf Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12272,7 +12272,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon River", "Challis"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Challis Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12308,7 +12308,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Challis", "Salmon River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Chattanooga Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12345,7 +12345,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["South Fork Payette River", "Lowman"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Cove Creek Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12382,7 +12382,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Double J&D Historic Riverside Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12419,7 +12419,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Downey", "Bear River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Downata Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12456,7 +12456,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["City of Rocks National Reserve", "Almo"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Durfee Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12493,7 +12493,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ketchum", "Sawtooth National Recreation Area"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Easley Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12530,7 +12530,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ketchum", "Sawtooth National Recreation Area"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Elkhorn Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12567,7 +12567,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ketchum", "Sawtooth National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Frenchman's Bend Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12604,7 +12604,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Marsing", "Snake River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Givens Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12641,7 +12641,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon", "Lemhi Valley"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Goldbug Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12715,7 +12715,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Newdale", "Teton Valley"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Green Canyon Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12752,7 +12752,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowman", "Boise National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Haven Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12789,7 +12789,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Home Hotel Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12826,7 +12826,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Salmon River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Horseshoe Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12863,7 +12863,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Sawtooth Mountains"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Idaho Rocky Mountain Ranch.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12900,7 +12900,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["American Falls", "Snake River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Indian Springs Resort.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12937,7 +12937,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowell", "Lochsa River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Jerry Johnson's Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12973,7 +12973,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon", "Lemhi Valley"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kem Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13010,7 +13010,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Lava Hot Springs Inn.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13047,7 +13047,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Lava Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13084,7 +13084,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bear River", "Thatcher"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Maple Grove Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13121,7 +13121,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Middle Fork Salmon River", "Frank Church Wilderness"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Middle Fork Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13157,7 +13157,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon", "Lemhi Valley"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Milford Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13194,7 +13194,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Snake River", "Banbury Hot Springs"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Miracle Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13231,7 +13231,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Sawtooth Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Mountain Village Resort.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13268,7 +13268,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cambridge", "Weiser River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Mundo Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13305,7 +13305,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Hollister", "Snake River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Nat-Soo-Pah Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13341,7 +13341,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Preston", "Bear River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Pincock Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13378,7 +13378,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowman", "Boise National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Pine Flats Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13415,7 +13415,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Elk City", "Red River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Red River Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13452,7 +13452,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Preston", "Bear River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Riverdale Resort Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13489,7 +13489,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Riverside Inn & Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13526,7 +13526,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Banks", "Middle Fork Payette River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Rocky Canyon Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13563,7 +13563,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Sweet", "Black Canyon Reservoir"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Roystone Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13600,7 +13600,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Crouch", "Boise National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Silver Creek Plunge.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13636,7 +13636,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Owyhee River", "Owyhee Reservoir"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Snively Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13673,7 +13673,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowell", "Lochsa River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Stanley Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13709,7 +13709,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Starkey", "Grande Ronde River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Starkey Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13746,7 +13746,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowman", "Boise National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sacajawea Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13782,7 +13782,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon", "Lemhi Valley"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Samuel's Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13819,7 +13819,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Sawtooth Mountains"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sawtooth Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13856,7 +13856,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Garden Valley", "South Fork Payette River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/South Fork Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13893,7 +13893,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Salmon River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sunbeam Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13930,7 +13930,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Garden Valley", "Boise National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Terrace Lakes Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13967,7 +13967,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Idaho City", "Boise National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/The Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14004,7 +14004,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Hagerman", "Snake River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/1000 Springs Resort.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14040,7 +14040,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cascade", "Payette River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Trail Creek Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14077,7 +14077,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Featherville", "Boise National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Trinity Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14114,7 +14114,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Boise County", "Boise River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Twin Springs Resort.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14151,7 +14151,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cascade", "Payette River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Vulcan Hot Springs.jpeg",
     rating: 3.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14187,7 +14187,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ketchum", "Sawtooth National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Warfield Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14224,7 +14224,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Warm Lake", "Payette National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Warm Lake.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14261,7 +14261,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowell", "Lochsa River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Weir Creek Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14297,7 +14297,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bruneau", "Bruneau Dunes State Park"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Wild Rose Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14334,7 +14334,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["New Meadows", "Little Salmon River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Zim's Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14371,7 +14371,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Potassium"],
     nearbyAttractions: ["Jackson", "Snake River", "Grand Teton National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Astoria Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14453,7 +14453,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Hot Springs State Park", "Thermopolis"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Days Inn by Wyndham Thermopolis.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14490,7 +14490,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Firehole Falls", "Yellowstone National Park"],
     bestTimeToVisit: "Summer (when open)",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Firehole River.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14531,7 +14531,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Hot Springs State Park", "Thermopolis"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Fountain of Youth RV Park.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14568,7 +14568,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Jackson", "Bridger-Teton National Forest"],
     bestTimeToVisit: "Summer and Winter",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Granite Hot Springs Pool.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14605,7 +14605,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Hot Springs State Park", "Thermopolis"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hellie's TeePee and Spa.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14642,7 +14642,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Saratoga", "Platte River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hobo Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14679,7 +14679,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Hot Springs State Park", "Thermopolis"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hot Springs State Park Bath House.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14716,7 +14716,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Grand Teton National Park", "Moran"],
     bestTimeToVisit: "Summer (when open)",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Huckleberry Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14753,7 +14753,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Kelly", "Grand Teton National Park"],
     bestTimeToVisit: "Summer (when open)",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Kelly Hot Springs.jpeg",
     rating: 3.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14790,7 +14790,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Saratoga", "Platte River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Saratoga Hobo Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14827,7 +14827,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Hot Springs State Park", "Thermopolis"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Star Plunge Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14864,7 +14864,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Hot Springs State Park", "Thermopolis"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/State Bath Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14901,7 +14901,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Yellowstone National Park", "Gardiner"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Yellowstone Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15197,7 +15197,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Nathrop", "San Isabel National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Alpine Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15234,7 +15234,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Chalk Creek", "Nathrop"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Antero Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15270,7 +15270,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Aqua Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15307,7 +15307,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Redstone", "Crystal River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Avalanche Ranch Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15348,7 +15348,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ouray", "Box Canyon Falls"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Box Canyon Lodge and Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15385,7 +15385,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ridgway", "San Juan Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Chipeta Solar Springs Resort.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15463,7 +15463,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Buena Vista", "San Isabel National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Cottonwood Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15500,7 +15500,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Chalk Creek", "Nathrop"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Creekside Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15537,7 +15537,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Penrose", "Royal Gorge"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Dakota Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15574,7 +15574,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Deer Valley Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15611,7 +15611,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Florence", "Royal Gorge"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Desert Reef Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15685,7 +15685,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Durango", "Animas River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Durango Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15722,7 +15722,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Eldorado Canyon State Park", "Boulder"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Eldorado Springs Resort & Pool.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15768,7 +15768,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Creede", "Rio Grande National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/4UR Ranch Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15805,7 +15805,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Glenwood Springs", "Iron Mountain Hot Springs"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Glenwood Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15842,7 +15842,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Great Sand Dunes National Park", "Hooper"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Great Sand Dunes Swimming Pool.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15879,7 +15879,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Healing Waters Resort and Spa.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15916,7 +15916,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Crestone", "San Luis Valley"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hippy Dippy Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15953,7 +15953,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Hot Sulphur Springs", "Colorado River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hot Sulfur Springs Resort and Spa.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15990,7 +15990,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Idaho Springs", "Mount Evans"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Indian Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16027,7 +16027,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Iron"],
     nearbyAttractions: ["Glenwood Springs", "Colorado River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Iron Mountain Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16064,7 +16064,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Moffat", "San Luis Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Joyful Journey Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16100,7 +16100,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lay", "Yampa River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Juniper Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16136,7 +16136,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Buena Vista", "Arkansas River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Merrifield Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16179,7 +16179,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Nathrop", "San Isabel National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Mount Princeton Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16221,7 +16221,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ridgway", "San Juan Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Orvis Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16258,7 +16258,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ouray", "Box Canyon Falls"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Ouray Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16295,7 +16295,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Overlook Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16369,7 +16369,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Carbondale", "Crystal River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Penny Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16406,7 +16406,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Kremmling", "Colorado River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Radium Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16443,7 +16443,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Rainbow Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16480,7 +16480,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Rico", "Dolores River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Rico Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16516,7 +16516,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salida", "Arkansas River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Salida Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16553,7 +16553,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Glenwood Springs", "Colorado River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/South Canyon Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16590,7 +16590,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Alamosa", "Great Sand Dunes National Park"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Splashland Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16631,7 +16631,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Springs Ranch.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16668,7 +16668,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Steamboat Springs", "Yampa River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Steamboat Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16742,7 +16742,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Manitou Springs", "Garden of the Gods"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sunwater Spa Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16816,7 +16816,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Nathrop", "San Isabel National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Treehouse Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16853,7 +16853,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Durango", "Animas River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Trimble Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16894,7 +16894,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ouray", "Box Canyon Falls"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Twin Peaks Lodge and Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16936,7 +16936,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Moffat", "San Luis Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Valley View Hot Springs.jpeg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16977,7 +16977,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Gunnison", "Gunnison National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Waunita Hot Springs.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17014,7 +17014,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ouray", "Box Canyon Falls"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Wiesbaden Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17051,7 +17051,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Glenwood Springs", "Colorado River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Yampah Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17087,7 +17087,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Chloride", "Sulfate"],
     nearbyAttractions: ["Steamboat Springs", "Steamboat Ski Resort", "Yampa River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Old Town Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17124,7 +17124,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Bella Monte Hot Springs Resort and Spa.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17161,7 +17161,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Caliente Springs Resort.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17198,7 +17198,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Carlin", "Humboldt River"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Carlin County Cottages Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17235,7 +17235,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Crowley Lake", "Mammoth Lakes"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Crowley Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17276,7 +17276,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Death Valley National Park", "Furnace Creek"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Death Valley Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17424,7 +17424,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Eagleville", "Surprise Valley"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Eagleville Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17461,7 +17461,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ojai", "Los Padres National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Ecotopia Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17572,7 +17572,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Quincy", "Feather River"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Feather River Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17646,7 +17646,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Niland", "Salton Sea"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Fountain of Youth Spa.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17683,7 +17683,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Paso Robles", "Wine Country"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Franklin Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17757,7 +17757,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Gaviota State Park", "Goleta"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Gaviota Hot Springs.jpeg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17794,7 +17794,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Niland", "Salton Sea"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Glamis North Hot Springs Resort.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17831,7 +17831,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Golden Haven Hot Springs Spa and Resort.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17868,7 +17868,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Good House Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17905,7 +17905,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hacienda Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17942,7 +17942,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Healing Sands.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17979,7 +17979,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Holtville", "Salton Sea"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Holtville Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18016,7 +18016,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hope Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18053,7 +18053,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Big Bend", "Pit River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Hunt Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18126,7 +18126,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Jacumba", "Anza-Borrego Desert"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Jacumba Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18163,7 +18163,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bishop", "Owens Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Keough Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18237,7 +18237,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/KOA Palm Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18421,7 +18421,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Lido Palms Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18458,7 +18458,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Meadowlark Country House and Resort.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18495,7 +18495,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bakersfield", "Kern River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Miracle Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18532,7 +18532,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Miracle Springs Resort and Spa.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18569,7 +18569,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Montecito", "Santa Barbara"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Montecito Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18606,7 +18606,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/MoonAcre Spa and Baths.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18643,7 +18643,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Glen Ellen", "Sonoma Valley"],
     bestTimeToVisit: "Spring to Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Morton's Warm Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18680,7 +18680,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Mount View Hotel and Spa.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18717,7 +18717,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Nurturing Nest Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18754,7 +18754,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ojai", "Los Padres National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Ojai Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18791,7 +18791,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Paso Robles", "Wine Country"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/River Oaks Hot Spring Spa.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18828,7 +18828,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Roman Spa Hot Springs Resort.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18902,7 +18902,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sahara Hotel & Spa.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18939,7 +18939,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sam's Family Spa.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18976,7 +18976,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sandpiper Springs Retreat & Spa.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19013,7 +19013,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sea Mountain Nudist Hotel.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19124,7 +19124,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sky Valley Resort.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19198,7 +19198,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Sonoma", "Wine Country"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Sonoma Aquatic Club.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19235,7 +19235,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Springs Resort.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19309,7 +19309,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Weed", "Mount Shasta"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Stewart Mineral Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19346,7 +19346,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cedarville", "Warner Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Surprise Valley Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19420,7 +19420,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/The O Spa.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19457,7 +19457,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Turtle Back Mesa Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19494,7 +19494,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Tuscan Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19531,7 +19531,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/UpValley Inn and Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19568,7 +19568,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Warner Springs", "Cleveland National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Warner Springs Ranch.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19605,7 +19605,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Mammoth Lakes", "Hot Creek"],
     bestTimeToVisit: "Summer",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Whitmore Pool Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19642,7 +19642,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ojai", "Los Padres National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Willett Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19679,7 +19679,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Twentynine Palms", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Wonder Valley Hot Springs.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19794,7 +19794,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Arlington Hotel.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19831,7 +19831,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Calcium", "Magnesium"],
     nearbyAttractions: ["Blanchard Springs Caverns", "Ozark National Forest"],
     bestTimeToVisit: "Spring to Fall",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Blanchard Springs.jpeg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19868,7 +19868,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Chrysalis Day Spa.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19905,7 +19905,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "View from outside year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Maurice Bathhouse.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19942,7 +19942,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Ozark Bathhouse.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19983,7 +19983,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Eureka Springs", "Ozark Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Palace Hotel & Bathhouse.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20024,7 +20024,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Springs Hotel and Spa.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20061,7 +20061,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Eureka Springs", "Ozark Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Swan Song Spa.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20098,7 +20098,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "Year-round",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/Thai Me Spa.jpeg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20165,7 +20165,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur", "Magnesium"],
   nearbyAttractions: ["The Burren", "Cliffs of Moher"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Lisdoonvarna Spa Wells.jpeg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20194,7 +20194,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["River Liffey", "Curragh Racecourse"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kilcullen Bathhouse.jpeg",
   rating: 3.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20223,7 +20223,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Royal Canal", "Trim Castle"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Enfield Spa.jpeg",
   rating: 3.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20252,7 +20252,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Mallow Castle", "Blackwater River"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Mallow Spa.jpeg",
   rating: 3.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20281,7 +20281,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Lucan Demesne", "River Liffey"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Lucan Spa.jpeg",
   rating: 3.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20310,7 +20310,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Ballybunion Beach", "Golf Links"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ballybunion Seaweed Baths.jpeg",
   rating: 4.3,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20339,7 +20339,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Strandhill Beach", "Knocknarea"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Strandhill Seaweed Baths.jpeg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20368,7 +20368,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Derry", "Enagh Lough"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Enagh Spa.jpeg",
   rating: 3.4,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20397,7 +20397,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Kilkee Beach", "Loop Head"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kilkee Thalassotherapy Centre.jpeg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20426,7 +20426,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Strandhill Beach", "Knocknarea"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/VOYA Seaweed Baths.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20455,7 +20455,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Galway Bay", "Salthill Promenade"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Galway Bay Seaweed Baths.jpeg",
   rating: 4.4,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20484,7 +20484,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Salthill Beach", "Galway City"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Salthill Spa.jpeg",
   rating: 3.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20513,7 +20513,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Bundoran Beach", "Donegal Bay"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Bundoran Seaweed Baths.jpeg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20542,7 +20542,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Magnesium"],
   nearbyAttractions: ["The Burren", "Aillwee Cave"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Burren Wellness Centre.jpeg",
   rating: 4.1,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20571,7 +20571,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Kilkee Beach", "Loop Head"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kilkee Seaweed Baths.jpeg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20600,7 +20600,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["River Finn", "Drumboe Woods"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ballybofey Mineral Springs.jpeg",
   rating: 3.3,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20629,7 +20629,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Dublin City Centre", "River Liffey"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Dublin Seaweed Baths.jpeg",
   rating: 4.3,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20658,7 +20658,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Tralee Bay", "Blennerville Windmill"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Tralee Seaweed Baths.jpeg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20687,7 +20687,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["King John's Castle", "River Shannon"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Limerick Mineral Springs.jpeg",
   rating: 3.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20716,7 +20716,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Cork City Centre", "River Lee"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Cork Seaweed Baths.jpeg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20745,7 +20745,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Giant's Causeway", "Ballycastle Beach"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ballycastle Seaweed Baths.jpeg",
   rating: 4.1,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20774,7 +20774,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Portrush Beach", "Dunluce Castle"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Portrush Seaweed Baths.jpeg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20803,7 +20803,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Rosses Point Beach", "Benbulben"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Rosses Point Seaweed Baths.jpeg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20832,7 +20832,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Greystones Beach", "Bray Head"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Greystones Seaweed Baths.jpeg",
   rating: 4.1,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20861,7 +20861,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["River Suir", "Slievenamon"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Clonmel Mineral Springs.jpeg",
   rating: 3.3,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20890,7 +20890,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iodine", "Magnesium"],
   nearbyAttractions: ["Wexford Harbour", "Curracloe Beach"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Wexford Seaweed Baths.jpeg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20919,7 +20919,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Boyne River", "Newgrange"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Drogheda Mineral Springs.jpeg",
   rating: 3.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20948,7 +20948,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Kells Monastic Site", "Headfort Golf Club"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kells Mineral Springs.jpeg",
   rating: 3.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -20977,7 +20977,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Athlone Castle", "River Shannon"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Athlone Mineral Springs.jpeg",
   rating: 3.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21006,7 +21006,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["River Shannon", "Lough Key"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Carrick-on-Shannon Mineral Springs.jpeg",
   rating: 3.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21037,7 +21037,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iron", "Salt", "Carbonate"],
   nearbyAttractions: ["Mount Rokko", "Kobe"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Arima Onsen.jpeg",
   rating: 4.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21095,7 +21095,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Matsuyama Castle", "Botchan Train"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Dogo Onsen.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21124,7 +21124,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Dogo Onsen", "Matsuyama"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ehimeero Onsen.jpeg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21153,7 +21153,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur", "Alkaline"],
   nearbyAttractions: ["Hakone Open-Air Museum", "Owakudani"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Gora Onsen.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21182,7 +21182,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur", "Alkaline"],
   nearbyAttractions: ["Lake Ashi", "Hakone Shrine"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Hakone Onsen.jpeg",
   rating: 4.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21211,7 +21211,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Takayama Old Town", "Shirakawa-go"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Hida-Takayama Onsen.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21240,7 +21240,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Salt"],
   nearbyAttractions: ["Chiringashima", "Mount Kaimon"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ibusuki Onsen.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21269,7 +21269,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Iron"],
   nearbyAttractions: ["Shikinejima Beaches"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Jinata Onsen.jpeg",
   rating: 4.4,
   clothingOptional: true,
   // Enhanced detailed information
@@ -21298,7 +21298,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Lake Kawaguchi", "Mount Fuji"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kawaguchiko Onsen.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21327,7 +21327,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Kinosaki Ropeway", "Genbudo Park"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kinosaki Onsen.jpeg",
   rating: 4.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21414,7 +21414,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Noto Peninsula"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Lamp no Yado.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21443,7 +21443,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur", "Salt", "Iron", "Alum"],
   nearbyAttractions: ["Jigokudani", "Oyunuma Pond"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Noboribetsu Onsen.jpeg",
   rating: 4.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21472,7 +21472,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Tazawa Lake", "Akita Mountains"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Nyuto Onsen.jpeg",
   rating: 4.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21501,7 +21501,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Odaiba", "Tokyo Bay"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ōedo Onsen Monogatari.jpeg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21530,7 +21530,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur", "Alkaline"],
   nearbyAttractions: ["Hakone", "Pampas Grass Fields"],
   bestTimeToVisit: "Autumn",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Sengokuhara Onsen.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21559,7 +21559,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Shirahama Beach", "Adventure World"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Shirahama Onsen.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21588,7 +21588,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Northern Alps", "Mount Norikura"],
   bestTimeToVisit: "Summer",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Takama-ga-hara Onsen.jpeg",
   rating: 4.5,
   clothingOptional: true,
   // Enhanced detailed information
@@ -21617,7 +21617,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Takaragawa River", "Minakami"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Takaragawa Onsen.jpeg",
   rating: 4.8,
   clothingOptional: true,
   // Enhanced detailed information
@@ -21646,7 +21646,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Lake Toya", "Mount Usu"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Toyako Onsen.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21675,7 +21675,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Urami Waterfall", "Nikko"],
   bestTimeToVisit: "Spring to Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Urami-ga-taki Onsen.jpeg",
   rating: 4.3,
   clothingOptional: true,
   // Enhanced detailed information
@@ -21704,7 +21704,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Mount Yufu", "Yufuin Floral Village"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Yufuin Onsen.jpeg",
   rating: 4.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21762,7 +21762,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Zao Ski Resort", "Juhyo (Ice Monsters)"],
   bestTimeToVisit: "Winter",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Zao Onsen.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21791,7 +21791,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Tamatsukuri Shrine", "Matsue Castle"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Tamatsukuri Onsen.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21820,7 +21820,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Radium"],
   nearbyAttractions: ["Mitokusan Sanbutsu-ji Temple"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Misasa Onsen.jpeg",
   rating: 4.4,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21849,7 +21849,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Nikko Shrines", "Kinugawa River"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kinugawa Onsen.jpeg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21878,7 +21878,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Mount Aso"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Shirakawa Onsen.jpeg",
   rating: 4.3,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21907,7 +21907,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Spa Resort Hawaiians"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Iwaki Yumoto Onsen.jpeg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21936,7 +21936,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Atami Sun Beach", "MOA Museum of Art"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Atami Onsen.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21965,7 +21965,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Jigokudani Monkey Park"],
   bestTimeToVisit: "Winter",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Shibu Onsen.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -21994,7 +21994,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Kumano Kodo", "Hongu Taisha"],
   bestTimeToVisit: "Winter",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kawayu Onsen.jpeg",
   rating: 4.5,
   clothingOptional: true,
   // Enhanced detailed information
@@ -22023,7 +22023,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Mount Kusatsu-Shirane"],
   bestTimeToVisit: "Winter",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Manza Onsen.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22052,7 +22052,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Mount Azuma", "Yonezawa"],
   bestTimeToVisit: "Winter",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Shirabu Onsen.jpeg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22081,7 +22081,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Hakkoda Mountains"],
   bestTimeToVisit: "Winter",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Sukayu Onsen.jpeg",
   rating: 4.7,
   clothingOptional: true,
   // Enhanced detailed information
@@ -22110,7 +22110,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfur"],
   nearbyAttractions: ["Unzen Jigoku", "Mount Unzen"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Unzen Onsen.jpeg",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22139,7 +22139,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Alkaline"],
   nearbyAttractions: ["Jigokudani Monkey Park"],
   bestTimeToVisit: "Winter",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Yudanaka Onsen.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22397,7 +22397,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Jackson Hole", "Grand Teton National Park", "Bridger-Teton National Forest"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Granite Hot Springs.jpeg",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22469,7 +22469,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate", "Calcium"],
   nearbyAttractions: ["Snowy Range", "Medicine Bow National Forest", "Platte River"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Saratoga Hot Springs.jpeg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22506,7 +22506,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Payette River", "Boise National Forest", "Lowman"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Kirkham Hot Springs.jpeg",
   rating: 4.6,
   clothingOptional: true,
   // Enhanced detailed information
@@ -22542,7 +22542,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate", "Calcium"],
   nearbyAttractions: ["Snake River", "Ririe Reservoir", "Idaho Falls"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Heise Hot Springs.jpeg",
   rating: 4.4,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22579,7 +22579,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Alpine Lakes Wilderness", "Snoqualmie Pass", "Mount Baker-Snoqualmie National Forest"],
   bestTimeToVisit: "Summer and Fall",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Goldmyer Hot Springs.jpeg",
   rating: 4.8,
   clothingOptional: true,
   // Enhanced detailed information
@@ -22615,7 +22615,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Cascade Mountains", "Stevens Pass", "Mount Baker-Snoqualmie National Forest"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Scenic Hot Springs.jpeg",
   rating: 4.7,
   clothingOptional: true,
   // Enhanced detailed information
@@ -22651,7 +22651,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfate", "Calcium", "Magnesium", "Bicarbonate", "Fluoride", "Metaboric acid"],
   nearbyAttractions: ["City Park", "Heroes' Square", "Vajdahunyad Castle", "Budapest Zoo"],
   bestTimeToVisit: "Year-round",
-  image: "Szechenyi Baths.jpg",
+  image: "/placeholder.svg?height=300&width=400",
   rating: 4.9,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22687,7 +22687,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfate", "Calcium", "Magnesium", "Bicarbonate", "Fluoride"],
   nearbyAttractions: ["Gellért Hill", "Danube River", "Liberty Bridge", "Central Market Hall"],
   bestTimeToVisit: "Year-round",
-  image: "Rudas Baths.jpg",
+  image: "/placeholder.svg?height=300&width=400",
   rating: 4.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22723,7 +22723,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium hydrogencarbonate", "Calcium hydrogensulfite", "Magnesium hydrogencarbonate", "Chloride", "Sodium", "Fluoride"],
   nearbyAttractions: ["Margaret Bridge", "Margaret Island", "Buda Castle", "Chain Bridge"],
   bestTimeToVisit: "Year-round",
-  image: "Lukacs Baths.jpg",
+  image: "/placeholder.svg?height=300&width=400",
   rating: 4.6,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22759,7 +22759,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium", "Hydrocarbonate", "Alkalis", "Chloride", "Sulfate", "Fluoride"],
   nearbyAttractions: ["Gellért Hill", "Liberty Bridge", "Danube River", "Central Market Hall"],
   bestTimeToVisit: "Year-round",
-  image: "Gellert Baths.jpeg",
+  image: "/placeholder.svg?height=300&width=400",
   rating: 4.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -22795,7 +22795,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sulfate", "Calcium", "Magnesium", "Bicarbonate", "Fluoride"],
   nearbyAttractions: ["Buda Castle", "Fisherman's Bastion", "Matthias Church", "Chain Bridge"],
   bestTimeToVisit: "Year-round",
-  image: "Kiraly Baths.jpg",
+  image: "/placeholder.svg?height=300&width=400",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -23476,7 +23476,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Nine waterfalls", "72 mountain peaks", "Forest trails", "Ancient temples"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Ninghai Forest Hot Spring.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Ninghai Forest Hot Spring",
     directions: "From Ninghai city center, follow local roads to the forest park. The hot spring is located within the protected forest area. Public transportation may be limited, so driving is recommended.",
     tips: "Bring your own towel and toilet paper. Wear appropriate hiking shoes for exploring the mountain trails. The hot spring has been in use since ancient times, so some facilities may be older but still functional."
@@ -23502,7 +23502,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Subterranean caves", "Ancient underground rivers", "Mountain waterfalls", "Hiking trails"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Chongqing South Hot Springs Park.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Chongqing South Hot Springs Park",
     directions: "From Chongqing city center, take local transportation to Nanquan town. The hot springs park is located within the town and is accessible by car or local bus.",
     tips: "Bring appropriate hiking gear for exploring the trails and caves. The subterranean caves offer a unique experience but may be damp and require careful navigation."
@@ -23528,7 +23528,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Great Wall of China", "Summer Palace", "Beijing city center", "Historical sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Long Mai Hot Spring Beijing.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Long Mai Hot Spring Beijing",
     directions: "From Beijing city center, follow directions to the Great Wall area. The hotel is located near major Beijing attractions with good road access.",
     tips: "Bring your own towel and toilet paper as these may not be provided in all areas. The hotel offers convenient access to major Beijing attractions while providing thermal bathing experiences."
@@ -23554,7 +23554,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Xuchang city center", "Local cultural sites", "Henan Province attractions"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Mist Hot Spring Hotel.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "The Mist Hot Spring Hotel",
     directions: "From Xuchang city center, follow local roads to the hotel. The facility is accessible by car with parking available.",
     tips: "The hotel's name comes from the persistent mist created by the hot spring. Enjoy the extensive bathing facilities including both indoor and outdoor options. The on-site restaurant serves authentic Cantonese cuisine."
@@ -23580,7 +23580,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Tengchong city center", "Yunnan Province attractions", "Local cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Angsana Spa Tengchong.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Angsana Spa Tengchong",
     directions: "From Tengchong city center, follow local roads to the spa. The three-story facility is easily accessible by car with parking available.",
     tips: "The spa offers 43 different themed bathing areas - plan to spend multiple days exploring all the options. Family services are available for children aged 7-14. The facility focuses on healing and wellness through hot spring therapy."
@@ -23606,7 +23606,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Yellow Mountain", "Ancient pine trees", "Granite peaks", "Hiking trails", "Cable car rides"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Huangshan Hot Spring.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Huangshan Hot Spring",
     directions: "From the main Huangshan tourist area, follow signs to the hot spring. Access is available by car or cable car from the mountain base.",
     tips: "Visit after hiking Yellow Mountain for the perfect combination of exercise and relaxation. The rock pools offer a natural bathing experience with spectacular mountain views. Bring appropriate footwear for the rocky terrain."
@@ -23631,7 +23631,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Conghua city center", "Guangdong Province attractions", "Local cultural sites"],
     bestTimeToVisit: "Year-round",
-    image: "/Dusit Devarana Hot Springs Spa.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Dusit Devarana Hot Springs & Spa",
     directions: "From Conghua city center, follow local roads to the resort. The luxury facility is easily accessible by car with valet parking available.",
     clothingOptional: false,
@@ -23657,7 +23657,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Chaoyang District attractions", "Beijing city center", "Shopping areas", "Cultural sites"],
     bestTimeToVisit: "Year-round",
-    image: "/Hanjin Bai Hot Spring International Hotel.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Hanjin Bai Hot Spring International Hotel",
     directions: "Located at No. 9 Huihe South St, Chaoyang District, Beijing. Easily accessible by car or public transportation from Beijing city center.",
     clothingOptional: false,
@@ -23683,7 +23683,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Beijing city center", "Cultural sites", "Shopping areas", "Local attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Chunhui Garden Hot Spring Resort.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Chunhui Garden Hot Spring Resort",
     directions: "Located in Beijing with good access by car or public transportation. Follow local directions to the garden resort area.",
     clothingOptional: false,
@@ -23709,7 +23709,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Chaoyang Joy City shopping complex", "Beijing city center", "Shopping areas", "Urban attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Haide Hot Spring Bath Chaoyang Joy City.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Haide Hot Spring Bath",
     directions: "Located in Chaoyang Joy City shopping complex on Qingnian Road West, 2nd floor. Accessible by car or public transportation to the shopping complex.",
     clothingOptional: false,
@@ -23735,7 +23735,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Tengchong city center", "Volcanic landscape", "Geothermal features", "Yunnan Province attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Tengchong Volcanic Hot Springs.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Tengchong Volcanic Hot Springs",
     directions: "From Tengchong city center, follow local roads to the volcanic hot spring area. Multiple facilities are available in the geothermal region.",
     clothingOptional: false,
@@ -23761,7 +23761,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Beijing city center", "Cultural sites", "Historical attractions", "Shopping areas"],
     bestTimeToVisit: "Year-round",
-    image: "/Beijing Hot Springs Resort.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Beijing Hot Springs Resort",
     directions: "Located in Beijing with good access by car or public transportation. Follow local directions to the resort area.",
     clothingOptional: false,
@@ -23787,7 +23787,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Sichuan mountains", "Chengdu city", "Natural landscapes", "Local cultural sites"],
     bestTimeToVisit: "Spring and Autumn",
-    image: "/Sichuan Hot Springs.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Sichuan Hot Springs",
     directions: "From Chengdu, follow local roads to the mountain hot spring areas. Multiple facilities are available in the Sichuan mountain region.",
     clothingOptional: false,
@@ -23813,7 +23813,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Guangzhou city", "Guangdong Province attractions", "Cultural sites", "Shopping areas"],
     bestTimeToVisit: "Year-round",
-    image: "/Guangdong Hot Springs.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Guangdong Hot Springs",
     directions: "From Guangzhou, follow local roads to the hot spring facilities. Multiple locations are available throughout Guangdong Province.",
     clothingOptional: false,
@@ -23839,7 +23839,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Hunan cultural sites", "Historical attractions", "Natural landscapes", "Changsha city"],
     bestTimeToVisit: "Spring and Autumn",
-    image: "/Hunan Hot Springs.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Hunan Hot Springs",
     directions: "From Changsha, follow local roads to the hot spring areas. Multiple facilities are available throughout Hunan Province.",
     clothingOptional: false,
@@ -23865,7 +23865,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Tengchong city center", "Volcanic landscape", "Geothermal features", "Yunnan Province attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Tengchong Thermal Sea Scenic Area.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Tengchong Thermal Sea Scenic Area",
     directions: "From Tengchong city center, follow local roads to the Thermal Sea Scenic Area. The area is well-marked and accessible by car or tour bus.",
     clothingOptional: false,
@@ -23891,7 +23891,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Liangshan region", "Sichuan mountains", "Natural landscapes", "Local cultural sites"],
     bestTimeToVisit: "Spring and Summer",
-    image: "/Luoji Ninety-Nine Miles Hot Spring Waterfall.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Luoji Ninety-Nine Miles Hot Spring Waterfall",
     directions: "From Puge, follow local roads to Qiaowozhen and then to the scenic area. The waterfall hot springs are located in the cliffside area.",
     clothingOptional: false,
@@ -23917,7 +23917,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Guangzhou city", "Xianmu Garden", "Bishuiwan Resort", "Guangdong Province attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Conghua Hot Spring Scenic Area.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Conghua Hot Spring Scenic Area",
     directions: "From Guangzhou, take the highway to Conghua District (75km). Follow signs to Wenquan Town and the hot spring scenic area.",
     clothingOptional: false,
@@ -23943,7 +23943,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Nankun Mountain", "Huizhou city", "Forest landscapes", "Guangdong Province attractions"],
     bestTimeToVisit: "Spring and Autumn",
-    image: "/Cloud Nine Hot Spring Nankun Mountain.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Cloud Nine Hot Spring Nankun Mountain",
     directions: "From Huizhou, follow Zenglong Road to Maxing Village in Yonghan Town, Longmen County. The hot spring is located in the Nankun Mountain forest area.",
     clothingOptional: false,
@@ -23969,7 +23969,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Huangyang Mountain", "Zhuhai city", "Doumen District", "Guangdong Province attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Yu Hot Spring Zhuhai.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Yu Hot Spring Zhuhai",
     directions: "From Zhuhai, follow roads to Doumen District and then to Yuquan Resort on the western slopes of Huangyang Mountain.",
     clothingOptional: false,
@@ -23996,7 +23996,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Nanjing city", "Jiangning District", "Historical sites", "Jiangsu Province attractions"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Tangshan Hot Spring Nanjing.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Tangshan Hot Spring",
     directions: "From Nanjing, take the highway to Jiangning District and follow signs to Tangshan Town. The hot spring is located on Hot Spring Street.",
     tips: "Experience one of China's most historically significant hot springs. The sulfate-rich waters offer unique therapeutic benefits. Visit during the World Hot Spring Forum for special events."
@@ -24021,7 +24021,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Tianmu Lake", "Changzhou city", "Natural landscapes", "Jiangsu Province attractions"],
     bestTimeToVisit: "Spring and Autumn",
-    image: "/Tianmu Lake Yushui Hot Spring.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Tianmu Lake Yushui Hot Spring",
     directions: "From Changzhou, follow local roads to Tianmu Lake area. The hot spring resort is located by the lake with good signage.",
     clothingOptional: false,
@@ -24047,7 +24047,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Huaqing Palace", "Xi'an city", "Terracotta Warriors", "Shaanxi Province attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Mount Li Hot Springs Xi'an.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Mount Li Hot Springs",
     directions: "From Xi'an, follow local roads to Mount Li and the Huaqing Palace complex. The hot springs are located at the foot of the mountain.",
     clothingOptional: false,
@@ -24073,7 +24073,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Mount Li", "Xi'an city", "Terracotta Warriors", "Shaanxi Province attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Huaqing Palace Hot Springs.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Huaqing Palace Hot Springs",
     directions: "From Xi'an, take the highway to Mount Li and follow signs to Huaqing Palace. The hot springs are located within the palace complex.",
     clothingOptional: false,
@@ -24099,7 +24099,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Calcium", "Zinc", "Lithium", "Magnesium"],
     nearbyAttractions: ["Changbai Mountain", "Heaven Lake", "North Korea border", "Jilin Province attractions"],
     bestTimeToVisit: "Winter for fairy tale landscape",
-    image: "/Julong Hot Springs Changbai Mountain.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Julong Hot Springs",
     directions: "From Changbai Mountain area, follow local roads to the Julong Hot Springs. The springs are located in the volcanic region near the North Korea border.",
     clothingOptional: false,
@@ -24125,7 +24125,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Radon", "Fluorine", "Sulfur", "Calcium"],
     nearbyAttractions: ["Hot Sea area", "Tengchong city", "Volcanic landscape", "Yunnan Province attractions"],
     bestTimeToVisit: "Year-round",
-    image: "/Pregnancy Well Tengchong.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Pregnancy Well",
     directions: "From Tengchong city center, follow local roads to the Hot Sea area. The Pregnancy Well is located within the geothermal region.",
     clothingOptional: false,
@@ -24151,7 +24151,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Silica"],
     nearbyAttractions: ["Hot Sea area", "Pregnancy Well", "Tengchong city", "Volcanic landscape"],
     bestTimeToVisit: "Year-round",
-    image: "/Hot Sea Rolling Pot Tengchong.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Hot Sea Rolling Pot",
     directions: "From Tengchong city center, follow local roads to the Hot Sea area. The Rolling Pot is located within the geothermal region.",
     clothingOptional: false,
@@ -24178,7 +24178,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Huanglong Valley", "Snow-capped mountains", "Lush forests", "Travertine pools"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Huanglong Hot Springs Sichuan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Huanglong Hot Springs",
     directions: "Located in Huanglong Valley, accessible by car from nearby cities. A short hike from the parking area leads to the springs.",
     tips: "Visit in spring or autumn for the most pleasant weather. The travertine terraces are particularly beautiful in the morning light. Bring appropriate hiking gear for the short trek to the springs."
@@ -24204,7 +24204,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Beitou Hot Springs Museum", "Taipei city", "Historical sites", "Cultural landmarks"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Beitou Hot Springs Taiwan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Beitou Hot Springs",
     directions: "Take the MRT to Beitou Station and enjoy a scenic walk to the springs. The area is well-connected by public transportation.",
     tips: "Visit in winter for the most beautiful experience. Explore both public baths and luxury resort options. Don't miss the Beitou Hot Springs Museum to learn about the area's rich history."
@@ -24230,7 +24230,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Wulong National Park", "Karst formations", "Limestone caves", "Natural landscapes"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Wulong Karst Hot Springs Chongqing.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Wulong Karst Hot Springs",
     directions: "Easily reachable by car or bus from Chongqing city. Follow signs to Wulong National Park.",
     tips: "Visit in spring or autumn for comfortable temperatures. Take time to explore the karst landscapes around the hot springs. The outdoor pools offer the best views of the natural formations."
@@ -24256,7 +24256,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Lhasa city", "Himalayan peaks", "Tibetan plateau", "Cultural sites"],
     bestTimeToVisit: "Summer and Early Autumn",
     clothingOptional: false,
-    image: "/Yangpachen Hot Springs Tibet.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Yangpachen Hot Springs",
     directions: "Approximately 1.5 hours' drive from Lhasa. Follow the main road towards Yangpachen area.",
     tips: "Visit in summer or early autumn for the best weather. The high altitude may affect some visitors, so take time to acclimate. The Himalayan views are spectacular, especially at sunrise and sunset."
@@ -24282,7 +24282,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Hunan mountains", "Lush forests", "Natural landscapes", "Changsha city"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Xianyu Hot Springs Hunan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xianyu Hot Springs",
     directions: "Accessible by car from Changsha. Follow local roads to the mountain hot spring area.",
     tips: "Visit in spring or autumn for pleasant weather. Book spa treatments in advance for the best experience. The private pools offer a more intimate soaking experience."
@@ -24308,7 +24308,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Lushan Mountain", "Historical buildings", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Lushan Hot Springs Jiangxi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Lushan Hot Springs",
     directions: "Easily reachable from Jiujiang. Follow signs to Lushan Mountain and the hot spring area.",
     tips: "Visit in spring or autumn for optimal weather conditions. Take time to explore the historical buildings in the area. The mountain views are particularly beautiful during sunrise and sunset."
@@ -24334,7 +24334,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Guangzhou city", "Natural landscapes", "Cultural sites", "Shopping areas"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Dongshan Hot Springs Guangdong.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Dongshan Hot Springs",
     directions: "Located near the city of Guangzhou. Follow local roads to the hot spring facility.",
     tips: "Visit year-round, though spring and autumn are ideal. Book spa treatments in advance for the best experience. The lush environment is particularly beautiful in the spring months."
@@ -24360,7 +24360,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Dalian city", "Coastal scenery", "Local attractions", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Anbo Hot Spring Dalian.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Anbo Hot Spring",
     directions: "Located in Dalian, easily accessible by car or public transportation from the city center.",
     tips: "Visit year-round for a relaxing experience. The coastal location provides beautiful views while soaking in the therapeutic waters."
@@ -24386,7 +24386,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Laotieshan area", "Mountain scenery", "Dalian city", "Natural landscapes"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Laotieshan Hot Spring Dalian.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Laotieshan Hot Spring",
     directions: "Located in the Laotieshan area of Dalian. Follow local roads to the mountain hot spring location.",
     tips: "Visit in spring or autumn for the most pleasant weather. The mountain location provides beautiful scenery and a peaceful atmosphere."
@@ -24412,7 +24412,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Zhongshan city", "Local attractions", "Cultural sites", "Shopping areas"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Zhongshan Hot Spring Guangdong.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Zhongshan Hot Spring",
     directions: "Located in Zhongshan city, easily accessible by car or public transportation.",
     tips: "Visit year-round for a relaxing experience. Book spa treatments in advance for the best experience."
@@ -24438,7 +24438,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Hailuogou glacier", "Snow-capped mountains", "Natural landscapes", "Tibetan culture"],
     bestTimeToVisit: "Summer and Early Autumn",
     clothingOptional: false,
-    image: "/Hailuogou Hot Spring Sichuan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Hailuogou Hot Spring",
     directions: "Located in the Hailuogou glacier area. Follow local roads to the high-altitude hot spring location.",
     tips: "Visit in summer or early autumn for the best weather. The high altitude may affect some visitors, so take time to acclimate."
@@ -24464,7 +24464,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Tropical forests", "Natural landscapes", "Local culture", "Tropical vegetation"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Jinping Mengla Hot Spring Yunnan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Jinping Mengla Hot Spring",
     directions: "Located in the Mengla area of Jinping. Follow local roads to the tropical hot spring location.",
     tips: "Visit year-round to enjoy the tropical climate. The lush vegetation provides a beautiful natural backdrop."
@@ -24490,7 +24490,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Longsheng rice terraces", "Ethnic villages", "Mountain scenery", "Cultural sites"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Longsheng Hot Spring Guangxi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Longsheng Hot Spring",
     directions: "Located in the Longsheng area. Follow local roads to the mountain hot spring location.",
     tips: "Visit in spring or autumn for the most pleasant weather. Don't miss the nearby rice terraces and ethnic villages."
@@ -24516,7 +24516,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Tangchi city", "Local attractions", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Tangchi Hot Spring Hubei.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Tangchi Hot Spring",
     directions: "Located in Tangchi city, easily accessible by car or public transportation.",
     tips: "Visit year-round for a relaxing experience. Book spa treatments in advance for the best experience."
@@ -24542,7 +24542,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Xianning city", "Natural landscapes", "Cultural sites", "Historical attractions"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Xianning Hot Spring Hubei.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xianning Hot Spring",
     directions: "Located in Xianning city, easily accessible by car or public transportation from the city center.",
     tips: "Visit year-round for the therapeutic benefits. The hot spring is particularly popular for its healing properties."
@@ -24568,7 +24568,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Anshan city", "Historical sites", "Cultural attractions", "Local landmarks"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Tanggangzi Hot Spring Anshan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Tanggangzi Hot Spring",
     directions: "Located in Anshan city, easily accessible by car or public transportation from the city center.",
     tips: "Visit year-round for the therapeutic benefits. The hot spring has a long history of therapeutic use."
@@ -24594,7 +24594,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Himalayan peaks", "Tibetan plateau", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Summer and Early Autumn",
     clothingOptional: false,
-    image: "/Tibet Paillong Hot Spring Tibet.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Tibet Paillong Hot Spring",
     directions: "Located in the high-altitude region of Tibet. Follow local roads to the mountain hot spring location.",
     tips: "Visit in summer or early autumn for the best weather. The high altitude may affect some visitors, so take time to acclimate."
@@ -24620,7 +24620,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Dandong city", "Local attractions", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Wulongbei Hot Spring Dandong.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Wulongbei Hot Spring",
     directions: "Located in Dandong city, easily accessible by car or public transportation.",
     tips: "Visit year-round for a relaxing experience. Book spa treatments in advance for the best experience."
@@ -24646,7 +24646,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Ningbo city", "Local attractions", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Xanxi Hot Spring Ningbo.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xanxi Hot Spring",
     directions: "Located in the Ningbo-Ninghai area, easily accessible by car or public transportation.",
     tips: "Visit year-round for a relaxing experience. Book spa treatments in advance for the best experience."
@@ -24672,7 +24672,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Yingkou city", "Natural landscapes", "Cultural sites", "Historical attractions"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Xiongyue Hot Spring Yingkou.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xiongyue Hot Spring",
     directions: "Located in Yingkou city, easily accessible by car or public transportation from the city center.",
     tips: "Visit year-round for the therapeutic benefits. The hot spring is particularly popular for its healing properties."
@@ -24698,7 +24698,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Bamboo forest", "South Hill Bamboo Sea", "Liyang city", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Yushui Hot Springs Jiangsu.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Yushui Hot Springs Resort",
     directions: "Arrive at Liyang Railway Station and take the shuttle bus to South Hill Bamboo Sea. The resort is located at Number 888 Li Village Daibu Town.",
     tips: "Try the milk and red wine hot springs for their unique therapeutic benefits. The bamboo forest setting provides a peaceful atmosphere for relaxation."
@@ -24724,7 +24724,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Simatai Great Wall", "Gubei Water Town", "Historical architecture", "Cultural sites"],
     bestTimeToVisit: "Spring and Autumn",
     clothingOptional: false,
-    image: "/Gubei Water Town Beijing.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Gubei Water Town",
     directions: "Take the Beijing Suburb Railway Line S5 train from Beijing North Railway Station to Gubeikou Station and then take the ferry bus to Gubei Water Town.",
     tips: "Visit in spring or autumn for the most pleasant weather. Don't miss the opportunity to soak while viewing the Great Wall backdrop."
@@ -24750,7 +24750,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Changbai Mountain", "Skiing facilities", "Volcanic landscape", "Natural scenery"],
     bestTimeToVisit: "Winter",
     clothingOptional: false,
-    image: "/Changbaishan Hot Spring Jilin.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Changbaishan International Resort",
     directions: "Arrive at Changbaishan Airport and drive around 30 minutes (93.5 km) by car to the resort at Number 735 Baiyun Road.",
     tips: "Perfect for warming up after skiing. The high temperatures make it ideal for winter visits. Be cautious of the very hot water temperatures."
@@ -24776,7 +24776,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Macau", "Zhongshan city", "Cultural sites", "Architectural landmarks"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Zhongshan Hot Springs Guangdong.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Zhongshan Hot Springs",
     directions: "Located in Sanxiang County, Zhongshan City, 26 km from Macau. Accessible by car or public transportation.",
     tips: "Visit year-round to enjoy the elegant Chinese architecture and therapeutic waters. The high temperature makes it perfect for deep relaxation."
@@ -24802,7 +24802,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Changbai Mountains", "Natural landscapes", "Mountain scenery", "Wildlife"],
     bestTimeToVisit: "Summer and Autumn",
     clothingOptional: false,
-    image: "/Baekdu Mountain Hot Springs Jilin.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Baekdu Mountain Hot Springs",
     directions: "Located in the Changbai Mountains in northeast China. Accessible by car from nearby cities.",
     tips: "Visit in summer or autumn for the best weather. The miraculous water has therapeutic benefits for various health conditions."
@@ -24828,7 +24828,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Greater Khingan Mountains", "Mongolian culture", "Natural landscapes", "Wildlife"],
     bestTimeToVisit: "Summer and Autumn",
     clothingOptional: false,
-    image: "/Arxan Hot Springs Inner Mongolia.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Arxan Hot Springs",
     directions: "Located in the Greater Khingan Mountains of Inner Mongolia. Accessible by car from nearby cities.",
     tips: "Visit in summer or autumn for the best weather. The different spring temperatures and compositions offer various therapeutic benefits."
@@ -24854,7 +24854,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Sanya city", "Tropical beaches", "Li and Miao culture", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Nantian Hot Springs Hainan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Nantian Hot Springs",
     directions: "Located in Sanya, Hainan Province. Easily accessible by car or public transportation from Sanya city center.",
     tips: "Visit year-round to enjoy the tropical climate. Experience the unique Li and Miao minority cultural features and Bali-style atmosphere."
@@ -24880,7 +24880,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Beijing city", "Cultural sites", "Historical landmarks", "Modern amenities"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Jiuhua Hot Springs Resort Beijing.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Jiuhua Hot Springs Resort",
     directions: "Located in Changping District, Beijing. Easily accessible by car or public transportation from Beijing city center.",
     tips: "Visit year-round to enjoy the unique sweet water and traditional Chinese medicine treatments. The radon element provides special therapeutic benefits."
@@ -24906,7 +24906,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Lhasa city", "Tibetan plateau", "Natural wonders", "Cultural sites"],
     bestTimeToVisit: "Summer and Early Autumn",
     clothingOptional: false,
-    image: "/Yangbajing Hot Springs Tibet.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Yangbajing Hot Springs",
     directions: "Located in Dangxiong County, Lhasa, Tibet. Accessible by car from Lhasa city center.",
     tips: "Visit in summer or early autumn for the best weather. The early morning mist creates a fairyland atmosphere. The high altitude may affect some visitors."
@@ -24932,7 +24932,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Changsha city", "Shaoshan", "Loudi", "Cultural sites", "Historical landmarks"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Ningxiang Zilongwan Hot Spring Changsha.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Ningxiang Zilongwan Hot Spring Resort",
     directions: "Located in Huitang Town, Ningxiang City. Direct access via S50 Changsha-Shaoshan-Loudi Expressway.",
     tips: "Try the milk, red wine, and rose hot spring pools for unique therapeutic benefits. The 2000+ year history makes this a culturally significant destination."
@@ -24958,7 +24958,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Fenghuang Mountain", "Xianhe Ridge", "Hengdong cuisine", "Natural scenery"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Xiangjiangnan Hot Spring Hengyang.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xiangjiangnan Hot Spring Resort",
     directions: "Located in Wenquan New Village, Yangqiao Town, Hengdong County. Adjacent to Fenghuang Mountain and Xianhe Ridge.",
     tips: "Experience the unique Hengdong cuisine and local cultural characteristics. The selenium, radon, and strontium content provides special therapeutic benefits."
@@ -24984,7 +24984,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Shaoyang city", "Cultural sites", "Historical landmarks", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Weiyuan Hot Spring Shaoyang.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Weiyuan Hot Spring",
     directions: "Located in Shaoyang City. Easily accessible by car or public transportation.",
     tips: "Visit year-round to enjoy the ancient garden-style buildings and comprehensive resort facilities."
@@ -25010,7 +25010,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Yunpan Mountains", "Reshi Town", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Reshi Yunding Hot Spring Changde.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Reshi Yunding Hot Spring Tourist Resort",
     directions: "Located in Reshi Town, Changde City. Relying on the ecological beauty of the Yunpan Mountains.",
     tips: "Experience the millennium-old hot spring culture and Tang Dynasty style architecture. Don't miss the tropical rainforest pool and butterfly pool."
@@ -25036,7 +25036,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Zhangjiajie city", "Cili County", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Jiangya Hot Spring Zhangjiajie.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Jiangya Hot Spring Resort",
     directions: "Located in Jiangya Town, Cili County, Zhangjiajie City. The first 4A level tourist attraction in Zhangjiajie.",
     tips: "Visit year-round to enjoy the 53 soaking pools and comprehensive resort facilities. The high-temperature bicarbonate spring provides excellent therapeutic benefits."
@@ -25062,7 +25062,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Cili County", "Zhangjiajie city", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Wanfu Hot Spring Zhangjiajie.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Wanfu Hot Spring Resort",
     directions: "Located in Cili County, Zhangjiajie City. The hometown of hot springs in China.",
     tips: "Experience the traditional Chinese medicine wellness pools and Fu culture. The radon content makes this the largest radon hot spring base in China."
@@ -25088,7 +25088,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Reshui Town", "Chenzhou city", "Forest landscapes", "Natural oxygen bar"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Fuquan Hot Spring Chenzhou.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Rucheng Fuquan Hot Spring Resort",
     directions: "Located in Reshui Town, Chenzhou City. One of the first batch of characteristic towns in China.",
     tips: "Experience the No.1 hot spring in South China with 98°C natural water. The natural oxygen bar environment provides excellent health benefits."
@@ -25114,7 +25114,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Mangshan Tourist Resort", "Primitive forest", "Mountain scenery", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Mangshan Forest Hot Spring Chenzhou.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Mangshan Forest Hot Spring",
     directions: "Located in Mangshan Tourist Resort, Chenzhou City. Known as the second Xishuangbanna.",
     tips: "Experience the boundless cliff hot spring at 520m height and the 60+ mountain hot springs scattered throughout the forest."
@@ -25140,7 +25140,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Reshui Hot Spring Resort", "Mountain forests", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Guanxi Hot Spring Villa Chenzhou.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Guanxi Hot Spring Villa",
     directions: "Located in Reshui Hot Spring Resort, Chenzhou City. Covers more than 400 mu of mountain forests.",
     tips: "Experience the five-star ecological leisure villa with 35 outdoor soaking pools and natural oxygen bar environment."
@@ -25166,7 +25166,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Chenzhou city", "Mountain scenery", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Longnyu Hot Spring Chenzhou.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Longnyu Hot Spring",
     directions: "Located in Chenzhou City. Surrounded by mountains with beautiful scenery.",
     tips: "Experience the freshwater hot spring with calcium bicarbonate content. The water can be drunk or bathed for therapeutic benefits."
@@ -25192,7 +25192,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Jiahe County", "Chenzhou city", "Historical sites", "Cultural landmarks"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Jiahe Yuzhong Hot Spring Chenzhou.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Jiahe Yuzhong Hot Spring",
     directions: "Located in Jiahe County, Chenzhou City. Deeply hidden in white marble veins 2,500 meters underground.",
     tips: "Experience the natural hot spring and jade mineral spring with historical significance dating back to Emperor Yan."
@@ -25218,7 +25218,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Fuquan Hot Spring Resort", "Bamboo sea", "She ethnic culture", "Mountain scenery"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Reshui Hot Spring Chenzhou.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Reshui Hot Spring",
     directions: "Located in Rucheng County, Chenzhou City. Adjacent to Fuquan Hot Spring Resort.",
     tips: "Experience the ancient She ethnic characteristic mountain villa with private hot spring courtyards and bamboo sea surroundings."
@@ -25244,7 +25244,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Chenzhou city", "Original vegetation", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Paradise Hot Spring Chenzhou.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Paradise Hot Spring Resort",
     directions: "Located in Chenzhou City. Discovered in 1982 during 711 mine construction.",
     tips: "Experience one of China's top three geothermal resources with constant 52°C temperature and intact original vegetation."
@@ -25270,7 +25270,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Bu'ermen National Forest Park", "Mengdong River", "Forest landscapes", "Natural scenery"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Buermen Hot Spring Xiangxi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Bu'ermen Hot Spring",
     directions: "Located in Bu'ermen National Forest Park, Yongshun County. 300-year hot spring culture.",
     tips: "Experience the No.1 hot spring in Xiangxi with 40+ themed pools and traditional Chinese medicine therapy."
@@ -25296,7 +25296,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Fenghuang Ancient Town", "Nanhua Mountain", "Tuojiang River", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Fengxianjing Forest Hot Spring Xiangxi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Fengxianjing Forest Hot Spring Resort",
     directions: "Located in Fenghuang Ancient Town, Xiangxi Prefecture. Backed by Nanhua Mountain National Forest Park.",
     tips: "Experience the five-star hot spring with 68 pools and medical value standards. The fluorine and metasilicic acid content provides excellent therapeutic benefits."
@@ -25322,7 +25322,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Beijing city", "Changping District", "Cultural sites", "Historical landmarks"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Xiaotangshan Hot Spring Beijing.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xiaotangshan Hot Spring",
     directions: "Located in Xiaotangshan, Changping District, Beijing. Easily accessible from central Beijing.",
     tips: "Visit year-round to enjoy the therapeutic mineral waters. The temperature range of 35°C to 45°C (95°F to 113°F) is ideal for soaking and bathing."
@@ -25348,7 +25348,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Kunming city", "Yunnan Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Anning Hot Spring Yunnan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Anning Hot Spring",
     directions: "Located near Kunming, Yunnan Province. Easily accessible by car from Kunming.",
     tips: "Experience the therapeutic properties of the mineral-rich waters. The beautiful natural surroundings provide a peaceful environment for relaxation and wellness."
@@ -25374,7 +25374,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Guangdong Province", "Guangzhou", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Didu Hot Spring Guangdong.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Didu Hot Spring",
     directions: "Located in Guangdong Province. Easily accessible by car from Guangzhou.",
     tips: "Enjoy the therapeutic benefits of the mineral-rich waters. The optimal temperature range provides excellent conditions for therapeutic bathing and relaxation."
@@ -25400,7 +25400,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Jiulong Waterfall", "Ziyun Peak", "Taohua Peak", "Huangshan Mountains", "Ciguang Pavilion"],
     bestTimeToVisit: "Year-round, especially during winter snowfall",
     clothingOptional: false,
-    image: "/Huangshan Piaoxue Hot Spring Anhui.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Huangshan Piaoxue Hot Spring Resort",
     directions: "Located at the northern bank of Taohua Stream, at the southern foot of Zishi Peak. 20-minute walk from the front mountain entrance (Ciguang Pavilion). Direct shuttle buses from Huangshan High-Speed Railway Station.",
     tips: "Experience the rare cinnabar hot spring during winter snowfall for an unparalleled experience. The 42.3°C constant temperature provides optimal therapeutic benefits. Try the hot spring water infused with red wine, ginger, and Chinese herbs for enhanced therapeutic effects."
@@ -25426,7 +25426,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Kunming city", "Anning", "Yunnan Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Biyu Hot Spring Anning.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Biyu Hot Spring",
     directions: "Located in Anning, near Kunming, Yunnan Province. Easily accessible by car from Kunming.",
     tips: "Experience one of China's three great hot springs with jade-like clarity. The pure water quality makes it suitable for both drinking and bathing, providing excellent therapeutic benefits."
@@ -25452,7 +25452,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Nepal-China border", "Himalayan mountains", "Kodari", "Trekking routes"],
     bestTimeToVisit: "Year-round, especially during trekking seasons",
     clothingOptional: false,
-    image: "/Tatopani Hot Spring Nepal.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Tatopani Hot Spring",
     directions: "Located in Kodari on the highway near the Nepal-China border. Accessible by road from Kathmandu.",
     tips: "Perfect stop for trekkers and travelers between Nepal and China. The mountain setting provides stunning views while soaking in the therapeutic waters."
@@ -25478,7 +25478,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Pamir Mountains", "Wakhan Valley", "Yamchun settlement", "Afghan border"],
     bestTimeToVisit: "Summer months when access is easier",
     clothingOptional: false,
-    image: "/Bibi Fatima Hot Spring Tajikistan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Bibi Fatima Hot Spring",
     directions: "Located deep in the Wakhan Valley of the Pamir Mountains, near Yamchun settlement and the Afghan border.",
     tips: "Remote location requiring careful planning. The high mineral content provides excellent therapeutic benefits in a pristine mountain setting."
@@ -25504,7 +25504,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Madaba", "Jordan attractions", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Ma-in Hot Spring Jordan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Ma'in Hot Spring",
     directions: "Located in Madaba Governorate, Jordan. Easily accessible by car from major cities.",
     tips: "Experience the unique waterfall backdrop while soaking in the outdoor pools. The natural cascading water creates a spectacular spa experience."
@@ -25530,7 +25530,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Annapurna Circuit", "Annapurna mountains", "Trekking routes", "Himalayan views"],
     bestTimeToVisit: "Trekking seasons (Spring and Fall)",
     clothingOptional: false,
-    image: "/Jhinu Danda Hot Spring Nepal.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Jhinu Danda Hot Spring",
     directions: "Located in the Annapurna region, accessible via trekking routes.",
     tips: "Perfect stop for trekkers on the Annapurna Circuit. The steaming waters provide excellent relief for tired muscles after long treks."
@@ -25556,7 +25556,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Camiguin Island", "Mambajao", "Volcanic landscapes", "Tropical scenery"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Ardent Hot Spring Philippines.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Ardent Hot Spring",
     directions: "Located in Mambajao on Camiguin Island. Easily accessible by car from the main town.",
     tips: "Experience the volcanic origins of the hot spring while enjoying the tropical setting. The therapeutic waters provide natural healing benefits."
@@ -25582,7 +25582,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Laguna Province", "Manila", "Tropical landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Hidden Valley Springs Philippines.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Hidden Valley Springs",
     directions: "Located in Alaminos, Laguna Province. Only a few hours' drive from Manila.",
     tips: "Perfect escape from Manila with multiple pools and tropical setting. The resort offers a perfect blend of natural therapy and modern comfort."
@@ -25608,7 +25608,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Yangyang", "Gangwon Province", "Coastal landscapes", "Beach activities"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Sol Beach Yangyang South Korea.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Sol Beach Yangyang Ocean Play",
     directions: "Located in Yangyang, Gangwon Province. Easily accessible by car from major cities.",
     tips: "Experience the unique combination of hot spring therapy and ocean access. The ocean-themed pools provide a refreshing wellness experience."
@@ -25634,7 +25634,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Chiang Mai", "Mae On", "Northern Thailand", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Rock Valley Hot Spring Thailand.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Rock Valley Hot Spring and Fish Spa",
     directions: "Located in Mae On, Chiang Mai Province. Easily accessible by car from Chiang Mai.",
     tips: "Experience the unique combination of hot spring therapy and fish spa treatment. The natural rock formations provide a beautiful setting for relaxation."
@@ -25660,7 +25660,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Nha Trang", "Khanh Hoa Province", "Coastal landscapes", "Tropical scenery"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Thap Ba Hot Spring Vietnam.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Thap Ba Hot Spring",
     directions: "Located near Nha Trang in Khanh Hoa Province. Easily accessible by car from Nha Trang.",
     tips: "Experience the unique combination of hot spring therapy and mud baths. The tropical setting provides a perfect environment for relaxation and wellness."
@@ -25686,7 +25686,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Pamukkale travertines", "Hierapolis ruins", "Antalya Province", "Archaeological sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Cleopatra Antique Pools Turkey.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Cleopatra Antique Pools",
     directions: "Located in Pamukkale, Antalya Province. Part of the Hierapolis archaeological site.",
     tips: "Swim in the same waters as Cleopatra and ancient Romans. The historical significance and archaeological setting make this a unique experience."
@@ -25712,7 +25712,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Muscat", "Desert landscapes", "Omani culture", "Traditional sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Ath Thawarah Spring Oman.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Ath Thawarah Spring",
     directions: "Located in Muscat Governorate. Easily accessible by car from Muscat.",
     tips: "Experience traditional Omani bathing culture in a desert setting. The natural therapy provides excellent relaxation and wellness benefits."
@@ -25738,7 +25738,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Jiuzhaigou Valley", "Alpine mountains", "Coniferous forests", "Waterfalls", "Limestone terraces"],
     bestTimeToVisit: "Spring and Fall for mild temperatures and fewer crowds",
     clothingOptional: false,
-    image: "/Jiuzhaigou Valley Hot Springs Sichuan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Jiuzhaigou Valley Hot Springs",
     directions: "Located in Jiuzhaigou Valley, Sichuan Province. Short walk through picturesque valley with well-maintained paths.",
     tips: "Visit during spring and fall for mild temperatures and fewer crowds. The crystal-clear turquoise lakes provide unparalleled reflections of surrounding forests and mountains."
@@ -25764,7 +25764,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Sanya Bay", "Hainan Province", "Tropical beaches", "Coastal landscapes"],
     bestTimeToVisit: "Year-round tropical climate",
     clothingOptional: false,
-    image: "/Sanya Bay Hot Springs Hainan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Sanya Bay Hot Springs",
     directions: "Located in Sanya Bay, Hainan Province. Easily accessible by car or taxi from Sanya.",
     tips: "Experience private hot spring pools in your room while enjoying the tropical setting. Perfect combination of hot spring therapy and beach access."
@@ -25790,7 +25790,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Haitang Bay", "Sanya", "Hainan Province", "Tropical landscapes"],
     bestTimeToVisit: "Year-round tropical climate",
     clothingOptional: false,
-    image: "/Haitang Bay Nantian Hot Spring Resort Hainan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Haitang Bay Nantian Hot Spring Resort",
     directions: "Located in Haitang Bay, Sanya, Hainan Province. Easily accessible by car or taxi from Sanya.",
     tips: "Experience the fluorosilicate medical thermal mineral water with traditional health-preserving pools. The Four Beauties pools offer unique beauty-enhancing treatments."
@@ -25816,7 +25816,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Tengchong", "Volcanic landscapes", "Yunnan Province", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Rehai Hot Springs Yunnan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Rehai Hot Springs",
     directions: "Located in Tengchong, Yunnan Province. Easily accessible by car with modern facilities.",
     tips: "Experience the 'gold spring' with 102°C maximum temperature. Try the hot spring eggs and steam boilers for a unique culinary experience."
@@ -25842,7 +25842,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Tengchong", "Mountain landscapes", "Yunnan Province", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Yugu Hot Spring Yunnan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Yugu Hot Spring",
     directions: "Located in Tengchong, Yunnan Province. Built according to mountain topography with comprehensive facilities.",
     tips: "Experience the perfect blend of hot spring therapy and traditional Chinese garden design. The 22 bathing pools and 8 private bathing houses offer variety and privacy."
@@ -25868,7 +25868,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Thermal Sea Scenic Area", "Tengchong", "Mountain landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Beauty Pool Hot Spring Yunnan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Beauty Pool Hot Spring",
     directions: "Located in Thermal Sea Scenic Area, Tengchong, Yunnan Province. Surrounded by mountains with natural spa facilities.",
     tips: "Experience the 'Immortal Bath' with special beauty-enhancing properties. The natural swimming pool and cave pools provide unique bathing experiences."
@@ -25894,7 +25894,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Dalian city", "Coastal landscapes", "Liaoning Province", "Northeastern China"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Dalian Thalassotherapy Liaoning.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Dalian Thalassotherapy",
     directions: "Located in Dalian, Liaoning Province. Easily accessible by car or public transportation from Dalian city center.",
     tips: "Experience the first thalassotherapy facility in northeastern China with international ISO standards. The facility combines traditional Chinese wellness with modern marine therapy techniques."
@@ -25920,7 +25920,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Nanjing city", "Tangshan Hot Spring Resort", "Jiangning District", "Cultural sites"],
     bestTimeToVisit: "Year-round, especially weekends for extended hours",
     clothingOptional: false,
-    image: "/EaSpring Hot Spring Resort Jiangsu.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "EaSpring Hot Spring Resort",
     directions: "Take metro line 2 to Maqun Station (Exit 1) and then take bus number d19 from the Maqun bus stop to Tangshan bus stop.",
     tips: "Perfect weekend getaway from Nanjing. The resort offers 50 outdoor hot springs and 15 private indoor pools with therapeutic mineral waters effective for arthritis and skin diseases."
@@ -25946,7 +25946,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Changbaishan International Resort", "Ski resort", "Snow landscapes", "Mountain views"],
     bestTimeToVisit: "Winter for skiing and hot spring combination",
     clothingOptional: false,
-    image: "/Hannashan Hot Spring Resort Jilin.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Hannashan Hot Spring Resort",
     directions: "Take the free shuttle bus from Changbaishan Airport to the hotel in Changbaishan International Resort.",
     tips: "Perfect for winter travelers. Soak in hot springs after skiing while enjoying beautiful snow views. The resort offers 19 outdoor hot springs with temperatures up to 82°C."
@@ -25972,7 +25972,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Simatai Great Wall", "Gubei Water Town", "Miyun District", "Cultural sites"],
     bestTimeToVisit: "Year-round, especially for night Great Wall views",
     clothingOptional: false,
-    image: "/Yushe Boutique Hotel Beijing.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Yushe Boutique Hotel",
     directions: "Take the direct tourist bus from north of Beijing Dongzhimen Hinge to Gubei Water Town. Buses leave daily at 9:00, 12:00, and 15:30.",
     tips: "Stay overnight to enjoy the lit-up Great Wall at night. The hotel offers alfresco hot spring pools with stunning Great Wall backdrop views."
@@ -25998,7 +25998,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Simatai Great Wall", "Gubei Water Town", "Miyun District", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Gubei Zhiguang Hot Spring Holiday Hotel Beijing.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Gubei Zhiguang Hot Spring Holiday Hotel",
     directions: "Take the direct tourist bus from Beijing Dongzhimen Hinge to Gubei Water Town.",
     tips: "Combine Great Wall exploration with hot spring relaxation. The hotel offers a perfect holiday experience near the Simatai Great Wall."
@@ -26024,7 +26024,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Yangmingshan National Park", "Datun Volcano Group", "Taipei city", "Volcanic landscapes"],
     bestTimeToVisit: "Year-round, especially spring for cherry blossoms",
     clothingOptional: false,
-    image: "/Yangmingshan Hot Springs Taipei.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Yangmingshan Hot Springs",
     directions: "Located in Yangmingshan National Park, accessible by public transportation from Taipei city center.",
     tips: "Combine hot spring therapy with national park exploration. The volcanic geothermal activity provides unique therapeutic properties."
@@ -26050,7 +26050,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Baihe District", "Tainan city", "Cultural sites", "Historical landmarks"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Guanziling Hot Springs Tainan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Guanziling Hot Springs",
     directions: "Located in Baihe District, Tainan. Easily accessible by car or public transportation.",
     tips: "Experience the unique mud spring characteristics. The historical significance and therapeutic properties make this a must-visit destination."
@@ -26076,7 +26076,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Checheng Township", "Pingtung County", "Southern Taiwan", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Sichongxi Hot Springs Pingtung.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Sichongxi Hot Springs",
     directions: "Located in Checheng Township, Pingtung County. Easily accessible by car or public transportation.",
     tips: "Experience one of Taiwan's four most famous hot springs in the beautiful southern region. Perfect for escaping city life."
@@ -26102,7 +26102,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Ruisui Township", "Hualien County", "Eastern Taiwan", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Ruisui Hot Springs Hualien.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Ruisui Hot Springs",
     directions: "Located in Ruisui Township, Hualien County. Easily accessible by car or public transportation.",
     tips: "Experience hot springs in eastern Taiwan's beautiful natural setting. Perfect for relaxation and wellness."
@@ -26128,7 +26128,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Heping District", "Taichung city", "Mountain landscapes", "Central Taiwan"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Guguan Hot Springs Taichung.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Guguan Hot Springs",
     directions: "Located in Heping District, Taichung. Features accessible facilities and mountain setting.",
     tips: "Perfect for visitors seeking accessible hot spring facilities in a beautiful mountain setting. Central Taiwan location provides easy access."
@@ -26154,7 +26154,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Liugui District", "Kaohsiung city", "Southern Taiwan", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Baolai Hot Springs Kaohsiung.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Baolai Hot Springs",
     directions: "Located in Liugui District, Kaohsiung. Easily accessible by car or public transportation.",
     tips: "Combine hot spring therapy with ecological experiences. Perfect for nature lovers seeking therapeutic benefits."
@@ -26180,7 +26180,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["New Taipei City", "Coastal landscapes", "Old streets", "Geological sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Wanli Jinshan Hot Springs New Taipei.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Wanli & Jinshan Hot Springs",
     directions: "Located in New Taipei City. Easily accessible by car or public transportation with coastal setting.",
     tips: "Experience coastal hot springs with ocean views. Combine hot spring therapy with cultural exploration of old streets."
@@ -26206,7 +26206,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Baihe District", "Tainan city", "Natural landscapes", "Ecological sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Baihe Guanziling Hot Springs Tainan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Baihe/Guanziling Hot Springs",
     directions: "Located in Baihe District, Tainan. Easily accessible by car or public transportation.",
     tips: "Combine hot spring therapy with ecological experiences. Perfect for nature lovers and wellness seekers."
@@ -26232,7 +26232,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Alishan Township", "Chiayi County", "Mountain landscapes", "Ecological sites"],
     bestTimeToVisit: "Year-round, especially spring for cherry blossoms",
     clothingOptional: false,
-    image: "/Alishan Dongpu Hot Springs Chiayi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Alishan/Dongpu Hot Springs",
     directions: "Located in Alishan Township, Chiayi County. Accessible by car with mountain setting.",
     tips: "Experience mountain hot springs in the beautiful Alishan region. Combine hot spring therapy with ecological exploration."
@@ -26258,7 +26258,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Wufeng Township", "Hsinchu County", "Flower gardens", "Natural landscapes"],
     bestTimeToVisit: "Spring for flower viewing, year-round for hot springs",
     clothingOptional: false,
-    image: "/Antong Hot Springs Hsinchu.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Antong Hot Springs",
     directions: "Located in Wufeng Township, Hsinchu County. Easily accessible by car or public transportation.",
     tips: "Combine hot spring therapy with flower viewing. Perfect for nature lovers and those seeking peaceful relaxation."
@@ -26284,7 +26284,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Zhiben District", "Tainan city", "Forest trails", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Zhiben Hot Springs Tainan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Zhiben Hot Springs",
     directions: "Located in Zhiben District, Tainan. Family-friendly with forest trails and outdoor activities.",
     tips: "Perfect for families seeking hot spring therapy combined with forest exploration. Great for outdoor activities and relaxation."
@@ -26310,7 +26310,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Hualien County", "Eastern Taiwan", "Flower gardens", "Natural landscapes"],
     bestTimeToVisit: "Spring for flowers, year-round for hot springs",
     clothingOptional: false,
-    image: "/Hualien Hot Springs Hualien.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Hualien Hot Springs",
     directions: "Located in Hualien County. Family-friendly with flower viewing and ecological experiences.",
     tips: "Perfect for families seeking hot spring therapy in eastern Taiwan. Combine wellness with flower viewing and nature exploration."
@@ -26336,7 +26336,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Yilan County", "Summer water activities", "Recreational facilities", "Natural landscapes"],
     bestTimeToVisit: "Summer for water activities, year-round for hot springs",
     clothingOptional: false,
-    image: "/Jiaoxi Suao Hot Springs Yilan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Jiaoxi/Su'ao Hot Springs",
     directions: "Located in Yilan County. Family-friendly with summer water activities and recreational facilities.",
     tips: "Perfect for families seeking hot spring therapy combined with summer water fun. Great for seasonal recreational activities."
@@ -26362,7 +26362,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Su'ao Township", "Yilan County", "Ecological sites", "Natural landscapes"],
     bestTimeToVisit: "Summer for cold springs, year-round for hot springs",
     clothingOptional: false,
-    image: "/Suao Cold Springs Jiuzhize Hot Springs Yilan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Su'ao Cold Springs/Jiuzhize Hot Springs",
     directions: "Located in Su'ao Township, Yilan County. Unique combination of cold and hot springs with ecological experiences.",
     tips: "Experience the unique combination of cold and hot springs. Perfect for those seeking variety in therapeutic treatments."
@@ -26388,7 +26388,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Guiyang city", "Guizhou Province", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Wudang Wanxiang Hot Spring Guiyang.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Wudang Wanxiang Hot Spring",
     directions: "Located in Guiyang, Guizhou Province. Easily accessible by car or public transportation.",
     tips: "Experience golden-level hot spring facilities in Guizhou's capital city. Perfect for high-quality wellness services."
@@ -26414,7 +26414,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Xifeng", "Nanshan Tianmu", "Mountain landscapes", "Natural beauty"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Xifeng Nanshan Tianmu Hot Spring Guiyang.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xifeng Nanshan Tianmu Hot Spring",
     directions: "Located in Xifeng, Guizhou Province. Easily accessible by car with mountain setting.",
     tips: "Experience golden-level hot springs with beautiful mountain views. Perfect for relaxation and wellness in natural setting."
@@ -26440,7 +26440,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Xiuwen", "Taoyuan River", "Riverside landscapes", "Natural beauty"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Xiuwen Taoyuan River Duofangge Hot Spring Guiyang.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xiuwen Taoyuan River Duofangge Hot Spring",
     directions: "Located in Xiuwen, Guizhou Province. Easily accessible by car with riverside setting.",
     tips: "Experience golden-level hot springs by the beautiful Taoyuan River. Perfect for peaceful relaxation and scenic enjoyment."
@@ -26466,7 +26466,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Liuzhi", "Liupanshui region", "Mountain landscapes", "Natural beauty"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Liuzhi Longjing Hot Spring Liupanshui.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Liuzhi Longjing Hot Spring",
     directions: "Located in Liuzhi, Guizhou Province. Easily accessible by car with mountainous setting.",
     tips: "Experience golden-level hot springs in the beautiful Liupanshui region. Perfect for wellness and relaxation."
@@ -26492,7 +26492,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Shiqian", "Foding Mountain", "Mountain landscapes", "Natural beauty"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Shiqian Foding Mountain Hot Spring Tongren.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Shiqian Foding Mountain Hot Spring",
     directions: "Located in Shiqian, Guizhou Province. Easily accessible by car with mountain setting.",
     tips: "Experience golden-level hot springs at beautiful Foding Mountain. Perfect for mountain relaxation and wellness."
@@ -26518,7 +26518,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Yilong", "Guizhou Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Yilong Yuntun Muyun Hot Spring Bijie.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Yilong Yuntun Muyun Hot Spring",
     directions: "Located in Yilong, Guizhou Province. Easily accessible by car with modern facilities.",
     tips: "Experience golden-level hot springs in the Yilong region. Perfect for wellness and relaxation services."
@@ -26544,7 +26544,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Shuicheng", "Baiche River", "Riverside landscapes", "Natural beauty"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Shuicheng Baiche River Hot Spring Liupanshui.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Shuicheng Baiche River Hot Spring",
     directions: "Located in Shuicheng, Guizhou Province. Easily accessible by car with riverside setting.",
     tips: "Experience golden-level hot springs by the beautiful Baiche River. Perfect for peaceful relaxation and scenic enjoyment."
@@ -26570,7 +26570,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Sinan", "Guizhou Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Sinan Jiutian Hot Spring Tongren.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Sinan Jiutian Hot Spring",
     directions: "Located in Sinan, Guizhou Province. Easily accessible by car with modern facilities.",
     tips: "Experience golden-level hot springs in the Sinan region. Perfect for wellness and relaxation services."
@@ -26596,7 +26596,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Renhuai", "Guizhou Province", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Renhuai Hot Spring Grand Hotel Zunyi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Renhuai Hot Spring Grand Hotel",
     directions: "Located in Renhuai, Guizhou Province. Easily accessible by car with grand hotel facilities.",
     tips: "Experience silver-level hot springs with grand hotel facilities. Perfect for luxury wellness and hospitality."
@@ -26622,7 +26622,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Bozhou", "Guizhou Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Bozhou Lihui Hot Spring Zunyi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Bozhou Lihui Hot Spring",
     directions: "Located in Bozhou, Guizhou Province. Easily accessible by car with modern facilities.",
     tips: "Experience silver-level hot springs in the Bozhou region. Perfect for wellness and relaxation services."
@@ -26648,7 +26648,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Ziyun", "Guizhou Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Ziyun Huangheying Hot Spring Anshun.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Ziyun Huangheying Hot Spring",
     directions: "Located in Ziyun, Guizhou Province. Easily accessible by car with modern facilities.",
     tips: "Experience silver-level hot springs in the Ziyun region. Perfect for wellness and relaxation services."
@@ -26674,7 +26674,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Danzhai", "Guizhou Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Danzhai Wanda Jinhua Hot Spring Qiandongnan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Danzhai Wanda Jinhua Hot Spring",
     directions: "Located in Danzhai, Guizhou Province. Easily accessible by car with modern facilities.",
     tips: "Experience silver-level hot springs in the Danzhai region. Perfect for wellness and relaxation services."
@@ -26700,7 +26700,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Xi'an", "Shanxi Province", "Cultural sites", "Historical landmarks"],
     bestTimeToVisit: "Year-round due to constant temperature",
     clothingOptional: false,
-    image: "/Meixian Tangyu Hot Spring Shanxi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Meixian Tangyu Hot Spring",
     directions: "Located in Meixian, Shanxi Province, about 100 km from Xi'an. Easily accessible by car or public transportation.",
     tips: "Experience consistent 60°C temperature year-round. Perfect for therapeutic benefits and relaxation near Xi'an."
@@ -26726,7 +26726,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Chaohu", "Anhui Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Bantang Hot Spring Anhui.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Bantang Hot Spring",
     directions: "Located in Chaohu, Anhui Province. Easily accessible by car or public transportation.",
     tips: "Experience the famous limpid water quality. Perfect for those seeking crystal-clear hot spring experiences."
@@ -26752,7 +26752,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Chaohu", "Anhui Province", "Natural landscapes", "Cultural sites"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Xiangquan Hot Spring Anhui.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Xiangquan Hot Spring",
     directions: "Located in Chaohu, Anhui Province. Easily accessible by car or public transportation.",
     tips: "Experience the fragrant spring with unique aromatic properties. Perfect for sensory hot spring experiences."
@@ -26778,7 +26778,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Guangxi Province", "Natural landscapes", "Cultural heritage", "Regional beauty"],
     bestTimeToVisit: "Year-round",
     clothingOptional: false,
-    image: "/Gaoshan Hot Spring Guangxi.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Gaoshan Hot Spring",
     directions: "Located in Guangxi Province. Easily accessible by car or public transportation.",
     tips: "Experience therapeutic hot springs in beautiful Guangxi Province. Perfect for wellness and relaxation."
@@ -26804,7 +26804,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Lugu Lake", "Yunnan Province", "Mountain landscapes", "Natural beauty"],
     bestTimeToVisit: "Year-round due to consistent temperature",
     clothingOptional: false,
-    image: "/Lugu Lake Hot Spring Yunnan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Lugu Lake Hot Spring",
     directions: "Located by Lugu Lake, Yunnan Province. Accessible by car with beautiful lake setting.",
     tips: "Experience hot springs by beautiful Lugu Lake with consistent 38°C temperature. Perfect for lake views and relaxation."
@@ -26830,7 +26830,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Baotu Spring Park", "Jinan city", "Traditional gardens", "Cultural sites"],
     bestTimeToVisit: "Spring and autumn for best weather and garden beauty",
     clothingOptional: false,
-    image: "/Baotu Spring Jinan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Baotu Spring",
     directions: "Located in Baotu Spring Park, Jinan, Shandong Province. Easily accessible by public transportation.",
     tips: "Visit the 'First Spring Under Heaven' in beautiful Baotu Spring Park. Experience the cultural heritage and natural beauty of Jinan's most famous spring."
@@ -26856,7 +26856,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Jinan city", "Traditional architecture", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round, especially spring and autumn",
     clothingOptional: false,
-    image: "/Black Tiger Spring Jinan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Black Tiger Spring",
     directions: "Located in Jinan, Shandong Province. Easily accessible by public transportation.",
     tips: "Experience the unique tiger-like sound of Black Tiger Spring. Discover one of Jinan's most distinctive natural springs."
@@ -26882,7 +26882,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Jinan city", "Traditional gardens", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round, especially spring and autumn",
     clothingOptional: false,
-    image: "/Pearl Spring Jinan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Pearl Spring",
     directions: "Located in Jinan, Shandong Province. Easily accessible by public transportation.",
     tips: "Experience the beautiful pearl-like water droplets of Pearl Spring. Discover the natural wonder in Jinan's City of Springs."
@@ -26908,7 +26908,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Jinan city", "Traditional architecture", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Year-round, especially spring and autumn",
     clothingOptional: false,
-    image: "/Five Dragon Pool Jinan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Five Dragon Pool",
     directions: "Located in Jinan, Shandong Province. Easily accessible by public transportation.",
     tips: "Experience the unique five interconnected pools of Five Dragon Pool. Discover the historic spring complex in Jinan's City of Springs."
@@ -26934,7 +26934,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Jinan city", "Traditional gardens", "Cultural sites", "Natural landscapes"],
     bestTimeToVisit: "Spring and autumn for best scenery and weather",
     clothingOptional: false,
-    image: "/Daming Lake Jinan.jpeg",
+    image: "/placeholder.svg?height=300&width=400",
     website: "Daming Lake",
     directions: "Located in Jinan, Shandong Province. Easily accessible by public transportation.",
     tips: "Experience the beautiful spring-fed Daming Lake. Discover the natural beauty and cultural heritage of Jinan's City of Springs."
