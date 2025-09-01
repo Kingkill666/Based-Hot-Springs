@@ -64,18 +64,18 @@ export default function BasedSprings() {
       console.log('🔧 SDK actions available:', !!sdk?.actions);
       
       // Farcaster-specific share message
-      const farcasterShareText = `♨️ Based Springs is the world's first Onchain Hot Spring Guide! Explore every U.S. spring + global gems, all verified onchain. Start your next soak today 👉 [https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs] 🌍✨`;
+      const farcasterShareText = `♨️ Based Springs is the world's first Onchain Hot Spring Guide! Explore every U.S. spring + global gems, all verified onchain. Start your next soak today 👉 [https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based] 🌍✨`;
       
       // Use Farcaster SDK composeCast method
       if (sdk?.actions?.composeCast) {
         console.log('🎯 Using Farcaster SDK composeCast...');
         console.log('📝 Share text:', farcasterShareText);
-        console.log('🔗 Embed URL:', "https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs");
+        console.log('🔗 Embed URL:', "https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based");
         
         try {
           const result = await sdk.actions.composeCast({
             text: farcasterShareText,
-            embeds: ["https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs"]
+            embeds: ["https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based"]
           });
           
           console.log('📤 ComposeCast result:', result);
@@ -97,7 +97,7 @@ export default function BasedSprings() {
         await navigator.share({
           title: `Based Springs - Hot Spring Guide`,
           text: farcasterShareText,
-          url: `https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs`
+          url: `https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based`
         });
         console.log('✅ Native share successful');
         toast.success(`Shared Based Springs successfully!`);
