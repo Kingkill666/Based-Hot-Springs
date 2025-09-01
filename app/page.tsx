@@ -64,15 +64,33 @@ export default function BasedSprings() {
       console.log('🔧 SDK actions available:', !!sdk?.actions);
       
       // Farcaster-specific share message
-      const farcasterShareText = `♨️ Based Springs is the world's first Onchain Hot Spring Guide! Explore every U.S. spring + global gems, all verified onchain. Start your next soak today 👉 [https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs] ��✨`;
+      const farcasterShareText = `♨️ Based Springs is the world's first Onchain Hot Spring Guide! Explore every U.S. spring + global gems, all verified onchain. Start your next soak today 👉 [https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs] 🌍✨`;
       
-      // Use Farcaster SDK to open compose page
-      if (sdk?.actions?.openUrl) {
-        console.log('🔗 Using Farcaster openUrl for sharing...');
-        const farcasterShareUrl = `https://farcaster.xyz/~/compose?text=${encodeURIComponent(farcasterShareText)}`;
-        await sdk.actions.openUrl(farcasterShareUrl);
-        console.log('✅ Farcaster compose opened successfully');
-        toast.success(`Opened Farcaster compose for sharing!`);
+      // Use Farcaster SDK composeCast method
+      if (sdk?.actions?.composeCast) {
+        console.log('🎯 Using Farcaster SDK composeCast...');
+        console.log('📝 Share text:', farcasterShareText);
+        console.log('🔗 Embed URL:', "https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs");
+        
+        try {
+          const result = await sdk.actions.composeCast({
+            text: farcasterShareText,
+            embeds: ["https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based-springs"]
+          });
+          
+          console.log('📤 ComposeCast result:', result);
+          
+          if (result?.cast) {
+            console.log('✅ Cast posted successfully:', result.cast.hash);
+            toast.success(`Shared Based Springs on Farcaster!`);
+          } else {
+            console.log('ℹ️ User cancelled the cast');
+            toast.info("Cast cancelled");
+          }
+        } catch (composeError) {
+          console.error('❌ ComposeCast error:', composeError);
+          throw composeError; // Re-throw to be caught by outer try-catch
+        }
       } else if (navigator.share) {
         // Fallback to native share API
         console.log('📱 Using native share API...');
