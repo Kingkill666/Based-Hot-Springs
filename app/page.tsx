@@ -500,7 +500,10 @@ export default function BasedSprings() {
             <div className="flex justify-center items-center gap-2 sm:gap-4 mb-5">
               <Button
                 variant="outline"
-                onClick={() => setCurrentPage(Math.max(1, currentPage - 1))}
+                onClick={() => {
+                  setCurrentPage(Math.max(1, currentPage - 1))
+                  window.scrollTo({ top: 0, behavior: 'smooth' })
+                }}
                 disabled={currentPage === 1}
                 className="bg-white/90 backdrop-blur-sm"
               >
@@ -525,7 +528,10 @@ export default function BasedSprings() {
                       key={pageNum}
                       variant={currentPage === pageNum ? "default" : "outline"}
                       size="sm"
-                      onClick={() => setCurrentPage(pageNum)}
+                      onClick={() => {
+                        setCurrentPage(pageNum)
+                        window.scrollTo({ top: 0, behavior: 'smooth' })
+                      }}
                       className={currentPage === pageNum ? "bg-blue-600" : "bg-white/90 backdrop-blur-sm"}
                     >
                       {pageNum}
@@ -536,7 +542,10 @@ export default function BasedSprings() {
 
               <Button
                 variant="outline"
-                onClick={() => setCurrentPage(Math.min(totalPages, currentPage + 1))}
+                onClick={() => {
+                  setCurrentPage(Math.min(totalPages, currentPage + 1))
+                  window.scrollTo({ top: 0, behavior: 'smooth' })
+                }}
                 disabled={currentPage === totalPages}
                 className="bg-white/90 backdrop-blur-sm"
               >

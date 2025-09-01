@@ -4094,7 +4094,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Lithium"],
     nearbyAttractions: ["Salton Sea", "Slab City", "Salvation Mountain"],
     bestTimeToVisit: "October through April",
-    image: "/Bashford's Hot Mineral Spa.jpeg",
+    image: "/Bashford's Hot Mineral Spa.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4744,7 +4744,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Sodium"],
     nearbyAttractions: ["Sacramento Delta", "Mount Diablo", "Livermore Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Byron Hot Springs.jpeg",
+    image: "/Byron Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5609,7 +5609,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Calcium", "Magnesium", "Potassium", "Sodium"],
     nearbyAttractions: ["Carlsbad Beach", "Legoland", "San Diego"],
     bestTimeToVisit: "Year-round",
-    image: "/Carlsbad Mineral Water.jpeg",
+    image: "/Carlsbad Mineral Water Carlsbad, California.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5836,7 +5836,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coachella Valley",
     ],
     bestTimeToVisit: "October through May",
-    image: "/Desert Hot Springs Inn.jpeg",
+    image: "/Desert Hot Springs Inn.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17424,7 +17424,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Eagleville", "Surprise Valley"],
     bestTimeToVisit: "Summer",
-    image: "/Eagleville Hot Springs.jpeg",
+    image: "/Eagleville Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17757,7 +17757,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Gaviota State Park", "Goleta"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Gaviota Hot Springs.jpeg",
+    image: "/Gaviota Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18053,7 +18053,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Big Bend", "Pit River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Hunt Hot Springs.jpeg",
+    image: "/Hunt Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18237,7 +18237,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/KOA Palm Springs.jpeg",
+    image: "/KOA Palm Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18475,13 +18475,13 @@ export const hotSpringsData: HotSpring[] = [
     id: "miracle-hot-springs-ca",
     name: "Miracle Hot Springs",
     state: "California",
-    city: "Bakersfield",
+    city: "Kernsville",
     country: "United States",
     coordinates: { lat: 35.373, lng: -119.018 },
     temperature: { min: 100, max: 110, unit: "°F" },
     elevation: 404,
     description:
-      "Primitive, riverside hot springs pools along the Kern River near Bakersfield.",
+      "Primitive, riverside hot springs pools along the Kern River near Kernsville.",
     features: ["Primitive", "Riverside", "Natural pools"],
     accessibility: { difficulty: "Moderate", fee: "Free", seasonal: true },
     facilities: {
@@ -18493,7 +18493,7 @@ export const hotSpringsData: HotSpring[] = [
       restaurant: false,
     },
     minerals: ["Sodium"],
-    nearbyAttractions: ["Bakersfield", "Kern River"],
+    nearbyAttractions: ["Kernsville", "Kern River"],
     bestTimeToVisit: "Spring and Fall",
     image: "/Miracle Hot Springs.jpeg",
     rating: 4.2,
@@ -18754,7 +18754,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ojai", "Los Padres National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Ojai Hot Springs.jpeg",
+    image: "/Ojai Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -18976,7 +18976,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Sandpiper Springs Retreat & Spa.jpeg",
+    image: "/Sandpiper Springs Retreat & Spa.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
