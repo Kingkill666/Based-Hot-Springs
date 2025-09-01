@@ -10,13 +10,13 @@
   "frame": {
     "version": "1",
     "name": "Based Springs",
-    "iconUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
+    "iconUrl": "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
     "homeUrl": "https://based-hot-springs.vercel.app",
-    "imageUrl": "https://chatgpt.com/s/m_68b5ece3f9588191af76413081c4d491",
+    "imageUrl": "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
     "buttonTitle": "Explore Hot Springs",
     "splashImageUrl": "https://u.cubeupload.com/vmfcoin/BasedSpringsLogo.png",
-    "heroImageUrl": "https://chatgpt.com/s/m_68b5ece3f9588191af76413081c4d491",
-    "ogImageUrl": "https://chatgpt.com/s/m_68b5ece3f9588191af76413081c4d491s",
+    "heroImageUrl": "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
+    "ogImageUrl": "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png",
     "primaryCategory": "utility",
     "tags": ["social", "health", "education"],
     "ogTitle": "Based Springs",
@@ -25,7 +25,7 @@
     "description": "Explore thousands of hot springs worldwide with detailed information, ratings, and locations. Find your next thermal adventure.",
     "tagline": "Discover Thermal Wonders",
     "screenshotUrls": [
-      "https://u.cubeupload.com/vmfcoin/ChatGPTImageSep12025.png"
+      "https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png"
     ],
     "castShareUrl": "https://farcaster.xyz/miniapps/vQEVAAn2F6bu/based",
     "splashBackgroundColor": "#D1E8D1"

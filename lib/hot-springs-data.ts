@@ -3554,7 +3554,7 @@ export const hotSpringsData: HotSpring[] = [
       "Salton Sea",
     ],
     bestTimeToVisit: "October through April",
-    image: "/Agua Caliente Springs Park.jpeg",
+    image: "/Agua Caliente Springs Park.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4188,7 +4188,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coachella Valley",
     ],
     bestTimeToVisit: "October through May",
-    image: "/Desert Hot Springs Spa Hotel.jpeg",
+    image: "/Desert Hot Springs Spa Hotel.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4654,7 +4654,7 @@ export const hotSpringsData: HotSpring[] = [
       "Santa Clara Valley",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/Gilroy Hot Springs.jpeg",
+    image: "/Gilroy Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5056,7 +5056,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["Mammoth Lakes", "Devils Postpile", "Owens River"],
     bestTimeToVisit: "May-October",
-    image: "/Wild Willy Hot Springs.jpeg",
+    image: "/Wild Willy Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5566,7 +5566,7 @@ export const hotSpringsData: HotSpring[] = [
       "Plumas National Forest",
     ],
     bestTimeToVisit: "May through October",
-    image: "/Campbell Hot Springs.jpeg",
+    image: "/Campbell Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17276,7 +17276,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Death Valley National Park", "Furnace Creek"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/Death Valley Hot Springs.jpeg",
+    image: "/Death Valley Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17683,7 +17683,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Paso Robles", "Wine Country"],
     bestTimeToVisit: "Year-round",
-    image: "/Franklin Hot Springs.jpeg",
+    image: "/Franklin Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17942,7 +17942,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Healing Sands.jpeg",
+    image: "/Healing Sands.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19642,7 +19642,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ojai", "Los Padres National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Willett Hot Springs.jpeg",
+    image: "/Willett Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
