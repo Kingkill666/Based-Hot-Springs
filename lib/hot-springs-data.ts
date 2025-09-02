@@ -5699,7 +5699,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Boron"],
     nearbyAttractions: ["Crowley Lake", "Mammoth Lakes", "Eastern Sierra"],
     bestTimeToVisit: "Year-round",
-    image: "/Crowley Hot Springs.jpeg",
+    image: "/Crowley Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17646,7 +17646,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Niland", "Salton Sea"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/Fountain of Youth Spa.jpeg",
+    image: "/Fountain of Youth Spa.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17905,7 +17905,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Hacienda Hot Springs.jpeg",
+    image: "/Hacienda Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18016,7 +18016,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Hope Springs.jpeg",
+    image: "/Hope Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18126,7 +18126,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Jacumba", "Anza-Borrego Desert"],
     bestTimeToVisit: "Year-round",
-    image: "/Jacumba Hot Springs.jpeg",
+    image: "/Jacumba Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18569,7 +18569,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Montecito", "Santa Barbara"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Montecito Hot Springs.jpeg",
+    image: "/Montecito Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19013,7 +19013,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Sea Mountain Nudist Hotel.jpeg",
+    image: "/Sea Mountain Nudist Hotel.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19235,7 +19235,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Springs Resort.jpeg",
+    image: "/Springs Resort.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19494,7 +19494,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Tuscan Hot Springs.jpeg",
+    image: "/Tuscan Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
