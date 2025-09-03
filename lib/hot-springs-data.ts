@@ -3597,7 +3597,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Iron"],
     nearbyAttractions: ["Pismo Beach", "Hearst Castle", "Morro Bay"],
     bestTimeToVisit: "Year-round",
-    image: "/Avila Hot Springs.jpeg",
+    image: "/Avila Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4141,7 +4141,7 @@ export const hotSpringsData: HotSpring[] = [
       "Lake Isabella",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/California Hot Springs Resort.jpeg",
+    image: "/California Hot Springs Resort.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4376,7 +4376,7 @@ export const hotSpringsData: HotSpring[] = [
       "Cleveland National Forest",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/Murrieta Hot Springs.jpeg",
+    image: "/Murrieta Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4968,7 +4968,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["John Muir Wilderness", "Edison Lake", "Florence Lake"],
     bestTimeToVisit: "June-October",
-    image: "/Mono Hot Springs.jpeg",
+    image: "/Mono Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -5194,7 +5194,7 @@ export const hotSpringsData: HotSpring[] = [
       "Convict Lake",
     ],
     bestTimeToVisit: "June-September",
-    image: "/Shepherd Hot Springs.jpeg",
+    image: "/Shepherd Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -5519,7 +5519,7 @@ export const hotSpringsData: HotSpring[] = [
       "San Francisco Bay Area",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/Boyes Hot Springs.jpeg",
+    image: "/Boyes Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18939,7 +18939,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Sam's Family Spa.jpeg",
+    image: "/Sam's Family Spa.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19124,7 +19124,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Sky Valley Resort.jpeg",
+    image: "/Sky Valley Resort.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19346,7 +19346,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cedarville", "Warner Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/Surprise Valley Hot Springs.jpeg",
+    image: "/Surprise Valley Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19457,7 +19457,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Turtle Back Mesa Hot Springs.jpeg",
+    image: "/Turtle Back Mesa Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19531,7 +19531,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/UpValley Inn and Hot Springs.jpeg",
+    image: "/UpValley Inn and Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
