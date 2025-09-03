@@ -5425,7 +5425,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coachella Valley",
     ],
     bestTimeToVisit: "October through May",
-    image: "/Aqua Soleil Hotel.jpeg",
+    image: "/Aqua Soleil Hotel.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17124,7 +17124,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Bella Monte Hot Springs Resort and Spa.jpeg",
+    image: "/Bella Monte Hot Springs Resort and Spa.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17235,7 +17235,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Crowley Lake", "Mammoth Lakes"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/Crowley Hot Springs.jpeg",
+    image: "/Crowley Hot Springs Bishop.jpeg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
