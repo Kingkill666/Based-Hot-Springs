@@ -4419,7 +4419,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Potassium"],
     nearbyAttractions: ["Paso Robles wineries", "Hearst Castle", "Morro Bay"],
     bestTimeToVisit: "Year-round",
-    image: "/Paso Robles Hot Springs.jpeg",
+    image: "/Paso Robles Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4926,7 +4926,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: ["Lake Tahoe", "Toiyabe National Forest", "Carson Pass"],
     bestTimeToVisit: "May-October",
-    image: "/Grover Hot Springs.jpeg",
+    image: "/Grover Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -4969,7 +4969,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["John Muir Wilderness", "Edison Lake", "Florence Lake"],
     bestTimeToVisit: "June-October",
     image: "/Mono Hot Springs.jpg",
-    rating: 4.3,
+    rating: 5.0,
     clothingOptional: false,
     // Enhanced detailed information
     address: "Mono Hot Springs, Lakeshore, CA 93634",
@@ -5472,7 +5472,7 @@ export const hotSpringsData: HotSpring[] = [
       "Coachella Valley",
     ],
     bestTimeToVisit: "October through May",
-    image: "/Azure Palm Hot Springs.jpeg",
+    image: "/Azure Palm Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17572,7 +17572,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Quincy", "Feather River"],
     bestTimeToVisit: "Summer",
-    image: "/Feather River Hot Springs.jpeg",
+    image: "/Feather River Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17794,7 +17794,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Niland", "Salton Sea"],
     bestTimeToVisit: "Fall to Spring",
-    image: "/Glamis North Hot Springs Resort.jpeg",
+    image: "/Glamis North Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17868,7 +17868,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Good House Hot Springs.jpeg",
+    image: "/Good House Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18421,7 +18421,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Lido Palms Hot Springs.jpeg",
+    image: "/Lido Palms Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18717,7 +18717,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Nurturing Nest Hot Springs.jpeg",
+    image: "/Nurturing Nest Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18791,7 +18791,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Paso Robles", "Wine Country"],
     bestTimeToVisit: "Year-round",
-    image: "/River Oaks Hot Spring Spa.jpeg",
+    image: "/River Oaks Hot Spring Spa.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information

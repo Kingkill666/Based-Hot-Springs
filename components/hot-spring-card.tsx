@@ -27,9 +27,9 @@ export function HotSpringCard({ spring, onClick }: HotSpringCardProps) {
         </div>
 
         {/* Rating badge */}
-        <div className="absolute top-3 right-3 bg-violet-600/90 backdrop-blur-sm text-white px-2 py-1 rounded-full text-sm font-medium flex items-center gap-1">
+        <div className={`absolute top-3 right-3 ${spring.rating === 5.0 ? 'bg-yellow-500/90' : 'bg-violet-600/90'} backdrop-blur-sm text-white px-2 py-1 rounded-full text-sm font-medium flex items-center gap-1`}>
           <Star className="w-3 h-3 fill-current" />
-          {spring.rating}
+          {spring.rating.toFixed(1)}
         </div>
 
         {/* State badge */}

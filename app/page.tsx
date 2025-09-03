@@ -392,9 +392,9 @@ export default function BasedSprings() {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
                   <div className="absolute top-3 right-3 flex gap-2">
-                    <Badge className="bg-blue-600/90 backdrop-blur-sm text-white text-xs shadow-lg">
+                    <Badge className={`${spring.rating === 5.0 ? 'bg-yellow-500/90' : 'bg-blue-600/90'} backdrop-blur-sm text-white text-xs shadow-lg`}>
                       <Star className="w-3 h-3 mr-1 fill-current" />
-                      {spring.rating}
+                      {spring.rating.toFixed(1)}
                     </Badge>
                     {spring.clothingOptional && (
                       <Badge
