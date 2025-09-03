@@ -3824,7 +3824,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium", "Potassium"],
     nearbyAttractions: ["Avila Beach", "Pismo Beach", "Hearst Castle"],
     bestTimeToVisit: "Year-round",
-    image: "/Sycamore Hot Springs.jpeg",
+    image: "/Sycamore Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17831,7 +17831,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Golden Haven Hot Springs Spa and Resort.jpeg",
+    image: "/Golden Haven Hot Springs Spa and Resort.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18163,7 +18163,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bishop", "Owens Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Keough Hot Springs.jpeg",
+    image: "/Keough Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18458,7 +18458,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Meadowlark Country House and Resort.jpeg",
+    image: "/Meadowlark Country House and Resort.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18680,7 +18680,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Mount View Hotel and Spa.jpeg",
+    image: "/Mount View Hotel and Spa.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -18828,7 +18828,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Calistoga", "Napa Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Roman Spa Hot Springs Resort.jpeg",
+    image: "/Roman Spa Hot Springs Resort.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19309,7 +19309,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Weed", "Mount Shasta"],
     bestTimeToVisit: "Year-round",
-    image: "/Stewart Mineral Hot Springs.jpeg",
+    image: "/Stewart Mineral Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19420,7 +19420,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Palm Springs", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/The O Spa.jpeg",
+    image: "/The O Spa.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19679,7 +19679,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Twentynine Palms", "Joshua Tree National Park"],
     bestTimeToVisit: "Year-round",
-    image: "/Wonder Valley Hot Springs.jpeg",
+    image: "/Wonder Valley Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
