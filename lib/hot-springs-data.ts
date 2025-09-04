@@ -13111,7 +13111,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon", "Lemhi Valley"],
     bestTimeToVisit: "Summer",
-    image: "/Milford Hot Springs.jpeg",
+    image: "/Milford Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13736,7 +13736,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon", "Lemhi Valley"],
     bestTimeToVisit: "Summer",
-    image: "/Samuel's Hot Springs.jpeg",
+    image: "/Samuel's Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -14105,7 +14105,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cascade", "Payette River"],
     bestTimeToVisit: "Summer",
-    image: "/Vulcan Hot Springs.jpeg",
+    image: "/Vulcan Hot Springs.jpg",
     rating: 3.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14141,7 +14141,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ketchum", "Sawtooth National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Warfield Hot Springs.jpeg",
+    image: "/Warfield Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
