@@ -12299,7 +12299,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["South Fork Payette River", "Lowman"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Cove Creek Hot Springs.jpeg",
+    image: "/Cove Creek Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12558,7 +12558,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Marsing", "Snake River"],
     bestTimeToVisit: "Year-round",
-    image: "/Givens Hot Springs.jpeg",
+    image: "/Givens Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12817,7 +12817,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["American Falls", "Snake River"],
     bestTimeToVisit: "Summer",
-    image: "/Indian Springs Resort.jpeg",
+    image: "/Indian Springs Resort.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12927,7 +12927,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/Lava Hot Springs Inn.jpeg",
+    image: "/Lava Hot Springs Inn.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13222,7 +13222,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Hollister", "Snake River"],
     bestTimeToVisit: "Summer",
-    image: "/Nat-Soo-Pah Hot Springs.jpeg",
+    image: "/Nat-Soo-Pah Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13406,7 +13406,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/Riverside Inn & Hot Springs.jpeg",
+    image: "/Riverside Inn & Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13553,7 +13553,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Owyhee River", "Owyhee Reservoir"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Snively Hot Springs.jpeg",
+    image: "/Snively Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13847,7 +13847,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Garden Valley", "Boise National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/Terrace Lakes Hot Springs.jpeg",
+    image: "/Terrace Lakes Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
