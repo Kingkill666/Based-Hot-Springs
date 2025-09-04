@@ -5803,61 +5803,6 @@ export const hotSpringsData: HotSpring[] = [
     hotSpringDetails: "The inn features natural mineral hot springs with temperatures ranging from 98-108°F. The geothermal water is rich in sulfur, calcium, magnesium, and potassium minerals known for their therapeutic properties. The inn offers various soaking options including private pools and spa treatments. The mineral-rich water flows from natural underground sources unique to the Desert Hot Springs area.",
     tips: "Reservations recommended for accommodations and spa treatments, especially during peak season (October-May). The inn offers authentic 1950s retro charm and mid-century modern aesthetics. Best visited October through May when desert temperatures are most comfortable. Swimming suits required. The location provides easy access to Palm Springs attractions and Joshua Tree National Park. The retro setting offers a unique nostalgic desert experience. The inn's restaurant serves classic desert fare perfect after soaking.",
   },
-  {
-    id: "17",
-    name: "Jerry Johnson Hot Springs",
-    state: "Idaho",
-    city: "Lowell",
-    country: "United States",
-    coordinates: {
-      lat: 46.6394,
-      lng: -115.0633,
-    },
-    temperature: { min: 95, max: 108, unit: "°F" },
-    elevation: 3100,
-    description:
-      "Series of terraced pools along Warm Springs Creek in pristine wilderness setting.",
-    features: [
-      "Terraced pools",
-      "Creek setting",
-      "Wilderness",
-      "Old-growth forest",
-      "Natural flow",
-    ],
-    accessibility: {
-      difficulty: "Easy hike",
-      fee: "Free",
-      seasonal: true,
-    },
-    facilities: {
-      restrooms: false,
-      parking: true,
-      lodging: false,
-      camping: true,
-      spa: false,
-      restaurant: false,
-    },
-    image: "/Jerry Johnson Hot Springs.jpeg",
-    rating: 4.7,
-    minerals: ["Sulfur", "Silica", "Calcium"],
-    nearbyAttractions: [
-      "Clearwater National Forest",
-      "Lochsa River",
-      "Lewis and Clark Trail",
-    ],
-    bestTimeToVisit: "Late spring through early fall",
-    clothingOptional: true,
-    // Enhanced detailed information
-    address: "Jerry Johnson Hot Springs, Lowell, ID 83537",
-    website: "N/A",
-    detailedDescription: "Jerry Johnson Hot Springs is a series of terraced pools located along Warm Springs Creek in pristine wilderness setting near Lowell, Idaho. These natural hot springs offer visitors a peaceful soaking experience with excellent opportunities for wilderness exploration and old-growth forest viewing in the beautiful Clearwater National Forest setting. The terraced pools and creek setting create an ideal hot springs destination.",
-    location: "Located near Lowell, Idaho, in Clearwater National Forest approximately 100 miles southeast of Spokane, Washington. The hot springs are situated at 3,100 feet elevation in the wilderness region.",
-    directions: "From Spokane, take local roads southeast to Lowell, then follow local roads to the trailhead. An easy hike is required to reach the hot springs. The exact route requires detailed planning and hiking skills.",
-    accessibilityDetails: "Jerry Johnson Hot Springs requires easy hike access through wilderness terrain. The forest location has basic camping facilities but no services. Hiking skills and emergency preparedness are recommended. The terraced pools provide accessible soaking options in the wilderness setting.",
-    hotSpringDetails: "The hot springs feature terraced pools with temperatures ranging from 95-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, silica, and calcium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The creek setting provides beautiful wilderness views while soaking.",
-    tips: "This is a clothing optional location. The hot springs are free to access. The wilderness location provides excellent opportunities for hiking and forest exploration. The location offers multiple temperature pools for different soaking preferences. Best visited during late spring through early fall to avoid dangerous winter conditions. The location provides easy access to nearby attractions including Clearwater National Forest and Lochsa River. This is one of Idaho's premier wilderness hot springs destinations with unparalleled terraced pool setting.",
-  },
-
   // MONTANA HOT SPRINGS (28 springs - adding selection)
   {
     id: "18",
@@ -12595,7 +12540,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon", "Lemhi Valley"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Goldbug Hot Springs.jpeg",
+    image: "/Goldbug Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12780,7 +12725,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Sawtooth Mountains"],
     bestTimeToVisit: "Summer",
-    image: "/Idaho Rocky Mountain Ranch.jpeg",
+    image: "/Idaho Rocky Mountain Ranch.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12854,7 +12799,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowell", "Lochsa River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Jerry Johnson's Hot Springs.jpeg",
+    image: "/Jerry Johnson's Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12964,7 +12909,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/Lava Hot Springs.jpeg",
+    image: "/Lava Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13001,7 +12946,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Bear River", "Thatcher"],
     bestTimeToVisit: "Year-round",
-    image: "/Maple Grove Hot Springs.jpeg",
+    image: "/Maple Grove Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13884,7 +13829,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Idaho City", "Boise National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/The Springs.jpeg",
+    image: "/The Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
