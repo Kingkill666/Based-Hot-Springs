@@ -12226,7 +12226,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salmon River", "Challis"],
     bestTimeToVisit: "Year-round",
-    image: "/Challis Hot Springs.jpeg",
+    image: "/Challis Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12447,7 +12447,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ketchum", "Sawtooth National Recreation Area"],
     bestTimeToVisit: "Summer",
-    image: "/Easley Hot Springs.jpeg",
+    image: "/Easley Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12669,7 +12669,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Newdale", "Teton Valley"],
     bestTimeToVisit: "Summer",
-    image: "/Green Canyon Hot Springs.jpeg",
+    image: "/Green Canyon Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12743,7 +12743,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/Home Hotel Hot Springs.jpeg",
+    image: "/Home Hotel Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13185,7 +13185,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cambridge", "Weiser River"],
     bestTimeToVisit: "Year-round",
-    image: "/Mundo Hot Springs.jpeg",
+    image: "/Mundo Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13994,7 +13994,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Featherville", "Boise National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/Trinity Hot Springs.jpeg",
+    image: "/Trinity Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -14141,7 +14141,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Warm Lake", "Payette National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/Warm Lake.jpeg",
+    image: "/Warm Lake ID.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -22459,7 +22459,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate", "Calcium"],
   nearbyAttractions: ["Snake River", "Ririe Reservoir", "Idaho Falls"],
   bestTimeToVisit: "Year-round",
-  image: "/Heise Hot Springs.jpeg",
+  image: "/Heise Hot Springs.jpg",
   rating: 4.4,
   clothingOptional: false,
   // Enhanced detailed information
