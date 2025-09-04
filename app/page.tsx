@@ -225,24 +225,27 @@ export default function BasedSprings() {
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
               {/* Logo and Title */}
               <div className="flex items-center gap-3 sm:gap-4">
-                <div className="w-12 h-12 sm:w-14 sm:h-14 bg-gradient-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center shadow-lg">
-                  <Droplets className="w-6 h-6 sm:w-8 sm:h-8 text-white" />
+                <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl flex items-center justify-center shadow-lg">
+                  <Droplets className="w-8 h-8 sm:w-10 sm:h-10 text-white" />
                 </div>
-                <h1 className="text-2xl sm:text-4xl font-bold text-black">Based Springs</h1>
+                <h1 className="text-3xl sm:text-5xl md:text-6xl font-black text-black">Based Springs</h1>
               </div>
               
               {/* Subtitle */}
               <div className="text-center">
-                <p className="text-lg sm:text-xl text-blue-600 font-medium">Complete US Hot Springs Database</p>
+                <p className="text-2xl sm:text-3xl md:text-4xl text-blue-600 font-black">Complete Worldwide Hot Springs Database</p>
               </div>
               
               {/* Stats tabs */}
               <div className="flex items-center gap-2 sm:gap-4">
-                <div className="bg-blue-100 text-blue-700 text-sm sm:text-xl font-bold px-3 sm:px-6 py-2 sm:py-3 rounded-lg shadow-sm min-w-[100px] sm:min-w-[140px] text-center">
+                <div className="bg-blue-100 text-blue-700 text-sm font-bold px-3 py-2 rounded-lg shadow-sm min-w-[86px] text-center">
                   {hotSpringsData.length} Springs
                 </div>
-                <div className="bg-white/80 text-black text-sm sm:text-xl font-bold px-3 sm:px-6 py-2 sm:py-3 rounded-lg shadow-sm border border-gray-300 min-w-[100px] sm:min-w-[140px] text-center">
+                <div className="bg-white/80 text-black text-sm font-bold px-3 py-2 rounded-lg shadow-sm border border-gray-300 min-w-[86px] text-center">
                   {states.length} US States
+                </div>
+                <div className="bg-green-100 text-green-700 text-sm font-bold px-3 py-2 rounded-lg shadow-sm min-w-[86px] text-center">
+                  7 Countries
                 </div>
               </div>
             </div>
@@ -302,10 +305,10 @@ export default function BasedSprings() {
           <div className="text-center mb-8 sm:mb-12">
             <div className="bg-[#0052FF] text-white rounded-2xl px-4 sm:px-8 py-4 sm:py-6 inline-block shadow-2xl border-4 border-white max-w-5xl mx-auto">
               <h2 className="text-2xl sm:text-4xl md:text-6xl font-serif font-bold mb-4 drop-shadow-lg">
-                Every Hot Spring in America
+                Every Hot Spring In The World
               </h2>
               <p className="text-base sm:text-xl max-w-4xl mx-auto drop-shadow-sm">
-                The most comprehensive database of hot springs across America.
+                The most comprehensive onchain hot spring guide across the World.
                 Detailed descriptions, temperatures, facilities, and everything you need for your next thermal adventure.
               </p>
             </div>
@@ -919,7 +922,7 @@ export default function BasedSprings() {
                   <h2 className="text-xl sm:text-2xl font-serif font-bold">Based Springs</h2>
                 </div>
                 <p className="text-xs sm:text-sm max-w-3xl mx-auto leading-relaxed">
-                  The most comprehensive database of hot springs in America. From remote wilderness pools to luxury resort spas, discover your perfect thermal escape with detailed GPS coordinates and insider information.
+                  The most comprehensive onchain database of the world's hot springs. From remote wilderness pools to luxury resort spas, discover your perfect thermal escape with detailed GPS coordinates and insider information.
                 </p>
               </div>
 

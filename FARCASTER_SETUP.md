@@ -75,7 +75,7 @@ curl -s https://your-domain.com | grep -E 'fc:miniapp|fc:frame'
 ## Farcaster Mini App Features
 
 ### Current Features
-- **Complete US Hot Springs Database** - Over 100+ hot springs with detailed information
+- **Complete Worldwide Hot Springs Database** - Over 100+ hot springs with detailed information
 - **GPS Coordinates** - Direct navigation to each location
 - **Detailed Information** - Temperature, facilities, accessibility, and more
 - **Search & Filter** - Find springs by state, country, or features

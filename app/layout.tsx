@@ -33,12 +33,12 @@ const frame = {
 }
 
 export const metadata: Metadata = {
-  title: "Based Springs - Complete US Hot Springs Database",
+  title: "Based Springs - Complete Worldwide Hot Springs Database",
   description:
     "Discover the healing waters across the United States. Your comprehensive guide to hot springs with GPS coordinates, detailed descriptions, and everything you need for your next adventure.",
   generator: "v0.app",
   openGraph: {
-    title: "Based Springs - Complete US Hot Springs Database",
+    title: "Based Springs - Complete Worldwide Hot Springs Database",
     description: "Discover the healing waters across the United States. Your comprehensive guide to hot springs with GPS coordinates, detailed descriptions, and everything you need for your next adventure.",
     images: ["https://u.cubeupload.com/vmfcoin/7ccBasedSpringsNameLogo.png"],
   },
