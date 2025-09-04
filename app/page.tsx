@@ -245,7 +245,7 @@ export default function BasedSprings() {
                   {states.length} US States
                 </div>
                 <div className="bg-green-100 text-green-700 text-sm font-bold px-3 py-2 rounded-lg shadow-sm min-w-[86px] text-center">
-                  7 Countries
+                  {countries.length} Countries
                 </div>
               </div>
             </div>

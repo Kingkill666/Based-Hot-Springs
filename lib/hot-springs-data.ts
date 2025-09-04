@@ -26803,7 +26803,24 @@ export const hotSpringsData: HotSpring[] = [
   },
 ];
 
-export const countries = ["United States", "Ireland", "Japan", "Hungary", "Indonesia", "China", "Taiwan"];
+export const countries = [
+  "United States",
+  "Ireland",
+  "Japan",
+  "Hungary",
+  "Indonesia",
+  "China",
+  "Taiwan",
+  "Nepal",
+  "Tajikistan",
+  "Jordan",
+  "Philippines",
+  "South Korea",
+  "Thailand",
+  "Vietnam",
+  "Turkey",
+  "Oman",
+];
 
 // Helper functions remain the same
 export function getHotSpringsByState(state: string): HotSpring[] {
