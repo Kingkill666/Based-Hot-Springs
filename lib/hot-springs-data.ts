@@ -12983,7 +12983,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Middle Fork Salmon River", "Frank Church Wilderness"],
     bestTimeToVisit: "Summer",
-    image: "/Middle Fork Hot Springs.jpeg",
+    image: "/Middle Fork Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
