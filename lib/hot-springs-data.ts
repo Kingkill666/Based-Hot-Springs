@@ -11930,7 +11930,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Potassium"],
     nearbyAttractions: ["Lava Hot Springs", "Portneuf River"],
     bestTimeToVisit: "Year-round",
-    image: "/Aura Soma Lava.jpeg",
+    image: "/Aura Soma Lava.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12152,7 +12152,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowman", "Boise National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Bonneville Hot Springs.jpeg",
+    image: "/Bonneville Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -12189,7 +12189,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["McCall", "Payette National Forest"],
     bestTimeToVisit: "Winter and Summer",
-    image: "/Burgdorf Hot Springs.jpeg",
+    image: "/Burgdorf Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -12373,7 +12373,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Downey", "Bear River"],
     bestTimeToVisit: "Year-round",
-    image: "/Downata Hot Springs.jpeg",
+    image: "/Downata Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13148,7 +13148,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Sawtooth Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/Mountain Village Resort.jpeg",
+    image: "/Mountain Village Resort.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -13295,7 +13295,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lowman", "Boise National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Pine Flats Hot Springs.jpeg",
+    image: "/Pine Flats Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13736,7 +13736,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Sawtooth Mountains"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Sawtooth Hot Springs.jpeg",
+    image: "/Sawtooth Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -13810,7 +13810,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Stanley", "Salmon River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Sunbeam Hot Springs.jpeg",
+    image: "/Sunbeam Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
