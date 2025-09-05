@@ -224,16 +224,11 @@ export default function BasedSprings() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 sm:py-6">
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
               {/* Logo and Title */}
-              <div className="flex items-center gap-3 sm:gap-4">
+              <div className="flex items-center gap-3 sm:gap-4 flex-1">
                 <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl flex items-center justify-center shadow-lg">
                   <Droplets className="w-8 h-8 sm:w-10 sm:h-10 text-white" />
                 </div>
-                <h1 className="text-3xl sm:text-5xl md:text-6xl font-black text-black">Based Springs</h1>
-              </div>
-              
-              {/* Subtitle */}
-              <div className="text-center">
-                <p className="text-2xl sm:text-3xl md:text-4xl text-blue-600 font-black">Complete Worldwide Hot Springs Database</p>
+                <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-black text-black tracking-tight">BASED SPRINGS</h1>
               </div>
               
               {/* Stats tabs */}
