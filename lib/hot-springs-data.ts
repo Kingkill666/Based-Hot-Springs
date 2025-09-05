@@ -28309,8 +28309,8 @@ export const hotSpringsData: HotSpring[] = [
     tips: "Weekdays are quieter; combine with coastal trips."
   },
   {
-    id: "termas-rosario-de-la-frontera",
-    name: "Termas de Rosario de la Frontera",
+    id: "termas-rosario-de-la-frontera-historic",
+    name: "Termas de Rosario de la Frontera (Historic Complex)",
     state: "Salta",
     city: "Rosario de la Frontera",
     country: "Argentina",
