@@ -3268,7 +3268,7 @@ export const hotSpringsData: HotSpring[] = [
       "Lake Ouachita",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/Hot Springs National Park.jpeg",
+    image: "/Hot Springs National Park.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -3433,7 +3433,7 @@ export const hotSpringsData: HotSpring[] = [
   },
   {
     id: "130",
-    name: "Blanchard Springs",
+    name: "Blanchard Springs Cave",
     state: "Arkansas",
     city: "Mountain View",
     country: "United States",
@@ -3461,7 +3461,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: true,
     },
-    image: "/Blanchard Springs.jpeg",
+    image: "/Blanchard Springs Cave.jpg",
     rating: 4.4,
     minerals: ["Calcium", "Magnesium", "Bicarbonate"],
     nearbyAttractions: [
@@ -3511,7 +3511,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: true,
     },
-    image: "/Blue Spring Heritage Center.jpeg",
+    image: "/Blue Spring Heritage Center.jpg",
     rating: 4.2,
     minerals: ["Calcium", "Magnesium", "Sulfur"],
     nearbyAttractions: [
@@ -6349,7 +6349,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Mount Baker", "Baker Lake"],
     bestTimeToVisit: "Spring to Fall",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Baker Hot Springs WA.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -6386,7 +6386,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Columbia River Gorge", "Bridge of the Gods"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Bonnerville Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6423,7 +6423,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Gifford Pinchot National Forest"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Carson Hot Mineral Springs Resort.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6460,7 +6460,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Orcas Island", "Moran State Park"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Doe Bay Village Resort.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -6477,7 +6477,7 @@ export const hotSpringsData: HotSpring[] = [
     id: "moffett-hot-springs-wa",
     name: "Moffett Hot Springs",
     state: "Washington",
-    city: "Stehekin",
+    city: "North Bonneville",
     country: "United States",
     coordinates: { lat: 48.326, lng: -120.656 },
     temperature: { min: 100, max: 104, unit: "°F" },
@@ -6497,15 +6497,15 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Lake Chelan National Recreation Area"],
     bestTimeToVisit: "Summer",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Moffett Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
-    address: "Moffett Hot Springs, Stehekin, WA 98852",
+    address: "Moffett Hot Springs, North Bonneville, WA 98852",
     website: "N/A",
-    detailedDescription: "Moffett Hot Springs is a remote undeveloped hot springs located near Stehekin, Washington, featuring natural pools with temperatures of 100-104°F, primitive setting, and hiking required access. This remote hot springs offers visitors a wilderness soaking experience with excellent opportunities for hiking and backcountry exploration in the beautiful Lake Chelan National Recreation Area setting. The primitive location and remote backdrop create an ideal hot springs destination.",
-    location: "Located near Stehekin, Washington, in Lake Chelan National Recreation Area approximately 200 miles northeast of Seattle. The hot springs are situated at 1,200 feet elevation in the remote region.",
-    directions: "From Seattle, take local roads to Chelan, then access by boat or hiking to Stehekin. The remote location requires careful planning and backcountry skills. The exact route requires detailed planning and wilderness navigation skills.",
+    detailedDescription: "Moffett Hot Springs is a remote undeveloped hot springs located near North Bonneville, Washington, featuring natural pools with temperatures of 100-104°F, primitive setting, and hiking required access. This remote hot springs offers visitors a wilderness soaking experience with excellent opportunities for hiking and backcountry exploration in the beautiful Lake Chelan National Recreation Area setting. The primitive location and remote backdrop create an ideal hot springs destination.",
+    location: "Located near North Bonneville, Washington, in Lake Chelan National Recreation Area approximately 200 miles northeast of Seattle. The hot springs are situated at 1,200 feet elevation in the remote region.",
+    directions: "From Seattle, take local roads to Chelan, then access by boat or hiking to North Bonneville. The remote location requires careful planning and backcountry skills. The exact route requires detailed planning and wilderness navigation skills.",
     accessibilityDetails: "Moffett Hot Springs requires difficult access through remote wilderness terrain, making it one of Washington's most challenging hot springs to reach. The remote location has basic camping facilities but no services. Backcountry skills and emergency preparedness are essential. Only experienced wilderness travelers should attempt to visit.",
     hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The remote setting provides beautiful wilderness views while soaking.",
     tips: "This is a clothing optional location. The hot springs are free to access. The remote location provides excellent opportunities for hiking and backcountry exploration. The location offers primitive camping opportunities. Best visited during summer to avoid dangerous winter conditions. The location provides easy access to nearby attractions including Lake Chelan National Recreation Area. This is one of Washington's premier remote hot springs destinations with unparalleled wilderness setting.",
@@ -6534,7 +6534,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Mount Rainier National Park"],
     bestTimeToVisit: "Summer",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Ohanapecosh Hot Springs.jpg",
     rating: 3.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6575,7 +6575,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Olympic National Park"],
     bestTimeToVisit: "Summer",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Olympic Hot Spring WA.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -6612,7 +6612,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Soap Lake", "Grand Coulee Dam"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Soap Lake Natural Spa and Resort.jpeg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6650,7 +6650,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Olympic National Park", "Sol Duc Falls"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Sol Duc Hot Springs Resort.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6688,7 +6688,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Columbia River Gorge"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Tenzen Hot Springs and Cabins.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6725,7 +6725,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Wind River", "Gifford Pinchot National Forest"],
     bestTimeToVisit: "Summer",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Wind River Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -6803,7 +6803,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Delta", "Sevier Lake"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Baker Hot Springs UT.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -6840,7 +6840,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Bear River"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Belmont Hot Springs UT.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6878,7 +6878,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Homestead Resort"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Crater Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6916,7 +6916,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Bear River Migratory Bird Refuge"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Crystal Hot Springs UT.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6955,7 +6955,7 @@ export const hotSpringsData: HotSpring[] = [
     bestTimeToVisit: "Spring to Fall",
     image:
       "/Diamond Fork Hot Springs.jpg",
-    rating: 4.8,
+    rating: 5.0,
     clothingOptional: true,
     // Enhanced detailed information
     address: "Fifth Water Hot Springs, Spanish Fork, UT 84660",
@@ -7006,44 +7006,6 @@ export const hotSpringsData: HotSpring[] = [
     tips: "Reservations are recommended, especially during peak tourist season. The resort offers comprehensive wellness packages including mineral soaking, spa treatments, and accommodations. Swimming suits are required. The unique facility provides a one-of-a-kind experience in the beautiful Homestead Resort setting. Best visited year-round with each season offering different resort experiences. The location provides easy access to nearby attractions including Homestead Resort. This is one of Utah's premier unique hot springs destinations with unparalleled limestone dome setting.",
   },
   {
-    id: "inlet-hot-springs-ut",
-    name: "Inlet Hot Springs",
-    state: "Utah",
-    city: "Saratoga Springs",
-    country: "United States",
-    coordinates: { lat: 40.346, lng: -111.904 },
-    temperature: { min: 100, max: 104, unit: "°F" },
-    elevation: 4500,
-    description:
-      "Natural hot springs on the shore of Utah Lake, also known as Saratoga Hot Springs.",
-    features: ["Natural pools", "Lake views"],
-    accessibility: { difficulty: "Easy", fee: "Free", seasonal: false },
-    facilities: {
-      restrooms: false,
-      parking: true,
-      lodging: false,
-      camping: false,
-      spa: false,
-      restaurant: false,
-    },
-    minerals: ["Sulfur"],
-    nearbyAttractions: ["Utah Lake"],
-    bestTimeToVisit: "Spring and Fall",
-    image:
-      "/placeholder.svg?height=300&width=400",
-    rating: 4.0,
-    clothingOptional: true,
-    // Enhanced detailed information
-    address: "Inlet Hot Springs, Saratoga Springs, UT 84045",
-    website: "N/A",
-    detailedDescription: "Inlet Hot Springs, also known as Saratoga Hot Springs, are natural hot springs located on the shore of Utah Lake near Saratoga Springs, featuring natural pools with temperatures of 100-104°F and beautiful lake views. These accessible hot springs offer visitors a peaceful soaking experience with stunning views of Utah Lake and the surrounding mountains. The lakeside location provides a unique and picturesque setting for enjoying therapeutic mineral waters.",
-    location: "Located in Saratoga Springs, Utah, approximately 40 miles south of Salt Lake City on the western shore of Utah Lake. The hot springs are situated at 4,500 feet elevation with beautiful views of Utah Lake and the surrounding mountain ranges.",
-    directions: "From Salt Lake City, take I-15 south to Lehi, then take UT-73 west to Saratoga Springs. From Provo, take I-15 north to Lehi, then UT-73 west. The hot springs are accessible via local roads in the Saratoga Springs area.",
-    accessibilityDetails: "Inlet Hot Springs are easily accessible year-round with good road access and parking available. The lakeside location provides easy access to the natural pools. The area has no formal facilities but offers a peaceful and natural environment for soaking with beautiful lake views.",
-    hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The pools are formed naturally along the shore of Utah Lake and vary in size. The lakeside setting provides beautiful views and a unique soaking experience.",
-    tips: "This is a clothing optional location. Best visited during spring and fall when temperatures are moderate. The lakeside location provides excellent opportunities for wildlife viewing and photography. Bring plenty of water and supplies as there are no facilities in the area. The lake views make this one of Utah's most scenic hot springs destinations. Swimming suits recommended. Practice Leave No Trace principles to preserve this natural lakeside environment. The location provides easy access to Utah Lake recreational activities.",
-  },
-  {
     id: "meadow-hot-springs-ut",
     name: "Meadow Hot Springs",
     state: "Utah",
@@ -7067,8 +7029,8 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Fillmore", "Meadow"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "/placeholder.svg?height=300&width=400",
-    rating: 4.6,
+      "/Meadow Hot Springs UT.jpg",
+    rating: 4.9,
     clothingOptional: true,
     // Enhanced detailed information
     address: "Meadow Hot Springs, Meadow, UT 84655",
@@ -7081,17 +7043,17 @@ export const hotSpringsData: HotSpring[] = [
     tips: "This is a clothing optional location. Best visited during spring and fall when temperatures are moderate. The meadow location provides excellent opportunities for wildlife viewing and photography. Bring plenty of water and supplies as there are no facilities in the area. The crystal-clear water makes this one of Utah's most beautiful hot springs destinations. The area offers excellent stargazing opportunities. Swimming suits recommended. Practice Leave No Trace principles to preserve this pristine meadow environment.",
   },
   {
-    id: "monroe-hot-springs-ut",
-    name: "Monroe Hot Springs",
+    id: "red-hill-hot-springs-ut",
+    name: "Red Hill Hot Springs",
     state: "Utah",
     city: "Monroe",
     country: "United States",
     coordinates: { lat: 38.629, lng: -112.12 },
     temperature: { min: 104, max: 108, unit: "°F" },
     elevation: 5400,
-    description: "Natural hot springs and resort in the Sevier Valley.",
-    features: ["Resort", "Natural pools", "Camping"],
-    accessibility: { difficulty: "Easy", fee: "Paid", seasonal: false },
+    description: "Natural hot springs in the Sevier Valley.",
+    features: ["Natural pools", "Camping"],
+    accessibility: { difficulty: "Easy", fee: "Free", seasonal: false },
     facilities: {
       restrooms: true,
       parking: true,
@@ -7104,18 +7066,18 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Sevier Valley"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Red Hill Hot Springs UT.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
-    address: "Monroe Hot Springs, Monroe, UT 84754",
+    address: "Monroe, UT 84754",
     website: "N/A",
-    detailedDescription: "Monroe Hot Springs is a natural hot springs resort located in the scenic Sevier Valley near Monroe, Utah, offering visitors a comfortable and accessible hot springs experience with resort amenities. This family-friendly destination combines natural mineral soaking with modern accommodations and camping facilities, making it perfect for both day visitors and overnight guests seeking therapeutic relaxation in the beautiful Utah countryside.",
+    detailedDescription: "Red Hill Hot Springs is a natural hot springs located in the scenic Sevier Valley near Monroe, Utah, offering visitors a comfortable and accessible hot springs experience. This family-friendly destination combines natural mineral soaking with camping facilities, making it perfect for both day visitors and overnight guests seeking therapeutic relaxation in the beautiful Utah countryside.",
     location: "Located in Monroe, Utah, in the scenic Sevier Valley approximately 150 miles south of Salt Lake City. The hot springs are situated at 5,400 feet elevation surrounded by the beautiful Sevier Valley and mountain ranges.",
-    directions: "From Salt Lake City, take I-15 south to Nephi, then take US-50 south to Delta, then local roads to Monroe. From Cedar City, take US-50 north to Delta, then local roads to Monroe. The resort is well-marked and accessible year-round.",
-    accessibilityDetails: "Monroe Hot Springs is easily accessible year-round with paved road access and comprehensive resort facilities. The resort offers accessible accommodations, camping facilities, and hot springs areas. The family-friendly environment provides a welcoming atmosphere for all guests.",
-    hotSpringDetails: "The resort features natural hot springs with temperatures ranging from 104-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The resort offers various soaking options including natural pools and resort facilities. The mineral-rich water provides therapeutic benefits in a comfortable resort setting.",
-    tips: "Reservations recommended for accommodations and camping, especially during peak seasons. The resort offers both lodging and camping options for overnight stays. Best visited year-round with each season offering different experiences. Swimming suits required. The location provides excellent access to Sevier Valley attractions and outdoor activities. The resort setting offers a comfortable and family-friendly hot springs experience. The area provides opportunities for exploring the scenic Sevier Valley.",
+    directions: "From Salt Lake City, take I-15 south to Nephi, then take US-50 south to Delta, then local roads to Monroe. From Cedar City, take US-50 north to Delta, then local roads to Monroe. The hot spring 1 block over to the north from Mystic Hot Springs and accessible year-round.",
+    accessibilityDetails: "Red Hill Hot Springs is easily accessible year-round with dirt road access. The hot spring offers accessible accommodations, camping facilities, and hot springs areas. The family-friendly environment provides a welcoming atmosphere for all guests.",
+    hotSpringDetails: "The hot spring features natural hot springs with temperatures ranging from 104-108°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur and flows from natural geothermal sources. The hot spring offers various soaking options including natural pools. The mineral-rich water provides therapeutic benefits in a comfortable natural setting.",
+    tips: "No reservations needed for accommodations and camping, especially during peak seasons. The hot spring offers camping options for overnight stays. Best visited year-round with each season offering different experiences. Swimming suits are optional. The location provides excellent access to Sevier Valley attractions and outdoor activities. The hot spring setting offers a comfortable and family-friendly hot springs experience. The area provides opportunities for exploring the scenic Sevier Valley.",
   },
   {
     id: "mystic-hot-springs-ut",
@@ -7142,7 +7104,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Monroe", "Sevier Valley"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Mystic Hot Springs UT.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -7180,7 +7142,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Ogden Canyon"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Ogden Hot Springs.jpg",
     rating: 3.9,
     clothingOptional: true,
     // Enhanced detailed information
@@ -7218,7 +7180,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Virgin River Gorge"],
     bestTimeToVisit: "N/A",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Pah Tempe Hot Springs.jpg",
     rating: 3.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -7256,7 +7218,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Utah Lake"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Saratoga Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -7293,7 +7255,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Fillmore"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Stinky Hot Springs UT.jpeg",
     rating: 3.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -7330,7 +7292,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur"],
     nearbyAttractions: ["Crystal Hot Springs"],
     bestTimeToVisit: "N/A",
-    image: "/Udy Hot Springs.jpeg",
+    image: "/Udy Hot Springs.jpg",
     rating: 3.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -7368,7 +7330,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Veyo", "Pine Valley Mountains"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Veyo Pool Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -7405,7 +7367,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Zion National Park"],
     bestTimeToVisit: "Spring and Fall",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Zion Canyon Hot Springs.jpeg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -19951,7 +19913,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Calcium", "Magnesium"],
     nearbyAttractions: ["Blanchard Springs Caverns", "Ozark National Forest"],
     bestTimeToVisit: "Spring to Fall",
-    image: "/Blanchard Springs.jpeg",
+    image: "/Blanchard Springs AR.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -19988,7 +19950,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "Year-round",
-    image: "/Chrysalis Day Spa.jpeg",
+    image: "/Chrysalis Day Spa.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20025,7 +19987,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "View from outside year-round",
-    image: "/Maurice Bathhouse.jpeg",
+    image: "/Maurice Bathhouse Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20062,7 +20024,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "Year-round",
-    image: "/Ozark Bathhouse.jpeg",
+    image: "/Ozark Bathhouse AR.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20103,7 +20065,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Eureka Springs", "Ozark Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/Palace Hotel & Bathhouse.jpeg",
+    image: "/Palace Hotel & Bathhouse.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20144,7 +20106,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
     bestTimeToVisit: "Year-round",
-    image: "/Springs Hotel and Spa.jpeg",
+    image: "/Springs Hotel and Spa AR.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20181,7 +20143,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Eureka Springs", "Ozark Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "/Swan Song Spa.jpeg",
+    image: "/Swan Song Spa.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -20193,43 +20155,6 @@ export const hotSpringsData: HotSpring[] = [
     accessibilityDetails: "Swan Song Spa is accessible year-round with boutique day spa facilities. The property offers accessible treatment areas, bath facilities, and wellness services designed for guest comfort and relaxation. The intimate setting provides a peaceful environment for visitors seeking a wellness-focused hot springs experience.",
     hotSpringDetails: "The boutique day spa features mineral baths with temperatures ranging from 98-104°F. The mineral water is rich in sodium and silica and flows from natural geothermal sources. The intimate setting provides a therapeutic environment for enjoying the mineral waters. The boutique spa offers personalized wellness treatments to complement the hot springs experience.",
     tips: "Reservations essential for spa treatments and mineral baths. The boutique day spa emphasizes wellness and personalized treatments. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Eureka Springs attractions and Ozark Mountains recreation. The intimate setting offers a rejuvenating and therapeutic hot springs experience. The wellness treatments provide additional therapeutic benefits.",
-  },
-  {
-    id: "thai-me-spa-ar",
-    name: "Thai Me Spa",
-    state: "Arkansas",
-    city: "Hot Springs",
-    country: "United States",
-    coordinates: { lat: 34.513, lng: -93.055 },
-    temperature: { min: 98, max: 104, unit: "°F" },
-    elevation: 600,
-    description:
-      "Modern day spa in Hot Springs, offering mineral baths, massages, and Thai wellness treatments.",
-    features: ["Day spa", "Mineral baths", "Thai wellness"],
-    accessibility: { difficulty: "Easy", fee: "Paid", seasonal: false },
-    facilities: {
-      restrooms: true,
-      parking: true,
-      lodging: false,
-      camping: false,
-      spa: true,
-      restaurant: false,
-    },
-    minerals: ["Sodium", "Silica"],
-    nearbyAttractions: ["Hot Springs National Park", "Bathhouse Row"],
-    bestTimeToVisit: "Year-round",
-    image: "/Thai Me Spa.jpeg",
-    rating: 4.5,
-    clothingOptional: false,
-    // Enhanced detailed information
-    address: "Thai Me Spa, Hot Springs, AR 71901",
-    website: "thaimespa.com",
-    detailedDescription: "Thai Me Spa is a modern day spa in Hot Springs, Arkansas, offering mineral baths, massages, and Thai wellness treatments. This unique destination offers visitors a distinctive hot springs experience with therapeutic mineral soaking combined with authentic Thai wellness services in the heart of Hot Springs National Park. The modern spa's Thai wellness approach and comprehensive treatments create a special and culturally rich hot springs retreat.",
-    location: "Located in Hot Springs, Arkansas, approximately 50 miles southwest of Little Rock in the Ouachita Mountains. The modern day spa is situated at 600 feet elevation with views of the surrounding mountains and Bathhouse Row.",
-    directions: "From Little Rock, take I-30 west to US-70 west to Hot Springs. From Dallas, take I-30 east to US-70 west to Hot Springs. The modern day spa is easily accessible year-round.",
-    accessibilityDetails: "Thai Me Spa is accessible year-round with modern day spa facilities. The property offers accessible treatment areas, bath facilities, and Thai wellness services designed for guest comfort and cultural enrichment. The modern setting provides a peaceful environment for visitors seeking a culturally unique hot springs experience.",
-    hotSpringDetails: "The modern day spa features mineral baths with temperatures ranging from 98-104°F. The mineral water is rich in sodium and silica and flows from natural geothermal sources. The modern setting provides a therapeutic environment for enjoying the mineral waters. The day spa offers authentic Thai wellness treatments to complement the hot springs experience.",
-    tips: "Reservations essential for spa treatments and mineral baths. The modern day spa emphasizes Thai wellness and cultural treatments. Best visited year-round with consistent mountain temperatures. Swimming suits required. The location provides excellent access to Hot Springs National Park and Bathhouse Row attractions. The modern setting offers a culturally unique and therapeutic hot springs experience. The Thai wellness treatments provide additional cultural and therapeutic benefits.",
   },
   {
     id: "quinns-hot-springs-mt",
@@ -22699,7 +22624,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Alpine Lakes Wilderness", "Snoqualmie Pass", "Mount Baker-Snoqualmie National Forest"],
   bestTimeToVisit: "Summer and Fall",
-  image: "/Goldmyer Hot Springs.jpeg",
+  image: "/Goldmyer Hot Springs WA.jpeg",
   rating: 4.8,
   clothingOptional: true,
   // Enhanced detailed information
@@ -22735,7 +22660,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Cascade Mountains", "Stevens Pass", "Mount Baker-Snoqualmie National Forest"],
   bestTimeToVisit: "Year-round",
-  image: "/Scenic Hot Springs.jpeg",
+  image: "/Scenic Hot Springs WA.jpeg",
   rating: 4.7,
   clothingOptional: true,
   // Enhanced detailed information
