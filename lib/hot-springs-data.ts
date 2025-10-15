@@ -1628,7 +1628,7 @@ export const hotSpringsData: HotSpring[] = [
       "Wildlife viewing",
     ],
     bestTimeToVisit: "May-September",
-    image: "/Tenakee Hot Springs.jpeg",
+    image: "/Tenakee Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1675,7 +1675,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/Serpentine Hot Springs.jpeg",
+    image: "/Serpentine Hot Springs.jpg",
     rating: 4.2,
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: [
@@ -1725,7 +1725,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: true,
     },
-    image: "/Circle Hot Springs.jpeg",
+    image: "/Circle Hot Springs.jpg",
     rating: 4.1,
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: [
@@ -1778,7 +1778,7 @@ export const hotSpringsData: HotSpring[] = [
       "Alaska State Museum",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/Alaska Hotel Springs.jpeg",
+    image: "/Alaska Hotel Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1827,7 +1827,7 @@ export const hotSpringsData: HotSpring[] = [
       "Southeast Alaska wilderness",
     ],
     bestTimeToVisit: "May-September",
-    image: "/Baranof Warm Springs.jpeg",
+    image: "/Baranof Warm Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1869,7 +1869,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: ["Wrangell", "Chief Shakes Island", "Stikine River"],
     bestTimeToVisit: "June-August",
-    image: "/Chief Shakes Hot Springs.jpeg",
+    image: "/Chief Shakes Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1911,7 +1911,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["Sitka", "Pacific Ocean", "Sea otter viewing"],
     bestTimeToVisit: "May-September",
-    image: "/Goddard Hot Spring.jpeg",
+    image: "/Goddard Hot Spring.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -1957,7 +1957,7 @@ export const hotSpringsData: HotSpring[] = [
       "Northern lights",
     ],
     bestTimeToVisit: "Summer months or winter by trail",
-    image: "/Hutlinana Hot Springs.jpeg",
+    image: "/Hutlinana Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2045,7 +2045,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Sodium"],
     nearbyAttractions: ["Ruby village", "Yukon River", "Interior wilderness"],
     bestTimeToVisit: "Summer months",
-    image: "/Kilo Hot Springs.jpeg",
+    image: "/Kilo Hot Springs.JPG",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2091,7 +2091,7 @@ export const hotSpringsData: HotSpring[] = [
       "Northern lights viewing",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/Manley Hot Springs.jpeg",
+    image: "/Manley Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2133,7 +2133,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: ["Nome", "Seward Peninsula", "Gold rush sites"],
     bestTimeToVisit: "Summer months",
-    image: "/Pilgrim Hot Springs.jpeg",
+    image: "/Pilgrim Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2239,48 +2239,6 @@ export const hotSpringsData: HotSpring[] = [
     tips: "Winter trail access requires extensive planning and proper equipment for extreme cold conditions. Reservations are recommended for the rustic cabins. The wilderness location requires self-sufficiency - bring all necessary supplies and equipment. Best visited during winter months for trail access. The remote location offers excellent opportunities for experiencing interior Alaska wilderness and northern lights viewing. The rustic cabins provide a unique backcountry accommodation experience.",
   },
   {
-    id: "warm-springs-bay",
-    name: "Warm Springs Bay",
-    state: "Alaska",
-    city: "Baranof Island",
-    country: "United States",
-    coordinates: { lat: 57.0833, lng: -134.4833 },
-    temperature: { min: 100, max: 110, unit: "°F" },
-    elevation: 0,
-    description:
-      "Coastal hot springs in a protected bay on Baranof Island, accessible by boat or seaplane, featuring natural pools with ocean views and marine wildlife.",
-    features: [
-      "Protected bay",
-      "Ocean views",
-      "Marine wildlife",
-      "Boat/seaplane access",
-    ],
-    accessibility: { difficulty: "Remote", fee: "Free", seasonal: true },
-    facilities: {
-      restrooms: false,
-      parking: false,
-      lodging: false,
-      camping: true,
-      spa: false,
-      restaurant: false,
-    },
-    minerals: ["Sulfur", "Sodium", "Chloride"],
-    nearbyAttractions: ["Baranof Island", "Whale watching", "Coastal fishing"],
-    bestTimeToVisit: "May-September",
-    image: "/Warm Springs Bay.jpeg",
-    rating: 4.6,
-    clothingOptional: false,
-    // Enhanced detailed information
-    address: "Baranof Island, AK 99835",
-    website: "N/A",
-    detailedDescription: "Warm Springs Bay is a coastal hot spring located in a protected bay on Baranof Island, accessible by boat or seaplane, featuring natural pools with temperatures of 100-110°F and spectacular ocean views. This unique coastal hot spring offers visitors a rare opportunity to soak in therapeutic mineral waters while enjoying panoramic ocean vistas and abundant marine wildlife viewing opportunities. The protected bay location creates a truly unique hot springs experience in Southeast Alaska.",
-    location: "Located on Baranof Island in Southeast Alaska approximately 50 miles southwest of Sitka. The hot spring is situated at sea level in a protected bay setting.",
-    directions: "Access is via boat or seaplane from Sitka or other Southeast Alaska communities. The coastal location requires careful planning and coordination with local transportation services. The hot spring is located in a designated wilderness area.",
-    accessibilityDetails: "Warm Springs Bay requires boat or seaplane access, making it one of Alaska's more challenging hot springs to reach. The wilderness location has no facilities or services. This is a true wilderness experience requiring self-sufficiency and proper preparation for Southeast Alaska coastal conditions.",
-    hotSpringDetails: "The hot spring features natural pools with temperatures ranging from 100-110°F, providing comfortable soaking temperatures. The mineral water is rich in sulfur, sodium, and chloride and flows from natural geothermal springs. The pools are formed naturally in the coastal setting and offer spectacular ocean views.",
-    tips: "Boat or seaplane access requires advance planning and coordination with local services. The wilderness location requires complete self-sufficiency - bring all necessary supplies and equipment. Best visited during May-September when weather conditions are more favorable. The coastal location offers excellent opportunities for marine wildlife viewing including whales and coastal fishing. The ocean views provide a unique backdrop for hot spring soaking. The protected bay setting provides shelter from ocean conditions.",
-  },
-  {
     id: "white-sulfur-hot-springs",
     name: "White Sulfur Hot Springs",
     state: "Alaska",
@@ -2313,7 +2271,7 @@ export const hotSpringsData: HotSpring[] = [
       "Wilderness fishing",
     ],
     bestTimeToVisit: "June-August",
-    image: "/White Sulfur Hot Springs.jpeg",
+    image: "/White Sulfur Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -2361,7 +2319,7 @@ export const hotSpringsData: HotSpring[] = [
       "Aleutian wildlife",
     ],
     bestTimeToVisit: "Summer months only",
-    image: "/Akutan Hot Springs.jpeg",
+    image: "/Akutan Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -6992,7 +6950,7 @@ export const hotSpringsData: HotSpring[] = [
     nearbyAttractions: ["Homestead Resort"],
     bestTimeToVisit: "Year-round",
     image:
-      "/placeholder.svg?height=300&width=400",
+      "/Crater Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
