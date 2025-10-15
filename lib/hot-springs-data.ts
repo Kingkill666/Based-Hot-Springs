@@ -15279,7 +15279,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Nathrop", "San Isabel National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/Alpine Hot Springs.jpeg",
+    image: "/Alpine Hot Springs CO.jpg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15352,7 +15352,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan River"],
     bestTimeToVisit: "Summer",
-    image: "/Aqua Hot Springs.jpeg",
+    image: "/Aqua Hot Springs CO.jpeg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15389,7 +15389,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Redstone", "Crystal River"],
     bestTimeToVisit: "Year-round",
-    image: "/Avalanche Ranch Hot Springs.jpeg",
+    image: "/Avalanche Ranch Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15430,7 +15430,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ouray", "Box Canyon Falls"],
     bestTimeToVisit: "Year-round",
-    image: "/Box Canyon Lodge and Hot Springs.jpeg",
+    image: "/Box Canyon Lodge and Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15545,7 +15545,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Buena Vista", "San Isabel National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/Cottonwood Hot Springs.jpeg",
+    image: "/Cottonwood Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15582,7 +15582,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Chalk Creek", "Nathrop"],
     bestTimeToVisit: "Year-round",
-    image: "/Creekside Hot Springs.jpeg",
+    image: "/Creekside Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15619,7 +15619,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Penrose", "Royal Gorge"],
     bestTimeToVisit: "Year-round",
-    image: "/Dakota Hot Springs.jpeg",
+    image: "/Dakota Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15656,7 +15656,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan River"],
     bestTimeToVisit: "Summer",
-    image: "/Deer Valley Hot Springs.jpeg",
+    image: "/Deer Valley Hot Springs CO.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -15767,7 +15767,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Durango", "Animas River"],
     bestTimeToVisit: "Year-round",
-    image: "/Durango Hot Springs.jpeg",
+    image: "/Durango Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15850,7 +15850,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Creede", "Rio Grande National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/4UR Ranch Hot Springs.jpeg",
+    image: "/4UR Ranch Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15887,7 +15887,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Glenwood Springs", "Iron Mountain Hot Springs"],
     bestTimeToVisit: "Year-round",
-    image: "/Glenwood Hot Springs.jpeg",
+    image: "/Glenwood Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15924,7 +15924,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Great Sand Dunes National Park", "Hooper"],
     bestTimeToVisit: "Year-round",
-    image: "/Great Sand Dunes Swimming Pool.jpeg",
+    image: "/Great Sand Dunes Swimming Pool.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -15998,7 +15998,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Crestone", "San Luis Valley"],
     bestTimeToVisit: "Summer",
-    image: "/Hippy Dippy Hot Springs.jpeg",
+    image: "/Hippy Dippy Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16072,7 +16072,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Idaho Springs", "Mount Evans"],
     bestTimeToVisit: "Year-round",
-    image: "/Indian Hot Springs.jpeg",
+    image: "/Indian Hot Springs CO.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16109,7 +16109,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Iron"],
     nearbyAttractions: ["Glenwood Springs", "Colorado River"],
     bestTimeToVisit: "Year-round",
-    image: "/Iron Mountain Hot Springs.jpeg",
+    image: "/Iron Mountain Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16218,7 +16218,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Buena Vista", "Arkansas River"],
     bestTimeToVisit: "Summer",
-    image: "/Merrifield Hot Springs.jpeg",
+    image: "/Merrifield Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16261,7 +16261,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Nathrop", "San Isabel National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/Mount Princeton Hot Springs.jpeg",
+    image: "/Mount Princeton Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16451,7 +16451,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Carbondale", "Crystal River"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Penny Hot Springs.jpeg",
+    image: "/Penny Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16488,7 +16488,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Kremmling", "Colorado River"],
     bestTimeToVisit: "Summer",
-    image: "/Radium Hot Springs.jpeg",
+    image: "/Radium Hot Springs CO.jpeg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16525,7 +16525,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pagosa Springs", "San Juan National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/Rainbow Hot Springs.jpeg",
+    image: "/Rainbow Hot Springs CO.jpeg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16598,7 +16598,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Salida", "Arkansas River"],
     bestTimeToVisit: "Year-round",
-    image: "/Salida Hot Springs.jpeg",
+    image: "/Salida Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16635,7 +16635,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Glenwood Springs", "Colorado River"],
     bestTimeToVisit: "Summer",
-    image: "/South Canyon Hot Springs.jpeg",
+    image: "/South Canyon Hot Springs CO.jpg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -16684,47 +16684,6 @@ export const hotSpringsData: HotSpring[] = [
     accessibilityDetails: "Splashland Hot Springs is accessible seasonally during summer months with paved parking and family-friendly facilities. The water park offers accessible pool areas and family amenities designed for visitors of all abilities. The seasonal nature provides optimal conditions for family recreation.",
     hotSpringDetails: "The facility features family-friendly pools with temperatures ranging from 88-102°F. The mineral water is rich in sodium and flows from natural geothermal sources. The water park combines hot springs soaking with recreational water features including slides and play areas. The pools are designed for both therapeutic soaking and family fun.",
     tips: "The facility operates seasonally during summer months. Bring your own towels and swimwear. The water park provides fun activities for children and families. Best visited during summer when the facility is open and weather is warm. Swimming suits required. The location provides excellent access to Great Sand Dunes National Park and San Luis Valley attractions. The facility is perfect for families with children seeking hot springs recreation.",
-  },
-  {
-    id: "springs-ranch-co",
-    name: "Springs Ranch",
-    state: "Colorado",
-    city: "Pagosa Springs",
-    country: "United States",
-    coordinates: { lat: 37.269, lng: -107.009 },
-    temperature: { min: 100, max: 110, unit: "°F" },
-    elevation: 7100,
-    description:
-      "Private ranch with hot springs pools and lodging near Pagosa Springs.",
-    features: ["Private ranch", "Pools", "Lodging"],
-    accessibility: {
-      difficulty: "Easy",
-      fee: "Paid (guests only)",
-      seasonal: true,
-    },
-    facilities: {
-      restrooms: true,
-      parking: true,
-      lodging: true,
-      camping: false,
-      spa: false,
-      restaurant: false,
-    },
-    minerals: ["Sodium"],
-    nearbyAttractions: ["Pagosa Springs", "San Juan River"],
-    bestTimeToVisit: "Summer",
-    image: "/Springs Ranch.jpeg",
-    rating: 4.4,
-    clothingOptional: false,
-    // Enhanced detailed information
-    address: "Springs Ranch, Pagosa Springs, CO 81147",
-    website: "springsranch.com",
-    detailedDescription: "Springs Ranch is a private ranch featuring hot springs pools and comfortable lodging near Pagosa Springs, Colorado. This exclusive destination offers guests a peaceful hot springs experience with therapeutic mineral soaking in a beautiful ranch setting. The private ranch atmosphere and guest-only access create an intimate and tranquil hot springs retreat in the scenic San Juan Mountains.",
-    location: "Located near Pagosa Springs, Colorado, approximately 200 miles southwest of Denver in the San Juan Mountains. The ranch is situated at 7,100 feet elevation with panoramic views of the surrounding peaks and San Juan River valley.",
-    directions: "From Denver, take US-285 south to US-160 west to Pagosa Springs. From Durango, take US-160 east to Pagosa Springs. The ranch is accessible via local roads from Pagosa Springs and is well-marked for guests.",
-    accessibilityDetails: "Springs Ranch is accessible seasonally during summer months with ranch facilities designed for guest comfort. The private ranch offers accessible accommodations and pool areas for registered guests. The seasonal operation ensures optimal conditions for ranch activities and hot springs enjoyment.",
-    hotSpringDetails: "The ranch features private hot springs pools with temperatures ranging from 100-110°F. The mineral water is rich in sodium and flows from natural geothermal sources. The pools are exclusively available to ranch guests, providing a private and peaceful soaking experience. The ranch setting offers stunning mountain views while enjoying the therapeutic mineral waters.",
-    tips: "Access is limited to registered ranch guests only. Reservations essential for ranch accommodations. The ranch operates seasonally during summer months. Ranch lodging includes access to hot springs pools. Best visited during summer when the ranch is open and weather is favorable. The location provides excellent access to Pagosa Springs attractions and San Juan River activities. The private ranch setting offers a unique and exclusive hot springs experience.",
   },
   {
     id: "steamboat-springs-co",
@@ -16824,7 +16783,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Manitou Springs", "Garden of the Gods"],
     bestTimeToVisit: "Year-round",
-    image: "/Sunwater Spa Hot Springs.jpeg",
+    image: "/Sunwater Spa Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -16976,7 +16935,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ouray", "Box Canyon Falls"],
     bestTimeToVisit: "Year-round",
-    image: "/Twin Peaks Lodge and Hot Springs.jpeg",
+    image: "/Twin Peaks Lodge and Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17018,7 +16977,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Moffat", "San Luis Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Valley View Hot Springs.jpeg",
+    image: "/Valley View Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -17059,7 +17018,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Gunnison", "Gunnison National Forest"],
     bestTimeToVisit: "Summer",
-    image: "/Waunita Hot Springs.jpeg",
+    image: "/Waunita Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17096,7 +17055,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ouray", "Box Canyon Falls"],
     bestTimeToVisit: "Year-round",
-    image: "/Wiesbaden Hot Springs.jpeg",
+    image: "/Wiesbaden Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -17169,7 +17128,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Chloride", "Sulfate"],
     nearbyAttractions: ["Steamboat Springs", "Steamboat Ski Resort", "Yampa River"],
     bestTimeToVisit: "Year-round",
-    image: "/Old Town Hot Springs.jpeg",
+    image: "/Old Town Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
