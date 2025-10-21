@@ -370,7 +370,64 @@ export default function BasedSprings() {
 
             </div>
 
+            {/* Top Pagination Controls */}
+            {totalPages > 1 && (
+              <div className="flex justify-center items-center gap-2 sm:gap-4 mb-6">
+                <Button
+                  variant="outline"
+                  onClick={() => {
+                    setCurrentPage(Math.max(1, currentPage - 1))
+                    window.scrollTo({ top: 0, behavior: 'smooth' })
+                  }}
+                  disabled={currentPage === 1}
+                  className="bg-white/90 backdrop-blur-sm"
+                >
+                  Previous
+                </Button>
 
+                <div className="flex gap-2">
+                  {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
+                    let pageNum
+                    if (totalPages <= 5) {
+                      pageNum = i + 1
+                    } else if (currentPage <= 3) {
+                      pageNum = i + 1
+                    } else if (currentPage >= totalPages - 2) {
+                      pageNum = totalPages - 4 + i
+                    } else {
+                      pageNum = currentPage - 2 + i
+                    }
+
+                    return (
+                      <Button
+                        key={pageNum}
+                        variant={currentPage === pageNum ? "default" : "outline"}
+                        size="sm"
+                        onClick={() => {
+                          setCurrentPage(pageNum)
+                          window.scrollTo({ top: 0, behavior: 'smooth' })
+                        }}
+                        className={currentPage === pageNum ? "bg-blue-600" : "bg-white/90 backdrop-blur-sm"}
+                      >
+                        {pageNum}
+                      </Button>
+                    )
+                  })}
+                </div>
+
+                <Button
+                  variant="outline"
+                  onClick={() => {
+                    setCurrentPage(Math.min(totalPages, currentPage + 1))
+                    window.scrollTo({ top: 0, behavior: 'smooth' })
+                  }}
+                  disabled={currentPage === totalPages}
+                  className="bg-white/90 backdrop-blur-sm"
+                >
+                  Next
+                </Button>
+              </div>
+            )}
 
           </div>
 

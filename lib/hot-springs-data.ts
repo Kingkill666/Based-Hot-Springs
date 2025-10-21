@@ -7965,7 +7965,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Elephant Butte Lake", "Downtown T or C"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Artesian Bath House.jpeg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9193,7 +9193,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium", "Magnesium"],
     nearbyAttractions: ["Taos", "Rio Grande Gorge Bridge"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Black Rock Hot Springs.jpeg",
+    image: "/Black Rock Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -9304,7 +9304,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Canon Del Rio Inn & Spa.jpeg",
+    image: "/Canon Del Rio Inn & Spa.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9384,7 +9384,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium", "Magnesium"],
     nearbyAttractions: ["City of Rocks State Park", "Deming"],
     bestTimeToVisit: "Year-round",
-    image: "/Faywood Hot Springs.jpeg",
+    image: "/Faywood Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -9458,7 +9458,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Giggling Hot Springs.jpeg",
+    image: "/Giggling Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9470,43 +9470,6 @@ export const hotSpringsData: HotSpring[] = [
     accessibilityDetails: "Giggling Hot Springs is easily accessible year-round with full facilities designed for relaxation and comfort. The establishment offers accessible small pools and comfortable amenities. The friendly setting provides welcoming access to hot springs soaking and mountain recreation.",
     hotSpringDetails: "The facility features small, intimate pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are designed for intimate groups and peaceful soaking. The mountain setting provides beautiful Jemez Mountains views while soaking.",
     tips: "Reservations recommended, especially during peak seasons and weekends. The facility offers day passes and packages for peaceful soaking experiences. Swimming suits required. The location provides excellent access to Jemez Springs attractions and Jemez Falls. Best visited during spring and fall when temperatures are perfect for outdoor soaking. The friendly staff provides excellent service and local recommendations. The intimate setting offers personalized attention and peaceful mountain experiences.",
-  },
-  {
-    id: "gila-hot-springs-campground-nm",
-    name: "Gila Hot Springs Campground",
-    state: "New Mexico",
-    city: "Gila",
-    country: "United States",
-    coordinates: { lat: 33.2111, lng: -108.2106 },
-    temperature: { min: 100, max: 104, unit: "°F" },
-    elevation: 4600,
-    description:
-      "Rustic campground with natural hot springs pools along the Gila River.",
-    features: ["Campground", "Natural pools", "Riverside"],
-    accessibility: { difficulty: "Easy", fee: "Paid", seasonal: false },
-    facilities: {
-      restrooms: true,
-      parking: true,
-      lodging: false,
-      camping: true,
-      spa: false,
-      restaurant: false,
-    },
-    minerals: ["Sodium", "Calcium"],
-    nearbyAttractions: ["Gila Cliff Dwellings", "Gila Wilderness"],
-    bestTimeToVisit: "Spring and Fall",
-    image: "/Gila Hot Springs Campground.jpeg",
-    rating: 4.7,
-    clothingOptional: false,
-    // Enhanced detailed information
-    address: "Gila Hot Springs Campground, Gila, NM 88038",
-    website: "gilahotspringscampground.com",
-    detailedDescription: "Gila Hot Springs Campground is a rustic campground located in Gila, New Mexico, featuring natural hot springs pools with temperatures of 100-104°F along the beautiful Gila River in the pristine Gila Wilderness. This rustic facility offers visitors an authentic outdoor hot springs experience with excellent opportunities for camping, wilderness exploration, and riverside recreation in the scenic New Mexico mountains. The wilderness setting and river backdrop create a perfect destination for nature enthusiasts and outdoor adventurers.",
-    location: "Located in Gila, New Mexico, in the Gila Wilderness approximately 100 miles northwest of Silver City. The campground is situated at 4,600 feet elevation along the Gila River with beautiful wilderness views and access to Gila Cliff Dwellings.",
-    directions: "From Silver City, take NM-15 north for about 44 miles to Gila. The campground is accessible via forest roads - high clearance vehicle recommended. The route to Gila includes winding mountain roads requiring careful driving.",
-    accessibilityDetails: "Gila Hot Springs Campground requires moderate access through wilderness terrain with rustic camping facilities. The establishment offers basic camping amenities and natural hot springs pools. The wilderness setting requires self-sufficiency and proper outdoor preparation.",
-    hotSpringDetails: "The campground features natural hot springs pools with temperatures ranging from 100-104°F, providing comfortable soaking temperatures. The natural mineral water is rich in sodium and calcium and flows from natural geothermal sources. The pools are formed naturally along the Gila River and vary in size. The wilderness setting provides pristine Gila River and mountain views while soaking.",
-    tips: "Reservations recommended for camping, especially during peak seasons. The campground offers rustic camping packages including hot springs access and wilderness exploration. Swimming suits required. The location provides excellent access to Gila Cliff Dwellings and Gila Wilderness activities. Best visited during spring and fall when temperatures are ideal for camping and outdoor activities. The wilderness setting requires proper camping gear and self-sufficiency. The location provides opportunities for hiking, fishing, and exploring the pristine Gila Wilderness.",
   },
   {
     id: "gila-hot-springs-ranch-nm",
@@ -9532,7 +9495,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Cliff Dwellings", "Gila Wilderness"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Gila Hot Springs Ranch.jpeg",
+    image: "/Gila Hot Springs Ranch.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9569,7 +9532,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Cliff Dwellings", "Gila Wilderness"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Gila Hot Springs RV.jpeg",
+    image: "/Gila Hot Springs RV Park.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9606,7 +9569,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Hay-Yo-Kay Hot Springs.jpeg",
+    image: "/Hay-Yo-Kay Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9717,7 +9680,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Indian Springs Bathhouse.jpeg",
+    image: "/Indian Springs Bathhouse.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9754,7 +9717,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Jemez Hot Springs.jpeg",
+    image: "/Jemez Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9791,7 +9754,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Jemez Springs Bath House.jpeg",
+    image: "/Jemez Springs Bath House.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9828,7 +9791,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Jordan Hot Springs.jpeg",
+    image: "/Jordan Hot Springs NM.jpeg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -9902,7 +9865,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Lightfeather Hot Springs.jpeg",
+    image: "/Lightfeather Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10124,7 +10087,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Lithia", "Iron", "Arsenic", "Soda", "Sodium"],
     nearbyAttractions: ["Ojo Caliente", "Rio Ojo Caliente"],
     bestTimeToVisit: "Year-round",
-    image: "/Ojo Caliente Hot Springs.jpeg",
+    image: "/Ojo Caliente Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10161,7 +10124,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Pelican Spa Hot Springs.jpeg",
+    image: "/Pelican Spa Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10241,7 +10204,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Riverbend Hot Springs.jpeg",
+    image: "/Riverbend Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10315,7 +10278,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/San Francisco Hot Springs.jpeg",
+    image: "/San Francisco Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10352,7 +10315,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Sierra Grande Lodge.jpeg",
+    image: "/Sierra Grande Lodge.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10389,7 +10352,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Jemez Springs", "Jemez Falls"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Spence Hot Springs.jpeg",
+    image: "/Spence Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10426,7 +10389,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Stagecoach Hot Springs.jpeg",
+    image: "/Stagecoach Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10500,7 +10463,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Sunnyville Hot Springs.jpeg",
+    image: "/Sunnyville Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10578,7 +10541,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Taos Pueblo", "Taos"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Taos Pueblo Tribal Hot Springs.jpeg",
+    image: "/Taos Pueblo Tribal Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10659,7 +10622,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Truth Or Consequences Pool.jpeg",
+    image: "/Truth Or Consequences Pool.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10696,7 +10659,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Gila Wilderness", "Gila Cliff Dwellings"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Wilderness Hot Springs.jpeg",
+    image: "/Wilderness Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10733,7 +10696,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Downtown T or C", "Elephant Butte Lake"],
     bestTimeToVisit: "Year-round",
-    image: "/Wildwood Retreat and Hot Springs.jpeg",
+    image: "/Wildwood Retreat and Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
