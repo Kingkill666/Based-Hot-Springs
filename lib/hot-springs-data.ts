@@ -5875,7 +5875,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: true,
       restaurant: true,
     },
-    image: "/Chico Hot Springs.jpeg",
+    image: "/Chico Hot Springs.jpg",
     rating: 4.4,
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: [
@@ -5894,52 +5894,6 @@ export const hotSpringsData: HotSpring[] = [
     accessibilityDetails: "Chico Hot Springs is fully accessible year-round with paved road access and extensive accessibility features. The resort offers accessible accommodations, pools with lifts and ramps, accessible dining facilities, and ADA-compliant pathways throughout the property.",
     hotSpringDetails: "The resort features multiple natural mineral pools with temperatures ranging from 96-103°F. The historic main pool is fed by natural hot springs rich in sulfur, calcium, and magnesium minerals. Pool options include the large main soaking pool (3-5 feet deep), a cooler swimming pool, and smaller therapy pools. The pools operate year-round and are especially magical during winter with steam rising against the mountain backdrop.",
     tips: "Open year-round with reservations highly recommended for both lodging and dining. The resort offers day use passes for non-guests. The Chico Dining Room is renowned for fine dining with spectacular views. The Dog Bar offers casual dining and drinks. Swimming suits required. The resort hosts live music and special events throughout the year. Winter visits offer a magical experience with snow-covered mountains and steaming pools. The Paradise Valley setting provides excellent wildlife viewing, fishing, and access to Yellowstone. Best visited year-round with each season offering unique experiences.",
-  },
-  {
-    id: "19",
-    name: "Norris Hot Springs",
-    state: "Montana",
-    city: "Norris",
-    country: "United States",
-    coordinates: {
-      lat: 45.5694,
-      lng: -111.6897,
-    },
-    temperature: { min: 100, max: 106, unit: "°F" },
-    elevation: 4900,
-    description:
-      "Historic wooden pool fed by natural hot springs with live music and rustic atmosphere.",
-    features: [
-      "Historic wooden pool",
-      "Live music",
-      "Rustic atmosphere",
-      "Natural springs",
-      "Unique experience",
-    ],
-    accessibility: { difficulty: "Easy access", fee: "Paid", seasonal: false },
-    facilities: {
-      restrooms: true,
-      parking: true,
-      lodging: false,
-      camping: false,
-      spa: false,
-      restaurant: false,
-    },
-    image: "/Norris Hot Springs.jpeg",
-    rating: 4.6,
-    minerals: ["Sulfur", "Calcium", "Magnesium"],
-    nearbyAttractions: ["Madison River", "Ennis", "Tobacco Root Mountains"],
-    bestTimeToVisit: "Year-round",
-    clothingOptional: false,
-    // Enhanced detailed information
-    address: "Rt 84, Norris, MT 59745",
-    website: "norrishotsprings.com",
-    detailedDescription: "Norris Hot Springs is Montana's most unique hot springs experience, featuring a historic wooden soaking pool fed by natural geothermal springs. Known as 'Montana's Water of the Gods,' this one-of-a-kind destination combines therapeutic mineral soaking with live music performances on a floating stage. The rustic, authentic atmosphere and stunning mountain views create an unforgettable experience that captures the true spirit of the American West.",
-    location: "Located near Norris, Montana, in the Madison River valley between Ennis and Harrison, approximately 50 miles southwest of Bozeman.",
-    directions: "From Ennis, take US-287 north for about 15 miles to Norris. From Bozeman, take I-90 west to Harrison, then US-287 south to Norris. The hot springs are well-marked and accessible year-round via paved roads.",
-    accessibilityDetails: "Norris Hot Springs is accessible year-round with paved road access and designated parking. The facility offers accessible pathways and pool access features. The historic wooden pool has steps and handrails for easier entry.",
-    hotSpringDetails: "The signature feature is a large historic wooden soaking pool with temperatures ranging from 100-106°F. The pool is fed by natural hot springs rich in sulfur, calcium, and magnesium minerals. The pool is approximately 3-4 feet deep and 30 feet long, accommodating up to 20 people comfortably. The unique wooden construction and natural mineral flow create an authentic historic experience.",
-    tips: "Open year-round with varying seasonal hours. Famous for live music events with performances on a floating stage in the pool. Swimming suits required. No alcohol permitted. The facility is dog-friendly in designated areas. Cash or check preferred for payment. The Madison River valley setting offers excellent fly fishing opportunities. Winter visits are especially magical with steam rising from the pool against snow-covered mountains. Best visited year-round with live music events scheduled throughout the season. This is truly a unique Montana experience combining hot springs with authentic western culture.",
   },
 
   // NEVADA HOT SPRINGS (30 springs - adding selection)
@@ -7966,7 +7920,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Flathead Lake", "Glacier National Park"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Alameda's Hot Springs Retreat.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8003,7 +7957,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Flathead Lake", "Glacier National Park"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "/Big Medicine Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8081,7 +8035,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Boulder", "Elkhorn Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Boulder Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8155,7 +8109,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Helena", "Mount Helena"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Broadwater Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8192,7 +8146,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Flathead Lake", "Glacier National Park"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Camas Hot Springs.jpeg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8228,7 +8182,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Flathead Lake", "Glacier National Park"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Camp Aqua Hot Springs.jpg",
     rating: 3.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8240,43 +8194,6 @@ export const hotSpringsData: HotSpring[] = [
     accessibilityDetails: "Camp Aqua Hot Springs is easily accessible with good road access and parking available. The historic site offers basic accommodations and facilities with limited services due to future development plans. The historic site provides accessible viewing options in the mountain setting.",
     hotSpringDetails: "The historic site features natural hot springs with temperatures and pool details to be determined with future development. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Future development plans will determine pool sizes and accommodation capacity. The mountain setting provides beautiful Montana mountain views.",
     tips: "The historic site is open year-round with limited services due to future development plans. The facility offers basic historic site packages including viewing and mountain access. Future development will provide comprehensive services. The historic site provides a glimpse into the area's hot springs history in the beautiful Montana mountain setting. Best visited year-round with each season offering different mountain experiences. The location provides easy access to nearby attractions including Flathead Lake and Glacier National Park. This is one of Montana's premier historic hot springs sites with unparalleled development potential.",
-  },
-  {
-    id: "chino-hot-springs-mt",
-    name: "Chino Hot Springs",
-    state: "Montana",
-    city: "Chinook",
-    country: "United States",
-    coordinates: { lat: 48.591, lng: -109.222 },
-    temperature: { min: 98, max: 104, unit: "°F" },
-    elevation: 2400,
-    description:
-      "Historic hot springs with rustic pools and a peaceful prairie setting.",
-    features: ["Rustic pools", "Historic", "Prairie views"],
-    accessibility: { difficulty: "Easy", fee: "Paid", seasonal: false },
-    facilities: {
-      restrooms: true,
-      parking: true,
-      lodging: false,
-      camping: false,
-      spa: false,
-      restaurant: false,
-    },
-    minerals: ["Sodium", "Calcium"],
-    nearbyAttractions: ["Bear Paw Mountains", "Chinook"],
-    bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
-    rating: 4.0,
-    clothingOptional: false,
-    // Enhanced detailed information
-    address: "Chino Hot Springs, Chinook, MT 59523",
-    website: "N/A",
-    detailedDescription: "Chino Hot Springs is a historic hot springs facility located in Chinook, Montana, featuring rustic pools with temperatures of 98-104°F, historic setting, and prairie views. This historic facility offers visitors a traditional soaking experience with excellent opportunities for historic appreciation and prairie viewing in the beautiful Montana prairie setting. The historic location and prairie backdrop create an ideal hot springs destination.",
-    location: "Located in Chinook, Montana, approximately 50 miles north of Havre. The hot springs are situated at 2,400 feet elevation in the prairie region.",
-    directions: "From Havre, take local roads north to Chinook, then follow local roads to the hot springs. The historic facility is easily accessible by car with parking available for visitors.",
-    accessibilityDetails: "Chino Hot Springs is easily accessible with good road access and parking available. The historic facility offers accessible accommodations and facilities with comprehensive hot springs services. The rustic pools provide accessible soaking options in the prairie setting.",
-    hotSpringDetails: "The hot springs feature rustic pools with temperatures ranging from 98-104°F, providing comfortable soaking temperatures. The mineral water is rich in sodium and calcium and flows from natural geothermal sources. Pool sizes vary and can accommodate several people. The prairie setting provides beautiful Montana prairie views while soaking.",
-    tips: "The hot springs are open year-round with varying seasonal hours. The facility offers comprehensive hot springs packages including rustic pools and prairie access. Swimming suits are required. The historic facility provides a traditional experience in the beautiful Montana prairie setting. Best visited year-round with each season offering different prairie experiences. The location provides easy access to nearby attractions including Bear Paw Mountains and Chinook. This is one of Montana's premier historic hot springs destinations with unparalleled prairie setting.",
   },
   {
     id: "corwin-hot-springs-mt",
@@ -8302,7 +8219,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Yellowstone National Park", "Gardiner"],
     bestTimeToVisit: "Spring-Fall",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Corwin Hot Springs.jpeg",
     rating: 3.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8339,7 +8256,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Pioneer Mountains", "Polaris"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Elkhorn Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8376,7 +8293,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Anaconda", "Georgetown Lake"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Fairmont Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8412,7 +8329,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lewistown", "Judith Mountains"],
     bestTimeToVisit: "Summer",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Gigantic Warm Spring.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8449,7 +8366,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Yellowstone River", "Springdale"],
     bestTimeToVisit: "Spring-Fall",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Hunters Hot Springs.jpg",
     rating: 3.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8486,7 +8403,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Big Hole Valley", "Jackson"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Jackson Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8523,7 +8440,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Bob Marshall Wilderness", "Augusta"],
     bestTimeToVisit: "Summer",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "K Bar L Ranch & Medicine Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8560,7 +8477,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Lolo National Forest", "Lolo Pass"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Lolo Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8597,7 +8514,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Lost Trail Pass", "Bitterroot Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Lost Trail Hot Springs Resort.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8634,7 +8551,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Lost Trail Pass", "Bitterroot Mountains"],
     bestTimeToVisit: "Spring-Fall",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Medicine Hot Springs.jpg",
     rating: 3.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8671,7 +8588,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Drummond", "Clark Fork River"],
     bestTimeToVisit: "Summer",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Nimrod Hot Springs.jpeg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8714,7 +8631,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sulfur", "Calcium", "Magnesium"],
     nearbyAttractions: ["Madison River", "Ennis", "Tobacco Root Mountains"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "/Norris Hot Springs.jpeg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8751,7 +8668,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Pipestone Pass", "Whitehall"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Pipestone Hot Springs Resort.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8788,7 +8705,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Tobacco Root Mountains", "Norris"],
     bestTimeToVisit: "Summer",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Potosi Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8824,7 +8741,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Jefferson River", "Whitehall"],
     bestTimeToVisit: "Summer",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Renova Hot Springs.jpg",
     rating: 3.8,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8861,7 +8778,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Hot Springs", "Flathead Lake"],
     bestTimeToVisit: "N/A",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Rose's Plunge.jpeg",
     rating: 2.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8898,7 +8815,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Bitterroot Mountains", "Hamilton"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Sleeping Child Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8935,7 +8852,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Castle Mountains", "White Sulphur Springs"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Spa Hot Springs Motel and Clinic.jpg",
     rating: 4.5,
     clothingOptional: false,
     // Enhanced detailed information
@@ -8972,7 +8889,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Flathead Lake", "Glacier National Park"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Symes Hotel and Medicinal Springs.jpeg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9009,7 +8926,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Tobacco Root Mountains", "Norris"],
     bestTimeToVisit: "Summer",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Upper Potosi Hot Springs.jpeg",
     rating: 3.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9046,7 +8963,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Castle Mountains", "White Sulphur Springs"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "White Sulphur Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9083,7 +9000,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Flathead Lake", "Glacier National Park"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Wild Horse Hot Springs.jpeg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -9120,7 +9037,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Calcium"],
     nearbyAttractions: ["Yellowstone National Park", "Gardiner"],
     bestTimeToVisit: "Year-round",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Yellowstone Hot Springs.jpg",
     rating: 4.8,
     clothingOptional: false,
     // Enhanced detailed information
