@@ -66,7 +66,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Goldfield", "Tonopah"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Alkali Hot Springs.jpeg",
+  image: "/Alkali Hot Springs.jpg",
   rating: 4.2,
   clothingOptional: true,
   // Enhanced detailed information
@@ -95,7 +95,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Lake Mead", "Hoover Dam"],
   bestTimeToVisit: "October to April",
-  image: "/Arizona Hot Springs.jpeg",
+  image: "/Arizona Hot Springs.jpg",
   rating: 4.6,
   clothingOptional: true,
   // Enhanced detailed information
@@ -124,7 +124,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Death Valley National Park"],
   bestTimeToVisit: "Year-round",
-  image: "/Bailey's Hot Springs.jpeg",
+  image: "/Bailey's Hot Springs.jpg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -182,7 +182,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Denio", "Sheldon National Wildlife Refuge"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Bog Hot Spring.jpeg",
+  image: "/Bog Hot Spring.jpg",
   rating: 4.3,
   clothingOptional: true,
   // Enhanced detailed information
@@ -240,7 +240,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Kershaw-Ryan State Park"],
   bestTimeToVisit: "Year-round",
-  image: "/Caliente Hot Springs.jpeg",
+  image: "/Caliente Hot Springs NV.jpeg",
   rating: 3.9,
   clothingOptional: false,
   // Enhanced detailed information
@@ -269,7 +269,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Carson City", "Lake Tahoe"],
   bestTimeToVisit: "Year-round",
-  image: "/Carson City Hot Springs Resort.jpeg",
+  image: "/Carson City Hot Springs Resort.jpg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -327,7 +327,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Monitor Valley", "Belmont"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Diana's Punchbowl.jpeg",
+  image: "/Diana's Punchbowl.jpg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -356,7 +356,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Black Rock Desert", "Gerlach"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Double Hot Springs.jpeg",
+  image: "/Double Hot Springs.jpg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -414,7 +414,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Fish Lake Valley", "Dyer"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Fish Lake Hot Springs.jpeg",
+  image: "/Fish Lake Hot Springs.jpg",
   rating: 4.4,
   clothingOptional: true,
   // Enhanced detailed information
@@ -443,7 +443,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Paradise Valley"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Hot Springs Ranch.jpeg",
+  image: "/Hot Springs Ranch NV.jpeg",
   rating: 3.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -472,7 +472,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Unionville", "Star Peak"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Kyle Hot Springs.jpeg",
+  image: "/Kyle Hot Springs.jpg",
   rating: 4.0,
   clothingOptional: true,
   // Enhanced detailed information
@@ -501,7 +501,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Paradise Valley"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Paradise Valley Hot Springs.jpeg",
+  image: "/Paradise Valley Hot Springs.jpg",
   rating: 3.9,
   clothingOptional: true,
   // Enhanced detailed information
@@ -530,7 +530,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Lake Mead", "Overton"],
   bestTimeToVisit: "Fall to Spring",
-  image: "/Rogers Springs.jpeg",
+  image: "/Rogers Springs NV.jpg",
   rating: 3.7,
   clothingOptional: false,
   // Enhanced detailed information
@@ -559,7 +559,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Ruby Valley"],
   bestTimeToVisit: "Late Spring to Early Fall",
-  image: "/Ruby Valley Hot Springs.jpeg",
+  image: "/Ruby Valley Hot Springs.jpg",
   rating: 4.5,
   clothingOptional: true,
   // Enhanced detailed information
@@ -617,7 +617,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Reno"],
   bestTimeToVisit: "Year-round",
-  image: "/Steamboat Hot Springs.jpeg",
+  image: "/Steamboat Hot Springs.jpg",
   rating: 4.2,
   clothingOptional: false,
   // Enhanced detailed information
@@ -704,7 +704,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Warm Springs"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Warm Springs.jpeg",
+  image: "/Warm Springs NV.jpeg",
   rating: 3.5,
   clothingOptional: true,
   // Enhanced detailed information
@@ -741,7 +741,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: [],
   nearbyAttractions: ["Alamo", "US-93 scenic drive"],
   bestTimeToVisit: "Year-round",
-  image: "/placeholder.svg?height=300&width=400",
+  image: "/Ash Springs.jpg",
   rating: 4.0,
   clothingOptional: false,
   address: "Ash Springs, near Alamo, Nevada, United States",
@@ -1071,7 +1071,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium"],
   nearbyAttractions: ["Soldier Meadows", "Black Rock Desert"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Bathtub Spring.jpeg",
+  image: "/Bathtub Spring.jpg",
   rating: 4.2,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1107,7 +1107,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium carbonate", "Silica", "Sulfur"],
   nearbyAttractions: ["Black Rock Desert", "Gerlach"],
   bestTimeToVisit: "Year-round",
-  image: "/Fly Geyser.jpeg",
+  image: "/Fly Geyser NV.jpg",
   rating: 4.5,
   clothingOptional: false,
   // Enhanced detailed information
@@ -1143,7 +1143,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium"],
   nearbyAttractions: ["Austin", "Toiyabe Range"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Hot Creek Springs and Marsh Area.jpeg",
+  image: "/Hot Creek Springs and Marsh.jpg",
   rating: 4.0,
   clothingOptional: false,
   // Enhanced detailed information
@@ -1179,7 +1179,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Hyder", "Arizona border"],
   bestTimeToVisit: "Fall to Spring",
-  image: "/Hyder Hot Springs.jpeg",
+  image: "/Hyder Hot Springs.jpg",
   rating: 4.1,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1215,7 +1215,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Jersey Valley", "Battle Mountain"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Jersey Valley Hot Springs.jpeg",
+  image: "/Jersey Valley Hot Springs.jpg",
   rating: 4.0,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1287,7 +1287,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Austin", "Toiyabe Range"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Pott's Ranch Hot Spring.jpeg",
+  image: "/Pott's Ranch Hot Spring.jpg",
   rating: 3.9,
   clothingOptional: false,
   // Enhanced detailed information
@@ -1323,7 +1323,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Smith Creek", "Battle Mountain"],
   bestTimeToVisit: "Year-round",
-  image: "/Rainbow Hot Springs (Smith Creek).jpeg",
+  image: "/Rainbow Hot Springs (Smith Creek).jpg",
   rating: 3.8,
   clothingOptional: false,
   // Enhanced detailed information
@@ -1373,42 +1373,6 @@ export const hotSpringsData: HotSpring[] = [
   tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. The Valley of the Moon setting provides excellent opportunities for stargazing and experiencing the solitude of the desert. The 105°F temperature is comfortable for extended soaking. Practice Leave No Trace principles to preserve this remote environment.",
 },
 {
-  id: "soldier-meadows-hot-spring-system-nv",
-  name: "Soldier Meadows Hot Spring System",
-  state: "Nevada",
-  city: "Soldier Meadows",
-  country: "United States",
-  coordinates: { lat: 41.2000, lng: -119.3000 },
-  temperature: { min: 90, max: 120, unit: "°F" },
-  elevation: 5200,
-  description: "A complex system of hot springs in the Soldier Meadows area, featuring multiple pools with varying temperatures from 90-120°F.",
-  features: ["Multiple pools", "Varying temperatures", "Complex system"],
-  accessibility: { difficulty: "Moderate", fee: "Free", seasonal: false },
-  facilities: {
-    restrooms: false,
-    parking: true,
-    lodging: false,
-    camping: true,
-    spa: false,
-    restaurant: false,
-  },
-  minerals: ["Sodium", "Chloride", "Sulfate"],
-  nearbyAttractions: ["Soldier Meadows", "Black Rock Desert"],
-  bestTimeToVisit: "Spring and Fall",
-  image: "/Soldier Meadows Hot Spring System.jpeg",
-  rating: 4.3,
-  clothingOptional: true,
-  // Enhanced detailed information
-  address: "Soldier Meadows, NV 89412",
-  website: "N/A",
-  detailedDescription: "Soldier Meadows Hot Spring System is a complex and extensive network of hot springs located in the Soldier Meadows area of northern Nevada, featuring multiple pools with varying temperatures from 90-120°F. This comprehensive hot spring system offers visitors a unique opportunity to experience different soaking temperatures within a single location, making it perfect for those who want to find their ideal comfort level. The system's complexity and variety make it one of the most interesting hot spring destinations in the Black Rock Desert region.",
-  location: "Located in Soldier Meadows, Nevada, approximately 30 miles northeast of Gerlach in the remote northern Nevada desert. The hot spring system is situated at 5,200 feet elevation in the vast Black Rock Desert region.",
-  directions: "From Gerlach, take a dirt road northeast for approximately 30 miles to reach Soldier Meadows and the hot spring system. A high-clearance vehicle or 4WD is recommended due to rough road conditions. The remote location requires careful navigation.",
-  accessibilityDetails: "Soldier Meadows Hot Spring System requires driving on remote dirt roads that can be rough and challenging. A high-clearance vehicle or 4WD is recommended. The hot springs are located in a remote area with no services nearby. Multiple pools are accessible with some walking required to explore the system.",
-  hotSpringDetails: "The hot spring system features multiple pools with temperatures ranging from 90-120°F, providing various soaking experiences. The pools are formed by natural geothermal sources and contain sodium, chloride, and sulfate minerals. The pools vary in size and depth, typically 1-3 feet deep. The water flows continuously from geothermal sources and maintains consistent temperatures across the range. The system includes both individual pools and interconnected areas.",
-  tips: "This is a clothing optional location. Bring plenty of water and supplies as there are no services in the area. The springs are best visited in spring and fall when temperatures are moderate. Be prepared for primitive conditions - no restrooms or facilities available. Explore the different pools to find your preferred temperature. The area offers excellent opportunities for experiencing the solitude of the Black Rock Desert. Practice Leave No Trace principles to preserve this remote environment. The complex system provides a unique hot springs experience with multiple options.",
-},
-{
   id: "soldier-meadows-hot-creek-nv",
   name: "Soldier Meadows Hot Creek",
   state: "Nevada",
@@ -1431,7 +1395,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Soldier Meadows", "Black Rock Desert"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Soldier Meadows Hot Creek.jpeg",
+  image: "/Soldier Meadows Hot Creek.jpg",
   rating: 4.2,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1467,7 +1431,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Calcium", "Magnesium"],
   nearbyAttractions: ["Soldier Meadows", "Black Rock Desert"],
   bestTimeToVisit: "Spring and Fall",
-  image: "/Soldier Meadows Warm Pond.jpeg",
+  image: "/Soldier Meadows Warm Pond.jpg",
   rating: 4.1,
   clothingOptional: true,
   // Enhanced detailed information
@@ -1503,7 +1467,7 @@ export const hotSpringsData: HotSpring[] = [
   minerals: ["Sodium", "Chloride", "Sulfate"],
   nearbyAttractions: ["Reno", "Steamboat Hot Springs"],
   bestTimeToVisit: "Year-round",
-  image: "/Steamboat Hot Well.jpeg",
+  image: "/Steamboat Hot Well.jpg",
   rating: 3.9,
   clothingOptional: false,
   // Enhanced detailed information
@@ -6013,7 +5977,7 @@ export const hotSpringsData: HotSpring[] = [
       spa: false,
       restaurant: false,
     },
-    image: "/Black Rock Hot Springs.jpeg",
+    image: "/Black Rock Hot Springs NV.jpg",
     rating: 4.3,
     minerals: ["Sulfur", "Sodium", "Chloride"],
     nearbyAttractions: [
