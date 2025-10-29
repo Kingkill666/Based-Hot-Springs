@@ -4956,8 +4956,8 @@ export const hotSpringsData: HotSpring[] = [
       restrooms: true,
       parking: true,
       lodging: true,
-      camping: false,
-      spa: false,
+      camping: true,
+      spa: true,
       restaurant: true,
     },
     minerals: ["Sulfur", "Calcium", "Magnesium"],
@@ -4965,7 +4965,7 @@ export const hotSpringsData: HotSpring[] = [
     bestTimeToVisit: "June-October",
     image: "/Mono Hot Springs.jpg",
     rating: 5.0,
-    clothingOptional: false,
+    clothingOptional: true,
     // Enhanced detailed information
     address: "Mono Hot Springs, Lakeshore, CA 93634",
     website: "monohotsprings.com",
@@ -5993,7 +5993,7 @@ export const hotSpringsData: HotSpring[] = [
       "Timothy Lake",
     ],
     bestTimeToVisit: "Year-round",
-    image: "/Bagby Hot Springs.jpeg",
+    image: "/Bagby Hot Springs.jpg",
     rating: 4.7,
     clothingOptional: false,
     // Enhanced detailed information
@@ -7552,7 +7552,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Steens Mountain", "Alvord Desert"],
     bestTimeToVisit: "Spring and Fall",
-    image: "TO_BE_FILLED_WITH_GOOGLE_IMAGE_URL",
+    image: "Alvord Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10614,7 +10614,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: [],
     nearbyAttractions: [],
     bestTimeToVisit: "Unknown",
-    image: "/Ann Arbor Hot Springs.jpeg",
+    image: "/Ann Arbor Hot Springs.jpg",
     rating: 0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10651,7 +10651,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["Mount Hood National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Austin Hot Springs.jpeg",
+    image: "/Austin Hot Springs OR.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10687,7 +10687,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Steens Mountain"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/Antelope Hot Springs.jpeg",
+    image: "/Antelope Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: true,
     // Enhanced detailed information
@@ -10699,43 +10699,6 @@ export const hotSpringsData: HotSpring[] = [
     accessibilityDetails: "Antelope Hot Springs requires moderate to difficult hiking to access. The terrain is rugged and may be challenging for some visitors. The springs are not wheelchair accessible due to the remote location and natural terrain. Visitors should be prepared for primitive conditions and self-sufficiency.",
     hotSpringDetails: "The hot springs feature natural pools with temperatures ranging from 100-110°F. The pools are formed by natural geothermal activity and are filled with mineral-rich water. The pool sizes vary and can accommodate small groups. The water is naturally heated and flows continuously from underground sources.",
     tips: "This is a remote location requiring self-sufficiency. Bring plenty of water, food, and camping gear if planning to stay overnight. The area is clothing optional. Be prepared for changing weather conditions in the high desert. The springs are best visited during summer and fall when access is easier. Respect the natural environment and practice Leave No Trace principles. The area offers excellent opportunities for stargazing and wildlife viewing.",
-  },
-  {
-    id: "bar-m-ranch-or",
-    name: "Bar M Ranch",
-    state: "Oregon",
-    city: "Adams",
-    country: "United States",
-    coordinates: { lat: 45.782, lng: -118.56 },
-    temperature: { min: 100, max: 104, unit: "°F" },
-    elevation: 1200,
-    description:
-      "Historic ranch with hot springs pool, lodging, and family activities.",
-    features: ["Ranch", "Pool", "Lodging", "Family-friendly"],
-    accessibility: { difficulty: "Easy", fee: "Paid", seasonal: false },
-    facilities: {
-      restrooms: true,
-      parking: true,
-      lodging: true,
-      camping: false,
-      spa: false,
-      restaurant: true,
-    },
-    minerals: ["Sodium"],
-    nearbyAttractions: ["Pendleton", "Umatilla National Forest"],
-    bestTimeToVisit: "Year-round",
-    image: "/Bar M Ranch.jpeg",
-    rating: 4.3,
-    clothingOptional: false,
-    // Enhanced detailed information
-    address: "Bar M Ranch, Adams, OR 97810",
-    website: "barmranch.com",
-    detailedDescription: "Bar M Ranch is a historic ranch that has been welcoming visitors since the early 1900s. The ranch features a natural hot springs pool, comfortable lodging, and a variety of family-friendly activities. The setting offers a perfect blend of rustic charm and modern amenities, making it an ideal destination for families and groups seeking a traditional ranch experience with hot springs relaxation.",
-    location: "Located near Adams, Oregon, approximately 15 miles north of Pendleton in the beautiful Umatilla Valley of northeastern Oregon.",
-    directions: "From Pendleton, take US-395 north for about 15 miles. Turn onto the ranch access road and follow signs to Bar M Ranch. The property is well-marked and easily accessible from the highway.",
-    accessibilityDetails: "Bar M Ranch is accessible via paved roads. The ranch offers ADA-compliant lodging options and accessible pool areas. The historic buildings may have some accessibility limitations due to their age, but the main facilities are accessible to most visitors.",
-    hotSpringDetails: "The ranch features a natural hot springs pool with temperatures ranging from 100-104°F. The pool is filled with naturally heated geothermal water rich in sodium minerals. The pool is approximately 4-5 feet deep and can accommodate multiple visitors. The water is continuously refreshed from the natural spring source.",
-    tips: "Reservations are recommended, especially during peak seasons. The ranch offers both day passes and overnight accommodations. Bring your own towels and swimwear. The restaurant serves excellent meals with local ingredients. The ranch offers various activities including horseback riding and hiking. Best visited year-round, with each season offering unique experiences in the Umatilla Valley.",
   },
   {
     id: "belknap-hot-springs-or",
@@ -10761,7 +10724,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium", "Silica"],
     nearbyAttractions: ["McKenzie River", "Willamette National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/Belknap Hot Springs.jpeg",
+    image: "/Belknap Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10835,7 +10798,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Pendleton", "Umatilla National Forest"],
     bestTimeToVisit: "Year-round",
-    image: "/Bingham Hot Springs.jpeg",
+    image: "/Bingham Hot Springs.jpg",
     rating: 4.0,
     clothingOptional: false,
     // Enhanced detailed information
@@ -10872,7 +10835,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Borax", "Sodium"],
     nearbyAttractions: ["Alvord Desert", "Steens Mountain"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Borax Lake Hot Springs.jpeg",
+    image: "/Borax Lake Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11019,7 +10982,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Cove", "Grande Ronde Valley"],
     bestTimeToVisit: "Summer",
-    image: "/Cove Warm Springs.jpeg",
+    image: "/Cove Warm Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11130,7 +11093,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["La Grande", "Grande Ronde Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Grande Hot Springs.jpeg",
+    image: "/Grande Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11204,7 +11167,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["La Grande", "Grande Ronde Valley"],
     bestTimeToVisit: "Year-round",
-    image: "/Hot Lake Hot Springs.jpeg",
+    image: "/Hot Lake Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11241,7 +11204,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Lakeview", "Old Perpetual Geyser"],
     bestTimeToVisit: "Year-round",
-    image: "/Hunter's Hot Springs.jpeg",
+    image: "/Hunter's Hot Springs.jpg",
     rating: 4.1,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11352,7 +11315,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Warm Springs Reservation", "Deschutes River"],
     bestTimeToVisit: "Summer",
-    image: "/Kah Nee Ta Resort.jpeg",
+    image: "/Kah Nee Ta Resort.jpg",
     rating: 4.4,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11389,7 +11352,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Blue Mountains", "Ukiah"],
     bestTimeToVisit: "Year-round",
-    image: "/Lehman Hot Springs.jpeg",
+    image: "/Lehman Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11463,7 +11426,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Willamette National Forest", "Detroit Lake"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/Lower Breitenbush Hot Springs.jpeg",
+    image: "/Lower Breitenbush Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11500,7 +11463,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Oakridge", "Willamette National Forest"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/McCredie Hot Springs.jpeg",
+    image: "/McCredie Hot Springs.jpg",
     rating: 4.3,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11574,7 +11537,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Paulina Lake", "Newberry Crater"],
     bestTimeToVisit: "Summer and Fall",
-    image: "/Paulina Lake Hot Springs.jpeg",
+    image: "/Paulina Lake Hot Springs.jpg",
     rating: 4.4,
     clothingOptional: true,
     // Enhanced detailed information
@@ -11611,7 +11574,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Ritter", "John Day River"],
     bestTimeToVisit: "Summer",
-    image: "/Ritter Hot Springs.jpeg",
+    image: "/Ritter Hot Springs.jpg",
     rating: 4.2,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11684,7 +11647,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Summer Lake", "Paisley"],
     bestTimeToVisit: "Year-round",
-    image: "/Summer Lake Hot Springs.jpeg",
+    image: "/Summer Lake Hot Springs.jpg",
     rating: 4.6,
     clothingOptional: false,
     // Enhanced detailed information
@@ -11721,7 +11684,7 @@ export const hotSpringsData: HotSpring[] = [
     minerals: ["Sodium"],
     nearbyAttractions: ["Denio", "Alvord Desert"],
     bestTimeToVisit: "Spring and Fall",
-    image: "/Willow Creek Hot Springs.jpeg",
+    image: "/Willow Creek Hot Springs.jpg",
     rating: 4.5,
     clothingOptional: true,
     // Enhanced detailed information
