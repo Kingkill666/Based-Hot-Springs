@@ -4938,7 +4938,7 @@ export const hotSpringsData: HotSpring[] = [
     id: "mono-hot-springs",
     name: "Mono Hot Springs",
     state: "California",
-    city: "Lakeshore",
+    city: "Shaver Lake",
     country: "United States",
     coordinates: { lat: 37.3267, lng: -119.0183 },
     temperature: { min: 103, max: 125, unit: "°F" },
@@ -4951,7 +4951,7 @@ export const hotSpringsData: HotSpring[] = [
       "Wilderness setting",
       "Fishing nearby",
     ],
-    accessibility: { difficulty: "Moderate", fee: "$15-20", seasonal: true },
+    accessibility: { difficulty: "Moderate", fee: "Free", seasonal: true },
     facilities: {
       restrooms: true,
       parking: true,
@@ -4969,7 +4969,7 @@ export const hotSpringsData: HotSpring[] = [
     // Enhanced detailed information
     address: "Mono Hot Springs, Lakeshore, CA 93634",
     website: "monohotsprings.com",
-    detailedDescription: "Mono Hot Springs is a historic resort located in Sierra Nevada wilderness near Lakeshore, California, featuring natural pools with temperatures of 103-125°F, wilderness setting, and fishing opportunities. This historic resort offers visitors a traditional soaking experience with excellent opportunities for wilderness exploration and fishing in the beautiful Sierra Nevada setting. The historic charm and wilderness backdrop create an ideal hot springs destination.",
+    detailedDescription: "Mono Hot Springs is a historic resort located in Sierra Nevada wilderness near Shaver Lake, California, featuring natural pools with temperatures of 103-125°F, wilderness setting, and fishing opportunities. This historic resort offers visitors a traditional soaking experience with excellent opportunities for wilderness exploration and fishing in the beautiful Sierra Nevada setting. The historic charm and wilderness backdrop create an ideal hot springs destination.",
     location: "Located in Lakeshore, California, in the Sierra Nevada approximately 250 miles east of San Francisco. The resort is situated at 7,400 feet elevation in the wilderness region.",
     directions: "From San Francisco, take local roads east to Lakeshore, then follow mountain roads to the resort. The historic resort requires careful driving and mountain navigation skills.",
     accessibilityDetails: "Mono Hot Springs requires moderate access through mountain terrain, making it one of California's more challenging hot springs to reach. The wilderness location has basic resort facilities but limited services. Mountain driving skills and emergency preparedness are essential. Only experienced mountain travelers should attempt to visit.",
