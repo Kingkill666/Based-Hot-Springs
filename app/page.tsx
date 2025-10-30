@@ -1749,11 +1749,36 @@ export default function BasedSprings() {
 
                   <Tabs defaultValue="overview" className="w-full">
                     <TabsList className="grid w-full grid-cols-2 sm:grid-cols-5 bg-blue-50/80 h-auto gap-2 p-2 rounded-lg">
-                      <TabsTrigger value="overview" className="text-xs sm:text-sm h-auto py-2">Overview</TabsTrigger>
-                      <TabsTrigger value="location" className="text-xs sm:text-sm h-auto py-2">Location</TabsTrigger>
-                      <TabsTrigger value="details" className="text-xs sm:text-sm h-auto py-2">Details</TabsTrigger>
-                      <TabsTrigger value="community" className="text-xs sm:text-sm h-auto py-2">Community</TabsTrigger>
-                      <TabsTrigger value="facilities" className="text-xs sm:text-sm h-auto py-2">Facilities</TabsTrigger>
+                      <TabsTrigger
+                        value="overview"
+                        className="text-xs sm:text-sm h-auto py-2 border border-black/30 rounded-md bg-white/90 sm:bg-transparent"
+                      >
+                        Overview
+                      </TabsTrigger>
+                      <TabsTrigger
+                        value="location"
+                        className="text-xs sm:text-sm h-auto py-2 border border-black/30 rounded-md bg-white/90 sm:bg-transparent"
+                      >
+                        Location
+                      </TabsTrigger>
+                      <TabsTrigger
+                        value="details"
+                        className="text-xs sm:text-sm h-auto py-2 border border-black/30 rounded-md bg-white/90 sm:bg-transparent"
+                      >
+                        Details
+                      </TabsTrigger>
+                      <TabsTrigger
+                        value="community"
+                        className="text-xs sm:text-sm h-auto py-2 border border-black/30 rounded-md bg-white/90 sm:bg-transparent"
+                      >
+                        Community
+                      </TabsTrigger>
+                      <TabsTrigger
+                        value="facilities"
+                        className="text-xs sm:text-sm h-auto py-2 border border-black/30 rounded-md bg-white/90 sm:bg-transparent col-span-2 justify-self-center w-full max-w-[240px] sm:col-span-1 sm:justify-self-auto sm:w-auto"
+                      >
+                        Facilities
+                      </TabsTrigger>
                     </TabsList>
 
                     <TabsContent value="overview" className="mt-4 sm:mt-6">
