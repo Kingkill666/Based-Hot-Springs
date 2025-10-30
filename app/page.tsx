@@ -1748,12 +1748,12 @@ export default function BasedSprings() {
                   </div>
 
                   <Tabs defaultValue="overview" className="w-full">
-                    <TabsList className="grid w-full grid-cols-2 sm:grid-cols-5 bg-blue-50/80">
-                      <TabsTrigger value="overview" className="text-xs sm:text-sm">Overview</TabsTrigger>
-                      <TabsTrigger value="location" className="text-xs sm:text-sm">Location</TabsTrigger>
-                      <TabsTrigger value="details" className="text-xs sm:text-sm">Details</TabsTrigger>
-                      <TabsTrigger value="community" className="text-xs sm:text-sm">Community</TabsTrigger>
-                      <TabsTrigger value="facilities" className="text-xs sm:text-sm">Facilities</TabsTrigger>
+                    <TabsList className="grid w-full grid-cols-2 sm:grid-cols-5 bg-blue-50/80 h-auto gap-2 p-2 rounded-lg">
+                      <TabsTrigger value="overview" className="text-xs sm:text-sm h-auto py-2">Overview</TabsTrigger>
+                      <TabsTrigger value="location" className="text-xs sm:text-sm h-auto py-2">Location</TabsTrigger>
+                      <TabsTrigger value="details" className="text-xs sm:text-sm h-auto py-2">Details</TabsTrigger>
+                      <TabsTrigger value="community" className="text-xs sm:text-sm h-auto py-2">Community</TabsTrigger>
+                      <TabsTrigger value="facilities" className="text-xs sm:text-sm h-auto py-2">Facilities</TabsTrigger>
                     </TabsList>
 
                     <TabsContent value="overview" className="mt-4 sm:mt-6">
