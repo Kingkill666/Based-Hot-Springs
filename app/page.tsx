@@ -2356,7 +2356,7 @@ export default function BasedSprings() {
 
           {showHiddenGemModal && (
             <div
-              className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center p-3 sm:p-6 z-40"
+              className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center p-3 sm:p-6 z-[100]"
               onClick={() => setShowHiddenGemModal(false)}
             >
               <div
@@ -2378,7 +2378,7 @@ export default function BasedSprings() {
 
           {showQuestModal && (
             <div
-              className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center p-3 sm:p-6 z-40"
+              className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center p-3 sm:p-6 z-[100]"
               onClick={() => setShowQuestModal(false)}
             >
               <div
