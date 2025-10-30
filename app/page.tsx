@@ -270,6 +270,8 @@ export default function BasedSprings() {
   const [showCheckInForm, setShowCheckInForm] = useState(false)
   const [checkInMessage, setCheckInMessage] = useState("")
   const [checkInMediaUrl, setCheckInMediaUrl] = useState("")
+  const [checkInMediaFile, setCheckInMediaFile] = useState<File | null>(null)
+  const [checkInMediaPreview, setCheckInMediaPreview] = useState("")
   const [isPostingCheckIn, setIsPostingCheckIn] = useState(false)
   const [hiddenGemSelection, setHiddenGemSelection] = useState("")
   const [hiddenGemPitch, setHiddenGemPitch] = useState("")
@@ -359,6 +361,11 @@ export default function BasedSprings() {
     if (selectedSpring) {
       setCheckInMessage(buildCheckInTemplate(selectedSpring))
       setCheckInMediaUrl("")
+      setCheckInMediaFile(null)
+      if (checkInMediaPreview) {
+        URL.revokeObjectURL(checkInMediaPreview)
+        setCheckInMediaPreview("")
+      }
       setShowCheckInForm(false)
       setTipMessage("")
       setTipRating(5)
@@ -394,7 +401,16 @@ export default function BasedSprings() {
     setIsPostingCheckIn(true)
 
     try {
-      if (sdk?.actions?.composeCast) {
+      if (checkInMediaFile && typeof navigator !== "undefined" && (navigator as any).canShare?.({ files: [checkInMediaFile] })) {
+        await (navigator as any).share({
+          title: "Based Springs Check-In",
+          text: message,
+          files: [checkInMediaFile],
+        })
+      } else if (sdk?.actions?.composeCast) {
+        if (checkInMediaFile && !mediaLink) {
+          toast.info("Your image will be easiest to attach via the share sheet. Using fallback image in the cast.")
+        }
         const result = await sdk.actions.composeCast({
           text: message,
           embeds: embeds.slice(0, 2),
@@ -404,8 +420,8 @@ export default function BasedSprings() {
           toast.info("Check-in cancelled before posting.")
           return
         }
-      } else if (navigator.share) {
-        await navigator.share({
+      } else if (typeof navigator !== "undefined" && (navigator as any).share) {
+        await (navigator as any).share({
           title: "Based Springs Check-In",
           text: message,
           url: mediaLink || undefined,
@@ -2332,15 +2348,33 @@ export default function BasedSprings() {
                           <div>
                             <label htmlFor="check-in-media" className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-gray-600">
                               <Camera className="w-4 h-4 text-gray-500" />
-                              Add proof (optional link)
+                    Add proof (photo/video)
                             </label>
-                            <Input
-                              id="check-in-media"
-                              placeholder="https://your-photo-or-video-url"
-                              value={checkInMediaUrl}
-                              onChange={(event) => setCheckInMediaUrl(event.target.value)}
-                              className="mt-1 w-full bg-white/90 text-sm"
-                            />
+                  <div className="mt-1 flex flex-col gap-2">
+                    <input
+                      id="check-in-media"
+                      type="file"
+                      accept="image/*,video/*"
+                      onChange={(event) => {
+                        const file = event.target.files?.[0] || null
+                        if (checkInMediaPreview) URL.revokeObjectURL(checkInMediaPreview)
+                        setCheckInMediaFile(file ?? null)
+                        setCheckInMediaPreview(file ? URL.createObjectURL(file) : "")
+                      }}
+                      className="block w-full text-sm text-gray-700 file:mr-3 file:py-2 file:px-3 file:rounded-md file:border file:border-blue-200 file:bg-white/90 file:text-gray-700 hover:file:bg-blue-50"
+                    />
+                    <Input
+                      placeholder="https://your-photo-or-video-url (optional)"
+                      value={checkInMediaUrl}
+                      onChange={(event) => setCheckInMediaUrl(event.target.value)}
+                      className="w-full bg-white/90 text-sm"
+                    />
+                    {checkInMediaPreview && (
+                      <div className="mt-1">
+                        <img src={checkInMediaPreview} alt="Selected media preview" className="max-h-40 rounded-lg border border-blue-200/60" />
+                      </div>
+                    )}
+                  </div>
                           </div>
 
                           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
